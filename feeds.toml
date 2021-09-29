@@ -1,6 +1,56 @@
-[maxmovie]
+[home]
 title = "맥스무비"
 url = "https://www.maxmovie.com/"
+entrySelector = "ul div li"
+titleSelector = "span.textBox.floatLeft > a:nth-child(1) > h4"
+linkSelector = "span.textBox.floatLeft > a"
+contentSelector = "span.textBox.floatLeft > a:nth-child(3) > p"
+imageSelector = "span.imgBox.floatLeft a span.imgBox"
+waitUntil = "networkidle"
+
+[interview]
+title = "맥스무비 ─ 인터뷰"
+url = "https://www.maxmovie.com/interview"
+entrySelector = "ul div li"
+titleSelector = "span.textBox.floatLeft > a:nth-child(1) > h4"
+linkSelector = "span.textBox.floatLeft > a"
+contentSelector = "span.textBox.floatLeft > a:nth-child(3) > p"
+imageSelector = "span.imgBox.floatLeft a span.imgBox"
+waitUntil = "networkidle"
+
+[review]
+title = "맥스무비 ─ 리뷰"
+url = "https://www.maxmovie.com/review"
+entrySelector = "ul div li"
+titleSelector = "span.textBox.floatLeft > a:nth-child(1) > h4"
+linkSelector = "span.textBox.floatLeft > a"
+contentSelector = "span.textBox.floatLeft > a:nth-child(3) > p"
+imageSelector = "span.imgBox.floatLeft a span.imgBox"
+waitUntil = "networkidle"
+
+[plan]
+title = "맥스무비 ─ 기획"
+url = "https://www.maxmovie.com/plan"
+entrySelector = "ul div li"
+titleSelector = "span.textBox.floatLeft > a:nth-child(1) > h4"
+linkSelector = "span.textBox.floatLeft > a"
+contentSelector = "span.textBox.floatLeft > a:nth-child(3) > p"
+imageSelector = "span.imgBox.floatLeft a span.imgBox"
+waitUntil = "networkidle"
+
+[ott]
+title = "맥스무비 ─ OTT"
+url = "https://www.maxmovie.com/ott"
+entrySelector = "ul div li"
+titleSelector = "span.textBox.floatLeft > a:nth-child(1) > h4"
+linkSelector = "span.textBox.floatLeft > a"
+contentSelector = "span.textBox.floatLeft > a:nth-child(3) > p"
+imageSelector = "span.imgBox.floatLeft a span.imgBox"
+waitUntil = "networkidle"
+
+[plan]
+title = "맥스무비 ─ 기획"
+url = "https://www.maxmovie.com/plan"
 entrySelector = "ul div li"
 titleSelector = "span.textBox.floatLeft > a:nth-child(1) > h4"
 linkSelector = "span.textBox.floatLeft > a"
