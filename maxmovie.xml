@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 21:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 21:59:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,6 +43,14 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1632474021425Oe9j2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[OTT] 넷플릭스 CEO “’오징어 게임’, 넷플릭스 작품 중 가장 큰 작품 될 수도”]]></title>
+            <link>https://www.maxmovie.com/news/432300</link>
+            <guid>https://www.maxmovie.com/news/432300</guid>
+            <pubDate>Wed, 29 Sep 2021 21:59:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432300"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1632792252173KUxFp.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432300"><h4>[OTT] 넷플릭스 CEO “’오징어 게임’, 넷플릭스 작품 중 가장 큰 작품 될 수도”</h4></a><span>09월 28일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1632792252173KUxFp.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[MAX 인터뷰] ‘쁘띠 마망’ 셀린 시아마 “각자의 욕망 발견할 수 있길”]]></title>
             <link>https://www.maxmovie.com/news/432299</link>
             <guid>https://www.maxmovie.com/news/432299</guid>
@@ -74,6 +82,14 @@
             <content:encoded><![CDATA[“미학적이고 감각적인 방식으로 설명하는 영화”
 “관객의 마음 깊은 곳 무언가 일깨울 수 있길”]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1631592887504r8aDM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘다만 악’ 홍원찬 감독 차기작…드라마 ‘갱스터’(가제) 확정]]></title>
+            <link>https://www.maxmovie.com/news/432297</link>
+            <guid>https://www.maxmovie.com/news/432297</guid>
+            <pubDate>Wed, 29 Sep 2021 21:59:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432297"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16327046147523IKq3.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432297"><h4>‘다만 악’ 홍원찬 감독 차기작…드라마 ‘갱스터’(가제) 확정</h4></a><span>09월 27일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/16327046147523IKq3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
