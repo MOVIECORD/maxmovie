@@ -1,7 +1,7 @@
 [maxmovie]
 title = "맥스무비"
 url = "https://www.maxmovie.com/"
-entrySelector = "ul div li.content.clearfix"
+entrySelector = "ul div li"
 titleSelector = "span.textBox.floatLeft > a:nth-child(1) > h4"
 linkSelector = "span.textBox.floatLeft > a"
 contentSelector = "span.textBox.floatLeft > a:nth-child(3) > p"
