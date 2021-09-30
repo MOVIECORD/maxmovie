@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 22:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 23:04:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,20 +46,11 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1632881651870FFCqF.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[‘이터널스’ 11월 4일 개봉&메인 포스터 공개]]></title>
-            <link>https://www.maxmovie.com/news/432303</link>
-            <guid>https://www.maxmovie.com/news/432303</guid>
-            <pubDate>Thu, 30 Sep 2021 22:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432303"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1632876994876VWdRi.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432303"><h4>‘이터널스’ 11월 4일 개봉&amp;메인 포스터 공개</h4></a><span>09월 29일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1632876994876VWdRi.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[OTT] 2021년 미국 넷플릭스 TOP 10 달성한 韓 작품들]]></title>
             <link>https://www.maxmovie.com/news/432302</link>
             <guid>https://www.maxmovie.com/news/432302</guid>
             <pubDate>Thu, 30 Sep 2021 10:04:01 GMT</pubDate>
-            <content:encoded><![CDATA[블룸버그 “韓 창작자, 할리우드와 경쟁할 능력 입증했다”
-버라이어티 “한국 특유의 감수성과 세계인의 보편 감정 동시에 표현”]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432302"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1632829241624iXdoH.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432302"><h4>[OTT] 2021년 미국 넷플릭스 TOP 10 달성한 韓 작품들</h4></a><span>09월 28일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1632829241624iXdoH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -91,8 +82,16 @@
             <link>https://www.maxmovie.com/news/432298</link>
             <guid>https://www.maxmovie.com/news/432298</guid>
             <pubDate>Wed, 29 Sep 2021 22:01:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432298"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1632724381571jVf4G.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432298"><h4>[리뷰] ‘스틸워터’ 흐르는 강물을 거슬러 오르는 힘찬 연어처럼</h4></a><span>09월 27일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[맷 데이먼이 주연을 맡고, 토마스 맥카시 감독이 메가폰을 잡은 영화 ‘스틸워터’가 개봉 소식을 알렸다. 얼핏 심심한 연출과 잔잔한 이야기가 지루하게만 느껴지는 작품이지만, 곱씹을수록 깊은 맛이 우러나 음미하게 된다.영화 '스틸워터' 스틸. 사진 CJENM관성일지 집착일지 모를 이유로 매번 토네이도가 휩쓸어가도 여전히 한결 같은 도시 스틸워터. 석유 시추 노]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1632724381571jVf4G.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰] ‘첫눈이 사라졌다’ 독특함과 지루함 사이 흩어진 매력]]></title>
+            <link>https://www.maxmovie.com/news/432255</link>
+            <guid>https://www.maxmovie.com/news/432255</guid>
+            <pubDate>Thu, 30 Sep 2021 23:04:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432255"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16311711235985fSLF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432255"><h4>[리뷰] ‘첫눈이 사라졌다’ 독특함과 지루함 사이 흩어진 매력</h4></a><span>09월 27일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/16311711235985fSLF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
