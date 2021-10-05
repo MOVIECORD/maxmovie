@@ -1,5 +1,5 @@
 # 맥스무비
-https://www.maxmovie.com/
+https://moviecord.github.io/maxmovie/all.xml
 - 전체: https://moviecord.github.io/maxmovie/home.xml
 - 인터뷰: https://moviecord.github.io/maxmovie/interview.xml
 - 리뷰: https://moviecord.github.io/maxmovie/review.xml
