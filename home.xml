@@ -4,9 +4,17 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 11:03:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 12:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘푸른 호수’ 저스틴 전 감독이 전하는 스토리 영상 공개]]></title>
+            <link>https://www.maxmovie.com/news/432318</link>
+            <guid>https://www.maxmovie.com/news/432318</guid>
+            <pubDate>Wed, 06 Oct 2021 12:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[“그는 가족을 위해 싸우고 있습니다”]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1633492197440hF2s0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 킬링 타임도 쉽지 않은 ‘베놈 2: 렛 데어 비 카니지’]]></title>
             <link>https://www.maxmovie.com/news/432316</link>
@@ -33,14 +41,6 @@
             <content:encoded><![CDATA[‘광해, 왕이 된 남’ 추창민 감독 신작
 한국 현대사를 뒤흔든 사건]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1633394331569FR2xG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박스오피스] ‘007 노 타임 투 다이’ 1위]]></title>
-            <link>https://www.maxmovie.com/news/432315</link>
-            <guid>https://www.maxmovie.com/news/432315</guid>
-            <pubDate>Tue, 05 Oct 2021 10:04:19 GMT</pubDate>
-            <content:encoded><![CDATA[‘보이스’ 100만 관객 돌파]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1633423141218krtfy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 '술꾼도시여자들' 이선빈X한선화X정은지 메인 예고편 최초 공개]]></title>

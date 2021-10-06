@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 11:03:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 12:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[26th BIFF] 제26회 부산국제영화제 “위로와 위안, 희망을 전하는 시간 되길”]]></title>
+            <link>https://www.maxmovie.com/news/432321</link>
+            <guid>https://www.maxmovie.com/news/432321</guid>
+            <pubDate>Wed, 06 Oct 2021 12:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[송중기 “영상 아닌 실제로 뵈니 감격”
+최민식 “부산국제영화제 문 열게 돼 영광”]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1633516263739FowoP.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[26th BIFF] 제26회 부산국제영화제 레드카펫 채운 스타들]]></title>
             <link>https://www.maxmovie.com/news/432320</link>
@@ -37,7 +46,7 @@
             <link>https://www.maxmovie.com/news/432310</link>
             <guid>https://www.maxmovie.com/news/432310</guid>
             <pubDate>Fri, 01 Oct 2021 01:57:12 GMT</pubDate>
-            <content:encoded><![CDATA[여전히 침체된 극장가…블록버스터 통할까]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432310"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1633050220532bv4H9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432310"><h4>[맥스 Pick] ‘듄’부터 ‘이터널스’까지 남은 2021 채울 할리우드 블록버스터</h4></a><span>10월 01일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1633050220532bv4H9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -45,7 +54,8 @@
             <link>https://www.maxmovie.com/news/432308</link>
             <guid>https://www.maxmovie.com/news/432308</guid>
             <pubDate>Thu, 30 Sep 2021 05:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432308"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16329753120937H66K.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/432308"><h4>[MAX 인터뷰] ‘오징어 게임’ 황동혁 감독 “여성 혐오 딱지 인정 못해”</h4></a><span>09월 30일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[“창작자 검열보단 건강한 토론으로”
+“냉혹한 사회, 결국 우리가 기댈 곳은 인간에 대한 믿음”]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/16329753120937H66K.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -79,16 +89,8 @@
             <link>https://www.maxmovie.com/news/432299</link>
             <guid>https://www.maxmovie.com/news/432299</guid>
             <pubDate>Wed, 29 Sep 2021 22:02:11 GMT</pubDate>
-            <content:encoded><![CDATA[“모든 시공간 초월해 공유하는 느낌 주고파”]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432299"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1632731465609yrH6j.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/432299"><h4>[MAX 인터뷰] ‘쁘띠 마망’ 셀린 시아마 “각자의 욕망 발견할 수 있길”</h4></a><span>09월 27일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1632731465609yrH6j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기획] ‘오징어 게임’으로 보는 표절과 혐오란]]></title>
-            <link>https://www.maxmovie.com/news/432295</link>
-            <guid>https://www.maxmovie.com/news/432295</guid>
-            <pubDate>Wed, 29 Sep 2021 22:02:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432295"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1632483755878vtsck.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432295"><h4>[기획] ‘오징어 게임’으로 보는 표절과 혐오란</h4></a><span>09월 24일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1632483755878vtsck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
