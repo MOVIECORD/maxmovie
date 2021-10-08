@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 03:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 04:05:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[26th BIFF] ‘행복의 나라로’ 리뷰…지난한 인생의 내일을 위해 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432322</link>
+            <guid>https://www.maxmovie.com/news/432322</guid>
+            <pubDate>Wed, 06 Oct 2021 13:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[우리 삶의 진정한 행복을 꿈꾸며]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1633524934833bxw4b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[26th BIFF] 제26회 부산국제영화제 “위로와 위안, 희망을 전하는 시간 되길” (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432321</link>
+            <guid>https://www.maxmovie.com/news/432321</guid>
+            <pubDate>Wed, 06 Oct 2021 12:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[송중기 “영상 아닌 실제로 뵈니 감격”
+최민식 “부산국제영화제 문 열게 돼 영광”]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1633516263739FowoP.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[26th BIFF] 제26회 부산국제영화제 레드카펫 채운 스타들 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432320</link>
@@ -29,24 +46,16 @@
             <link>https://www.maxmovie.com/news/432326</link>
             <guid>https://www.maxmovie.com/news/432326</guid>
             <pubDate>Fri, 08 Oct 2021 01:55:51 GMT</pubDate>
-            <content:encoded><![CDATA[파격적인 전율, 우아한 광기
-쥘리아 뒤쿠르노 감독 걸작]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432326"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1633655164933quIZ0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432326"><h4>2021 칸 황금종려상 ‘티탄’ 11월 개봉 확정…메인 포스터 공개</h4></a><span>2시간 전<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1633655164933quIZ0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘푸른 호수’ 저스틴 전 감독이 전하는 스토리 영상 공개 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432318</link>
-            <guid>https://www.maxmovie.com/news/432318</guid>
-            <pubDate>Wed, 06 Oct 2021 12:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[“그는 가족을 위해 싸우고 있습니다”]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1633492197440hF2s0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이번 주 뭘볼까] ‘F20’-‘스틸워터’-‘쁘띠 마망’-‘다함께 여름!’ (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432324</link>
             <guid>https://www.maxmovie.com/news/432324</guid>
             <pubDate>Fri, 08 Oct 2021 00:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432324"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1633591831747pLi1w.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432324"><h4>[이번 주 뭘볼까] ‘F20’-‘스틸워터’-‘쁘띠 마망’-‘다함께 여름!’</h4></a><span>3시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[이번 주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1633591831747pLi1w.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -57,6 +66,14 @@
             <content:encoded><![CDATA[‘패딩턴’, ‘애니멀 크래커’ 제작진
 지상 최고 스파이 어벤져스의 초특급 비밀 작전]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/16335806287529OGkS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘푸른 호수’ 저스틴 전 감독이 전하는 스토리 영상 공개 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432318</link>
+            <guid>https://www.maxmovie.com/news/432318</guid>
+            <pubDate>Wed, 06 Oct 2021 12:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[“그는 가족을 위해 싸우고 있습니다”]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1633492197440hF2s0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리뷰] 킬링 타임도 쉽지 않은 ‘베놈 2: 렛 데어 비 카니지’ (맥스무비)]]></title>
@@ -72,25 +89,8 @@
             <link>https://www.maxmovie.com/news/432315</link>
             <guid>https://www.maxmovie.com/news/432315</guid>
             <pubDate>Wed, 06 Oct 2021 13:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[‘보이스’ 100만 관객 돌파]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432315"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1633423141218krtfy.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432315"><h4>[박스오피스] ‘007 노 타임 투 다이’ 1위</h4></a><span>10월 05일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1633423141218krtfy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조정석X이선균X유재명 ‘행복의 나라’ 10월 1일 크랭크인 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432314</link>
-            <guid>https://www.maxmovie.com/news/432314</guid>
-            <pubDate>Wed, 06 Oct 2021 04:05:43 GMT</pubDate>
-            <content:encoded><![CDATA[‘광해, 왕이 된 남’ 추창민 감독 신작
-한국 현대사를 뒤흔든 사건]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1633394331569FR2xG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] ‘십개월의 미래’ 당신이 몰랐던 엄마 되기의 두려움 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432313</link>
-            <guid>https://www.maxmovie.com/news/432313</guid>
-            <pubDate>Mon, 04 Oct 2021 11:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432313"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1633342008736KwNjy.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432313"><h4>[리뷰] ‘십개월의 미래’ 당신이 몰랐던 엄마 되기의 두려움</h4></a><span>10월 04일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1633342008736KwNjy.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘오징어 게임’ 위하준 “섬 마을 출신…출세했다” (맥스무비 ─ 인터뷰)]]></title>
@@ -179,12 +179,30 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1630047150544f9FZf.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[26th BIFF] ‘우연과 상상’ 리뷰…기묘하고 아름다운 내면의 형상 (맥스무비 ─ 리뷰)]]></title>
+            <link>https://www.maxmovie.com/news/432327</link>
+            <guid>https://www.maxmovie.com/news/432327</guid>
+            <pubDate>Fri, 08 Oct 2021 04:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[일본의 영화계를 이끌어갈 재목으로 불리는&nbsp;하마구치 류스케 감독. 봉준호 감독이 깊은 애정을 표하기도 한다는 그의 영화 ‘우연과 상상’은 형식과 구성에 있어서 일반 관객들에게 다소 낯설 수 있다. 허나 그 낯섦을 아주 잠시만 접어둔다면, 어느새 그의 색다른 매력에 풍덩 빠져있는 스스로를 발견할 수 있으리라.영화 '우연과 상상' 하마구치 류스케 감독.영화 ‘우]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1633664742430Bf0Q2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[26th BIFF] ‘행복의 나라로’ 리뷰…지난한 인생의 내일을 위해 (맥스무비 ─ 리뷰)]]></title>
             <link>https://www.maxmovie.com/news/432322</link>
             <guid>https://www.maxmovie.com/news/432322</guid>
             <pubDate>Wed, 06 Oct 2021 13:13:37 GMT</pubDate>
             <content:encoded><![CDATA[우리 삶의 진정한 행복을 꿈꾸며]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1633524934833bxw4b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[26th BIFF] ‘푸른 호수’ 리뷰…미국 사회 향한 정직한 일침 (맥스무비 ─ 리뷰)]]></title>
+            <link>https://www.maxmovie.com/news/432317</link>
+            <guid>https://www.maxmovie.com/news/432317</guid>
+            <pubDate>Fri, 08 Oct 2021 04:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[제26회 부산국제영화제 상영
+해외 입양아 국외 추방 문제를 스크린으로
+한국계 미국인 감독 저스틴 전 작품]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1633434233284qP7fU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리뷰] 킬링 타임도 쉽지 않은 ‘베놈 2: 렛 데어 비 카니지’ (맥스무비 ─ 리뷰)]]></title>
@@ -200,8 +218,7 @@
             <link>https://www.maxmovie.com/news/432313</link>
             <guid>https://www.maxmovie.com/news/432313</guid>
             <pubDate>Mon, 04 Oct 2021 11:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[클래식과 세련됨 함께 그리는 탁월한 연출
-미화 없는 불편함이 빚는 아이러니한 아름다움]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432313"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1633342008736KwNjy.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432313"><h4>[리뷰] ‘십개월의 미래’ 당신이 몰랐던 엄마 되기의 두려움</h4></a><span>10월 04일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1633342008736KwNjy.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -219,7 +236,7 @@
             <link>https://www.maxmovie.com/news/432298</link>
             <guid>https://www.maxmovie.com/news/432298</guid>
             <pubDate>Wed, 29 Sep 2021 21:51:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432298"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1632724381571jVf4G.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432298"><h4>[리뷰] ‘스틸워터’ 흐르는 강물을 거슬러 오르는 힘찬 연어처럼</h4></a><span>09월 27일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[맷 데이먼이 주연을 맡고, 토마스 맥카시 감독이 메가폰을 잡은 영화 ‘스틸워터’가 개봉 소식을 알렸다. 얼핏 심심한 연출과 잔잔한 이야기가 지루하게만 느껴지는 작품이지만, 곱씹을수록 깊은 맛이 우러나 음미하게 된다.영화 '스틸워터' 스틸. 사진 CJENM관성일지 집착일지 모를 이유로 매번 토네이도가 휩쓸어가도 여전히 한결 같은 도시 스틸워터. 석유 시추 노]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1632724381571jVf4G.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -245,24 +262,8 @@
             <link>https://www.maxmovie.com/news/432291</link>
             <guid>https://www.maxmovie.com/news/432291</guid>
             <pubDate>Wed, 29 Sep 2021 22:02:02 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘타오르는 여인의 초상’, ‘톰보이’, ‘걸후드’ 등으로 국내 관객들에게 깊은 인상을 남겼던 셀린 시아마 감독이 신작을 내놨다. ‘벼랑위의 뽀뇨’, ‘이웃집 토토로’ 등 지브리 스튜디오의 애니메이션이 연상된다는 영화 ‘쁘띠 마망’이 그것. 영화는 현실과 동화가 뒤섞인 듯한 아름다운 미장센과 섬세한 이야기로 관객의 마음에 따뜻한 감성을 선사한다.영화 ']]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432291"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1632386224150LnZBj.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432291"><h4>[리뷰] ‘쁘띠 마망’ 아기자기 판타지로 그려낸 따뜻한 포옹</h4></a><span>09월 23일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1632386224150LnZBj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] ‘유미의 세포들’ 귀여움 가득 세포 비주얼에 눈길 (맥스무비 ─ 리뷰)]]></title>
-            <link>https://www.maxmovie.com/news/432290</link>
-            <guid>https://www.maxmovie.com/news/432290</guid>
-            <pubDate>Wed, 29 Sep 2021 22:02:02 GMT</pubDate>
-            <content:encoded><![CDATA[티빙 오리지널 시리즈 ‘유미의 세포들’이 공개됐다. 배우 김고은과 안보현이 주연을 맡은 작품으로, 국내 드라마 최초 실사와 3D 애니메이션이 결합해 그려져 신선한 감상을 안겼다.드라마 '유미의 세포들' 스틸. 사진 티빙특별히 잘하는 일도 없고, 즐기면서 사는 것도 아닌, 근사한 어른이 될 줄 알았지만 어느새 서른 살을 훌쩍 넘어버린 유미(김고은). 새벽 감]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1632378724997V83vW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MAX 인터뷰] ‘아임 유어 맨’ 마렌 에거트 “낯섦에 문 열 때 아름다움 만나” (맥스무비 ─ 리뷰)]]></title>
-            <link>https://www.maxmovie.com/news/432283</link>
-            <guid>https://www.maxmovie.com/news/432283</guid>
-            <pubDate>Wed, 29 Sep 2021 22:02:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432283"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1631861799373zTmVJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432283"><h4>[MAX 인터뷰] ‘아임 유어 맨’ 마렌 에거트 “낯섦에 문 열 때 아름다움 만나”</h4></a><span>09월 17일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1631861799373zTmVJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[26th BIFF] 봉준호 감독 “하마구치에게 구로사와 기요시와 에릭 로메르 보여” (맥스무비 ─ 기획)]]></title>
