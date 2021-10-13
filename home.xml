@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 07:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 08:07:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,11 +41,20 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1633673636611h6qAk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[26th BIFF] ‘푸른 호수’ 리뷰…미국 사회 향한 정직한 일침]]></title>
+            <link>https://www.maxmovie.com/news/432317</link>
+            <guid>https://www.maxmovie.com/news/432317</guid>
+            <pubDate>Wed, 13 Oct 2021 08:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432317"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1633434233284qP7fU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432317"><h4>[26th BIFF] ‘푸른 호수’ 리뷰…미국 사회 향한 정직한 일침</h4></a><span>10월 07일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1633434233284qP7fU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2021 칸 황금종려상 ‘티탄’ 11월 개봉 확정…메인 포스터 공개]]></title>
             <link>https://www.maxmovie.com/news/432326</link>
             <guid>https://www.maxmovie.com/news/432326</guid>
             <pubDate>Fri, 08 Oct 2021 01:55:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432326"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1633655164933quIZ0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432326"><h4>2021 칸 황금종려상 ‘티탄’ 11월 개봉 확정…메인 포스터 공개</h4></a><span>10월 08일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[파격적인 전율, 우아한 광기
+쥘리아 뒤쿠르노 감독 걸작]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1633655164933quIZ0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,16 +89,8 @@
             <link>https://www.maxmovie.com/news/432322</link>
             <guid>https://www.maxmovie.com/news/432322</guid>
             <pubDate>Wed, 13 Oct 2021 03:04:37 GMT</pubDate>
-            <content:encoded><![CDATA[우리 삶의 진정한 행복을 꿈꾸며]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432322"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1633524934833bxw4b.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432322"><h4>[26th BIFF] ‘행복의 나라로’ 리뷰…지난한 인생의 내일을 위해</h4></a><span>10월 06일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1633524934833bxw4b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[26th BIFF] 제26회 부산국제영화제 “위로와 위안, 희망을 전하는 시간 되길”]]></title>
-            <link>https://www.maxmovie.com/news/432321</link>
-            <guid>https://www.maxmovie.com/news/432321</guid>
-            <pubDate>Fri, 08 Oct 2021 04:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432321"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1633516263739FowoP.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432321"><h4>[26th BIFF] 제26회 부산국제영화제 “위로와 위안, 희망을 전하는 시간 되길”</h4></a><span>10월 06일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1633516263739FowoP.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
