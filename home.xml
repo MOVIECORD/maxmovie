@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 23:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 00:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,11 +41,21 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1633664742430Bf0Q2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[26th BIFF] 하마구치 류스케 감독 “봉준호 감독과 대담 꿈 같았다”]]></title>
+            <link>https://www.maxmovie.com/news/432328</link>
+            <guid>https://www.maxmovie.com/news/432328</guid>
+            <pubDate>Thu, 14 Oct 2021 00:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432328"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1633673636611h6qAk.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432328"><h4>[26th BIFF] 하마구치 류스케 감독 “봉준호 감독과 대담 꿈 같았다”</h4></a><span>10월 08일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1633673636611h6qAk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[26th BIFF] ‘푸른 호수’ 리뷰…미국 사회 향한 정직한 일침]]></title>
             <link>https://www.maxmovie.com/news/432317</link>
             <guid>https://www.maxmovie.com/news/432317</guid>
             <pubDate>Wed, 13 Oct 2021 10:04:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432317"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1633434233284qP7fU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432317"><h4>[26th BIFF] ‘푸른 호수’ 리뷰…미국 사회 향한 정직한 일침</h4></a><span>10월 07일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[제26회 부산국제영화제 상영
+해외 입양아 국외 추방 문제를 스크린으로
+한국계 미국인 감독 저스틴 전 작품]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1633434233284qP7fU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +90,8 @@
             <link>https://www.maxmovie.com/news/432323</link>
             <guid>https://www.maxmovie.com/news/432323</guid>
             <pubDate>Thu, 07 Oct 2021 05:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[‘패딩턴’, ‘애니멀 크래커’ 제작진
-지상 최고 스파이 어벤져스의 초특급 비밀 작전]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432323"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16335806287529OGkS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432323"><h4>‘스파이 캣’ 11월 개봉 확정&amp;티저 포스터 공개</h4></a><span>10월 07일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/16335806287529OGkS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[26th BIFF] ‘행복의 나라로’ 리뷰…지난한 인생의 내일을 위해]]></title>
-            <link>https://www.maxmovie.com/news/432322</link>
-            <guid>https://www.maxmovie.com/news/432322</guid>
-            <pubDate>Wed, 13 Oct 2021 20:04:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432322"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1633524934833bxw4b.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432322"><h4>[26th BIFF] ‘행복의 나라로’ 리뷰…지난한 인생의 내일을 위해</h4></a><span>10월 06일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1633524934833bxw4b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
