@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 01:54:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 02:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,8 +46,17 @@
             <link>https://www.maxmovie.com/news/432336</link>
             <guid>https://www.maxmovie.com/news/432336</guid>
             <pubDate>Fri, 15 Oct 2021 00:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432336"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634181438925esx1T.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432336"><h4>[이번 주 뭘볼까] ‘베놈 2: 렛 데어 비 카니지’-‘푸른 호수’-‘십개월의 미래’</h4></a><span>1시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432336"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634181438925esx1T.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432336"><h4>[이번 주 뭘볼까] ‘베놈 2: 렛 데어 비 카니지’-‘푸른 호수’-‘십개월의 미래’</h4></a><span>2시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1634181438925esx1T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘장르만 로맨스’ 2차 포스터 공개]]></title>
+            <link>https://www.maxmovie.com/news/432332</link>
+            <guid>https://www.maxmovie.com/news/432332</guid>
+            <pubDate>Fri, 15 Oct 2021 02:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[사랑은 리얼리티, 인생은 버라이어티
+6인 6색 버라이어티 케미]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1634090126532mKfJO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘랑종’X’셔터’ 제작진 신작 공포 ‘싸반’…11월 개봉 확정&메인 포스터 공개]]></title>
@@ -79,16 +88,8 @@
             <link>https://www.maxmovie.com/news/432328</link>
             <guid>https://www.maxmovie.com/news/432328</guid>
             <pubDate>Thu, 14 Oct 2021 09:04:39 GMT</pubDate>
-            <content:encoded><![CDATA[갈라 프레젠테이션 ‘드라이브 마이 카’X’우연과 상상’ 기자회견]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432328"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1633673636611h6qAk.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432328"><h4>[26th BIFF] 하마구치 류스케 감독 “봉준호 감독과 대담 꿈 같았다”</h4></a><span>10월 08일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1633673636611h6qAk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[26th BIFF] ‘푸른 호수’ 리뷰…미국 사회 향한 정직한 일침]]></title>
-            <link>https://www.maxmovie.com/news/432317</link>
-            <guid>https://www.maxmovie.com/news/432317</guid>
-            <pubDate>Wed, 13 Oct 2021 10:04:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432317"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1633434233284qP7fU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432317"><h4>[26th BIFF] ‘푸른 호수’ 리뷰…미국 사회 향한 정직한 일침</h4></a><span>10월 07일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1633434233284qP7fU.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
