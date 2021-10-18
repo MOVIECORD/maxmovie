@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 05:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 06:06:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1634256647806or0ll.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장 종합] 디즈니+ APAC 콘텐츠 쇼케이스 “한국 출시와 함께 혁신적 콘텐츠 선보일 것” (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432337</link>
+            <guid>https://www.maxmovie.com/news/432337</guid>
+            <pubDate>Thu, 14 Oct 2021 07:05:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432337"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16341927663421hiby.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432337"><h4>[현장 종합] 디즈니+ APAC 콘텐츠 쇼케이스 “한국 출시와 함께 혁신적 콘텐츠 선보일 것”</h4></a><span>10월 14일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/16341927663421hiby.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[이번 주 뭘볼까] ‘베놈 2: 렛 데어 비 카니지’-‘푸른 호수’-‘십개월의 미래’ (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432336</link>
             <guid>https://www.maxmovie.com/news/432336</guid>
             <pubDate>Fri, 15 Oct 2021 00:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432336"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634181438925esx1T.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432336"><h4>[이번 주 뭘볼까] ‘베놈 2: 렛 데어 비 카니지’-‘푸른 호수’-‘십개월의 미래’</h4></a><span>10월 15일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[이번 주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1634181438925esx1T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/432332</link>
             <guid>https://www.maxmovie.com/news/432332</guid>
             <pubDate>Fri, 15 Oct 2021 02:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[사랑은 리얼리티, 인생은 버라이어티
-6인 6색 버라이어티 케미]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432332"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634090126532mKfJO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432332"><h4>‘장르만 로맨스’ 2차 포스터 공개</h4></a><span>10월 13일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1634090126532mKfJO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘랑종’X’셔터’ 제작진 신작 공포 ‘싸반’…11월 개봉 확정&메인 포스터 공개 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432331</link>
-            <guid>https://www.maxmovie.com/news/432331</guid>
-            <pubDate>Mon, 18 Oct 2021 03:04:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432331"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634084264856mUOlR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432331"><h4>‘랑종’X’셔터’ 제작진 신작 공포 ‘싸반’…11월 개봉 확정&amp;메인 포스터 공개</h4></a><span>10월 13일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1634084264856mUOlR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘오징어 게임’ 위하준 “섬 마을 출신…출세했다” (맥스무비 ─ 인터뷰)]]></title>
