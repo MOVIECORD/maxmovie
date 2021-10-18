@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 12:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 13:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,19 +42,11 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1634267200777vGgoG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[브이에이코퍼레이션, 국내 최초 ‘다인종 버추얼 휴먼’ 3인 모델 공개 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432339</link>
-            <guid>https://www.maxmovie.com/news/432339</guid>
-            <pubDate>Mon, 18 Oct 2021 12:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432339"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634256647806or0ll.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432339"><h4>브이에이코퍼레이션, 국내 최초 ‘다인종 버추얼 휴먼’ 3인 모델 공개</h4></a><span>10월 15일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1634256647806or0ll.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[현장 종합] 디즈니+ APAC 콘텐츠 쇼케이스 “한국 출시와 함께 혁신적 콘텐츠 선보일 것” (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432337</link>
             <guid>https://www.maxmovie.com/news/432337</guid>
             <pubDate>Thu, 14 Oct 2021 07:05:31 GMT</pubDate>
-            <content:encoded><![CDATA["무한한 디즈니 세계 마음껏 즐기길"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432337"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16341927663421hiby.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432337"><h4>[현장 종합] 디즈니+ APAC 콘텐츠 쇼케이스 “한국 출시와 함께 혁신적 콘텐츠 선보일 것”</h4></a><span>10월 14일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/16341927663421hiby.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -88,8 +80,17 @@
             <link>https://www.maxmovie.com/news/432333</link>
             <guid>https://www.maxmovie.com/news/432333</guid>
             <pubDate>Wed, 13 Oct 2021 04:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432333"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634096218023q9IUU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432333"><h4>[26th BIFF] ‘드라이브 마이 카’ 리뷰…내면을 파고드는 기묘한 흡입력</h4></a><span>10월 13일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[무라카미 하루키 ‘여자 없는 남자들’ 단편을 영화로
+하마구치 류스케에 빠져드는 이유가 궁금하다면]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1634096218023q9IUU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘장르만 로맨스’ 2차 포스터 공개 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432332</link>
+            <guid>https://www.maxmovie.com/news/432332</guid>
+            <pubDate>Mon, 18 Oct 2021 13:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432332"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634090126532mKfJO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432332"><h4>‘장르만 로맨스’ 2차 포스터 공개</h4></a><span>10월 13일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1634090126532mKfJO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘마이 네임’ 김진민 감독 “배우, 의심 않으면 스스로 해내” (맥스무비 ─ 인터뷰)]]></title>
