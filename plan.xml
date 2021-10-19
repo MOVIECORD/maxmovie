@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 10:05:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 11:04:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이슈] 극장가 심야상영 재개, 넷플릭스 작품 상영…변화한 극장가 풍경]]></title>
+            <link>https://www.maxmovie.com/news/432348</link>
+            <guid>https://www.maxmovie.com/news/432348</guid>
+            <pubDate>Tue, 19 Oct 2021 11:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[위드 코로나와 함께 달라질 모습들]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1634640122026SsewJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장 종합] ‘강릉’ 장혁 “색다른 빌런 보여줄 것”]]></title>
             <link>https://www.maxmovie.com/news/432341</link>
@@ -37,8 +45,7 @@
             <link>https://www.maxmovie.com/news/432336</link>
             <guid>https://www.maxmovie.com/news/432336</guid>
             <pubDate>Fri, 15 Oct 2021 00:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 뭘볼까
-이번주 개봉작 소개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432336"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634181438925esx1T.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432336"><h4>[이번 주 뭘볼까] ‘베놈 2: 렛 데어 비 카니지’-‘푸른 호수’-‘십개월의 미래’</h4></a><span>10월 15일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1634181438925esx1T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -46,7 +53,8 @@
             <link>https://www.maxmovie.com/news/432330</link>
             <guid>https://www.maxmovie.com/news/432330</guid>
             <pubDate>Tue, 12 Oct 2021 03:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432330"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634007379548IAFqu.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432330"><h4>[현장 종합] ‘장르만 로맨스’ 류승룡 “조은지 감독, 어찌나 좋은지”</h4></a><span>10월 12일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[오나라 “우리 영화는 대사 맛집”
+김희원 “류승룡이 엉덩이 때려…정말 아팠다”]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1634007379548IAFqu.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -80,16 +88,8 @@
             <link>https://www.maxmovie.com/news/432322</link>
             <guid>https://www.maxmovie.com/news/432322</guid>
             <pubDate>Wed, 06 Oct 2021 13:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[우리 삶의 진정한 행복을 꿈꾸며]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432322"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1633524934833bxw4b.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432322"><h4>[26th BIFF] ‘행복의 나라로’ 리뷰…지난한 인생의 내일을 위해</h4></a><span>10월 06일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1633524934833bxw4b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[26th BIFF] 제26회 부산국제영화제 “위로와 위안, 희망을 전하는 시간 되길”]]></title>
-            <link>https://www.maxmovie.com/news/432321</link>
-            <guid>https://www.maxmovie.com/news/432321</guid>
-            <pubDate>Wed, 06 Oct 2021 12:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432321"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1633516263739FowoP.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432321"><h4>[26th BIFF] 제26회 부산국제영화제 “위로와 위안, 희망을 전하는 시간 되길”</h4></a><span>10월 06일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1633516263739FowoP.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
