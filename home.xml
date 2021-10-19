@@ -4,9 +4,18 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 08:07:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 09:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“2021년 가장 독창적인 영화”…‘아네트’ 2차 포스터 공개]]></title>
+            <link>https://www.maxmovie.com/news/432344</link>
+            <guid>https://www.maxmovie.com/news/432344</guid>
+            <pubDate>Tue, 19 Oct 2021 09:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[‘막이 오르면 세상은 무대가 된다’
+온 몸 전율시킬 시네마틱 뮤지컬]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1634515903054NyvJW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박스오피스] ‘베놈 2: 렛 데어 비 카니지’ 1위…100만 관객 돌파]]></title>
             <link>https://www.maxmovie.com/news/432342</link>
@@ -31,15 +40,6 @@
             <content:encoded><![CDATA[영화관의 존재 의의에 의문이 든다면
 “이건 오직 시작일 뿐이야”]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1634201694943a7Agr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장 종합] ‘강릉’ 장혁 “색다른 빌런 보여줄 것”]]></title>
-            <link>https://www.maxmovie.com/news/432341</link>
-            <guid>https://www.maxmovie.com/news/432341</guid>
-            <pubDate>Sun, 17 Oct 2021 23:04:03 GMT</pubDate>
-            <content:encoded><![CDATA[유오성 “우리 영화는 로맨틱 느와르”
-오대환 “유오성, 장혁 실제로는 아줌마 스타일”]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1634267200777vGgoG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[브이에이코퍼레이션, 국내 최초 ‘다인종 버추얼 휴먼’ 3인 모델 공개]]></title>
