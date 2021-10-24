@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 16:06:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 17:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,15 +50,6 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/16348661526754VcAg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[웨스 앤더슨 감독 ‘프렌치 디스패치’ 11월 18일 개봉 확정…포스터 공개]]></title>
-            <link>https://www.maxmovie.com/news/432353</link>
-            <guid>https://www.maxmovie.com/news/432353</guid>
-            <pubDate>Sun, 24 Oct 2021 13:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[틸다 스윈튼X레아 세이두X티모시 샬라메
-세상에서 가장 아름다운 매거진]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1634776353529PpxYK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[MAX 인터뷰 ③] ‘십개월의 미래’ 남궁선 감독 “최성은 만나 대본까지 바꿔”]]></title>
             <link>https://www.maxmovie.com/news/432352</link>
             <guid>https://www.maxmovie.com/news/432352</guid>
@@ -90,8 +81,16 @@
             <link>https://www.maxmovie.com/news/432349</link>
             <guid>https://www.maxmovie.com/news/432349</guid>
             <pubDate>Wed, 20 Oct 2021 07:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432349"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634691310988ugZZj.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432349"><h4>[OTT] ‘마이 네임’ 미공개 스틸 공개</h4></a><span>10월 20일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[열띤 호응 속 미공개 스틸 공개]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1634691310988ugZZj.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈] 극장가 심야상영 재개, 넷플릭스 작품 상영…변화한 극장가 풍경]]></title>
+            <link>https://www.maxmovie.com/news/432348</link>
+            <guid>https://www.maxmovie.com/news/432348</guid>
+            <pubDate>Sun, 24 Oct 2021 17:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432348"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634640122026SsewJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432348"><h4>[이슈] 극장가 심야상영 재개, 넷플릭스 작품 상영…변화한 극장가 풍경</h4></a><span>10월 19일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1634640122026SsewJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
