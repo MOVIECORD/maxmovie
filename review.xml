@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 리뷰</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 04:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 05:04:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 거친 파도를 헤엄치는 마리오네트 ‘아네트’]]></title>
+            <link>https://www.maxmovie.com/news/432365</link>
+            <guid>https://www.maxmovie.com/news/432365</guid>
+            <pubDate>Mon, 25 Oct 2021 05:04:04 GMT</pubDate>
+            <content:encoded><![CDATA[과감하고 색다른 매력의 영화로운 연출
+강렬한 영화적 체험 선사하는 141분]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1635134504298AF5xE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] ‘휴가’ 일상의 가장 숭고한 가치 ‘밥줄’을 위해]]></title>
             <link>https://www.maxmovie.com/news/432355</link>
@@ -38,8 +47,7 @@
             <link>https://www.maxmovie.com/news/432338</link>
             <guid>https://www.maxmovie.com/news/432338</guid>
             <pubDate>Thu, 14 Oct 2021 09:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[영화관의 존재 의의에 의문이 든다면
-“이건 오직 시작일 뿐이야”]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432338"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634201694943a7Agr.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432338"><h4>[리뷰] ‘듄’ 경이로운 비주얼이 선사하는 카타르시스</h4></a><span>10월 14일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1634201694943a7Agr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -47,7 +55,7 @@
             <link>https://www.maxmovie.com/news/432334</link>
             <guid>https://www.maxmovie.com/news/432334</guid>
             <pubDate>Wed, 13 Oct 2021 10:04:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432334"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634115621782DYO50.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432334"><h4>[리뷰] ‘라스트 듀얼: 최후의 결투’ 리들리 스콧 감독 영상미 더해진 우리 시대 ‘라쇼몽’</h4></a><span>10월 13일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['거장' 리들리 스콧의 힘]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1634115621782DYO50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,18 +88,8 @@
             <link>https://www.maxmovie.com/news/432317</link>
             <guid>https://www.maxmovie.com/news/432317</guid>
             <pubDate>Fri, 08 Oct 2021 04:05:40 GMT</pubDate>
-            <content:encoded><![CDATA[제26회 부산국제영화제 상영
-해외 입양아 국외 추방 문제를 스크린으로
-한국계 미국인 감독 저스틴 전 작품]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432317"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1633434233284qP7fU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432317"><h4>[26th BIFF] ‘푸른 호수’ 리뷰…미국 사회 향한 정직한 일침</h4></a><span>10월 07일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1633434233284qP7fU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] 킬링 타임도 쉽지 않은 ‘베놈 2: 렛 데어 비 카니지’]]></title>
-            <link>https://www.maxmovie.com/news/432316</link>
-            <guid>https://www.maxmovie.com/news/432316</guid>
-            <pubDate>Thu, 07 Oct 2021 14:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432316"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16334274251636dawI.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432316"><h4>[리뷰] 킬링 타임도 쉽지 않은 ‘베놈 2: 렛 데어 비 카니지’</h4></a><span>10월 05일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/16334274251636dawI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
