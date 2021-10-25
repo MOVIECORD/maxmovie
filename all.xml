@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 08:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 09:04:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,14 +68,6 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/16348661526754VcAg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현장] ‘이터널스’ 안젤리나 졸리 “마동석과의 시간 꿈 같았다” (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432357</link>
-            <guid>https://www.maxmovie.com/news/432357</guid>
-            <pubDate>Fri, 22 Oct 2021 02:01:46 GMT</pubDate>
-            <content:encoded><![CDATA[마동석 “완전히 다른 배경의 사람들 모였지만”]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1634865470135qClgI.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[리뷰] ‘휴가’ 일상의 가장 숭고한 가치 ‘밥줄’을 위해 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432355</link>
             <guid>https://www.maxmovie.com/news/432355</guid>
@@ -88,8 +80,17 @@
             <link>https://www.maxmovie.com/news/432354</link>
             <guid>https://www.maxmovie.com/news/432354</guid>
             <pubDate>Thu, 21 Oct 2021 07:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432354"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634796623129baklv.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/432354"><h4>[인터뷰] ‘마이 네임’ 한소희가 촬영장에서 분노에 차 울었던 사연</h4></a><span>10월 21일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[“맞는 것보다 때리는 것이 더 어려워”
+“색다른 면 봤다는 반응이 가장 기분 좋아”]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1634796623129baklv.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[웨스 앤더슨 감독 ‘프렌치 디스패치’ 11월 18일 개봉 확정…포스터 공개 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432353</link>
+            <guid>https://www.maxmovie.com/news/432353</guid>
+            <pubDate>Mon, 25 Oct 2021 09:03:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432353"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634776353529PpxYK.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432353"><h4>웨스 앤더슨 감독 ‘프렌치 디스패치’ 11월 18일 개봉 확정…포스터 공개</h4></a><span>10월 21일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1634776353529PpxYK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘마이 네임’ 한소희가 촬영장에서 분노에 차 울었던 사연 (맥스무비 ─ 인터뷰)]]></title>
@@ -352,7 +353,7 @@
             <title><![CDATA[[리뷰] 산으로 간 CG에 몰입 힘겨운 ‘지리산’…정상 오르면 달라질까 (맥스무비 ─ OTT)]]></title>
             <link>https://www.maxmovie.com/news/432366</link>
             <guid>https://www.maxmovie.com/news/432366</guid>
-            <pubDate>Mon, 25 Oct 2021 08:06:21 GMT</pubDate>
+            <pubDate>Mon, 25 Oct 2021 08:06:04 GMT</pubDate>
             <content:encoded><![CDATA[김은희 작가의 신작 ‘지리산’이 공개됐다. 이미 수 차례 호흡을 맞춘 베테랑 제작진과 배우들이 새롭게 선보이는 작품이었던 만큼 ‘지리산’에 대한 시청자들의 기대는 높았다. 그러나 공개 직후, 드라마는 높아진 시청자의 눈높이를 만족시키기 어려운 어설픈 CG로 보는 이에게 당혹감을 안기고 말았다.드라마 '지리산' 스틸. 사진 tvN지리산 국립공원 최고의 레인저]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635147932195ei1vN.jpg" length="0" type="image/jpg"/>
         </item>
