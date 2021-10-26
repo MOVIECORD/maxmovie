@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 07:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 08:07:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/16351227455358kEPa.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[박스오피스] ‘베놈 2: 렛 데어 비 카니지’ 주말 1위…’듄’ 2위]]></title>
+            <link>https://www.maxmovie.com/news/432362</link>
+            <guid>https://www.maxmovie.com/news/432362</guid>
+            <pubDate>Tue, 26 Oct 2021 08:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432362"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635122101927EIOaZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432362"><h4>[박스오피스] ‘베놈 2: 렛 데어 비 카니지’ 주말 1위…’듄’ 2위</h4></a><span>10월 25일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1635122101927EIOaZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[넷플릭스 '지옥' 티저 포스터 2종 공개]]></title>
             <link>https://www.maxmovie.com/news/432361</link>
             <guid>https://www.maxmovie.com/news/432361</guid>
             <pubDate>Fri, 22 Oct 2021 04:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432361"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634874768250Spzlp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432361"><h4>넷플릭스 '지옥' 티저 포스터 2종 공개</h4></a><span>10월 22일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[상상조차 해본 적 없는 초자연적인 현상과 마주한 사람들의 혼란
+"살인인가 천벌인가"]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1634874768250Spzlp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,16 +91,8 @@
             <link>https://www.maxmovie.com/news/432357</link>
             <guid>https://www.maxmovie.com/news/432357</guid>
             <pubDate>Mon, 25 Oct 2021 23:04:16 GMT</pubDate>
-            <content:encoded><![CDATA[마동석 “완전히 다른 배경의 사람들 모였지만”]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432357"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634865470135qClgI.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432357"><h4>[현장] ‘이터널스’ 안젤리나 졸리 “마동석과의 시간 꿈 같았다”</h4></a><span>10월 22일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1634865470135qClgI.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] ‘이터널스’ 마동석 “오디션 보지 않아…앞으로도 마블과 함께”]]></title>
-            <link>https://www.maxmovie.com/news/432356</link>
-            <guid>https://www.maxmovie.com/news/432356</guid>
-            <pubDate>Tue, 26 Oct 2021 07:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432356"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634863707033OC9ti.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432356"><h4>[현장] ‘이터널스’ 마동석 “오디션 보지 않아…앞으로도 마블과 함께”</h4></a><span>10월 22일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1634863707033OC9ti.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
