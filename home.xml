@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 00:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 01:47:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -77,20 +77,20 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1634865470135qClgI.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[현장] ‘이터널스’ 마동석 “오디션 보지 않아…앞으로도 마블과 함께”]]></title>
+            <link>https://www.maxmovie.com/news/432356</link>
+            <guid>https://www.maxmovie.com/news/432356</guid>
+            <pubDate>Tue, 26 Oct 2021 01:46:41 GMT</pubDate>
+            <content:encoded><![CDATA[“’부산행’ 이후 꾸준히 할리우드 제안 받아”]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1634863707033OC9ti.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[리뷰] ‘휴가’ 일상의 가장 숭고한 가치 ‘밥줄’을 위해]]></title>
             <link>https://www.maxmovie.com/news/432355</link>
             <guid>https://www.maxmovie.com/news/432355</guid>
             <pubDate>Fri, 22 Oct 2021 02:01:16 GMT</pubDate>
-            <content:encoded><![CDATA[날카로운 현실 속 베어진 노동자의 진짜 이야기]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432355"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634802320032gbPUj.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432355"><h4>[리뷰] ‘휴가’ 일상의 가장 숭고한 가치 ‘밥줄’을 위해</h4></a><span>10월 21일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1634802320032gbPUj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] ‘마이 네임’ 한소희가 촬영장에서 분노에 차 울었던 사연]]></title>
-            <link>https://www.maxmovie.com/news/432354</link>
-            <guid>https://www.maxmovie.com/news/432354</guid>
-            <pubDate>Fri, 22 Oct 2021 02:01:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432354"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634796623129baklv.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/432354"><h4>[인터뷰] ‘마이 네임’ 한소희가 촬영장에서 분노에 차 울었던 사연</h4></a><span>10월 21일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1634796623129baklv.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
