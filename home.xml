@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 00:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 01:47:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,11 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/16352064691154PrOJ.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[리뷰] 산으로 간 CG에 몰입 힘겨운 ‘지리산’…정상 오르면 달라질까]]></title>
-            <link>https://www.maxmovie.com/news/432366</link>
-            <guid>https://www.maxmovie.com/news/432366</guid>
-            <pubDate>Tue, 26 Oct 2021 03:04:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432366"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635147932195ei1vN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432366"><h4>[리뷰] 산으로 간 CG에 몰입 힘겨운 ‘지리산’…정상 오르면 달라질까</h4></a><span>10월 25일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1635147932195ei1vN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[리뷰] 거친 파도를 헤엄치는 마리오네트 ‘아네트’]]></title>
             <link>https://www.maxmovie.com/news/432365</link>
             <guid>https://www.maxmovie.com/news/432365</guid>
             <pubDate>Tue, 26 Oct 2021 02:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[과감하고 색다른 매력의 영화로운 연출
-강렬한 영화적 체험 선사하는 141분]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432365"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635134504298AF5xE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432365"><h4>[리뷰] 거친 파도를 헤엄치는 마리오네트 ‘아네트’</h4></a><span>10월 25일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635134504298AF5xE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -87,8 +78,17 @@
             <link>https://www.maxmovie.com/news/432361</link>
             <guid>https://www.maxmovie.com/news/432361</guid>
             <pubDate>Fri, 22 Oct 2021 04:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432361"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634874768250Spzlp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432361"><h4>넷플릭스 '지옥' 티저 포스터 2종 공개</h4></a><span>10월 22일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[상상조차 해본 적 없는 초자연적인 현상과 마주한 사람들의 혼란
+"살인인가 천벌인가"]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1634874768250Spzlp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장 종합] ‘어나더 레코드’ 신세경 “내 있는 모습 그대로 드러내”]]></title>
+            <link>https://www.maxmovie.com/news/432360</link>
+            <guid>https://www.maxmovie.com/news/432360</guid>
+            <pubDate>Thu, 28 Oct 2021 01:46:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432360"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16348716379392IYpl.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432360"><h4>[현장 종합] ‘어나더 레코드’ 신세경 “내 있는 모습 그대로 드러내”</h4></a><span>10월 22일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/16348716379392IYpl.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
