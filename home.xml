@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 23:04:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 00:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,19 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1635216128982PE5EE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이번 주 뭘볼까] ‘아네트’-‘고장난 론’-‘가족의 색깔’-‘당신은 믿지 않겠지만’]]></title>
+            <link>https://www.maxmovie.com/news/432374</link>
+            <guid>https://www.maxmovie.com/news/432374</guid>
+            <pubDate>Fri, 29 Oct 2021 00:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432374"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635397408492zmtpY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432374"><h4>[이번 주 뭘볼까] ‘아네트’-‘고장난 론’-‘가족의 색깔’-‘당신은 믿지 않겠지만’</h4></a><span>18분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1635397408492zmtpY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[맥스 Pick] 할리우드 명감독들 원픽, 티모시 샬라메 차기작 미리보기]]></title>
             <link>https://www.maxmovie.com/news/432368</link>
             <guid>https://www.maxmovie.com/news/432368</guid>
             <pubDate>Wed, 27 Oct 2021 03:04:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432368"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635212445550PD2Hk.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432368"><h4>[맥스 Pick] 할리우드 명감독들 원픽, 티모시 샬라메 차기작 미리보기</h4></a><span>10월 26일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[티모시 샬라메가 돌아왔다. 지난 20일 개봉한 영화 ‘듄’에 주연으로 등장해 스크린 가득 미모를 과시하고 있는 티모시 샬라메. 그를 향한 마음을 멈출 수 없는 팬들을 위해 할리우드 대표 명감독들과 함께하는 차기작을 미리 살펴봤다.#프렌치 디스패치 – 11월 18일 극장 개봉영화 '프렌치 디스패치' 예고편. 사진 월트디즈니컴퍼니코리아‘듄’(감독 드니 빌뇌브)]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635212445550PD2Hk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,17 +87,8 @@
             <link>https://www.maxmovie.com/news/432364</link>
             <guid>https://www.maxmovie.com/news/432364</guid>
             <pubDate>Wed, 27 Oct 2021 05:03:53 GMT</pubDate>
-            <content:encoded><![CDATA[연상호 감독이 말하고 싶은 모든 것의 집약체
-스스로 현실에 지옥을 만들어가는 사람들을 향해 질문을 던지다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432364"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635123631694D1Prk.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432364"><h4>[OTT] 넷플릭스 ‘지옥’ 연상호 감독 “우리가 살고 있는 세상은 어떤 세상인가”</h4></a><span>10월 25일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635123631694D1Prk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[OTT] Apple TV+, Apple Original 시리즈 및 영화 11월 4일 韓 출시]]></title>
-            <link>https://www.maxmovie.com/news/432363</link>
-            <guid>https://www.maxmovie.com/news/432363</guid>
-            <pubDate>Wed, 27 Oct 2021 05:03:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432363"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16351227455358kEPa.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432363"><h4>[OTT] Apple TV+, Apple Original 시리즈 및 영화 11월 4일 韓 출시</h4></a><span>10월 25일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/16351227455358kEPa.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
