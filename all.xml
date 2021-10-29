@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 00:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 01:47:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,7 +46,7 @@
             <link>https://www.maxmovie.com/news/432374</link>
             <guid>https://www.maxmovie.com/news/432374</guid>
             <pubDate>Fri, 29 Oct 2021 00:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432374"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635397408492zmtpY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432374"><h4>[이번 주 뭘볼까] ‘아네트’-‘고장난 론’-‘가족의 색깔’-‘당신은 믿지 않겠지만’</h4></a><span>18분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432374"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635397408492zmtpY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432374"><h4>[이번 주 뭘볼까] ‘아네트’-‘고장난 론’-‘가족의 색깔’-‘당신은 믿지 않겠지만’</h4></a><span>1시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635397408492zmtpY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -275,7 +275,7 @@
             <title><![CDATA[[이번 주 뭘볼까] ‘아네트’-‘고장난 론’-‘가족의 색깔’-‘당신은 믿지 않겠지만’ (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/432374</link>
             <guid>https://www.maxmovie.com/news/432374</guid>
-            <pubDate>Fri, 29 Oct 2021 00:17:46 GMT</pubDate>
+            <pubDate>Fri, 29 Oct 2021 00:17:16 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 뭘볼까
 이번주 개봉작 소개]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635397408492zmtpY.jpg" length="0" type="image/jpg"/>
