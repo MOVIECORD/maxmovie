@@ -47,3 +47,12 @@ linkSelector = "span.textBox.floatLeft > a"
 contentSelector = "span.textBox.floatLeft > a:nth-child(3) > p"
 imageSelector = "span.imgBox.floatLeft a span.imgBox"
 waitUntil = "networkidle"
+
+[photo]
+title = "맥스무비 ─ 포토"
+url = "https://www.maxmovie.com/photo"
+entrySelector = "div.photoMenu.grid div.grid-item"
+titleSelector = "span.textBox h4"
+linkSelector = "a"
+imageSelector = "span.imgBox img"
+waitUntil = "networkidle"
