@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 03:06:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 04:06:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘강릉’ 올드한 느와르에 비친 현실, 그 음울한 매력 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432383</link>
+            <guid>https://www.maxmovie.com/news/432383</guid>
+            <pubDate>Tue, 02 Nov 2021 10:04:42 GMT</pubDate>
+            <content:encoded><![CDATA[사실적인 감정선에 빠져드는 경험]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1635845614464KOjXS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] ‘뉴 오더’ 폭력, 폭력 오로지 폭력 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432382</link>
@@ -36,20 +44,11 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1635737600194oASpO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[OTT] ‘로키’ 11월 12일 공개 확정…티저 포스터&예고편 공개 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432379</link>
-            <guid>https://www.maxmovie.com/news/432379</guid>
-            <pubDate>Mon, 01 Nov 2021 03:05:34 GMT</pubDate>
-            <content:encoded><![CDATA[‘어벤져스: 엔드게임’ 이후 사라진 로키의 행방
-MCU 최고의 빌런, 로키만의 새로운 스토리]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1635733906543j60No.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[‘모비우스’ 1월 개봉 확정…2차 예고편 공개 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432384</link>
             <guid>https://www.maxmovie.com/news/432384</guid>
             <pubDate>Wed, 03 Nov 2021 01:47:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432384"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635902551346ZBfFD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432384"><h4>‘모비우스’ 1월 개봉 확정…2차 예고편 공개</h4></a><span>1시간 전<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432384"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635902551346ZBfFD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432384"><h4>‘모비우스’ 1월 개봉 확정…2차 예고편 공개</h4></a><span>2시간 전<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635902551346ZBfFD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -270,6 +269,15 @@ MCU 최고의 빌런, 로키만의 새로운 스토리]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1634635220194yv819.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장 종합] 애플TV+ ‘Dr. 브레인’ 박희순 “보안 철저해…나도 제목 몰랐다” (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/432387</link>
+            <guid>https://www.maxmovie.com/news/432387</guid>
+            <pubDate>Wed, 03 Nov 2021 04:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[김지운 감독 “원초적 욕구를 스토리화 하는 재미”
+이재원 “김지운 감독 ‘달콤한 인생’만 10번 이상 봤다. 함께해 영광”]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1635909814221xUvYt.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[현장] 애플tv+ ‘Dr. 브레인’ 김지운 감독 “가장 힙한 회사와 가장 근사한 작품을” (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/432386</link>
             <guid>https://www.maxmovie.com/news/432386</guid>
@@ -298,8 +306,7 @@ MCU 최고의 빌런, 로키만의 새로운 스토리]]></content:encoded>
             <link>https://www.maxmovie.com/news/432374</link>
             <guid>https://www.maxmovie.com/news/432374</guid>
             <pubDate>Fri, 29 Oct 2021 00:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 뭘볼까
-이번주 개봉작 소개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432374"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635397408492zmtpY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432374"><h4>[이번 주 뭘볼까] ‘아네트’-‘고장난 론’-‘가족의 색깔’-‘당신은 믿지 않겠지만’</h4></a><span>10월 29일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635397408492zmtpY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -307,7 +314,8 @@ MCU 최고의 빌런, 로키만의 새로운 스토리]]></content:encoded>
             <link>https://www.maxmovie.com/news/432371</link>
             <guid>https://www.maxmovie.com/news/432371</guid>
             <pubDate>Wed, 27 Oct 2021 03:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432371"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635302543277pzItJ.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432371"><h4>[현장] ‘연애 빠진 로맨스’ 손석구 “수위 남다른 작품…현실 공감 150%”</h4></a><span>10월 27일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[전종서 “파격과 발칙함에 큰 매력”
+정가영 감독 “캐스팅 꿈 같고 아직도 안 믿겨”]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635302543277pzItJ.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -341,23 +349,23 @@ MCU 최고의 빌런, 로키만의 새로운 스토리]]></content:encoded>
             <link>https://www.maxmovie.com/news/432358</link>
             <guid>https://www.maxmovie.com/news/432358</guid>
             <pubDate>Fri, 22 Oct 2021 02:01:16 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 뭘볼까
-이번주 개봉작 소개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432358"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16348661526754VcAg.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432358"><h4>[이번 주 뭘볼까] ‘듄’-‘라스트 듀얼: 최후의 결투’-‘첫눈이 사라졌다’-‘한창나이 선녀님’</h4></a><span>10월 22일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/16348661526754VcAg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현장] ‘이터널스’ 안젤리나 졸리 “마동석과의 시간 꿈 같았다” (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/432357</link>
-            <guid>https://www.maxmovie.com/news/432357</guid>
-            <pubDate>Fri, 22 Oct 2021 02:01:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432357"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634865470135qClgI.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432357"><h4>[현장] ‘이터널스’ 안젤리나 졸리 “마동석과의 시간 꿈 같았다”</h4></a><span>10월 22일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1634865470135qClgI.png" length="0" type="image/png"/>
+            <title><![CDATA[[현장 종합] 애플TV+ ‘Dr. 브레인’ 박희순 “보안 철저해…나도 제목 몰랐다” (맥스무비 ─ OTT)]]></title>
+            <link>https://www.maxmovie.com/news/432387</link>
+            <guid>https://www.maxmovie.com/news/432387</guid>
+            <pubDate>Wed, 03 Nov 2021 04:06:09 GMT</pubDate>
+            <content:encoded><![CDATA[김지운 감독 “원초적 욕구를 스토리화 하는 재미”
+이재원 “김지운 감독 ‘달콤한 인생’만 10번 이상 봤다. 함께해 영광”]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1635909814221xUvYt.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[현장] 애플tv+ ‘Dr. 브레인’ 김지운 감독 “가장 힙한 회사와 가장 근사한 작품을” (맥스무비 ─ OTT)]]></title>
             <link>https://www.maxmovie.com/news/432386</link>
             <guid>https://www.maxmovie.com/news/432386</guid>
-            <pubDate>Wed, 03 Nov 2021 03:05:56 GMT</pubDate>
+            <pubDate>Wed, 03 Nov 2021 03:05:48 GMT</pubDate>
             <content:encoded><![CDATA[“기대 부담스럽지만, 작품 기대해도 좋아”]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635908084626SwnOx.png" length="0" type="image/png"/>
         </item>
@@ -365,7 +373,7 @@ MCU 최고의 빌런, 로키만의 새로운 스토리]]></content:encoded>
             <title><![CDATA[[현장] 애플TV+ ‘Dr. 브레인’ 이선균 “한국에서 볼 수 없던 소재” (맥스무비 ─ OTT)]]></title>
             <link>https://www.maxmovie.com/news/432385</link>
             <guid>https://www.maxmovie.com/news/432385</guid>
-            <pubDate>Wed, 03 Nov 2021 03:05:56 GMT</pubDate>
+            <pubDate>Wed, 03 Nov 2021 03:05:48 GMT</pubDate>
             <content:encoded><![CDATA[“차갑게 시작했다가 뜨겁게 마무리 되는 작품”]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/16359076207741pYAh.png" length="0" type="image/png"/>
         </item>
@@ -383,8 +391,7 @@ MCU 최고의 빌런, 로키만의 새로운 스토리]]></content:encoded>
             <link>https://www.maxmovie.com/news/432379</link>
             <guid>https://www.maxmovie.com/news/432379</guid>
             <pubDate>Mon, 01 Nov 2021 03:05:34 GMT</pubDate>
-            <content:encoded><![CDATA[‘어벤져스: 엔드게임’ 이후 사라진 로키의 행방
-MCU 최고의 빌런, 로키만의 새로운 스토리]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432379"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635733906543j60No.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432379"><h4>[OTT] ‘로키’ 11월 12일 공개 확정…티저 포스터&amp;예고편 공개</h4></a><span>11월 01일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635733906543j60No.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -392,7 +399,8 @@ MCU 최고의 빌런, 로키만의 새로운 스토리]]></content:encoded>
             <link>https://www.maxmovie.com/news/432373</link>
             <guid>https://www.maxmovie.com/news/432373</guid>
             <pubDate>Thu, 28 Oct 2021 00:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432373"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635378403044lABTM.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432373"><h4>[OTT] 디즈니+, ‘완다비전’ 11월 12일 공개</h4></a><span>10월 27일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[더욱 거대해진 세계가 열린다
+이상하고 아름답고 충격적인]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635378403044lABTM.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -426,17 +434,8 @@ MCU 최고의 빌런, 로키만의 새로운 스토리]]></content:encoded>
             <link>https://www.maxmovie.com/news/432361</link>
             <guid>https://www.maxmovie.com/news/432361</guid>
             <pubDate>Fri, 22 Oct 2021 04:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[상상조차 해본 적 없는 초자연적인 현상과 마주한 사람들의 혼란
-"살인인가 천벌인가"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432361"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634874768250Spzlp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432361"><h4>넷플릭스 '지옥' 티저 포스터 2종 공개</h4></a><span>10월 22일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1634874768250Spzlp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] ‘마이 네임’ 한소희가 촬영장에서 분노에 차 울었던 사연 (맥스무비 ─ OTT)]]></title>
-            <link>https://www.maxmovie.com/news/432354</link>
-            <guid>https://www.maxmovie.com/news/432354</guid>
-            <pubDate>Thu, 21 Oct 2021 07:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432354"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634796623129baklv.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/432354"><h4>[인터뷰] ‘마이 네임’ 한소희가 촬영장에서 분노에 차 울었던 사연</h4></a><span>10월 21일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1634796623129baklv.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[포토] '새해전야' 유태오-최수영 '선남선녀' (맥스무비 ─ 포토)]]></title>
