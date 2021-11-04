@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 01:52:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 02:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,15 +50,6 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1635902551346ZBfFD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[OTT] 디즈니+ 오리지널 시리즈 ‘그리드’ 촬영 종료]]></title>
-            <link>https://www.maxmovie.com/news/432381</link>
-            <guid>https://www.maxmovie.com/news/432381</guid>
-            <pubDate>Wed, 03 Nov 2021 03:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[서강준X김아중X김무열X김성균X이시영
-2022년 장르물 새 지평 열까]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1635813251495o2Tu7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[리뷰] ‘세버그’ 담백하게 그린 현대판 잔다르크의 악전고투]]></title>
             <link>https://www.maxmovie.com/news/432380</link>
             <guid>https://www.maxmovie.com/news/432380</guid>
@@ -89,8 +80,17 @@ MCU 최고의 빌런, 로키만의 새로운 스토리]]></content:encoded>
             <link>https://www.maxmovie.com/news/432377</link>
             <guid>https://www.maxmovie.com/news/432377</guid>
             <pubDate>Mon, 01 Nov 2021 03:04:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432377"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16354738026249IWmk.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432377"><h4>‘해적: 도깨비 깃발’ 2022년 설 연휴 개봉 확정</h4></a><span>10월 29일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[새해 포문 열 모험과 액션 될 수 있을까
+사라진 보물을 찾아 나선 해적, 의적 그리고 역적]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/16354738026249IWmk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스 Pick] 美 독립영화 배급사 A24 대표작 BEST 7]]></title>
+            <link>https://www.maxmovie.com/news/432376</link>
+            <guid>https://www.maxmovie.com/news/432376</guid>
+            <pubDate>Thu, 04 Nov 2021 02:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432376"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635423202389Xvp5f.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432376"><h4>[맥스 Pick] 美 독립영화 배급사 A24 대표작 BEST 7</h4></a><span>10월 28일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1635423202389Xvp5f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
