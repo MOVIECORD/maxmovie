@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 23:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 00:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,11 +41,19 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/16359076207741pYAh.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[이번 주 뭘볼까] ‘이터널스’-‘세버그’-‘퍼스트 카우’ (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432391</link>
+            <guid>https://www.maxmovie.com/news/432391</guid>
+            <pubDate>Fri, 05 Nov 2021 00:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432391"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1636013244306UgaPa.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432391"><h4>[이번 주 뭘볼까] ‘이터널스’-‘세버그’-‘퍼스트 카우’</h4></a><span>19분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1636013244306UgaPa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘모비우스’ 1월 개봉 확정…2차 예고편 공개 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432384</link>
             <guid>https://www.maxmovie.com/news/432384</guid>
             <pubDate>Wed, 03 Nov 2021 01:47:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432384"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635902551346ZBfFD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432384"><h4>‘모비우스’ 1월 개봉 확정…2차 예고편 공개</h4></a><span>11월 03일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[히어로와 빌런의 경계가 무너진다]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635902551346ZBfFD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +88,8 @@
             <link>https://www.maxmovie.com/news/432380</link>
             <guid>https://www.maxmovie.com/news/432380</guid>
             <pubDate>Mon, 01 Nov 2021 04:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[나날이 진화하는 크리스틴 스튜어트
-시대의 폭력이 개인을 말살하기까지]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432380"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635737600194oASpO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432380"><h4>[리뷰] ‘세버그’ 담백하게 그린 현대판 잔다르크의 악전고투</h4></a><span>11월 01일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635737600194oASpO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[OTT] ‘로키’ 11월 12일 공개 확정…티저 포스터&예고편 공개 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432379</link>
-            <guid>https://www.maxmovie.com/news/432379</guid>
-            <pubDate>Mon, 01 Nov 2021 03:05:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432379"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635733906543j60No.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432379"><h4>[OTT] ‘로키’ 11월 12일 공개 확정…티저 포스터&amp;예고편 공개</h4></a><span>11월 01일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1635733906543j60No.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘강릉’ 유오성 “위선의 시대 반영된 작품…현실 엿볼 수 있어” (맥스무비 ─ 인터뷰)]]></title>
@@ -265,6 +264,15 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1635134504298AF5xE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이번 주 뭘볼까] ‘이터널스’-‘세버그’-‘퍼스트 카우’ (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/432391</link>
+            <guid>https://www.maxmovie.com/news/432391</guid>
+            <pubDate>Fri, 05 Nov 2021 00:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1636013244306UgaPa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장 종합] 애플TV+ ‘Dr. 브레인’ 박희순 “보안 철저해…나도 제목 몰랐다” (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/432387</link>
             <guid>https://www.maxmovie.com/news/432387</guid>
@@ -294,7 +302,7 @@
             <link>https://www.maxmovie.com/news/432376</link>
             <guid>https://www.maxmovie.com/news/432376</guid>
             <pubDate>Thu, 28 Oct 2021 13:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[배우 윤여정이 주연을 맡은 영화 ‘미나리’부터 환상적인 비주얼로 관객을 매혹시킨 ‘그린 나이트’, 최근 개봉 소식을 알리며 관객의 기대를 높이고 있는 ‘퍼스트 카우’까지. 전 세계 평단의 이목을 집중시키는 이 영화들의 공통점은 바로 미국 독립영화 배급사 A24의 작품이라는 것이다. 휴먼 드라마와 공포, 스릴러와 판타지를 가리지 않고 다양한 작품을 내놓아 온]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432376"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635423202389Xvp5f.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432376"><h4>[맥스 Pick] 美 독립영화 배급사 A24 대표작 BEST 7</h4></a><span>10월 28일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635423202389Xvp5f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -302,7 +310,8 @@
             <link>https://www.maxmovie.com/news/432374</link>
             <guid>https://www.maxmovie.com/news/432374</guid>
             <pubDate>Fri, 29 Oct 2021 00:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432374"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635397408492zmtpY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432374"><h4>[이번 주 뭘볼까] ‘아네트’-‘고장난 론’-‘가족의 색깔’-‘당신은 믿지 않겠지만’</h4></a><span>10월 29일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[이번 주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635397408492zmtpY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -335,18 +344,8 @@
             <link>https://www.maxmovie.com/news/432359</link>
             <guid>https://www.maxmovie.com/news/432359</guid>
             <pubDate>Fri, 22 Oct 2021 02:01:46 GMT</pubDate>
-            <content:encoded><![CDATA[“할리우드 거대한 세트에 압도”
-“일희일비 않고 겸손할 것”
- “클로이 자오 감독, 좋은 친구 됐다”]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432359"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634867446032XIVwj.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432359"><h4>[현장 종합] ‘이터널스’ 마동석“예정된 할리우드 작품 또 있어”</h4></a><span>10월 22일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1634867446032XIVwj.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이번 주 뭘볼까] ‘듄’-‘라스트 듀얼: 최후의 결투’-‘첫눈이 사라졌다’-‘한창나이 선녀님’ (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/432358</link>
-            <guid>https://www.maxmovie.com/news/432358</guid>
-            <pubDate>Fri, 22 Oct 2021 02:01:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432358"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16348661526754VcAg.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432358"><h4>[이번 주 뭘볼까] ‘듄’-‘라스트 듀얼: 최후의 결투’-‘첫눈이 사라졌다’-‘한창나이 선녀님’</h4></a><span>10월 22일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/16348661526754VcAg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리뷰] ‘Dr. 브레인’ 김지운 감독의 성공적인 드라마 도전장 (맥스무비 ─ OTT)]]></title>

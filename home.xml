@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 23:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 00:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,11 +41,19 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/16359076207741pYAh.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[이번 주 뭘볼까] ‘이터널스’-‘세버그’-‘퍼스트 카우’]]></title>
+            <link>https://www.maxmovie.com/news/432391</link>
+            <guid>https://www.maxmovie.com/news/432391</guid>
+            <pubDate>Fri, 05 Nov 2021 00:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432391"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1636013244306UgaPa.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432391"><h4>[이번 주 뭘볼까] ‘이터널스’-‘세버그’-‘퍼스트 카우’</h4></a><span>19분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1636013244306UgaPa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘모비우스’ 1월 개봉 확정…2차 예고편 공개]]></title>
             <link>https://www.maxmovie.com/news/432384</link>
             <guid>https://www.maxmovie.com/news/432384</guid>
             <pubDate>Wed, 03 Nov 2021 01:47:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432384"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635902551346ZBfFD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432384"><h4>‘모비우스’ 1월 개봉 확정…2차 예고편 공개</h4></a><span>11월 03일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[히어로와 빌런의 경계가 무너진다]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635902551346ZBfFD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +88,8 @@
             <link>https://www.maxmovie.com/news/432380</link>
             <guid>https://www.maxmovie.com/news/432380</guid>
             <pubDate>Tue, 02 Nov 2021 10:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[나날이 진화하는 크리스틴 스튜어트
-시대의 폭력이 개인을 말살하기까지]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432380"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635737600194oASpO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432380"><h4>[리뷰] ‘세버그’ 담백하게 그린 현대판 잔다르크의 악전고투</h4></a><span>11월 01일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635737600194oASpO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[OTT] ‘로키’ 11월 12일 공개 확정…티저 포스터&예고편 공개]]></title>
-            <link>https://www.maxmovie.com/news/432379</link>
-            <guid>https://www.maxmovie.com/news/432379</guid>
-            <pubDate>Wed, 03 Nov 2021 07:04:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432379"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635733906543j60No.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432379"><h4>[OTT] ‘로키’ 11월 12일 공개 확정…티저 포스터&amp;예고편 공개</h4></a><span>11월 01일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1635733906543j60No.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
