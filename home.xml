@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 04:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 05:04:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,16 +45,8 @@
             <link>https://www.maxmovie.com/news/432391</link>
             <guid>https://www.maxmovie.com/news/432391</guid>
             <pubDate>Fri, 05 Nov 2021 00:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432391"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1636013244306UgaPa.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432391"><h4>[이번 주 뭘볼까] ‘이터널스’-‘세버그’-‘퍼스트 카우’</h4></a><span>4시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432391"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1636013244306UgaPa.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432391"><h4>[이번 주 뭘볼까] ‘이터널스’-‘세버그’-‘퍼스트 카우’</h4></a><span>5시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1636013244306UgaPa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] 애플tv+ ‘Dr. 브레인’ 김지운 감독 “가장 힙한 회사와 가장 근사한 작품을”]]></title>
-            <link>https://www.maxmovie.com/news/432386</link>
-            <guid>https://www.maxmovie.com/news/432386</guid>
-            <pubDate>Thu, 04 Nov 2021 01:51:25 GMT</pubDate>
-            <content:encoded><![CDATA[“기대 부담스럽지만, 작품 기대해도 좋아”]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1635908084626SwnOx.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[현장] 애플TV+ ‘Dr. 브레인’ 이선균 “한국에서 볼 수 없던 소재”]]></title>
@@ -85,8 +77,18 @@
             <link>https://www.maxmovie.com/news/432382</link>
             <guid>https://www.maxmovie.com/news/432382</guid>
             <pubDate>Wed, 03 Nov 2021 03:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432382"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635825697702ZDnia.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432382"><h4>[리뷰] ‘뉴 오더’ 폭력, 폭력 오로지 폭력</h4></a><span>11월 02일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[대의(大義)란 존재하지 않는 총성의 오케스트라
+의도와 주제는 이해하지만
+강렬함 만은 진짜]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635825697702ZDnia.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[OTT] 디즈니+ 오리지널 시리즈 ‘그리드’ 촬영 종료]]></title>
+            <link>https://www.maxmovie.com/news/432381</link>
+            <guid>https://www.maxmovie.com/news/432381</guid>
+            <pubDate>Fri, 05 Nov 2021 05:03:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432381"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635813251495o2Tu7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432381"><h4>[OTT] 디즈니+ 오리지널 시리즈 ‘그리드’ 촬영 종료</h4></a><span>11월 02일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1635813251495o2Tu7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
