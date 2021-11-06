@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 18:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 19:04:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,15 +48,6 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1636013244306UgaPa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현장 종합] 애플TV+ ‘Dr. 브레인’ 박희순 “보안 철저해…나도 제목 몰랐다” (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432387</link>
-            <guid>https://www.maxmovie.com/news/432387</guid>
-            <pubDate>Wed, 03 Nov 2021 04:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[김지운 감독 “원초적 욕구를 스토리화 하는 재미”
-이재원 “김지운 감독 ‘달콤한 인생’만 10번 이상 봤다. 함께해 영광”]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1635909814221xUvYt.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[현장] 애플tv+ ‘Dr. 브레인’ 김지운 감독 “가장 힙한 회사와 가장 근사한 작품을” (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432386</link>
             <guid>https://www.maxmovie.com/news/432386</guid>
@@ -85,8 +76,16 @@
             <link>https://www.maxmovie.com/news/432383</link>
             <guid>https://www.maxmovie.com/news/432383</guid>
             <pubDate>Tue, 02 Nov 2021 10:04:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432383"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635845614464KOjXS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432383"><h4>[리뷰] ‘강릉’ 올드한 느와르에 비친 현실, 그 음울한 매력</h4></a><span>11월 02일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[사실적인 감정선에 빠져드는 경험]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635845614464KOjXS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰] ‘뉴 오더’ 폭력, 폭력 오로지 폭력 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432382</link>
+            <guid>https://www.maxmovie.com/news/432382</guid>
+            <pubDate>Tue, 02 Nov 2021 05:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432382"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635825697702ZDnia.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432382"><h4>[리뷰] ‘뉴 오더’ 폭력, 폭력 오로지 폭력</h4></a><span>11월 02일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1635825697702ZDnia.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘강릉’ 유오성 “위선의 시대 반영된 작품…현실 엿볼 수 있어” (맥스무비 ─ 인터뷰)]]></title>
