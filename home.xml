@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 04:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 05:04:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -58,15 +58,6 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/16360761274535f5r0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[리뷰] ‘Dr. 브레인’ 김지운 감독의 성공적인 드라마 도전장]]></title>
-            <link>https://www.maxmovie.com/news/432392</link>
-            <guid>https://www.maxmovie.com/news/432392</guid>
-            <pubDate>Tue, 09 Nov 2021 02:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[여전히 탁월한 음악과 미장센에 흠뻑
-애플tv+가 첫 작품으로 내놓은 이유 있는 자신감]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1636017655217H1QRH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[이번 주 뭘볼까] ‘이터널스’-‘세버그’-‘퍼스트 카우’]]></title>
             <link>https://www.maxmovie.com/news/432391</link>
             <guid>https://www.maxmovie.com/news/432391</guid>
@@ -88,8 +79,16 @@
             <link>https://www.maxmovie.com/news/432389</link>
             <guid>https://www.maxmovie.com/news/432389</guid>
             <pubDate>Mon, 08 Nov 2021 01:48:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432389"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635989750332BlEmZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432389"><h4>[OTT] '완다비전' 앙상블 묻어나는 6종 캐릭터 포스터 공개</h4></a><span>11월 04일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[11월&nbsp;12일,&nbsp;디즈니+에서 총&nbsp;9개 시즌이 동시에 스트리밍되는 마블 최고의 웰메이드 오리지널 시리즈&nbsp;의&nbsp;6종 캐릭터 포스터가 공개되었다.&nbsp;완벽한 앙상블을 이룬 배우들은 매력적인 연기로&nbsp;'이상하고 아름답고 충격적인' 놀라움으로 가득한 거대한 세계를 완성시켰다.&nbsp;드라마 '완다비전' 캐릭터 포스터. 사진 디즈니+에는&nbsp;MCU의 가장 흥미로운 캐릭터인 완다와 비전]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1635989750332BlEmZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰] ‘나를 잡아줘’ 관계의 속도를 고민하는 당신을 위해]]></title>
+            <link>https://www.maxmovie.com/news/432388</link>
+            <guid>https://www.maxmovie.com/news/432388</guid>
+            <pubDate>Tue, 09 Nov 2021 05:04:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432388"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1635922370943mcVxc.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432388"><h4>[리뷰] ‘나를 잡아줘’ 관계의 속도를 고민하는 당신을 위해</h4></a><span>11월 03일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1635922370943mcVxc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
