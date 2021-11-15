@@ -4,9 +4,18 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 07:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 08:06:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박스오피스] ‘이터널스’ 1위…250만 관객 눈앞]]></title>
+            <link>https://www.maxmovie.com/news/432416</link>
+            <guid>https://www.maxmovie.com/news/432416</guid>
+            <pubDate>Mon, 15 Nov 2021 08:05:58 GMT</pubDate>
+            <content:encoded><![CDATA[의외의 선전 ‘강릉’ 2위
+3위로 밀린 ‘듄’ 순위 회복할 수 있을까]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1636937872511ASTYv.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] ‘파워 오브 도그’ 팽팽한 긴장감과 샘솟는 전율]]></title>
             <link>https://www.maxmovie.com/news/432414</link>
@@ -38,7 +47,7 @@
             <link>https://www.maxmovie.com/news/432411</link>
             <guid>https://www.maxmovie.com/news/432411</guid>
             <pubDate>Fri, 12 Nov 2021 10:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[시네마틱 뷰로 만나는 뮤지컬 ‘팬텀’의 감동]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432411"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1636619612417ghK4r.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432411"><h4>‘팬텀: 더 뮤지컬 라이브’ 메인 포스터&amp;예고편 공개</h4></a><span>11월 11일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1636619612417ghK4r.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -46,7 +55,8 @@
             <link>https://www.maxmovie.com/news/432410</link>
             <guid>https://www.maxmovie.com/news/432410</guid>
             <pubDate>Fri, 12 Nov 2021 08:05:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432410"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1636617168976MbMgO.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432410"><h4>설경구X이선균 ‘킹메이커’ 12월 개봉 확정…1차 포스터 공개</h4></a><span>11월 11일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[세상을 바꾸고 싶은 두 남자
+치열한 선거전쟁이 시작된다]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1636617168976MbMgO.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -79,18 +89,8 @@
             <link>https://www.maxmovie.com/news/432406</link>
             <guid>https://www.maxmovie.com/news/432406</guid>
             <pubDate>Mon, 15 Nov 2021 01:47:36 GMT</pubDate>
-            <content:encoded><![CDATA[애플tv+ 첫 韓 콘텐츠 ‘Dr. 브레인’
-김지운 감독의 새로운 도전
-“시즌 2 다양한 구상 중…결정된 바는 없어”]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432406"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1636525949805HegD6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/432406"><h4>[인터뷰] ‘Dr. 브레인’ 김지운 감독의 새로운 도전 “작업하며 내 결핍 돌아봐”</h4></a><span>11월 10일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1636525949805HegD6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] ‘아케인’ 새로운 영역 향한 완벽한 도약]]></title>
-            <link>https://www.maxmovie.com/news/432405</link>
-            <guid>https://www.maxmovie.com/news/432405</guid>
-            <pubDate>Fri, 12 Nov 2021 00:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432405"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16365197747209jaNs.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432405"><h4>[리뷰] ‘아케인’ 새로운 영역 향한 완벽한 도약</h4></a><span>11월 10일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/16365197747209jaNs.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
