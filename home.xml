@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 22:04:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 23:04:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,20 +42,11 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1636944923029KXFDT.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[현장 종합] ‘유체이탈자’ 윤계상 “카체이싱 장면 가장 힘들어”]]></title>
-            <link>https://www.maxmovie.com/news/432418</link>
-            <guid>https://www.maxmovie.com/news/432418</guid>
-            <pubDate>Tue, 16 Nov 2021 22:04:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432418"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16369622596511eJIT.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432418"><h4>[현장 종합] ‘유체이탈자’ 윤계상 “카체이싱 장면 가장 힘들어”</h4></a><span>11월 15일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/16369622596511eJIT.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[박스오피스] ‘이터널스’ 1위…250만 관객 눈앞]]></title>
             <link>https://www.maxmovie.com/news/432416</link>
             <guid>https://www.maxmovie.com/news/432416</guid>
             <pubDate>Tue, 16 Nov 2021 04:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[의외의 선전 ‘강릉’ 2위
-3위로 밀린 ‘듄’ 순위 회복할 수 있을까]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432416"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1636937872511ASTYv.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432416"><h4>[박스오피스] ‘이터널스’ 1위…250만 관객 눈앞</h4></a><span>11월 15일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1636937872511ASTYv.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -90,8 +81,16 @@
             <link>https://www.maxmovie.com/news/432412</link>
             <guid>https://www.maxmovie.com/news/432412</guid>
             <pubDate>Tue, 16 Nov 2021 03:04:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432412"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1636676290316kgEiC.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432412"><h4>[OTT] ‘호크아이’ 티저 포스터&amp;런칭 예고편 공개</h4></a><span>11월 12일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[호크아이 첫 솔로 시리즈]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1636676290316kgEiC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘팬텀: 더 뮤지컬 라이브’ 메인 포스터&예고편 공개]]></title>
+            <link>https://www.maxmovie.com/news/432411</link>
+            <guid>https://www.maxmovie.com/news/432411</guid>
+            <pubDate>Tue, 16 Nov 2021 23:03:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432411"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1636619612417ghK4r.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432411"><h4>‘팬텀: 더 뮤지컬 라이브’ 메인 포스터&amp;예고편 공개</h4></a><span>11월 11일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1636619612417ghK4r.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
