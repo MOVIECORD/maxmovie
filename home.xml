@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 01:48:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 02:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,11 +45,20 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1637029839037NRbwo.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[리뷰] ‘유체이탈자’ 진부한 액션만 남기고 사라진 흥미로운 소재]]></title>
+            <link>https://www.maxmovie.com/news/432424</link>
+            <guid>https://www.maxmovie.com/news/432424</guid>
+            <pubDate>Thu, 18 Nov 2021 02:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432424"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16370518054556Ns25.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432424"><h4>[리뷰] ‘유체이탈자’ 진부한 액션만 남기고 사라진 흥미로운 소재</h4></a><span>11월 16일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/16370518054556Ns25.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[엄태구VS이희준…펍지유니버스 웹툰 ‘100’ 블록버스터 예고편 공개]]></title>
             <link>https://www.maxmovie.com/news/432420</link>
             <guid>https://www.maxmovie.com/news/432420</guid>
             <pubDate>Tue, 16 Nov 2021 04:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432420"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637025858217mSVCv.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432420"><h4>엄태구VS이희준…펍지유니버스 웹툰 ‘100’ 블록버스터 예고편 공개</h4></a><span>11월 16일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[영화야 웹툰이야?!
+엄태구&amp;이희준 강렬한 존재감]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1637025858217mSVCv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/432416</link>
             <guid>https://www.maxmovie.com/news/432416</guid>
             <pubDate>Tue, 16 Nov 2021 04:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[의외의 선전 ‘강릉’ 2위
-3위로 밀린 ‘듄’ 순위 회복할 수 있을까]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432416"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1636937872511ASTYv.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432416"><h4>[박스오피스] ‘이터널스’ 1위…250만 관객 눈앞</h4></a><span>11월 15일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1636937872511ASTYv.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘스파이더맨: 노 웨이 홈’ 시리즈 사상 최초 정체 탄로난 스파이더맨 이야기]]></title>
-            <link>https://www.maxmovie.com/news/432415</link>
-            <guid>https://www.maxmovie.com/news/432415</guid>
-            <pubDate>Tue, 16 Nov 2021 01:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432415"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1636934984572hCPTj.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432415"><h4>‘스파이더맨: 노 웨이 홈’ 시리즈 사상 최초 정체 탄로난 스파이더맨 이야기</h4></a><span>11월 15일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1636934984572hCPTj.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
