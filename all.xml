@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 04:06:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 05:05:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,11 +45,20 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1637214061215DZCfr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[리뷰] ‘엔칸토: 마법의 세계’ 당신과 함께한다는 기적의 아름다움 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432430</link>
+            <guid>https://www.maxmovie.com/news/432430</guid>
+            <pubDate>Thu, 18 Nov 2021 04:05:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432430"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637205333824TjxGF.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432430"><h4>[리뷰] ‘엔칸토: 마법의 세계’ 당신과 함께한다는 기적의 아름다움</h4></a><span>11월 18일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1637205333824TjxGF.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[‘비상선언’ 2022년 1월 개봉 확정…극장 체험 필수 리얼리티 항공 재난 영화 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432429</link>
             <guid>https://www.maxmovie.com/news/432429</guid>
             <pubDate>Fri, 19 Nov 2021 00:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432429"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637198734075W0fDB.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432429"><h4>‘비상선언’ 2022년 1월 개봉 확정…극장 체험 필수 리얼리티 항공 재난 영화</h4></a><span>11월 18일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[송강호X이병헌X전도연X임시완
+“경이로운 긴장감의 항공 재난 영화”]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1637198734075W0fDB.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -84,18 +93,8 @@
             <link>https://www.maxmovie.com/news/432425</link>
             <guid>https://www.maxmovie.com/news/432425</guid>
             <pubDate>Thu, 18 Nov 2021 01:48:01 GMT</pubDate>
-            <content:encoded><![CDATA[“킹스맨 탄생이자 시리즈의 토대”
-매튜 본 감독이 밝히는 ‘킹스맨’의 시작
-킹스맨의 잔혹한 기원]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432425"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637108309775luYtV.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432425"><h4>‘킹스맨: 퍼스트 에이전트’ 12월 22일 개봉 확정…포스터&amp;예고편 공개</h4></a><span>11월 17일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1637108309775luYtV.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] ‘유체이탈자’ 진부한 액션만 남기고 사라진 흥미로운 소재 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432424</link>
-            <guid>https://www.maxmovie.com/news/432424</guid>
-            <pubDate>Tue, 16 Nov 2021 09:04:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432424"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16370518054556Ns25.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432424"><h4>[리뷰] ‘유체이탈자’ 진부한 액션만 남기고 사라진 흥미로운 소재</h4></a><span>11월 16일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/16370518054556Ns25.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘연애 빠진 로맨스’ 손석구 “있는 그대로의 나 보여주고 싶어” (맥스무비 ─ 인터뷰)]]></title>
