@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 12:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 13:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1637280019083SPB2f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[리뷰] ‘연애 빠진 로맨스’ 15세 관람가 맞나 싶은 빨간맛 로코]]></title>
+            <link>https://www.maxmovie.com/news/432431</link>
+            <guid>https://www.maxmovie.com/news/432431</guid>
+            <pubDate>Mon, 22 Nov 2021 13:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432431"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637214061215DZCfr.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432431"><h4>[리뷰] ‘연애 빠진 로맨스’ 15세 관람가 맞나 싶은 빨간맛 로코</h4></a><span>11월 18일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1637214061215DZCfr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[리뷰] ‘엔칸토: 마법의 세계’ 당신과 함께한다는 기적의 아름다움]]></title>
             <link>https://www.maxmovie.com/news/432430</link>
             <guid>https://www.maxmovie.com/news/432430</guid>
             <pubDate>Mon, 22 Nov 2021 08:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432430"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637205333824TjxGF.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432430"><h4>[리뷰] ‘엔칸토: 마법의 세계’ 당신과 함께한다는 기적의 아름다움</h4></a><span>11월 18일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[화려한 비주얼과 리드미컬한 음악에 흠뻑
+쌀쌀해가는 날씨, 가족과 함께 따뜻한 이야기 만나고 싶다면]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1637205333824TjxGF.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/432426</link>
             <guid>https://www.maxmovie.com/news/432426</guid>
             <pubDate>Thu, 18 Nov 2021 04:05:31 GMT</pubDate>
-            <content:encoded><![CDATA[전종서 “내 모습 그대로 연기해”
-손석구 “일부러 어려 보이도록 연기했더니 재촬영 해”]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432426"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637133137849q0zY5.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432426"><h4>[현장 종합] ‘연애 빠진 로맨스’ 정가영 감독 “연애, 성 이야기 자유롭고 거침없이”</h4></a><span>11월 17일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1637133137849q0zY5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘킹스맨: 퍼스트 에이전트’ 12월 22일 개봉 확정…포스터&예고편 공개]]></title>
-            <link>https://www.maxmovie.com/news/432425</link>
-            <guid>https://www.maxmovie.com/news/432425</guid>
-            <pubDate>Mon, 22 Nov 2021 11:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432425"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637108309775luYtV.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432425"><h4>‘킹스맨: 퍼스트 에이전트’ 12월 22일 개봉 확정…포스터&amp;예고편 공개</h4></a><span>11월 17일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1637108309775luYtV.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
