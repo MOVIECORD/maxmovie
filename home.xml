@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 23:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 00:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1637727733522AaL6u.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[이번 주 뭘볼까] ‘유체이탈자’-‘연애 빠진 로맨스’-‘엔칸토: 마법의 세계’]]></title>
+            <link>https://www.maxmovie.com/news/432452</link>
+            <guid>https://www.maxmovie.com/news/432452</guid>
+            <pubDate>Fri, 26 Nov 2021 00:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432452"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637818386622CApFF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432452"><h4>[이번 주 뭘볼까] ‘유체이탈자’-‘연애 빠진 로맨스’-‘엔칸토: 마법의 세계’</h4></a><span>20분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1637818386622CApFF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘스파이더맨: 노 웨이 홈’ 피터 파커는 집으로 돌아갈 수 있을까]]></title>
             <link>https://www.maxmovie.com/news/432444</link>
             <guid>https://www.maxmovie.com/news/432444</guid>
             <pubDate>Thu, 25 Nov 2021 01:49:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432444"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637720787608LJP4p.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432444"><h4>‘스파이더맨: 노 웨이 홈’ 피터 파커는 집으로 돌아갈 수 있을까</h4></a><span>11월 24일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[스토리 엿볼 수 있는 부제들
+‘노 웨이 홈’에 숨겨진 의미에 예비 관객 궁금증 폭발]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1637720787608LJP4p.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/432440</link>
             <guid>https://www.maxmovie.com/news/432440</guid>
             <pubDate>Thu, 25 Nov 2021 03:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[열정으로 불타올랐던 현장 비하인드 스틸
-충격과 전율 선사하는 연상호 감독의 상상력]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432440"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637628674174Ud7n8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432440"><h4>[OTT] ‘지옥’ 촬영 현장 공개…“제목은 ‘지옥’, 현장은 ‘천국’”</h4></a><span>11월 23일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1637628674174Ud7n8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰]  ‘지옥’ 유아인의 강렬함과 박정민의 오롯함]]></title>
-            <link>https://www.maxmovie.com/news/432439</link>
-            <guid>https://www.maxmovie.com/news/432439</guid>
-            <pubDate>Thu, 25 Nov 2021 03:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432439"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16375670964692XcDz.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432439"><h4>[리뷰]  ‘지옥’ 유아인의 강렬함과 박정민의 오롯함</h4></a><span>11월 22일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/16375670964692XcDz.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
