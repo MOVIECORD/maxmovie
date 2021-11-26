@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 05:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 06:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] ‘로그 인 벨지움’ 유태오 “미래의 나에게 부끄럽지 않도록” (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432451</link>
+            <guid>https://www.maxmovie.com/news/432451</guid>
+            <pubDate>Thu, 25 Nov 2021 04:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[“유연한 내 모습 이제는 받아들이려”
+“영화 볼 때 재미없으면 못 견뎌, 내 영화도 재미있게  만들었다”]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1637811158112a9Kh7.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장] ‘경관의 피’ 이규만 감독 “최우식 어떤 액션 해도 라인이 예뻐” (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432450</link>
@@ -34,6 +43,14 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1637806925330Hpesa.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[이번 주 뭘볼까] ‘유체이탈자’-‘연애 빠진 로맨스’-‘엔칸토: 마법의 세계’ (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432452</link>
+            <guid>https://www.maxmovie.com/news/432452</guid>
+            <pubDate>Fri, 26 Nov 2021 00:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432452"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637818386622CApFF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432452"><h4>[이번 주 뭘볼까] ‘유체이탈자’-‘연애 빠진 로맨스’-‘엔칸토: 마법의 세계’</h4></a><span>6시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1637818386622CApFF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[OTT] ‘호크아이’ 폭발적 호평&스페셜 포스터 공개 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432447</link>
             <guid>https://www.maxmovie.com/news/432447</guid>
@@ -41,23 +58,6 @@
             <content:encoded><![CDATA[“지금까지 디즈니+ 최고의 작품 주 하나”
 2021년 최고의 크리스마스 종합 선물 세트]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1637801130122tYvgS.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] ‘라스트 나잇 인 소호’ 매혹적 미장센에 취하는 독특한 호러 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432455</link>
-            <guid>https://www.maxmovie.com/news/432455</guid>
-            <pubDate>Fri, 26 Nov 2021 05:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432455"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637902635355z3dGc.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432455"><h4>[리뷰] ‘라스트 나잇 인 소호’ 매혹적 미장센에 취하는 독특한 호러</h4></a><span>6분 전<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1637902635355z3dGc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이번 주 뭘볼까] ‘유체이탈자’-‘연애 빠진 로맨스’-‘엔칸토: 마법의 세계’ (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432452</link>
-            <guid>https://www.maxmovie.com/news/432452</guid>
-            <pubDate>Fri, 26 Nov 2021 00:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 뭘볼까
-이번주 개봉작 소개]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1637818386622CApFF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리뷰] ‘고스트버스터즈 라이즈’ 어린이 특촬물로 전락한 할리우드 레전드 (맥스무비)]]></title>
@@ -184,7 +184,7 @@
             <title><![CDATA[[리뷰] ‘라스트 나잇 인 소호’ 매혹적 미장센에 취하는 독특한 호러 (맥스무비 ─ 리뷰)]]></title>
             <link>https://www.maxmovie.com/news/432455</link>
             <guid>https://www.maxmovie.com/news/432455</guid>
-            <pubDate>Fri, 26 Nov 2021 05:05:16 GMT</pubDate>
+            <pubDate>Fri, 26 Nov 2021 05:04:57 GMT</pubDate>
             <content:encoded><![CDATA[스크린 가득 채운 60년대 빈티지 스타일
 기존 호러와 다른 신선함에 박수를]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1637902635355z3dGc.jpg" length="0" type="image/jpg"/>
