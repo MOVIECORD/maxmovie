@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 04:06:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 05:05:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1637801130122tYvgS.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[리뷰] ‘라스트 나잇 인 소호’ 매혹적 미장센에 취하는 독특한 호러]]></title>
+            <link>https://www.maxmovie.com/news/432455</link>
+            <guid>https://www.maxmovie.com/news/432455</guid>
+            <pubDate>Fri, 26 Nov 2021 05:04:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432455"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637902635355z3dGc.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432455"><h4>[리뷰] ‘라스트 나잇 인 소호’ 매혹적 미장센에 취하는 독특한 호러</h4></a><span>6분 전<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1637902635355z3dGc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[이번 주 뭘볼까] ‘유체이탈자’-‘연애 빠진 로맨스’-‘엔칸토: 마법의 세계’]]></title>
             <link>https://www.maxmovie.com/news/432452</link>
             <guid>https://www.maxmovie.com/news/432452</guid>
             <pubDate>Fri, 26 Nov 2021 00:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432452"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637818386622CApFF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432452"><h4>[이번 주 뭘볼까] ‘유체이탈자’-‘연애 빠진 로맨스’-‘엔칸토: 마법의 세계’</h4></a><span>4시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[이번 주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1637818386622CApFF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/432443</link>
             <guid>https://www.maxmovie.com/news/432443</guid>
             <pubDate>Wed, 24 Nov 2021 03:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[“현실에 바탕 둔 나만의 에세이, 나를 돌아본 순간”
-“영화라는 문화에 전하는 나의 러브레터”]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432443"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637649990073E1IUW.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432443"><h4>[현장 종합] ‘로그 인 벨지움’ 유태오 “팬데믹 시작 후 생존 위해 시작한 작품”</h4></a><span>11월 23일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1637649990073E1IUW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MAX 인터뷰 ①] ‘행복의 속도’ 봇카의 발걸음 사이 엿보이는 인생의 행복]]></title>
-            <link>https://www.maxmovie.com/news/432441</link>
-            <guid>https://www.maxmovie.com/news/432441</guid>
-            <pubDate>Wed, 24 Nov 2021 08:05:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432441"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637636846447ulcRI.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/432441"><h4>[MAX 인터뷰 ①] ‘행복의 속도’ 봇카의 발걸음 사이 엿보이는 인생의 행복</h4></a><span>11월 23일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1637636846447ulcRI.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
