@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 16:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 17:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,15 +51,6 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1637818386622CApFF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] ‘로그 인 벨지움’ 유태오 “미래의 나에게 부끄럽지 않도록”]]></title>
-            <link>https://www.maxmovie.com/news/432451</link>
-            <guid>https://www.maxmovie.com/news/432451</guid>
-            <pubDate>Mon, 29 Nov 2021 13:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[“유연한 내 모습 이제는 받아들이려”
-“영화 볼 때 재미없으면 못 견뎌, 내 영화도 재미있게  만들었다”]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1637811158112a9Kh7.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[현장] ‘경관의 피’ 이규만 감독 “최우식 어떤 액션 해도 라인이 예뻐”]]></title>
             <link>https://www.maxmovie.com/news/432450</link>
             <guid>https://www.maxmovie.com/news/432450</guid>
@@ -90,8 +81,17 @@
             <link>https://www.maxmovie.com/news/432447</link>
             <guid>https://www.maxmovie.com/news/432447</guid>
             <pubDate>Thu, 25 Nov 2021 03:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432447"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637801130122tYvgS.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432447"><h4>[OTT] ‘호크아이’ 폭발적 호평&amp;스페셜 포스터 공개</h4></a><span>11월 25일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[“지금까지 디즈니+ 최고의 작품 주 하나”
+2021년 최고의 크리스마스 종합 선물 세트]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1637801130122tYvgS.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰] ‘고스트버스터즈 라이즈’ 어린이 특촬물로 전락한 할리우드 레전드]]></title>
+            <link>https://www.maxmovie.com/news/432446</link>
+            <guid>https://www.maxmovie.com/news/432446</guid>
+            <pubDate>Mon, 29 Nov 2021 17:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432446"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637740157702X4qsp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432446"><h4>[리뷰] ‘고스트버스터즈 라이즈’ 어린이 특촬물로 전락한 할리우드 레전드</h4></a><span>11월 24일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1637740157702X4qsp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
