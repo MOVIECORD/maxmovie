@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 15:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 16:08:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,19 +43,11 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1638144709404uFyPp.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[리뷰] ‘라스트 나잇 인 소호’ 매혹적 미장센에 취하는 독특한 호러 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432455</link>
-            <guid>https://www.maxmovie.com/news/432455</guid>
-            <pubDate>Fri, 26 Nov 2021 05:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432455"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637902635355z3dGc.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432455"><h4>[리뷰] ‘라스트 나잇 인 소호’ 매혹적 미장센에 취하는 독특한 호러</h4></a><span>11월 26일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1637902635355z3dGc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[인터뷰] ‘지옥’ 연상호 감독 “시즌 2 오프닝 엄청나게 충격적일 것” (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432454</link>
             <guid>https://www.maxmovie.com/news/432454</guid>
             <pubDate>Fri, 26 Nov 2021 02:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[“나는 그냥 프리랜서, 일 없으면 미련 없이 판 떠날 것”]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432454"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16378926233732Z4MI.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/432454"><h4>[인터뷰] ‘지옥’ 연상호 감독 “시즌 2 오프닝 엄청나게 충격적일 것”</h4></a><span>11월 26일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/16378926233732Z4MI.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -90,8 +82,17 @@
             <link>https://www.maxmovie.com/news/432450</link>
             <guid>https://www.maxmovie.com/news/432450</guid>
             <pubDate>Thu, 25 Nov 2021 03:05:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432450"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637808874267LeJ8O.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432450"><h4>[현장] ‘경관의 피’ 이규만 감독 “최우식 어떤 액션 해도 라인이 예뻐”</h4></a><span>11월 25일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[“경찰의 신념과 다른 신념의 가치에 대한 이야기”
+“배우들의 케미 기대 이상, 누구도 밀리지 않아”]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1637808874267LeJ8O.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장] ‘경관의 피’ 박희순 “우식이와 사랑하는 사이” (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432449</link>
+            <guid>https://www.maxmovie.com/news/432449</guid>
+            <pubDate>Thu, 25 Nov 2021 03:05:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432449"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637808365822xTqBN.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432449"><h4>[현장] ‘경관의 피’ 박희순 “우식이와 사랑하는 사이”</h4></a><span>11월 25일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1637808365822xTqBN.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘지옥’ 연상호 감독 “시즌 2 오프닝 엄청나게 충격적일 것” (맥스무비 ─ 인터뷰)]]></title>
