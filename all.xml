@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 02:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 03:04:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,20 +44,11 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1637902635355z3dGc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] ‘지옥’ 연상호 감독 “시즌 2 오프닝 엄청나게 충격적일 것” (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432454</link>
-            <guid>https://www.maxmovie.com/news/432454</guid>
-            <pubDate>Fri, 26 Nov 2021 02:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432454"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16378926233732Z4MI.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/432454"><h4>[인터뷰] ‘지옥’ 연상호 감독 “시즌 2 오프닝 엄청나게 충격적일 것”</h4></a><span>11월 26일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/16378926233732Z4MI.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[OTT] 넷플릭스 ‘고요의 바다’…“인류 생존의 단서를 찾아 달로 향하다” (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432453</link>
             <guid>https://www.maxmovie.com/news/432453</guid>
             <pubDate>Fri, 26 Nov 2021 01:46:59 GMT</pubDate>
-            <content:encoded><![CDATA[2차 티저 포스터&amp;예고편 공개
-폐쇄된 달 탐사기지, 생존확률 10%의 임무]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432453"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16378859058325YoSy.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432453"><h4>[OTT] 넷플릭스 ‘고요의 바다’…“인류 생존의 단서를 찾아 달로 향하다”</h4></a><span>11월 26일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/16378859058325YoSy.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -92,8 +83,16 @@
             <link>https://www.maxmovie.com/news/432449</link>
             <guid>https://www.maxmovie.com/news/432449</guid>
             <pubDate>Thu, 25 Nov 2021 03:05:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432449"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637808365822xTqBN.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432449"><h4>[현장] ‘경관의 피’ 박희순 “우식이와 사랑하는 사이”</h4></a><span>11월 25일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[박희순 “’마이 네임’때 잠깐 반짝, 지금은 잠잠”]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1637808365822xTqBN.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장] ‘경관의 피’ 조진웅 “보송보송 최우식, 현장 카리스마에 오히려 기운 받아” (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432448</link>
+            <guid>https://www.maxmovie.com/news/432448</guid>
+            <pubDate>Thu, 25 Nov 2021 02:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432448"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637806925330Hpesa.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432448"><h4>[현장] ‘경관의 피’ 조진웅 “보송보송 최우식, 현장 카리스마에 오히려 기운 받아”</h4></a><span>11월 25일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1637806925330Hpesa.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘지옥’ 연상호 감독 “시즌 2 오프닝 엄청나게 충격적일 것” (맥스무비 ─ 인터뷰)]]></title>
@@ -360,7 +359,7 @@
             <title><![CDATA[[리뷰] ‘호크아이’ 지지부진 연출에 하품…마블 보단 크리스마스 가족 드라마 (맥스무비 ─ OTT)]]></title>
             <link>https://www.maxmovie.com/news/432461</link>
             <guid>https://www.maxmovie.com/news/432461</guid>
-            <pubDate>Tue, 30 Nov 2021 02:11:46 GMT</pubDate>
+            <pubDate>Tue, 30 Nov 2021 02:11:24 GMT</pubDate>
             <content:encoded><![CDATA[디즈니+ 오리지널 시리즈 ‘호크아이’가 공개됐다. 어벤져스의 원년멤버지만 큰 주목을 받지 못했던 캐릭터 호크아이의 비하인드 스토리와 향후 MCU가 펼쳐낼 세계관의 단서를 만날 수 있을 것으로 기대를 모았던 ‘호크아이’. 그러나 시리즈는 기대와 달리 지지부진한 전개와 연출, 가족 드라마를 보는 듯한 심심함에 하품만을 자아냈다.드라마 '호크아이' 포스터. 사진]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1638237860853kR0ZO.jpg" length="0" type="image/jpg"/>
         </item>
