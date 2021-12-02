@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 09:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 10:05:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘리슨’ 당신이 듣지 않은 이야기가 빚어낸 상실과 고통 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432463</link>
+            <guid>https://www.maxmovie.com/news/432463</guid>
+            <pubDate>Tue, 30 Nov 2021 07:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[‘강제’와 ‘입양’ 정말 어울리지 않는 두 단어지만, ‘강제 입양’은 현실 속에서 실재한다. 영화 ‘리슨’은 강제 입양 실화를 바탕으로, 진정한 이해와 소통이 부재한 사회 시스템에 의해 무너져가는 한 가족의 모습을 담았다. 데뷔작 ‘리슨’으로 베니스국제영화제 2관왕에 오른 아나 로샤 감독이 메가폰을 잡았으며, 켄 로치 감독의 명작 ‘나, 다니엘 블레이크’를]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1638252942212e2TF1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] ‘호크아이’ 지지부진 연출에 하품…마블 보단 크리스마스 가족 드라마 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432461</link>
@@ -32,6 +40,14 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1638319462600vJe36.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이번 주 뭘볼까] ‘고스트버스터즈 라이즈’-‘라스트 나잇 인 소호’-‘태일이’-‘로그 인 벨지움’ (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432462</link>
+            <guid>https://www.maxmovie.com/news/432462</guid>
+            <pubDate>Wed, 01 Dec 2021 00:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432462"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1638249737081CBXcE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432462"><h4>[이번 주 뭘볼까] ‘고스트버스터즈 라이즈’-‘라스트 나잇 인 소호’-‘태일이’-‘로그 인 벨지움’</h4></a><span>12월 01일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1638249737081CBXcE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스티븐 스필버그 첫 뮤지컬 영화 ‘웨스트 사이드 스토리’ 2022년 1월 개봉 확정 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432460</link>
             <guid>https://www.maxmovie.com/news/432460</guid>
@@ -39,14 +55,6 @@
             <content:encoded><![CDATA[“우리를 위한 세상이 있을거야”
 새로운 세상을 꿈꾸는 모두를 위해]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1638232794387tsN32.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이번 주 뭘볼까] ‘고스트버스터즈 라이즈’-‘라스트 나잇 인 소호’-‘태일이’-‘로그 인 벨지움’ (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432462</link>
-            <guid>https://www.maxmovie.com/news/432462</guid>
-            <pubDate>Wed, 01 Dec 2021 00:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432462"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1638249737081CBXcE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432462"><h4>[이번 주 뭘볼까] ‘고스트버스터즈 라이즈’-‘라스트 나잇 인 소호’-‘태일이’-‘로그 인 벨지움’</h4></a><span>12월 01일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1638249737081CBXcE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리뷰] ‘로그 인 벨지움’ 고독 속 발견한 진짜 자신의 모습 (맥스무비)]]></title>
@@ -79,17 +87,17 @@
             <link>https://www.maxmovie.com/news/432456</link>
             <guid>https://www.maxmovie.com/news/432456</guid>
             <pubDate>Thu, 02 Dec 2021 06:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니 ‘엔칸토: 마법의 세계’ 2위
-손석구X전종서 ‘연애 빠진 로맨스’ 호평에도 3위]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432456"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1638144709404uFyPp.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432456"><h4>[박스오피스] 윤계상 주연 액션 ‘유체이탈자’ 주말 1위</h4></a><span>11월 29일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1638144709404uFyPp.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[리뷰] ‘라스트 나잇 인 소호’ 매혹적 미장센에 취하는 독특한 호러 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432455</link>
-            <guid>https://www.maxmovie.com/news/432455</guid>
-            <pubDate>Fri, 26 Nov 2021 05:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432455"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637902635355z3dGc.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432455"><h4>[리뷰] ‘라스트 나잇 인 소호’ 매혹적 미장센에 취하는 독특한 호러</h4></a><span>11월 26일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1637902635355z3dGc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[인터뷰] ‘지옥’ 박정민 “원작과 다른 타협과 양보, 선택 있었을 것” (맥스무비 ─ 인터뷰)]]></title>
+            <link>https://www.maxmovie.com/news/432468</link>
+            <guid>https://www.maxmovie.com/news/432468</guid>
+            <pubDate>Thu, 02 Dec 2021 10:05:02 GMT</pubDate>
+            <content:encoded><![CDATA[“연상호 감독은 영화적 동지”
+“메시지 뚜렷한 작품 선호해”]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1638436805348s8eWZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘지옥’ 연상호 감독 “시즌 2 오프닝 엄청나게 충격적일 것” (맥스무비 ─ 인터뷰)]]></title>
@@ -122,8 +130,7 @@
             <link>https://www.maxmovie.com/news/432442</link>
             <guid>https://www.maxmovie.com/news/432442</guid>
             <pubDate>Tue, 23 Nov 2021 04:05:43 GMT</pubDate>
-            <content:encoded><![CDATA[“천천히 스스로 돌아볼 수 있는 시간 되길”
-“좋은 사람에게서 좋은 이야기 나와”]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432442"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637639557378H2ZHB.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/432442"><h4>[MAX 인터뷰 ②] ‘행복의 속도’ 천상의 화원이 자아내는 인생 향한 경애</h4></a><span>11월 23일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1637639557378H2ZHB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -131,7 +138,8 @@
             <link>https://www.maxmovie.com/news/432441</link>
             <guid>https://www.maxmovie.com/news/432441</guid>
             <pubDate>Tue, 23 Nov 2021 04:05:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432441"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637636846447ulcRI.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/432441"><h4>[MAX 인터뷰 ①] ‘행복의 속도’ 봇카의 발걸음 사이 엿보이는 인생의 행복</h4></a><span>11월 23일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[이상의 행복과 현실 속 우리 모두를 발견할 수 있는 작품
+“지금 내딛는 한 걸음이 중요하다는 것”]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1637636846447ulcRI.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -166,17 +174,8 @@
             <link>https://www.maxmovie.com/news/432354</link>
             <guid>https://www.maxmovie.com/news/432354</guid>
             <pubDate>Thu, 21 Oct 2021 07:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[“맞는 것보다 때리는 것이 더 어려워”
-“색다른 면 봤다는 반응이 가장 기분 좋아”]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432354"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634796623129baklv.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/432354"><h4>[인터뷰] ‘마이 네임’ 한소희가 촬영장에서 분노에 차 울었던 사연</h4></a><span>10월 21일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1634796623129baklv.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MAX 인터뷰 ③] ‘십개월의 미래’ 남궁선 감독 “최성은 만나 대본까지 바꿔” (맥스무비 ─ 인터뷰)]]></title>
-            <link>https://www.maxmovie.com/news/432352</link>
-            <guid>https://www.maxmovie.com/news/432352</guid>
-            <pubDate>Wed, 20 Oct 2021 07:04:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432352"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1634710959463C8euY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/432352"><h4>[MAX 인터뷰 ③] ‘십개월의 미래’ 남궁선 감독 “최성은 만나 대본까지 바꿔”</h4></a><span>10월 20일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1634710959463C8euY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리뷰] ‘리슨’ 당신이 듣지 않은 이야기가 빚어낸 상실과 고통 (맥스무비 ─ 리뷰)]]></title>
@@ -351,6 +350,15 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1637639557378H2ZHB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰] ‘지옥’ 박정민 “원작과 다른 타협과 양보, 선택 있었을 것” (맥스무비 ─ OTT)]]></title>
+            <link>https://www.maxmovie.com/news/432468</link>
+            <guid>https://www.maxmovie.com/news/432468</guid>
+            <pubDate>Thu, 02 Dec 2021 10:05:33 GMT</pubDate>
+            <content:encoded><![CDATA[“연상호 감독은 영화적 동지”
+“메시지 뚜렷한 작품 선호해”]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1638436805348s8eWZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[OTT] ‘고요의 바다’ 보도스틸 공개…강렬한 서스펜스 예고 (맥스무비 ─ OTT)]]></title>
             <link>https://www.maxmovie.com/news/432464</link>
             <guid>https://www.maxmovie.com/news/432464</guid>
@@ -379,8 +387,7 @@
             <link>https://www.maxmovie.com/news/432453</link>
             <guid>https://www.maxmovie.com/news/432453</guid>
             <pubDate>Fri, 26 Nov 2021 01:46:59 GMT</pubDate>
-            <content:encoded><![CDATA[2차 티저 포스터&amp;예고편 공개
-폐쇄된 달 탐사기지, 생존확률 10%의 임무]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432453"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16378859058325YoSy.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432453"><h4>[OTT] 넷플릭스 ‘고요의 바다’…“인류 생존의 단서를 찾아 달로 향하다”</h4></a><span>11월 26일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/16378859058325YoSy.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -388,7 +395,8 @@
             <link>https://www.maxmovie.com/news/432447</link>
             <guid>https://www.maxmovie.com/news/432447</guid>
             <pubDate>Thu, 25 Nov 2021 01:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432447"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637801130122tYvgS.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432447"><h4>[OTT] ‘호크아이’ 폭발적 호평&amp;스페셜 포스터 공개</h4></a><span>11월 25일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[“지금까지 디즈니+ 최고의 작품 주 하나”
+2021년 최고의 크리스마스 종합 선물 세트]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1637801130122tYvgS.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -423,17 +431,8 @@
             <link>https://www.maxmovie.com/news/432423</link>
             <guid>https://www.maxmovie.com/news/432423</guid>
             <pubDate>Tue, 16 Nov 2021 04:07:01 GMT</pubDate>
-            <content:encoded><![CDATA[유아인 “출연료 협상 위해 고민하는 척”
-박정민 “연기 짧게 하라고 해서 불만”]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432423"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637032465399v6ygU.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432423"><h4>[현장] ‘지옥’ 연상호 감독 “신념 충돌하는 모습 통해 우리 사회 돌아보길”</h4></a><span>11월 16일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1637032465399v6ygU.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] ‘지옥’ 유아인 “키워드만으로 끌려…대본 보고서 미쳐버렸다” (맥스무비 ─ OTT)]]></title>
-            <link>https://www.maxmovie.com/news/432422</link>
-            <guid>https://www.maxmovie.com/news/432422</guid>
-            <pubDate>Tue, 16 Nov 2021 03:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432422"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1637031746885FrR4h.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432422"><h4>[현장] ‘지옥’ 유아인 “키워드만으로 끌려…대본 보고서 미쳐버렸다”</h4></a><span>11월 16일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1637031746885FrR4h.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[포토] '새해전야' 유태오-최수영 '선남선녀' (맥스무비 ─ 포토)]]></title>
