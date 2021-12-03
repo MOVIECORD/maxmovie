@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 02:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 03:05:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,11 +40,20 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1638318895709UyAOe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘킹스맨: 퍼스트 에이전트’ 캐릭터 포스터&예고편 공개]]></title>
+            <link>https://www.maxmovie.com/news/432465</link>
+            <guid>https://www.maxmovie.com/news/432465</guid>
+            <pubDate>Fri, 03 Dec 2021 03:04:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432465"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1638319462600vJe36.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432465"><h4>‘킹스맨: 퍼스트 에이전트’ 캐릭터 포스터&amp;예고편 공개</h4></a><span>12월 01일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1638319462600vJe36.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[이번 주 뭘볼까] ‘고스트버스터즈 라이즈’-‘라스트 나잇 인 소호’-‘태일이’-‘로그 인 벨지움’]]></title>
             <link>https://www.maxmovie.com/news/432462</link>
             <guid>https://www.maxmovie.com/news/432462</guid>
             <pubDate>Wed, 01 Dec 2021 00:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432462"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1638249737081CBXcE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432462"><h4>[이번 주 뭘볼까] ‘고스트버스터즈 라이즈’-‘라스트 나잇 인 소호’-‘태일이’-‘로그 인 벨지움’</h4></a><span>12월 01일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[이번 주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1638249737081CBXcE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,17 +87,8 @@
             <link>https://www.maxmovie.com/news/432457</link>
             <guid>https://www.maxmovie.com/news/432457</guid>
             <pubDate>Thu, 02 Dec 2021 06:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[마지막이 아닌, 시작을 선물하는 법
-연말 어울리는 따뜻한 색채]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432457"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1638148129394aam93.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432457"><h4>‘노웨어 스페셜’ 1차 포스터 공개…베니스 4관왕 ‘스틸 라이프’ 감독</h4></a><span>11월 29일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1638148129394aam93.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[박스오피스] 윤계상 주연 액션 ‘유체이탈자’ 주말 1위]]></title>
-            <link>https://www.maxmovie.com/news/432456</link>
-            <guid>https://www.maxmovie.com/news/432456</guid>
-            <pubDate>Thu, 02 Dec 2021 06:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432456"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1638144709404uFyPp.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432456"><h4>[박스오피스] 윤계상 주연 액션 ‘유체이탈자’ 주말 1위</h4></a><span>11월 29일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1638144709404uFyPp.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
