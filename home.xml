@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 10:05:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 11:04:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,19 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1638755439529tiTky.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[현장] 왓챠 ‘언프레임드’ 박정민 “이제훈 전화 한 통이 시작 계기”]]></title>
+            <link>https://www.maxmovie.com/news/432475</link>
+            <guid>https://www.maxmovie.com/news/432475</guid>
+            <pubDate>Wed, 08 Dec 2021 11:03:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432475"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1638758261262RYAKM.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432475"><h4>[현장] 왓챠 ‘언프레임드’ 박정민 “이제훈 전화 한 통이 시작 계기”</h4></a><span>12월 06일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1638758261262RYAKM.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[OTT] ‘해피 뉴 이어’ 12월 29일 티빙&극장 동시 개봉…티저 예고편 공개]]></title>
             <link>https://www.maxmovie.com/news/432473</link>
             <guid>https://www.maxmovie.com/news/432473</guid>
             <pubDate>Tue, 07 Dec 2021 08:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432473"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1638749998228NusoI.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432473"><h4>[OTT] ‘해피 뉴 이어’ 12월 29일 티빙&amp;극장 동시 개봉…티저 예고편 공개</h4></a><span>12월 06일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[티빙 오리지널 영화 ‘해피 뉴 이어’가 12월 29일 티빙과 극장 동시 개봉을 확정하고 티저 예고편을 공개했다.영화 '해피 뉴 이어' 예고편. 사진 CJ ENM, 티빙(TVING)영화 ‘해피 뉴 이어’(감독 곽재용)는 저마다 사연을 안고 호텔 엠로스를 찾은 사람들이 각자의 방식으로 자신만의 인연을 만들어가는 이야기를 그렸다. 배우 한지민과 이동욱, 강하늘,]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1638749998228NusoI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,17 +86,8 @@
             <link>https://www.maxmovie.com/news/432469</link>
             <guid>https://www.maxmovie.com/news/432469</guid>
             <pubDate>Mon, 06 Dec 2021 01:52:46 GMT</pubDate>
-            <content:encoded><![CDATA[풋풋한 첫사랑부터 애틋한 짝사랑, 아련한 옛사랑까지
-연말연시 소중한 인연과 함께 하고픈 우리 모두의 이야기]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432469"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1638493833752mlDbm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432469"><h4>‘해피 뉴 이어’ 소중한 인연 찾기 위한 14인 14색 보도스틸 17종 공개</h4></a><span>12월 03일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1638493833752mlDbm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] ‘지옥’ 박정민 “원작과 다른 타협과 양보, 선택 있었을 것”]]></title>
-            <link>https://www.maxmovie.com/news/432468</link>
-            <guid>https://www.maxmovie.com/news/432468</guid>
-            <pubDate>Wed, 08 Dec 2021 10:05:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432468"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1638436805348s8eWZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/432468"><h4>[인터뷰] ‘지옥’ 박정민 “원작과 다른 타협과 양보, 선택 있었을 것”</h4></a><span>12월 02일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1638436805348s8eWZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
