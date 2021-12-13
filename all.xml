@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 05:05:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 06:06:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,6 +49,25 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/16390298607971HvPQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[리뷰] ‘돈 룩 업’ 이런 여우 같은 블랙코미디를 봤나 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432481</link>
+            <guid>https://www.maxmovie.com/news/432481</guid>
+            <pubDate>Wed, 08 Dec 2021 08:06:34 GMT</pubDate>
+            <content:encoded><![CDATA[당장 박수치고 싶었던 어메이징 블랙코미디
+‘빅쇼트’X;바이스’ 아담 맥케이 감독
+레오나르도 디카프리오X제니퍼 로렌스]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1638946952583iTY18.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장] ‘먹보와 털보’ 김태호PD “연예계 탑 티어 비와 노홍철 왜 친한지 궁금해 시작” (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432480</link>
+            <guid>https://www.maxmovie.com/news/432480</guid>
+            <pubDate>Wed, 08 Dec 2021 03:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[노홍철 “그동안 보지 못했던 영상 만나실 수 있을 것”
+비 “김태호PD 아니었으면 드라마만 했을 것”]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1638931339097VhfsI.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[스티븐 스필버그 감독 “’웨스트 사이드 스토리’는 내 오랜 꿈” (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432479</link>
             <guid>https://www.maxmovie.com/news/432479</guid>
@@ -69,25 +88,8 @@
             <link>https://www.maxmovie.com/news/432477</link>
             <guid>https://www.maxmovie.com/news/432477</guid>
             <pubDate>Wed, 08 Dec 2021 01:53:34 GMT</pubDate>
-            <content:encoded><![CDATA[1월 극장가 흥행 포문 열까
-5인 케이미스트리 돋보이는 메인 포스터]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432477"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1638841255903Ydgy9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432477"><h4>‘경관의 피’ 1월 5일 개봉 확정…메인 포스터 공개</h4></a><span>12월 07일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1638841255903Ydgy9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] ‘스파이더맨: 노 웨이 홈’ 톰 홀랜드 “봉준호 만나 손흥민 얘기만” (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432476</link>
-            <guid>https://www.maxmovie.com/news/432476</guid>
-            <pubDate>Tue, 07 Dec 2021 08:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘스파이더맨: 노 웨이 홈’이 관객과 만날 채비를 마쳤다.영화 '스파이더맨: 노 웨이 홈' 기자간담회 현장. 배우 제이콥 배덜런(왼쪽부터), 톰 홀랜드, 젠데이아. 사진 소니픽쳐스7일 오전 10시 영화 배급사 소니픽쳐스코리아 공식 유튜브 채널을 통해 영화 ‘스파이더맨: 노 웨이 홈’(감독 존 왓츠) 화상 기자간담회가 개최됐다. 이날 행사는 코로나 19]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1638840835920AYXHc.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] 왓챠 ‘언프레임드’ 박정민 “이제훈 전화 한 통이 시작 계기” (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432475</link>
-            <guid>https://www.maxmovie.com/news/432475</guid>
-            <pubDate>Mon, 06 Dec 2021 03:05:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432475"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1638758261262RYAKM.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432475"><h4>[현장] 왓챠 ‘언프레임드’ 박정민 “이제훈 전화 한 통이 시작 계기”</h4></a><span>12월 06일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1638758261262RYAKM.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘지옥’ 유아인 “배우로서 한계 느껴…일보다 삶이 중요” (맥스무비 ─ 인터뷰)]]></title>
