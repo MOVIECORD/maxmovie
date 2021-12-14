@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 05:05:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 06:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,14 +50,6 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/16390298607971HvPQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[리뷰] ‘피부를 판 남자’ 단순하지만 강력하게 들춰낸 현대 사회의 아킬레스건]]></title>
-            <link>https://www.maxmovie.com/news/432483</link>
-            <guid>https://www.maxmovie.com/news/432483</guid>
-            <pubDate>Tue, 14 Dec 2021 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘피부를 판 남자’가 개봉 소식을 알렸다. 사람보다 상품의 이동이 자유로운 시대의 모순을 꼬집은 작품으로, 다채로운 미장센과 흥미로운 이야기, 깊은 의미를 남기는 이야기가 남다른 감상을 자아낸다.영화 '피부를 판 남자' 스틸. 사진 판씨네마자유, 돈, 명예를 원한 샘(야흐야 마하이니)은 악마 같은 예술가 제프리(코엔 드 보우)가 던진 계약서에 서명한다]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1639027116523X7VpT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[OTT] ‘고요의 바다’ 캐릭터 스틸 공개…폐쇄된 달 기지로 향한 또 다른 사람들]]></title>
             <link>https://www.maxmovie.com/news/432482</link>
             <guid>https://www.maxmovie.com/news/432482</guid>
@@ -90,8 +82,16 @@
             <link>https://www.maxmovie.com/news/432479</link>
             <guid>https://www.maxmovie.com/news/432479</guid>
             <pubDate>Thu, 09 Dec 2021 02:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432479"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1638926916039h70kG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432479"><h4>스티븐 스필버그 감독 “’웨스트 사이드 스토리’는 내 오랜 꿈”</h4></a><span>12월 08일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[스필버그 감독 진심 담은 코멘터리 영상]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1638926916039h70kG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[연말기획] 2021년 최고의 한국 독립∙예술 영화 5선]]></title>
+            <link>https://www.maxmovie.com/news/432478</link>
+            <guid>https://www.maxmovie.com/news/432478</guid>
+            <pubDate>Tue, 14 Dec 2021 06:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432478"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1638855160148ERPpp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432478"><h4>[연말기획] 2021년 최고의 한국 독립∙예술 영화 5선</h4></a><span>12월 07일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1638855160148ERPpp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
