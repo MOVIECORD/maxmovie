@@ -4,9 +4,17 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 00:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 01:51:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘스파이더맨: 노 웨이 홈’ 탈출구 없는 완벽한 슈퍼히어로 무비]]></title>
+            <link>https://www.maxmovie.com/news/432492</link>
+            <guid>https://www.maxmovie.com/news/432492</guid>
+            <pubDate>Thu, 16 Dec 2021 01:51:07 GMT</pubDate>
+            <content:encoded><![CDATA[“큰 힘에는 큰 책임이 따른다”]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1639464318107PJR8E.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] ‘킹메이커’ 정치 드라마로 비춰질 ‘정의란 무엇인가’]]></title>
             <link>https://www.maxmovie.com/news/432493</link>
@@ -39,8 +47,7 @@
             <link>https://www.maxmovie.com/news/432489</link>
             <guid>https://www.maxmovie.com/news/432489</guid>
             <pubDate>Tue, 14 Dec 2021 07:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[윤계상 ‘유체이탈자’ 2위
-디즈니 ‘엔칸토: 마법의 세계’ 3위]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432489"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/163935656868955768.gif);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432489"><h4>[박스오피스] ‘연애 빠진 로맨스’ 개봉 3주만에 주말 1위…입소문의 힘</h4></a><span>12월 13일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/163935656868955768.gif" length="0" type="image/gif"/>
         </item>
         <item>
@@ -48,7 +55,8 @@
             <link>https://www.maxmovie.com/news/432488</link>
             <guid>https://www.maxmovie.com/news/432488</guid>
             <pubDate>Wed, 15 Dec 2021 21:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432488"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1639355076612AbYGn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432488"><h4>‘특송’ 2022년 1월 12일 개봉 확정…메인 포스터 공개</h4></a><span>12월 13일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[NO 브레이크! FULL 엑셀!
+“반품 불가 특송에 모든 것을 걸었다!”]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1639355076612AbYGn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +89,8 @@
             <link>https://www.maxmovie.com/news/432484</link>
             <guid>https://www.maxmovie.com/news/432484</guid>
             <pubDate>Fri, 10 Dec 2021 00:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 뭘볼까
-이번주 개봉작 소개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432484"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/16390298607971HvPQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432484"><h4>[이번 주 뭘볼까] ‘리슨’-‘마이 뉴욕 다이어리’-‘티탄’-‘해피 아워’</h4></a><span>12월 10일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/16390298607971HvPQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] ‘피부를 판 남자’ 단순하지만 강력하게 들춰낸 현대 사회의 아킬레스건]]></title>
-            <link>https://www.maxmovie.com/news/432483</link>
-            <guid>https://www.maxmovie.com/news/432483</guid>
-            <pubDate>Tue, 14 Dec 2021 07:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432483"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1639027116523X7VpT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432483"><h4>[리뷰] ‘피부를 판 남자’ 단순하지만 강력하게 들춰낸 현대 사회의 아킬레스건</h4></a><span>12월 09일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1639027116523X7VpT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
