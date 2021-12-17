@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 23:05:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 00:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1639473284048LPXzU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이번 주 뭘볼까] ‘스파이더맨: 노 웨이 홈’-‘피부를 판 남자’-‘끝없음에 관하여’-‘아멜리에’]]></title>
+            <link>https://www.maxmovie.com/news/432499</link>
+            <guid>https://www.maxmovie.com/news/432499</guid>
+            <pubDate>Fri, 17 Dec 2021 00:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432499"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1639637336447hqlvQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432499"><h4>[이번 주 뭘볼까] ‘스파이더맨: 노 웨이 홈’-‘피부를 판 남자’-‘끝없음에 관하여’-‘아멜리에’</h4></a><span>21분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1639637336447hqlvQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘해피 뉴 이어’ 40년만에 다시 만난 옛사랑…이혜영X정진영 황혼 로맨스]]></title>
             <link>https://www.maxmovie.com/news/432491</link>
             <guid>https://www.maxmovie.com/news/432491</guid>
             <pubDate>Wed, 15 Dec 2021 02:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432491"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1639439168632LXRvn.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432491"><h4>‘해피 뉴 이어’ 40년만에 다시 만난 옛사랑…이혜영X정진영 황혼 로맨스</h4></a><span>12월 13일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[41년차 베테랑 배우 이혜영 첫 로맨스 연기 도전
+천만 배우부터 감독까지, 정진영 첫사랑과 재회로 감성 자극]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1639439168632LXRvn.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -82,16 +91,8 @@
             <link>https://www.maxmovie.com/news/432487</link>
             <guid>https://www.maxmovie.com/news/432487</guid>
             <pubDate>Wed, 15 Dec 2021 02:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[현시대 관통하는 묵직한 메시지]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432487"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1639099371199xFbyN.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432487"><h4>‘킹메이커’ 故 김대중 전 대통령과 선거 참모 엄창록이 모티브</h4></a><span>12월 10일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1639099371199xFbyN.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[OTT] ‘블랙핑크 더 무비’ 12월 15일 디즈니+ 공개 확정]]></title>
-            <link>https://www.maxmovie.com/news/432486</link>
-            <guid>https://www.maxmovie.com/news/432486</guid>
-            <pubDate>Mon, 13 Dec 2021 08:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432486"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1639098299707fjZIX.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432486"><h4>[OTT] ‘블랙핑크 더 무비’ 12월 15일 디즈니+ 공개 확정</h4></a><span>12월 10일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1639098299707fjZIX.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
