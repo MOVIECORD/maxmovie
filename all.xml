@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 07:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 08:07:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,6 +49,15 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1639637336447hqlvQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장 종합] ‘층’ 이제훈 “새로운 시도는 창작자로서 흥분되는 일” (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432497</link>
+            <guid>https://www.maxmovie.com/news/432497</guid>
+            <pubDate>Thu, 16 Dec 2021 03:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[문채원 “듣는 사람이 작품에 참여할 수 있어 매력적”
+강신일 “TV보급 안됐던 시절도 아닌데…”]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1639622143124b92gq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘하우스 오브 구찌’ 거장이 그린 화려하고 파격적인 구찌의 세계 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432495</link>
             <guid>https://www.maxmovie.com/news/432495</guid>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/432490</link>
             <guid>https://www.maxmovie.com/news/432490</guid>
             <pubDate>Mon, 13 Dec 2021 08:06:50 GMT</pubDate>
-            <content:encoded><![CDATA[이선균 “정보 많지 않은 인물이라 상상력 더해 연기”
-변성현 감독 “설경구 선배 너무 살 찌워와 빼달라고 부탁”]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432490"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1639381424519fHQqe.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432490"><h4>[현장 종합] ‘킹메이커’ 설경구 “김대중 전 대통령 따라 하려 하진 않아”</h4></a><span>12월 13일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1639381424519fHQqe.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[박스오피스] ‘연애 빠진 로맨스’ 개봉 3주만에 주말 1위…입소문의 힘 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432489</link>
-            <guid>https://www.maxmovie.com/news/432489</guid>
-            <pubDate>Sun, 19 Dec 2021 05:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432489"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/163935656868955768.gif);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432489"><h4>[박스오피스] ‘연애 빠진 로맨스’ 개봉 3주만에 주말 1위…입소문의 힘</h4></a><span>12월 13일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/163935656868955768.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘지옥’ 유아인 “배우로서 한계 느껴…일보다 삶이 중요” (맥스무비 ─ 인터뷰)]]></title>
