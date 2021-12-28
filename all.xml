@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 08:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 09:05:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1640218358420xC2eI.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[코로나 이슈] 거리두기 강화에 일정 뒤죽박죽…연말연시 영화 개봉일 총정리 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432513</link>
-            <guid>https://www.maxmovie.com/news/432513</guid>
-            <pubDate>Wed, 22 Dec 2021 08:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[2021년의 마무리를 향해 달려가는 요즘이지만 잡히지 않는 코로나 19 확산세에 분위기는 여전히 무겁다. 급격히 달라진 사회적 거리두기 방침에 영화들은 개봉 연기와 고수를 오가며 갈피를 잡고 있지 못하고 있는 상황. 뒤죽박죽이 된 연말연시 영화의 개봉 일정을 정리해본다.# 킹메이커 12월 29일 → 1월 설 연휴영화 '킹메이커' 포스터. 사진 메가박스중앙(]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1640159173015a6cTm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[현장 종합] ‘고요의 바다’ 공유 “출연 이유? 정우성!” (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432512</link>
             <guid>https://www.maxmovie.com/news/432512</guid>
@@ -86,8 +78,16 @@
             <link>https://www.maxmovie.com/news/432510</link>
             <guid>https://www.maxmovie.com/news/432510</guid>
             <pubDate>Sun, 26 Dec 2021 05:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432510"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1640133429241Ma2H3.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432510"><h4>‘신비한 동물들과 덤블도어의 비밀’ 2022년 4월 개봉…”다시 마법 시작”</h4></a><span>12월 22일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[1차 포스터&amp;예고편 공개]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1640133429241Ma2H3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰] ‘매트릭스: 리저렉션’ 부활은커녕 구시대 유물로 전락한 전설 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432506</link>
+            <guid>https://www.maxmovie.com/news/432506</guid>
+            <pubDate>Tue, 21 Dec 2021 17:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432506"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1639997534047BvFZs.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432506"><h4>[리뷰] ‘매트릭스: 리저렉션’ 부활은커녕 구시대 유물로 전락한 전설</h4></a><span>12월 21일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1639997534047BvFZs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘지옥’ 유아인 “배우로서 한계 느껴…일보다 삶이 중요” (맥스무비 ─ 인터뷰)]]></title>
