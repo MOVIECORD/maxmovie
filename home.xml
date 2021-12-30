@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 04:07:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 05:08:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,11 +41,20 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1640692046894fLdQH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['해피 뉴 이어' 공개 첫날 한국영화 박스오피스 1위X티빙 인기 영화 순위 1위...온앤오프 점령하며 흥행 순항]]></title>
+            <link>https://www.maxmovie.com/news/432532</link>
+            <guid>https://www.maxmovie.com/news/432532</guid>
+            <pubDate>Thu, 30 Dec 2021 05:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432532"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1640839925064hd3R4.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432532"><h4>'해피 뉴 이어' 공개 첫날 한국영화 박스오피스 1위X티빙 인기 영화 순위 1위...온앤오프 점령하며 흥행 순항</h4></a><span>10분 전<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1640839925064hd3R4.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[이번 주 뭘 볼까] ‘해피 뉴 이어’-‘램’-‘노웨어 스페셜’]]></title>
             <link>https://www.maxmovie.com/news/432529</link>
             <guid>https://www.maxmovie.com/news/432529</guid>
             <pubDate>Thu, 30 Dec 2021 00:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432529"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1640759363123tePOt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432529"><h4>[이번 주 뭘 볼까] ‘해피 뉴 이어’-‘램’-‘노웨어 스페셜’</h4></a><span>4시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[이번 주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1640759363123tePOt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,16 +88,8 @@
             <link>https://www.maxmovie.com/news/432520</link>
             <guid>https://www.maxmovie.com/news/432520</guid>
             <pubDate>Tue, 28 Dec 2021 10:05:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021년의 끝이 얼마 남지 않았다. 비록 코로나 19로 힘겨운 나날이었던 올해였지만, 아름다운 선율을 뽐내준 작품들이 잠시나마 관객에게 위로를 건네며 극장가에 숨통을 틔워주곤 했다. 힘겨웠던 올해를 마무리하고 새로운 내일을 희망하며, 2021년을 빛내준 해외 예술·독립 영화 BEST 5를 꼽아봤다.# 더 파더 – 위대한 안소니 홉킨스가 전하는 격정의 파도]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432520"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1640568372737GBlof.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432520"><h4>[연말기획] 2021년 해외 예술·독립 영화 추천 BEST 5</h4></a><span>12월 27일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1640568372737GBlof.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박스오피스] ‘스파이더맨: 노 웨이 홈’ 코로나 이후 최다 관객…500만 눈앞]]></title>
-            <link>https://www.maxmovie.com/news/432519</link>
-            <guid>https://www.maxmovie.com/news/432519</guid>
-            <pubDate>Tue, 28 Dec 2021 00:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432519"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1640561081507zzCpT.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432519"><h4>[박스오피스] ‘스파이더맨: 노 웨이 홈’ 코로나 이후 최다 관객…500만 눈앞</h4></a><span>12월 26일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1640561081507zzCpT.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
