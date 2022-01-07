@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 03:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 04:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://maxmovie.cdnsave.com/images/1641264552844XmZNv.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘경관의 피’-‘씽2게더’-‘해탄적일천’-‘전장의 피아니스트’]]></title>
+            <link>https://www.maxmovie.com/news/432547</link>
+            <guid>https://www.maxmovie.com/news/432547</guid>
+            <pubDate>Fri, 07 Jan 2022 04:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432547"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1641527314264cl4oi.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432547"><h4>[이번 주 뭘 볼까] ‘경관의 피’-‘씽2게더’-‘해탄적일천’-‘전장의 피아니스트’</h4></a><span>22분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1641527314264cl4oi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전도연X설경구X이솜X구교환 '길복순' 넷플릭스 제작 확정]]></title>
             <link>https://www.maxmovie.com/news/432538</link>
             <guid>https://www.maxmovie.com/news/432538</guid>
             <pubDate>Thu, 06 Jan 2022 11:04:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432538"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1641257860627tmWtF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432538"><h4>전도연X설경구X이솜X구교환 '길복순' 넷플릭스 제작 확정</h4></a><span>01월 04일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[청부살인 업계에서 펼쳐질, 목숨을 건 위험한 관계
+전도연-설경구의 킬러 변신, 이솜-구교환이 그려낼 예측불허 시너지]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1641257860627tmWtF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/432534</link>
             <guid>https://www.maxmovie.com/news/432534</guid>
             <pubDate>Tue, 04 Jan 2022 01:56:25 GMT</pubDate>
-            <content:encoded><![CDATA[3주째 박스오피스 정상 독차지
-팬데믹 이후 첫 600만 관객 돌파]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432534"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1641174152178I2R0K.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432534"><h4>[박스오피스] ‘스파이더맨: 노 웨이 홈’ 600만 관객 돌파…코로나도 막을 수 없는 흥행</h4></a><span>01월 03일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1641174152178I2R0K.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] ‘씽2게더’ 아이들과 함께 웃기 좋은 행복 동화]]></title>
-            <link>https://www.maxmovie.com/news/432533</link>
-            <guid>https://www.maxmovie.com/news/432533</guid>
-            <pubDate>Mon, 03 Jan 2022 07:05:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432533"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1640847052983YVKMA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432533"><h4>[리뷰] ‘씽2게더’ 아이들과 함께 웃기 좋은 행복 동화</h4></a><span>12월 30일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1640847052983YVKMA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
