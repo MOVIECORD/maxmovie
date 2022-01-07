@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 06:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 07:05:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,8 +47,16 @@
             <link>https://www.maxmovie.com/news/432547</link>
             <guid>https://www.maxmovie.com/news/432547</guid>
             <pubDate>Fri, 07 Jan 2022 04:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432547"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1641527314264cl4oi.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432547"><h4>[이번 주 뭘 볼까] ‘경관의 피’-‘씽2게더’-‘해탄적일천’-‘전장의 피아니스트’</h4></a><span>2시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432547"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1641527314264cl4oi.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432547"><h4>[이번 주 뭘 볼까] ‘경관의 피’-‘씽2게더’-‘해탄적일천’-‘전장의 피아니스트’</h4></a><span>3시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1641527314264cl4oi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2030 청년영화제 1월 7일 개최...우리 시대 청년들의 이야기]]></title>
+            <link>https://www.maxmovie.com/news/432540</link>
+            <guid>https://www.maxmovie.com/news/432540</guid>
+            <pubDate>Fri, 07 Jan 2022 07:05:14 GMT</pubDate>
+            <content:encoded><![CDATA[청년들이 청년들의 이야기를 담은 청년영화제]]></content:encoded>
+            <enclosure url="https://maxmovie.cdnsave.com/images/1641350753913g2gjR.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[전도연X설경구X이솜X구교환 '길복순' 넷플릭스 제작 확정]]></title>
@@ -80,17 +88,8 @@
             <link>https://www.maxmovie.com/news/432535</link>
             <guid>https://www.maxmovie.com/news/432535</guid>
             <pubDate>Mon, 03 Jan 2022 08:07:17 GMT</pubDate>
-            <content:encoded><![CDATA["왕족이나 다름 없었던 가문의 싸움"
-세상을 뒤흔든 파격적인 스토리 예고]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432535"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1641174040418ToWpg.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432535"><h4>&lt;하우스 오브 구찌&gt; '구찌의 세계' 영상 공개</h4></a><span>01월 03일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://maxmovie.cdnsave.com/images/1641174040418ToWpg.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[박스오피스] ‘스파이더맨: 노 웨이 홈’ 600만 관객 돌파…코로나도 막을 수 없는 흥행]]></title>
-            <link>https://www.maxmovie.com/news/432534</link>
-            <guid>https://www.maxmovie.com/news/432534</guid>
-            <pubDate>Fri, 07 Jan 2022 06:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432534"><span class="imgBox" style="background-image:url(https://maxmovie.cdnsave.com/images/1641174152178I2R0K.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432534"><h4>[박스오피스] ‘스파이더맨: 노 웨이 홈’ 600만 관객 돌파…코로나도 막을 수 없는 흥행</h4></a><span>01월 03일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1641174152178I2R0K.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
