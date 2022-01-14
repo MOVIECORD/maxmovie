@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 06:07:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 07:05:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,8 @@
             <link>https://www.maxmovie.com/news/432518</link>
             <guid>https://www.maxmovie.com/news/432518</guid>
             <pubDate>Fri, 24 Dec 2021 01:54:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/432518"><span class="imgBox"><img src="https://maxmovie.cdnsave.com/images/1640307401322P6YPj.png" alt=""></span><span class="textBox"><h4>[OTT] '고요의 바다' 25일 오후 5시 공개...크리스마스 선물처럼 찾아온 비하인드 스틸 대방출</h4></span></a>]]></content:encoded>
-            <enclosure url="https://maxmovie.cdnsave.com/images/1640307401322P6YPj.png" length="0" type="image/png"/>
+            <content:encoded><![CDATA[<a href="/news/432518"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1640307401322P6YPj.png" alt=""></span><span class="textBox"><h4>[OTT] '고요의 바다' 25일 오후 5시 공개...크리스마스 선물처럼 찾아온 비하인드 스틸 대방출</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1640307401322P6YPj.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
