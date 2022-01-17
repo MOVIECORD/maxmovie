@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 03:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 04:07:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영화제] 제23회 전주국제영화제 오프라인 대면 행사 정상화 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432566</link>
+            <guid>https://www.maxmovie.com/news/432566</guid>
+            <pubDate>Mon, 17 Jan 2022 04:07:17 GMT</pubDate>
+            <content:encoded><![CDATA[방역과 축제의 공존 가능할까
+한국 영화사 뿌리 추적하는 ‘태흥영화사’ 회고전 기획]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1642128266292qp01h.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 조악함에 놀라고 무성의에 한탄스러운 ‘스피드: 레이스 1’ (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432568</link>
@@ -30,15 +39,6 @@
             <pubDate>Fri, 14 Jan 2022 05:08:33 GMT</pubDate>
             <content:encoded><![CDATA[애니메이션 '안녕 자두야' 두 번째 극장판 시리즈 '극장판 안녕 자두야: 제주도의 비밀'이 오는 27일 개봉을 확정했다.애니메이션 '안녕 자두야: 제주도의 비밀' 포스터. 사진 CJENM'극장판 안녕 자두야: 제주도의 비밀'은&nbsp;난생처음 제주도 여행을 떠난 명랑소녀 '자두'가 10살 인생 최대의 라이벌 '전복'이와 함께 저주를 품은 돌하르방의 비밀을 깨우면서]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1642128470864V30DX.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이슈] 이정재 美 SAG 남우주연상 노미네이트...한국 남자 배우 최초 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432563</link>
-            <guid>https://www.maxmovie.com/news/432563</guid>
-            <pubDate>Thu, 13 Jan 2022 02:38:17 GMT</pubDate>
-            <content:encoded><![CDATA[이정재, SAG 남우주연상 후보...앙상블상까지 '글로벌 인기 입증'
-SAG까지...'글로벌 스타' 이정재, 미국 주요 시상식 노미네이트]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1642040634891duXh4.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[이번 주 뭘볼까] ‘특송’-‘하우스 오브 구찌’-‘웨스트 사이드 스토리’-‘프랑스’ (맥스무비)]]></title>
@@ -69,15 +69,6 @@ SAG까지...'글로벌 스타' 이정재, 미국 주요 시상식 노미네이�
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1642040209011P2oQm.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] '종말의 바보' 안은진X유아인X전성우X김윤혜 캐스팅 확정 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432560</link>
-            <guid>https://www.maxmovie.com/news/432560</guid>
-            <pubDate>Thu, 13 Jan 2022 02:38:17 GMT</pubDate>
-            <content:encoded><![CDATA[지구와 소행성 충돌까지 200여 일
-터전의 종말을 앞둔 인물들의 예측불가한 이야기]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1642039241570vt2XP.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[현장] ‘해적: 도깨비 깃발’ 한효주 “강하늘만의 매력으로 가득 채운 영화” (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432559</link>
             <guid>https://www.maxmovie.com/news/432559</guid>
@@ -90,8 +81,16 @@ SAG까지...'글로벌 스타' 이정재, 미국 주요 시상식 노미네이�
             <link>https://www.maxmovie.com/news/432558</link>
             <guid>https://www.maxmovie.com/news/432558</guid>
             <pubDate>Wed, 12 Jan 2022 08:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432558"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1641974018587dKrSx.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432558"><h4>[현장] ‘해적: 도깨비 깃발’ 이광수 “최고의 호흡 영광, 펭귄에게 돌리겠다”</h4></a><span>01월 12일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[배우 이광수가 영화 ‘해적: 도깨비 깃발’에 출연한 소감을 밝혔다.영화 '해적: 도깨비 깃발' 언론시사회. 배우 이광수. 사진 롯데엔터테인먼트12일 오후 2시 영화 ‘해적: 도깨비 깃발’(감독 김정훈) 언론시사회 및 기자간담회가 서울시 송파구 롯데시네마 월드타워에서 개최됐다. 이날 행사는 영화의 메가폰을 잡은 김정훈 감독과 배우 강하늘, 한효주, 이광수,]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1641974018587dKrSx.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장] ‘해적: 도깨비 깃발’ 강하늘 “최고의 케미는 이광수와 펭귄” (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432557</link>
+            <guid>https://www.maxmovie.com/news/432557</guid>
+            <pubDate>Wed, 12 Jan 2022 08:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432557"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1641973842332rAJP4.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432557"><h4>[현장] ‘해적: 도깨비 깃발’ 강하늘 “최고의 케미는 이광수와 펭귄”</h4></a><span>01월 12일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1641973842332rAJP4.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘고요의 바다’ 정우성 “부족함 끊임없이 되새겨보고 있는 시간” (맥스무비 ─ 인터뷰)]]></title>
@@ -345,6 +344,15 @@ SAG까지...'글로벌 스타' 이정재, 미국 주요 시상식 노미네이�
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1640764340519hUH5S.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 서현X이준영 '모럴센스' 2월 11일 공개...은밀한 취향존중 로맨스 (맥스무비 ─ OTT)]]></title>
+            <link>https://www.maxmovie.com/news/432571</link>
+            <guid>https://www.maxmovie.com/news/432571</guid>
+            <pubDate>Mon, 17 Jan 2022 04:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[모든 게 완벽하지만 남다른 성적 취향을 가진 이들
+특별한 로맨스와 색다른 케미스트리]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1642389840068ngiOw.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[이슈] 이정재 美 SAG 남우주연상 노미네이트...한국 남자 배우 최초 (맥스무비 ─ OTT)]]></title>
             <link>https://www.maxmovie.com/news/432563</link>
             <guid>https://www.maxmovie.com/news/432563</guid>
@@ -376,7 +384,7 @@ SAG까지...'글로벌 스타' 이정재, 미국 주요 시상식 노미네이�
             <link>https://www.maxmovie.com/news/432554</link>
             <guid>https://www.maxmovie.com/news/432554</guid>
             <pubDate>Tue, 11 Jan 2022 09:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스를 통해 드라마 ‘그 해 우리는’을 몰아봤다. 황금 같은 주말, 별다른 고민 없이 시작했던 드라마는 밤새 핸드폰 화면에 눈을 고정토록 했다. 아직 종영이 된 것도, 공개 직후 1화부터 꾸준히 챙겨본 것도 아니지만, 싱그러운 여름을 닮은 드라마의 사랑스러움에 손이 곧장 노트북으로 향했다.드라마 '그 해 우리는' 스틸. 사진 SBS드라마 ‘그 해 우리는]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432554"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16418910142131c3Pi.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432554"><h4>[리뷰] 오늘을 설레게 만드는 ‘그 해 우리는’</h4></a><span>01월 11일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16418910142131c3Pi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -384,7 +392,9 @@ SAG까지...'글로벌 스타' 이정재, 미국 주요 시상식 노미네이�
             <link>https://www.maxmovie.com/news/432552</link>
             <guid>https://www.maxmovie.com/news/432552</guid>
             <pubDate>Tue, 11 Jan 2022 01:58:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432552"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16418650363790tmDw.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432552"><h4>[디즈니+] '너와 나의 경찰수업' 경찰 꿈나무 완전체 단체 포스터 공개</h4></a><span>01월 11일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA["인생의 스타트라인에 선 경찰 꿈나무들의 유쾌한 도전과 성장통이 웃음과 공감, 설렘 안길 것"
+'무엇보다 뜨거웠고, 누구보다 치열했던' 청춘들의 패기 넘치는 출사표
+강다니엘·채수빈·이신영·박유나 → 박성준·민도희·김우석·천영민]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16418650363790tmDw.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -418,16 +428,8 @@ SAG까지...'글로벌 스타' 이정재, 미국 주요 시상식 노미네이�
             <link>https://www.maxmovie.com/news/432542</link>
             <guid>https://www.maxmovie.com/news/432542</guid>
             <pubDate>Wed, 05 Jan 2022 10:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 시리즈 ‘고요의 바다’. ‘오징어 게임’과 ‘지옥’의 연이은 성공 이후 내놓은 또 한편의 넷플릭스 시리즈이자 연말을 장식할 작품으로 ‘고요의 바다’는 공개 전부터 많은 화제를 모았다. 그러나 막상 공개된 작품에 시청자들은 호불호를 극명히 나누며 상이한 반응을 보였다.한국형 SF 장르의 새 시평을 열었다는 말과 함께 다양한 비판의 목소리를 듣기도 한]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432542"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16413738793722UMPE.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/432542"><h4>[인터뷰] ‘고요의 바다’ 정우성 “부족함 끊임없이 되새겨보고 있는 시간”</h4></a><span>01월 05일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16413738793722UMPE.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 한지민에게 남은 ‘해피 뉴 이어’만의 특별한 의미 (맥스무비 ─ OTT)]]></title>
-            <link>https://www.maxmovie.com/news/432539</link>
-            <guid>https://www.maxmovie.com/news/432539</guid>
-            <pubDate>Tue, 04 Jan 2022 03:07:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432539"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1641264552844XmZNv.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/432539"><h4>[인터뷰] 한지민에게 남은 ‘해피 뉴 이어’만의 특별한 의미</h4></a><span>01월 04일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1641264552844XmZNv.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[OTT] '고요의 바다' 25일 오후 5시 공개...크리스마스 선물처럼 찾아온 비하인드 스틸 대방출 (맥스무비 ─ 포토)]]></title>
