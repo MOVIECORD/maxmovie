@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 03:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 04:09:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,6 +59,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1642128470864V30DX.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[영화제] 제23회 전주국제영화제 오프라인 대면 행사 정상화]]></title>
+            <link>https://www.maxmovie.com/news/432566</link>
+            <guid>https://www.maxmovie.com/news/432566</guid>
+            <pubDate>Tue, 18 Jan 2022 04:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[방역과 축제의 공존 가능할까
+한국 영화사 뿌리 추적하는 ‘태흥영화사’ 회고전 기획]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1642128266292qp01h.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[이번 주 뭘볼까] ‘특송’-‘하우스 오브 구찌’-‘웨스트 사이드 스토리’-‘프랑스’]]></title>
             <link>https://www.maxmovie.com/news/432565</link>
             <guid>https://www.maxmovie.com/news/432565</guid>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/432563</link>
             <guid>https://www.maxmovie.com/news/432563</guid>
             <pubDate>Mon, 17 Jan 2022 05:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[이정재, SAG 남우주연상 후보...앙상블상까지 '글로벌 인기 입증'
-SAG까지...'글로벌 스타' 이정재, 미국 주요 시상식 노미네이트]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432563"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1642040634891duXh4.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432563"><h4>[이슈] 이정재 美 SAG 남우주연상 노미네이트...한국 남자 배우 최초</h4></a><span>01월 13일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1642040634891duXh4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[산업] CGV 극장 먹거리 다양화로 고객 입맛 공략 나서]]></title>
-            <link>https://www.maxmovie.com/news/432562</link>
-            <guid>https://www.maxmovie.com/news/432562</guid>
-            <pubDate>Thu, 13 Jan 2022 04:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432562"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1642040223604MGf4x.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432562"><h4>[산업] CGV 극장 먹거리 다양화로 고객 입맛 공략 나서</h4></a><span>01월 13일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1642040223604MGf4x.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
