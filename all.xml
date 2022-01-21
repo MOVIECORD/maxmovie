@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 00:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 01:49:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,8 +46,18 @@
             <link>https://www.maxmovie.com/news/432585</link>
             <guid>https://www.maxmovie.com/news/432585</guid>
             <pubDate>Fri, 21 Jan 2022 00:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432585"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1642646917600zlqrt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432585"><h4>[이번 주 뭘 볼까] ‘레지던트 이블: 라쿤시티’-‘도쿄 리벤저스’-‘어나더 라운드’-‘미싱타는 여자들’</h4></a><span>20분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432585"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1642646917600zlqrt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432585"><h4>[이번 주 뭘 볼까] ‘레지던트 이블: 라쿤시티’-‘도쿄 리벤저스’-‘어나더 라운드’-‘미싱타는 여자들’</h4></a><span>1시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1642646917600zlqrt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[디즈니+] '문나이트' MCU 새로운 세계 담아낸 티저 예고편 공개 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432579</link>
+            <guid>https://www.maxmovie.com/news/432579</guid>
+            <pubDate>Wed, 19 Jan 2022 02:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[어둠이 깨운 초월적 히어로
+강렬하고 미스터리한 MCU의 새로운 세계
+"내가 깨어있는 건지 꿈을 꾸는 건지 구분을 못 하겠어요"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1642558733807NsjHc.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[현장 종합] ‘내과 박원장’ 이서진 “나영석 PD와 일하는 것보다 더 재미있어” (맥스무비)]]></title>
@@ -79,17 +89,8 @@
             <link>https://www.maxmovie.com/news/432575</link>
             <guid>https://www.maxmovie.com/news/432575</guid>
             <pubDate>Wed, 19 Jan 2022 04:05:25 GMT</pubDate>
-            <content:encoded><![CDATA[2002년 그대로 재현한 속보 뉴스 형식
-고수X이희준X이경영 짧은 영상에도 연기력 눈길]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432575"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16424668599867ck8R.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432575"><h4>[단편] 펍지유니버스 단편 영화 '방관자들' 티저 영상 공개</h4></a><span>01월 18일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16424668599867ck8R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] '종이의 집: 공동경제구역' 한국판 제목 확정 및 스페셜 티저 영상 공개 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432574</link>
-            <guid>https://www.maxmovie.com/news/432574</guid>
-            <pubDate>Tue, 18 Jan 2022 01:59:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432574"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1642466059827ftavV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432574"><h4>[넷플릭스] '종이의 집: 공동경제구역' 한국판 제목 확정 및 스페셜 티저 영상 공개</h4></a><span>01월 18일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1642466059827ftavV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘해적: 도깨비 깃발’ 고려제일검 강하늘이 그려낸 우당탕 대활극 (맥스무비 ─ 인터뷰)]]></title>
@@ -262,7 +263,7 @@
             <title><![CDATA[[이번 주 뭘 볼까] ‘레지던트 이블: 라쿤시티’-‘도쿄 리벤저스’-‘어나더 라운드’-‘미싱타는 여자들’ (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/432585</link>
             <guid>https://www.maxmovie.com/news/432585</guid>
-            <pubDate>Fri, 21 Jan 2022 00:19:42 GMT</pubDate>
+            <pubDate>Fri, 21 Jan 2022 00:19:16 GMT</pubDate>
             <content:encoded><![CDATA[이번주 뭘볼까
 이번주 개봉작 소개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1642646917600zlqrt.jpg" length="0" type="image/jpg"/>
