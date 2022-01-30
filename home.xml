@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 03:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 04:06:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,14 +49,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1643169329125NpWAw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조 라이트 감독 ‘시라노’ 2월 23일 개봉 확정…메인 포스터&스토리 영상 공개]]></title>
-            <link>https://www.maxmovie.com/news/432601</link>
-            <guid>https://www.maxmovie.com/news/432601</guid>
-            <pubDate>Sun, 30 Jan 2022 01:48:10 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘오만과 편견’, ‘어톤먼트’ 등을 연출해 로맨스 영화 장인으로 불리는 조 라이트 감독이 신작 ‘시라노’를 내놨다. 영화는 오는 2월 23일 개봉해 아름답고 황홀한 뮤지컬 로맨스로 진정한 사랑을 노래할 예정이다.영화 '시라노' 포스터. 사진 유니버설 픽처스영화 ‘시라노’(감독 조 라이트)는 사랑을 대신 써주는 남자 시라노(피터 딘클리지)와 진실된 사랑]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1643162055452qwhGe.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[‘나이트메어 엘리’ 해외 시상식 70개 부문 후보…”영화 자체가 살아 숨 쉬는 괴물”]]></title>
             <link>https://www.maxmovie.com/news/432600</link>
             <guid>https://www.maxmovie.com/news/432600</guid>
@@ -86,8 +78,17 @@
             <link>https://www.maxmovie.com/news/432597</link>
             <guid>https://www.maxmovie.com/news/432597</guid>
             <pubDate>Wed, 26 Jan 2022 02:27:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432597"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1643075616212cuE9Y.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432597"><h4>'킹메이커' 관객 마음 두드린 명장면&amp;대사 공개</h4></a><span>01월 25일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA["나를 믿지 마시고 제 욕심을 믿으십시오"
+"어떻게 이기는지가 아니고 왜 이겨야 하는지가 중요한 법이오"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1643075616212cuE9Y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰] ‘극장판 안녕 자두야: 제주도의 비밀’ 설 연휴 아이들과 함께 떠나는 제주도 여행]]></title>
+            <link>https://www.maxmovie.com/news/432596</link>
+            <guid>https://www.maxmovie.com/news/432596</guid>
+            <pubDate>Sun, 30 Jan 2022 04:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432596"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16430192102157UQOP.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432596"><h4>[리뷰] ‘극장판 안녕 자두야: 제주도의 비밀’ 설 연휴 아이들과 함께 떠나는 제주도 여행</h4></a><span>01월 24일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16430192102157UQOP.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
