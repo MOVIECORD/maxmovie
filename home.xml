@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 02:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 03:05:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,20 +42,11 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1642999110846qjkSN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['더 배트맨' 세계 최고 탐정 추리극 예고]]></title>
-            <link>https://www.maxmovie.com/news/432605</link>
-            <guid>https://www.maxmovie.com/news/432605</guid>
-            <pubDate>Wed, 02 Feb 2022 00:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432605"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1643246657847TESBt.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432605"><h4>'더 배트맨' 세계 최고 탐정 추리극 예고</h4></a><span>01월 27일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1643246657847TESBt.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[이번 주 뭘 볼까] ‘해적: 도깨비 깃발’-‘킹메이커’-‘1975 킬링필드, 푸난’-‘인어가 잠든 집’]]></title>
             <link>https://www.maxmovie.com/news/432604</link>
             <guid>https://www.maxmovie.com/news/432604</guid>
             <pubDate>Thu, 27 Jan 2022 00:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[이번주 뭘볼까
-이번주 개봉작 소개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432604"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1643169329125NpWAw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432604"><h4>[이번 주 뭘 볼까] ‘해적: 도깨비 깃발’-‘킹메이커’-‘1975 킬링필드, 푸난’-‘인어가 잠든 집’</h4></a><span>01월 27일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1643169329125NpWAw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -88,8 +79,17 @@
             <link>https://www.maxmovie.com/news/432600</link>
             <guid>https://www.maxmovie.com/news/432600</guid>
             <pubDate>Wed, 26 Jan 2022 03:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432600"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1643161476222HDDyY.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432600"><h4>‘나이트메어 엘리’ 해외 시상식 70개 부문 후보…”영화 자체가 살아 숨 쉬는 괴물”</h4></a><span>01월 26일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[크리틱스 초이스 8개부문 노미네이트
+2021년 미국영화연구소 선정 올해의 영화상 수상]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1643161476222HDDyY.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰] ‘더 마더’ 대사 없이 관객의 심장을 움켜쥐는 법]]></title>
+            <link>https://www.maxmovie.com/news/432599</link>
+            <guid>https://www.maxmovie.com/news/432599</guid>
+            <pubDate>Wed, 02 Feb 2022 03:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432599"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1643088782269yK2bo.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432599"><h4>[리뷰] ‘더 마더’ 대사 없이 관객의 심장을 움켜쥐는 법</h4></a><span>01월 25일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1643088782269yK2bo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
