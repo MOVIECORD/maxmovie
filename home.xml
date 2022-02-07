@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 14:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 15:04:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1643929044325Pse5O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[리뷰] ‘나일 강의 죽음’ 막장 드라마와 추리극]]></title>
+            <link>https://www.maxmovie.com/news/432627</link>
+            <guid>https://www.maxmovie.com/news/432627</guid>
+            <pubDate>Mon, 07 Feb 2022 15:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432627"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1644231955944p8Nea.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432627"><h4>[리뷰] ‘나일 강의 죽음’ 막장 드라마와 추리극 </h4></a><span>1시간 전<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1644231955944p8Nea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 넷플릭스] ‘브루클린 나인-나인 시즌7’-‘머더빌 시즌1’-‘스위트 매그놀리아 시즌2’-‘스루 마이 윈도’-‘데이트 앱 사기: 당신을 노린다’]]></title>
             <link>https://www.maxmovie.com/news/432620</link>
             <guid>https://www.maxmovie.com/news/432620</guid>
             <pubDate>Fri, 04 Feb 2022 06:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432620"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1643953609626yj0kB.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432620"><h4>[주간 넷플릭스] ‘브루클린 나인-나인 시즌7’-‘머더빌 시즌1’-‘스위트 매그놀리아 시즌2’-‘스루 마이 윈도’-‘데이트 앱 사기: 당신을 노린다’</h4></a><span>02월 04일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[2월 첫째 주 넷플릭스 신작
+‘브루클린 나인-나인’부터 ‘데이트 앱 사기: 당신을 노린다’까지]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1643953609626yj0kB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,18 +88,8 @@
             <link>https://www.maxmovie.com/news/432615</link>
             <guid>https://www.maxmovie.com/news/432615</guid>
             <pubDate>Mon, 07 Feb 2022 11:03:25 GMT</pubDate>
-            <content:encoded><![CDATA[신예 김민석 작가 X 베테랑 홍종찬 감독
-수많은 취재와 치열한 고민으로 탄생
-"보는 사람들이 함께 고민할 수밖에 없는 시리즈"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432615"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1643848983780ewqb9.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432615"><h4>[넷플릭스] '소년심판' 티저 포스터 공개...배우들 직접 밝힌 출연 계기</h4></a><span>02월 03일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1643848983780ewqb9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[산업] 메가박스 2022 비전 발표 "종합 공간 사업자로의 변화 기반 마련"]]></title>
-            <link>https://www.maxmovie.com/news/432614</link>
-            <guid>https://www.maxmovie.com/news/432614</guid>
-            <pubDate>Thu, 03 Feb 2022 03:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432614"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1643848773810MjKhR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432614"><h4>[산업] 메가박스 2022 비전 발표 "종합 공간 사업자로의 변화 기반 마련"</h4></a><span>02월 03일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1643848773810MjKhR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
