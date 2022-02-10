@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 12:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 13:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,15 @@ PTA 작품 중 가장 유머러스]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1644231955944p8Nea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[리뷰] ‘피그’ 상실을 온 몸으로 마주하는 따뜻한 복수극]]></title>
+            <link>https://www.maxmovie.com/news/432626</link>
+            <guid>https://www.maxmovie.com/news/432626</guid>
+            <pubDate>Thu, 10 Feb 2022 13:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[니콜라스 케이지가 전하는 깊은 감동과 아우라
+삶의 파도가 당신을 괴롭힐 때]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1644229513129lYc4G.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[오스카 유력 후보 '피그' 니콜라스 케이지 남우주연상 수상 기대]]></title>
             <link>https://www.maxmovie.com/news/432625</link>
             <guid>https://www.maxmovie.com/news/432625</guid>
@@ -79,16 +88,8 @@ PTA 작품 중 가장 유머러스]]></content:encoded>
             <link>https://www.maxmovie.com/news/432624</link>
             <guid>https://www.maxmovie.com/news/432624</guid>
             <pubDate>Tue, 08 Feb 2022 01:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 시리즈 ‘지금 우리 학교는’이 9일 연속 전 세계 흥행 순위 1위를 기록해 눈길을 끈다.드라마 '지금 우리 학교는' 포스터. 사진 넷플릭스7일 오전 넷플릭스 콘텐츠 흥행 기록을 집계하는 플릭스 패트롤(FlixPatrol)에 따르면, 넷플릭스 시리즈 ‘지금 우리 학교는’이 지난달 29일부터 6일까지 넷플릭스 TV쇼 부문 흥행 1위를 기록하고 있다.]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432624"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1644194982815bhE6j.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432624"><h4>[넷플릭스] ‘지금 우리 학교는’ 9일 연속 전 세계 1위</h4></a><span>02월 07일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1644194982815bhE6j.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[박스오피스] ‘해적: 도깨비 깃발’ 2022년 첫 100만 관객 돌파…2주째 정상]]></title>
-            <link>https://www.maxmovie.com/news/432623</link>
-            <guid>https://www.maxmovie.com/news/432623</guid>
-            <pubDate>Thu, 10 Feb 2022 09:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432623"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1644193744569Jx9Da.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432623"><h4>[박스오피스] ‘해적: 도깨비 깃발’ 2022년 첫 100만 관객 돌파…2주째 정상</h4></a><span>02월 07일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1644193744569Jx9Da.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
