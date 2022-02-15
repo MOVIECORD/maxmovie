@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 07:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 08:08:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,6 +49,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1644572028969gVTQU.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[리뷰] ‘우리가 사랑이라고 믿는 것’ 이별을 마주할 용기가 나지 않는다면]]></title>
+            <link>https://www.maxmovie.com/news/432640</link>
+            <guid>https://www.maxmovie.com/news/432640</guid>
+            <pubDate>Tue, 15 Feb 2022 08:07:31 GMT</pubDate>
+            <content:encoded><![CDATA[하루에도 수십 번, 우리는 SNS 등을 통해 사랑에 대한 허울 좋은 말들을 접한다. 솔직해야 한다는 둥, 자주 싸워야 한다는 둥, 말로는 쉽지만 정작 과연 누가 그렇게 손쉽게 할 수 있나 하는 것들이 우리의 눈과 마음을 괴롭힌다.영화 ‘우리가 사랑이라고 믿는 것’ 역시 사랑에 대해 이야기한다. 하지만 언제나 피상적이고 겉돌아 마음에 닿지 않던 SNS의 무수]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1644569062236r85lx.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 넷플릭스] ‘모럴센스’-’스물다섯 스물하나’-’기상청 사람들: 사내연애 잔혹사 편’-’애나 만들기’-’톨 걸 2’]]></title>
             <link>https://www.maxmovie.com/news/432639</link>
             <guid>https://www.maxmovie.com/news/432639</guid>
@@ -78,17 +86,8 @@
             <link>https://www.maxmovie.com/news/432636</link>
             <guid>https://www.maxmovie.com/news/432636</guid>
             <pubDate>Mon, 14 Feb 2022 10:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[제인 캠피온 감독 ‘파워 오브 도그’ 12개 부문 노미네이트
-드니 빌뇌브 감독 ‘듄’ 10개 부문 노미네이트]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432636"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1644465499067TL3ls.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432636"><h4>[영화제] 제94회 오스카 후보작 발표…넷플릭스 작품 최다 노미네이트</h4></a><span>02월 10일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1644465499067TL3ls.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이번 주 뭘 볼까] ‘나일 강의 죽음’-’더 마더’-’온 세상이 하얗다’-’굿 보스’]]></title>
-            <link>https://www.maxmovie.com/news/432635</link>
-            <guid>https://www.maxmovie.com/news/432635</guid>
-            <pubDate>Fri, 11 Feb 2022 00:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432635"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16444649748369kaTp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432635"><h4>[이번 주 뭘 볼까] ‘나일 강의 죽음’-’더 마더’-’온 세상이 하얗다’-’굿 보스’</h4></a><span>02월 11일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16444649748369kaTp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
