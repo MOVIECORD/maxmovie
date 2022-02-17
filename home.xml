@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 09:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 10:05:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,14 +52,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1644884750598cdIjq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[디즈니+] 마블 오리지널 시리즈 '문나이트' 엠파이어 표지 2종 공개]]></title>
-            <link>https://www.maxmovie.com/news/432646</link>
-            <guid>https://www.maxmovie.com/news/432646</guid>
-            <pubDate>Thu, 17 Feb 2022 08:05:31 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니+ 마블 오리지널 시리즈 '문나이트'가 엠파이어 매거진 표지 2종을 공개했다.마블 오리지널 시리즈 '문나이트' 사진. 디즈니+디즈니+ 시리즈 '문나이트'(연출 모하메드 디아브, 저스틴 벤슨, 아론 무어헤드)는 어둠이 깨운 초월적 히어로 문나이트를 주인공으로, MCU의 판도를 바꿀 새롭고도 강렬한 스토리를 선보인다. 영화 '듄', '스타워즈' 시리즈,]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1644882580017RzdHx.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[리뷰] ‘언차티드’ 인디아나 존스로 변신한 꼬마 스파이디]]></title>
             <link>https://www.maxmovie.com/news/432645</link>
             <guid>https://www.maxmovie.com/news/432645</guid>
@@ -88,8 +80,17 @@
             <link>https://www.maxmovie.com/news/432642</link>
             <guid>https://www.maxmovie.com/news/432642</guid>
             <pubDate>Wed, 16 Feb 2022 04:06:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432642"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1644802123074puD3E.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432642"><h4> 마블 촬영감독&amp;오스카가 사랑한 디자이너들 참여 '시라노'..."모든 장면이 르네상스"</h4></a><span>02월 14일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['오만과 편견'X'어톤먼트' 조 라이트 감독 작품
+시칠리아 섬 '노토' 로케이션, 최고의 영상미&amp;고전미에 대한 기대감 UP]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1644802123074puD3E.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰] ‘광대: 소리꾼’ 새로운 시도만은 반가워]]></title>
+            <link>https://www.maxmovie.com/news/432641</link>
+            <guid>https://www.maxmovie.com/news/432641</guid>
+            <pubDate>Thu, 17 Feb 2022 10:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432641"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1644572028969gVTQU.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432641"><h4>[리뷰] ‘광대: 소리꾼’ 새로운 시도만은 반가워</h4></a><span>02월 11일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1644572028969gVTQU.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
