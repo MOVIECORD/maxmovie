@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 04:07:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 05:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -57,15 +57,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1645159749269iWd3k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현장 종합] ‘더 배트맨’ 맷 리브스 감독 “경외 갖고 임해, 다른 ‘배트맨’과 다를 것”]]></title>
-            <link>https://www.maxmovie.com/news/432656</link>
-            <guid>https://www.maxmovie.com/news/432656</guid>
-            <pubDate>Tue, 22 Feb 2022 04:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[로버트 패틴슨 “완벽한 자기통제에 도달하는 과정 그리려”
-폴 다노 “트라우마의 양면성에 대해 탐구해”]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1645157669766fyPMn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[이번 주 뭘 볼까] ‘리코리쉬 피자’-‘언차티드’-‘역으로 가는 길을 알려줘’-‘극장판 주술회전 0’]]></title>
             <link>https://www.maxmovie.com/news/432655</link>
             <guid>https://www.maxmovie.com/news/432655</guid>
@@ -87,8 +78,18 @@
             <link>https://www.maxmovie.com/news/432653</link>
             <guid>https://www.maxmovie.com/news/432653</guid>
             <pubDate>Thu, 17 Feb 2022 04:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432653"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16450575587638UCZI.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432653"><h4>오스카 후보 크리스틴 스튜어트 ‘스펜서’ 3월 16일 국내 개봉 확정</h4></a><span>02월 17일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[“다이애나, 당신의 무기는 당신 자신이에요”
+새로운 다이애나 왕세자비 이야기
+전 세계 여우주연상 26개 석권]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16450575587638UCZI.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[영화제] 홍상수 감독 ‘소설가의 영화’ 베를린영화제 은곰상 수상]]></title>
+            <link>https://www.maxmovie.com/news/432652</link>
+            <guid>https://www.maxmovie.com/news/432652</guid>
+            <pubDate>Tue, 22 Feb 2022 05:04:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432652"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1645056453544E7dt8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432652"><h4>[영화제] 홍상수 감독 ‘소설가의 영화’ 베를린영화제 은곰상 수상</h4></a><span>02월 17일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1645056453544E7dt8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
