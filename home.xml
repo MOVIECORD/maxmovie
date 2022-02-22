@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 01:52:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 02:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,20 +41,11 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1645157669766fyPMn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[OTT] 티빙 2,500억원 규모 투자 유치]]></title>
-            <link>https://www.maxmovie.com/news/432658</link>
-            <guid>https://www.maxmovie.com/news/432658</guid>
-            <pubDate>Mon, 21 Feb 2022 01:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432658"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1645168322309g4CeP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432658"><h4>[OTT] 티빙 2,500억원 규모 투자 유치</h4></a><span>02월 18일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1645168322309g4CeP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[주간 넷플릭스] ‘서른, 아홉’-’스페이스 포스 시즌2’-’텍사스 전기톱 학살 2022’-’영 월랜더: 살인범의 그림자’-’지-니어스: 카니예 3부작 파트 1’]]></title>
             <link>https://www.maxmovie.com/news/432657</link>
             <guid>https://www.maxmovie.com/news/432657</guid>
             <pubDate>Fri, 18 Feb 2022 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[이번주 넷플릭스 신작
-‘서른, 아홉’부터 ‘지-니어스: 카니예 3부작 파트 1’까지]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432657"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1645159749269iWd3k.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432657"><h4>[주간 넷플릭스] ‘서른, 아홉’-’스페이스 포스 시즌2’-’텍사스 전기톱 학살 2022’-’영 월랜더: 살인범의 그림자’-’지-니어스: 카니예 3부작 파트 1’</h4></a><span>02월 18일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1645159749269iWd3k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -89,8 +80,16 @@
             <link>https://www.maxmovie.com/news/432652</link>
             <guid>https://www.maxmovie.com/news/432652</guid>
             <pubDate>Mon, 21 Feb 2022 03:06:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432652"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1645056453544E7dt8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432652"><h4>[영화제] 홍상수 감독 ‘소설가의 영화’ 베를린영화제 은곰상 수상</h4></a><span>02월 17일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[홍상수 감독 3년 연속 은곰상 수상]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1645056453544E7dt8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰] ‘나이트메어 앨리’ 탐욕의 늪으로 침잠케 하는 달콤한 악몽]]></title>
+            <link>https://www.maxmovie.com/news/432651</link>
+            <guid>https://www.maxmovie.com/news/432651</guid>
+            <pubDate>Tue, 22 Feb 2022 02:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432651"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1644998023959qa3cR.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432651"><h4>[리뷰] ‘나이트메어 앨리’ 탐욕의 늪으로 침잠케 하는 달콤한 악몽</h4></a><span>02월 16일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1644998023959qa3cR.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
