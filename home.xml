@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 23:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 00:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1645515296780JZ0gm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘안테벨룸’-‘나이트메어 앨리’-‘피그’-‘우리가 사랑이라고 믿는 것’]]></title>
+            <link>https://www.maxmovie.com/news/432678</link>
+            <guid>https://www.maxmovie.com/news/432678</guid>
+            <pubDate>Fri, 25 Feb 2022 00:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432678"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1645685958815RuTMv.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432678"><h4>[이번 주 뭘 볼까] ‘안테벨룸’-‘나이트메어 앨리’-‘피그’-‘우리가 사랑이라고 믿는 것’</h4></a><span>26분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1645685958815RuTMv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[단편 리뷰] ‘일장춘몽’ 자유로운 시도 빛나는 잔치 한바탕]]></title>
             <link>https://www.maxmovie.com/news/432663</link>
             <guid>https://www.maxmovie.com/news/432663</guid>
             <pubDate>Thu, 24 Feb 2022 02:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432663"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16454173698558kyUl.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432663"><h4>[단편 리뷰] ‘일장춘몽’ 자유로운 시도 빛나는 잔치 한바탕</h4></a><span>02월 21일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[작은 부피 카메라로 신선한 구도 촬영
+다채로운 색감과 장르 혼합]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16454173698558kyUl.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -78,16 +87,8 @@
             <link>https://www.maxmovie.com/news/432659</link>
             <guid>https://www.maxmovie.com/news/432659</guid>
             <pubDate>Thu, 24 Feb 2022 21:04:41 GMT</pubDate>
-            <content:encoded><![CDATA[여전히 만연한 아픔 향해 던지는 송곳 같은 외침]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432659"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16451821855513YnYq.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432659"><h4>[리뷰] ‘안테벨룸’ 분노만 담겨 공감 힘든 막무가내 스릴러</h4></a><span>02월 18일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16451821855513YnYq.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[OTT] 티빙 2,500억원 규모 투자 유치]]></title>
-            <link>https://www.maxmovie.com/news/432658</link>
-            <guid>https://www.maxmovie.com/news/432658</guid>
-            <pubDate>Thu, 24 Feb 2022 21:04:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432658"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1645168322309g4CeP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432658"><h4>[OTT] 티빙 2,500억원 규모 투자 유치</h4></a><span>02월 18일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1645168322309g4CeP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
