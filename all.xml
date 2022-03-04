@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 06:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 07:06:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,7 +46,7 @@
             <link>https://www.maxmovie.com/news/432696</link>
             <guid>https://www.maxmovie.com/news/432696</guid>
             <pubDate>Fri, 04 Mar 2022 06:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432696"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16463720039122VQV6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432696"><h4>[주간 넷플릭스] ‘해적: 도깨비 깃발’-‘송가인 더 드라마’-‘너의 조각들 시즌1’-‘위크엔드 어웨이’-‘이스케이프 룸 2: 노 웨이 아웃’</h4></a><span>32분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432696"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16463720039122VQV6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432696"><h4>[주간 넷플릭스] ‘해적: 도깨비 깃발’-‘송가인 더 드라마’-‘너의 조각들 시즌1’-‘위크엔드 어웨이’-‘이스케이프 룸 2: 노 웨이 아웃’</h4></a><span>1시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16463720039122VQV6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -348,7 +348,7 @@
             <title><![CDATA[[주간 넷플릭스] ‘해적: 도깨비 깃발’-‘송가인 더 드라마’-‘너의 조각들 시즌1’-‘위크엔드 어웨이’-‘이스케이프 룸 2: 노 웨이 아웃’ (맥스무비 ─ OTT)]]></title>
             <link>https://www.maxmovie.com/news/432696</link>
             <guid>https://www.maxmovie.com/news/432696</guid>
-            <pubDate>Fri, 04 Mar 2022 06:12:29 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2022 06:12:00 GMT</pubDate>
             <content:encoded><![CDATA[이번주 넷플릭스 신작
 ‘해적: 도깨비 깃발’부터 ‘이스케이프 룸 2: 노 웨이 아웃’까지]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16463720039122VQV6.jpg" length="0" type="image/jpg"/>
