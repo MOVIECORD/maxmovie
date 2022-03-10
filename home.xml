@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 03:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 04:08:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,11 +41,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16466137746737yJaV.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[영화제] 제10회 디아스포라영화제 공식 포스터 공개]]></title>
+            <link>https://www.maxmovie.com/news/432699</link>
+            <guid>https://www.maxmovie.com/news/432699</guid>
+            <pubDate>Thu, 10 Mar 2022 04:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432699"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16466143567598fmEY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432699"><h4>[영화제] 제10회 디아스포라영화제 공식 포스터 공개</h4></a><span>03월 07일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16466143567598fmEY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[MAX 인터뷰] ‘소년심판’ 김혜수, 연기를 넘어 나누고자 했던 어른으로서의 미안함]]></title>
             <link>https://www.maxmovie.com/news/432697</link>
             <guid>https://www.maxmovie.com/news/432697</guid>
             <pubDate>Mon, 07 Mar 2022 02:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432697"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1646380926821yZkf8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432697"><h4>[MAX 인터뷰] ‘소년심판’ 김혜수, 연기를 넘어 나누고자 했던 어른으로서의 미안함</h4></a><span>03월 04일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[“작품 후로도 역할과 책임에 대한 고민 지속될 것”
+“소년범죄가 갖고 있는 근본적 문제에 대해 고민해야 할 시기”]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1646380926821yZkf8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,17 +88,8 @@
             <link>https://www.maxmovie.com/news/432693</link>
             <guid>https://www.maxmovie.com/news/432693</guid>
             <pubDate>Fri, 04 Mar 2022 00:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[이번주 뭘볼까
-이번주 개봉작 소개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432693"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1646287631038M3MEe.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432693"><h4>[이번 주 뭘 볼까] ‘더 배트맨’-‘나이트 레이더스’-‘소피의 세계’</h4></a><span>03월 04일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1646287631038M3MEe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] ‘블랙라이트’ 이제는 장르가 된 리암 니슨 할아버지]]></title>
-            <link>https://www.maxmovie.com/news/432692</link>
-            <guid>https://www.maxmovie.com/news/432692</guid>
-            <pubDate>Thu, 03 Mar 2022 02:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432692"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1646270911056eCQV9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432692"><h4>[리뷰] ‘블랙라이트’ 이제는 장르가 된 리암 니슨 할아버지</h4></a><span>03월 03일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1646270911056eCQV9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
