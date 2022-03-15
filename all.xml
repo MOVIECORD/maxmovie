@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 02:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 03:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘문폴’ 재난 영화의 정석, 알아서 더 맛있는 재미 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432714</link>
+            <guid>https://www.maxmovie.com/news/432714</guid>
+            <pubDate>Mon, 14 Mar 2022 08:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[뻔하디 뻔한 재난 영화 한 편이 또 개봉 소식을 알렸다. 자가복제라도 한 듯 여전한 연출과 스토리, 캐릭터는 물론 언제나와 같이 여지없이 무너지는 미국의 랜드마크들까지, 영화 ‘문폴’은 과거 등장했던 재난 영화들의 정석을 따른다. 헌데 그렇게 기대를 내려놔서였을까 막상 직접 만난 ‘문폴’은 의외의 재미가 가득해 당혹감과 반가움을 동시에 안긴다. 어린 시절]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647243237825A7y53.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[산업] 브이에이코퍼레이션, 1000억원 대규모 투자 계약 ‘유니콘 반열 합류’ (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432713</link>
@@ -34,20 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1646959806256MUbgc.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[리뷰] ‘캐슬 폴스: 머니 게임’ B급 블록버스터의 전형 그 익숙하고 싼 맛 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432710</link>
-            <guid>https://www.maxmovie.com/news/432710</guid>
-            <pubDate>Fri, 11 Mar 2022 02:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘캐슬 폴스: 머니 게임’이 개봉 소식을 알렸다. 쉴 새 없이 액션을 몰아치며 관객의 눈길을 사로잡는 작품으로, B급 액션 블록버스터의 전형이나 나름의 재미를 갖췄다.영화 '캐슬 폴스: 머니 게임' 스틸. 사진 ㈜엔케이컨텐츠누구나 가끔 불량식품을 먹고 싶을 때가 있다. 어린 시절에 대한 향수든, 문득 떠오른 맛에 대한 그리움이든, 그저 자극적인 무언가]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1646961311259mhXGn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[주간 넷플릭스] ‘애덤 프로젝트’-’왕가위 감독 대표작 리마스터링’-’앤디 워홀 일기’-’라스트 킹덤 시즌5’-’폭격’ (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432711</link>
             <guid>https://www.maxmovie.com/news/432711</guid>
             <pubDate>Fri, 11 Mar 2022 05:05:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432711"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1646973380379ILhlu.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432711"><h4>[주간 넷플릭스] ‘애덤 프로젝트’-’왕가위 감독 대표작 리마스터링’-’앤디 워홀 일기’-’라스트 킹덤 시즌5’-’폭격’</h4></a><span>03월 11일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1646973380379ILhlu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰] ‘캐슬 폴스: 머니 게임’ B급 블록버스터의 전형 그 익숙하고 싼 맛 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432710</link>
+            <guid>https://www.maxmovie.com/news/432710</guid>
+            <pubDate>Fri, 11 Mar 2022 02:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘캐슬 폴스: 머니 게임’이 개봉 소식을 알렸다. 쉴 새 없이 액션을 몰아치며 관객의 눈길을 사로잡는 작품으로, B급 액션 블록버스터의 전형이나 나름의 재미를 갖췄다.영화 '캐슬 폴스: 머니 게임' 스틸. 사진 ㈜엔케이컨텐츠누구나 가끔 불량식품을 먹고 싶을 때가 있다. 어린 시절에 대한 향수든, 문득 떠오른 맛에 대한 그리움이든, 그저 자극적인 무언가]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1646961311259mhXGn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['문폴' 촬영 비하인드 공개...360개의 블루 스크린, 추락하는 달의 온도와 색깔 변화까지 (맥스무비)]]></title>
@@ -80,16 +88,8 @@
             <link>https://www.maxmovie.com/news/432705</link>
             <guid>https://www.maxmovie.com/news/432705</guid>
             <pubDate>Fri, 11 Mar 2022 02:07:01 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '모비우스'가 보도스틸 9종을 공개해 눈길을 끈다.영화 '모비우스' 스틸. 사진 소니픽쳐스영화 '모비우스'(감독 다니엘 에스피노사)는 희귀 혈액병을 앓는 생화학자 모비우스(자레드 레토)가 흡혈박쥐를 이용해 치료제를 개발하는 과정에서 세상을 구원할 힘과 파괴할 본능을 가지게 되며 벌어지는 사건을 그렸다. 공개된 스틸은 희귀 혈액병을 앓는 모비우스가 주체]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432705"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1646872985058pBLl6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432705"><h4>'모비우스' 보도스틸 9종 공개...마블 최강 안티 히어로의 강렬한 비주얼</h4></a><span>03월 10일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1646872985058pBLl6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] ‘소년심판’ 김무열 “우리는 질문을 던졌을 뿐” (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432704</link>
-            <guid>https://www.maxmovie.com/news/432704</guid>
-            <pubDate>Tue, 08 Mar 2022 08:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432704"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1646724850292iuRfN.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/432704"><h4>[인터뷰] ‘소년심판’ 김무열 “우리는 질문을 던졌을 뿐”</h4></a><span>03월 08일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1646724850292iuRfN.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘소년심판’ 김무열 “우리는 질문을 던졌을 뿐” (맥스무비 ─ 인터뷰)]]></title>
@@ -258,6 +258,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1645582822139XpV6i.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[맥스 Pick] 너무 복잡한 세상사, 시끄러운 머리 비워줄 3월 개봉 영화 3편 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/432717</link>
+            <guid>https://www.maxmovie.com/news/432717</guid>
+            <pubDate>Tue, 15 Mar 2022 03:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[각박한 현실 속에서 더듬더듬 살아가는 것이 익숙해질 법 하건만, 머릿속이 복잡하고 가슴이 시끄러워지는 것은 도통 멈추질 않는다. 매일 더해지는 코로나 19 확진자 수를 비롯해 온갖 세상사가 어지러움을 배가시키는 오늘, 복잡한 세상사로부터 잠시나마 멀어져 시끄러운 머리를 비워줄 수 있는 3월 개봉 영화 3편을 추천한다.# 블랙라이트영화 '블랙라이트' 스틸.]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647310861264hQXp8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[기획] 할리우드 대표 발연기 커플의 환골탈태 도전기 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/432716</link>
             <guid>https://www.maxmovie.com/news/432716</guid>
@@ -288,8 +296,7 @@
             <link>https://www.maxmovie.com/news/432703</link>
             <guid>https://www.maxmovie.com/news/432703</guid>
             <pubDate>Tue, 08 Mar 2022 03:06:38 GMT</pubDate>
-            <content:encoded><![CDATA[유연석 “올가, 코로나 이겨내고 한국와 촬영해줘 감사해”
-예지원 “그동안 얼마나 자만하고 있었는지 깨닫고 반성한 시간”]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432703"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16467072649240z4ll.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432703"><h4>[현장] ‘배니싱: 미제사건’ 드니 데르쿠르 감독 “’살인의 추억’, ‘추격자’ 참고해”</h4></a><span>03월 08일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16467072649240z4ll.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -297,7 +304,7 @@
             <link>https://www.maxmovie.com/news/432701</link>
             <guid>https://www.maxmovie.com/news/432701</guid>
             <pubDate>Mon, 07 Mar 2022 09:05:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432701"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16466430974396hRKX.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432701"><h4>[기획] 팀 버튼부터 맷 리브스까지 ‘배트맨’ 시리즈 변천사</h4></a><span>03월 07일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[맷 리브스 감독이 연출한 영화 ‘더 배트맨’이 개봉 소식을 알렸다. 영화는 일전에 그려졌던 여느 ‘배트맨’ 시리즈와 차별화된 면모를 보이며 ‘배트맨’ 실사화 시리즈의 새로운 방향성을 제시했다. 팀 버튼 감독의 ‘배트맨’부터 크리스토퍼 놀란의 ‘다크 나이트’ 시리즈를 거쳐 맷 리브스의 ‘더 배트맨’에 이르기까지. ‘배트맨’ 시리즈의 변천사를 되짚으며, 세 감]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16466430974396hRKX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -331,17 +338,8 @@
             <link>https://www.maxmovie.com/news/432689</link>
             <guid>https://www.maxmovie.com/news/432689</guid>
             <pubDate>Wed, 02 Mar 2022 02:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 영화계 한 마음으로 푸틴 규탄
-디즈니-워너브러더스-소니 픽쳐스 러시아 보이콧]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432689"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1646182929817DM7X1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432689"><h4>[이슈] 할리우드 블록버스터 러시아서 개봉 중단…칸 영화제 러시아 초청 거부</h4></a><span>03월 02일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1646182929817DM7X1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이슈] ‘더 배트맨’부터 ‘모비우스’까지 설레는 봄맞이 3월 개봉 기대작 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/432686</link>
-            <guid>https://www.maxmovie.com/news/432686</guid>
-            <pubDate>Mon, 28 Feb 2022 02:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432686"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1646013270097lOK6n.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432686"><h4>[이슈] ‘더 배트맨’부터 ‘모비우스’까지 설레는 봄맞이 3월 개봉 기대작</h4></a><span>02월 28일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1646013270097lOK6n.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['파친코' 윤여정 '미나리' 이어 본격 글로벌 행보 박차 (맥스무비 ─ OTT)]]></title>
