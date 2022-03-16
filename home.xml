@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 22:05:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 23:06:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,19 +40,11 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647243237825A7y53.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[산업] 브이에이코퍼레이션, 1000억원 대규모 투자 계약으로 ‘유니콘 반열에 합류’]]></title>
-            <link>https://www.maxmovie.com/news/432713</link>
-            <guid>https://www.maxmovie.com/news/432713</guid>
-            <pubDate>Wed, 16 Mar 2022 21:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432713"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1647219481401DXZ31.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432713"><h4>[산업] 브이에이코퍼레이션, 1000억원 대규모 투자 계약으로 ‘유니콘 반열에 합류’</h4></a><span>03월 14일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647219481401DXZ31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[박스오피스] ‘이상한 나라의 수학자’ 주말 정상에도 울상]]></title>
             <link>https://www.maxmovie.com/news/432712</link>
             <guid>https://www.maxmovie.com/news/432712</guid>
             <pubDate>Wed, 16 Mar 2022 08:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[비수기+코로나에 최민식도 배트맨도 좌절]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432712"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1647219295880pomrl.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432712"><h4>[박스오피스] ‘이상한 나라의 수학자’ 주말 정상에도 울상</h4></a><span>03월 14일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647219295880pomrl.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -85,8 +77,17 @@
             <link>https://www.maxmovie.com/news/432708</link>
             <guid>https://www.maxmovie.com/news/432708</guid>
             <pubDate>Mon, 14 Mar 2022 02:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432708"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1646957799070gbUhn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432708"><h4>'문폴' 촬영 비하인드 공개...360개의 블루 스크린, 추락하는 달의 온도와 색깔 변화까지</h4></a><span>03월 11일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[실제 배우들 연기와 CGI의 완벽한 조화
+360개의 블루 스크린에서 완성된 지구 멸망 카운트다운 순간]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1646957799070gbUhn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰] ‘킹 리차드’ 돈키호테를 꿈꾸는 당신에게]]></title>
+            <link>https://www.maxmovie.com/news/432707</link>
+            <guid>https://www.maxmovie.com/news/432707</guid>
+            <pubDate>Wed, 16 Mar 2022 23:05:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432707"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1646902704202E9y4q.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/432707"><h4>[리뷰] ‘킹 리차드’ 돈키호테를 꿈꾸는 당신에게</h4></a><span>03월 10일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1646902704202E9y4q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
