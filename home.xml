@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 23:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 00:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,11 +41,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647310861264hQXp8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘스펜서’-‘문폴’-‘아망떼’-‘고양이들의 아파트’]]></title>
+            <link>https://www.maxmovie.com/news/432724</link>
+            <guid>https://www.maxmovie.com/news/432724</guid>
+            <pubDate>Fri, 18 Mar 2022 00:28:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432724"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1647505687379TA8DL.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432724"><h4>[이번 주 뭘 볼까] ‘스펜서’-‘문폴’-‘아망떼’-‘고양이들의 아파트’</h4></a><span>29분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647505687379TA8DL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['장화신은 고양이: 끝내주는 모험'... 9월 28일 개봉 확정 런칭 포스터 & 1차 예고편 공개]]></title>
             <link>https://www.maxmovie.com/news/432721</link>
             <guid>https://www.maxmovie.com/news/432721</guid>
             <pubDate>Thu, 17 Mar 2022 02:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432721"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1647478650130jW1S5.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432721"><h4>'장화신은 고양이: 끝내주는 모험'... 9월 28일 개봉 확정 런칭 포스터 &amp; 1차 예고편 공개</h4></a><span>22시간 전<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[드림웍스 레전드 캐릭터 귀환
+전 세계 냥 집사들을 심쿵 하게 할 그의 치명적 매력]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647478650130jW1S5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,16 +88,8 @@
             <link>https://www.maxmovie.com/news/432712</link>
             <guid>https://www.maxmovie.com/news/432712</guid>
             <pubDate>Wed, 16 Mar 2022 08:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[비수기+코로나에 최민식도 배트맨도 좌절]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432712"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1647219295880pomrl.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432712"><h4>[박스오피스] ‘이상한 나라의 수학자’ 주말 정상에도 울상</h4></a><span>03월 14일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647219295880pomrl.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 넷플릭스] ‘애덤 프로젝트’-’왕가위 감독 대표작 리마스터링’-’앤디 워홀 일기’-’라스트 킹덤 시즌5’-’폭격’]]></title>
-            <link>https://www.maxmovie.com/news/432711</link>
-            <guid>https://www.maxmovie.com/news/432711</guid>
-            <pubDate>Fri, 11 Mar 2022 05:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432711"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1646973380379ILhlu.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432711"><h4>[주간 넷플릭스] ‘애덤 프로젝트’-’왕가위 감독 대표작 리마스터링’-’앤디 워홀 일기’-’라스트 킹덤 시즌5’-’폭격’</h4></a><span>03월 11일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1646973380379ILhlu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
