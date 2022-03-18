@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 05:06:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 06:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647415738103YRUhY.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[주간 넷플릭스] ‘윈드폴’-’탑 보이 시즌2’-’맨 인 더 다크 2’-’화등초상 파트 3’-’블랙 크랩’]]></title>
+            <link>https://www.maxmovie.com/news/432728</link>
+            <guid>https://www.maxmovie.com/news/432728</guid>
+            <pubDate>Fri, 18 Mar 2022 06:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432728"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1647580591080Gk44L.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432728"><h4>[주간 넷플릭스] ‘윈드폴’-’탑 보이 시즌2’-’맨 인 더 다크 2’-’화등초상 파트 3’-’블랙 크랩’</h4></a><span>50분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647580591080Gk44L.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[이번 주 뭘 볼까] ‘스펜서’-‘문폴’-‘아망떼’-‘고양이들의 아파트’]]></title>
             <link>https://www.maxmovie.com/news/432724</link>
             <guid>https://www.maxmovie.com/news/432724</guid>
             <pubDate>Fri, 18 Mar 2022 00:28:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432724"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1647505687379TA8DL.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432724"><h4>[이번 주 뭘 볼까] ‘스펜서’-‘문폴’-‘아망떼’-‘고양이들의 아파트’</h4></a><span>5시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647505687379TA8DL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,16 +89,8 @@
             <link>https://www.maxmovie.com/news/432716</link>
             <guid>https://www.maxmovie.com/news/432716</guid>
             <pubDate>Wed, 16 Mar 2022 08:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[로버트 패틴슨X크리스틴 스튜어트]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432716"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1647309253368Ln2y6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432716"><h4>[기획] 할리우드 대표 발연기 커플의 환골탈태 도전기</h4></a><span>03월 15일<!-- --> · <a href="/writer/106">위성주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647309253368Ln2y6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['파친코' 윤여정 '미나리' 이어 본격 글로벌 행보 박차]]></title>
-            <link>https://www.maxmovie.com/news/432715</link>
-            <guid>https://www.maxmovie.com/news/432715</guid>
-            <pubDate>Wed, 16 Mar 2022 02:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432715"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1647304622670kcdpM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432715"><h4>'파친코' 윤여정 '미나리' 이어 본격 글로벌 행보 박차</h4></a><span>03월 15일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647304622670kcdpM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
