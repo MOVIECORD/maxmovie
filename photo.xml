@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>맥스무비 ─ 포토</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 08:10:01 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[OTT] '고요의 바다' 25일 오후 5시 공개...크리스마스 선물처럼 찾아온 비하인드 스틸 대방출]]></title>
-            <link>https://www.maxmovie.com/news/432518</link>
-            <guid>https://www.maxmovie.com/news/432518</guid>
-            <pubDate>Fri, 24 Dec 2021 01:54:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/432518"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1640307401322P6YPj.png" alt=""></span><span class="textBox"><h4>[OTT] '고요의 바다' 25일 오후 5시 공개...크리스마스 선물처럼 찾아온 비하인드 스틸 대방출</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1640307401322P6YPj.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.maxmovie.com/photo</id>
+    <title>맥스무비 ─ 포토</title>
+    <updated>2022-03-21T09:07:38.453Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.maxmovie.com/favicon.ico</icon>
+</feed>
