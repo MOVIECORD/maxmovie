@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 06:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 07:07:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647415738103YRUhY.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[‘오늘은 좀 매울지도 몰라’ 한석규 캐스팅 확정]]></title>
+            <link>https://www.maxmovie.com/news/432734</link>
+            <guid>https://www.maxmovie.com/news/432734</guid>
+            <pubDate>Wed, 23 Mar 2022 07:06:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432734"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1648012592563jDBxJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432734"><h4>‘오늘은 좀 매울지도 몰라’ 한석규 캐스팅 확정</h4></a><span>7분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1648012592563jDBxJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영화 ‘킹 리차드’ 속 동기 부여하는 명언들]]></title>
             <link>https://www.maxmovie.com/news/432733</link>
             <guid>https://www.maxmovie.com/news/432733</guid>
             <pubDate>Wed, 23 Mar 2022 05:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432733"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1648009922528rmffb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432733"><h4>영화 ‘킹 리차드’ 속 동기 부여하는 명언들</h4></a><span>1시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[영화 ‘킹 리차드’ 속 명언이 화제다.워너브러더스 코리아㈜3월 24일 개봉하는 영화 ‘킹 리차드’는 비너스, 세레나 윌리엄스 자매와 딸들을 키워낸 아버지 리차드 윌리엄스, 그리고 기꺼이 한 팀이 되어준 가족들의 놀라운 실화를 그린 작품. 세계 1위에 오른 비너스, 세레나 윌리엄스 자매는 30차례의 그랜드슬램 단식 우승, 6개의 올림픽 금메달을 획득하며 테니]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1648009922528rmffb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,16 +89,8 @@
             <link>https://www.maxmovie.com/news/432726</link>
             <guid>https://www.maxmovie.com/news/432726</guid>
             <pubDate>Tue, 22 Mar 2022 05:05:31 GMT</pubDate>
-            <content:encoded><![CDATA[이국적인 도시의 화려한 야경과 압도적 스케일의 폭파 장면]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432726"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16475659706757THuY.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432726"><h4>[넷플릭스] '야차' 강렬한 메인 포스터 공개...스파이들의 숨 막히는 첩보 전쟁</h4></a><span>03월 18일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16475659706757THuY.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['수퍼 소닉2' 최강 빌런 너클즈- 로보트닉 등장으로 세계관 확장]]></title>
-            <link>https://www.maxmovie.com/news/432725</link>
-            <guid>https://www.maxmovie.com/news/432725</guid>
-            <pubDate>Tue, 22 Mar 2022 05:05:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432725"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1647565687494QadZe.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432725"><h4>'수퍼 소닉2' 최강 빌런 너클즈- 로보트닉 등장으로 세계관 확장</h4></a><span>03월 18일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647565687494QadZe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
