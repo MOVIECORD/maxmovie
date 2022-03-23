@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 03:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 04:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,28 +43,11 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647415738103YRUhY.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[영화 ‘평평남녀’ 4월 개봉 확정 & 1차 포스터 공개 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432729</link>
-            <guid>https://www.maxmovie.com/news/432729</guid>
-            <pubDate>Wed, 23 Mar 2022 03:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432729"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1647848727279gjzY3.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432729"><h4>영화 ‘평평남녀’ 4월 개봉 확정 &amp; 1차 포스터 공개</h4></a><span>03월 21일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647848727279gjzY3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 넷플릭스] ‘윈드폴’-’탑 보이 시즌2’-’맨 인 더 다크 2’-’화등초상 파트 3’-’블랙 크랩’ (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/432728</link>
-            <guid>https://www.maxmovie.com/news/432728</guid>
-            <pubDate>Fri, 18 Mar 2022 06:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[이번주 넷플릭스 신작
-‘윈드폴’부터 ‘블랙 크랩’까지]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647580591080Gk44L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['모비우스' 마블 최강 안티 히어로의 능력치 영상 공개 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/432727</link>
             <guid>https://www.maxmovie.com/news/432727</guid>
             <pubDate>Tue, 22 Mar 2022 05:05:31 GMT</pubDate>
-            <content:encoded><![CDATA[비행 및 음파 탐지 능력 이용한 액션 &amp; 스케일을 기대]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432727"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1647566629097FXyew.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432727"><h4>'모비우스' 마블 최강 안티 히어로의 능력치 영상 공개</h4></a><span>03월 18일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647566629097FXyew.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -89,8 +72,26 @@
             <link>https://www.maxmovie.com/news/432724</link>
             <guid>https://www.maxmovie.com/news/432724</guid>
             <pubDate>Fri, 18 Mar 2022 00:28:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432724"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1647505687379TA8DL.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432724"><h4>[이번 주 뭘 볼까] ‘스펜서’-‘문폴’-‘아망떼’-‘고양이들의 아파트’</h4></a><span>03월 18일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647505687379TA8DL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['장화신은 고양이: 끝내주는 모험'... 9월 28일 개봉 확정 런칭 포스터 & 1차 예고편 공개 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432721</link>
+            <guid>https://www.maxmovie.com/news/432721</guid>
+            <pubDate>Wed, 23 Mar 2022 04:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[드림웍스 레전드 캐릭터 귀환
+전 세계 냥 집사들을 심쿵 하게 할 그의 치명적 매력]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1647478650130jW1S5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['루이스 웨인: 사랑을 그린 고양이 화가' 그림 같은 미장센과 아름다운 러브 스토리 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/432718</link>
+            <guid>https://www.maxmovie.com/news/432718</guid>
+            <pubDate>Wed, 23 Mar 2022 04:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432718"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/164739250238786B5b.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432718"><h4>'루이스 웨인: 사랑을 그린 고양이 화가' 그림 같은 미장센과 아름다운 러브 스토리</h4></a><span>03월 16일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/164739250238786B5b.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ‘소년심판’ 김무열 “우리는 질문을 던졌을 뿐” (맥스무비 ─ 인터뷰)]]></title>
