@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 00:32:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 02:29:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1649138086645HGcb8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘파친코’ 에피소드5 오늘 공개… 선자의 새로운 여정]]></title>
+            <link>https://www.maxmovie.com/news/432760</link>
+            <guid>https://www.maxmovie.com/news/432760</guid>
+            <pubDate>Fri, 08 Apr 2022 02:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432760"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1649383951199jf6Az.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432760"><h4>‘파친코’ 에피소드5 오늘 공개… 선자의 새로운 여정</h4></a><span>21분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1649383951199jf6Az.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[이번 주 뭘 볼까] ‘루이스 웨인: 사랑을 그린 고양이 화가’-’스텔라’-’앰뷸런스’-’불도저에 탄 소녀’]]></title>
             <link>https://www.maxmovie.com/news/432757</link>
             <guid>https://www.maxmovie.com/news/432757</guid>
             <pubDate>Fri, 08 Apr 2022 00:31:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432757"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1649299205465Z4yca.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432757"><h4>[이번 주 뭘 볼까] ‘루이스 웨인: 사랑을 그린 고양이 화가’-’스텔라’-’앰뷸런스’-’불도저에 탄 소녀’</h4></a><span>2분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1649299205465Z4yca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,16 +87,8 @@
             <link>https://www.maxmovie.com/news/432744</link>
             <guid>https://www.maxmovie.com/news/432744</guid>
             <pubDate>Fri, 08 Apr 2022 00:31:30 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘닥터 스트레인지: 대혼돈의 멀티버스’가 60초 예고편을 최초 공개한다.이번에 공개된 ‘닥터 스트레인지: 대혼돈의 멀티버스’ 60초 예고편은 한순간도 눈을 뗄 수 없는 강렬한 몰입감을 선사한다.월트디즈니컴퍼니 코리아 제공끝없는 악몽에 시달리고 있는 ‘닥터 스트레인지’의 모습으로 시작된 이번 예고편은 “자네가 멀티버스의 문을 열었고 거기서 어떤 게 들어]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432744"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16486160533849sDcW.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432744"><h4>‘닥터 스트레인지: 대혼돈의 멀티버스’ 60초 예고편 공개</h4></a><span>03월 30일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16486160533849sDcW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘니 부모 얼굴이 보고 싶다’ 개봉 확정 & 1차 포스터 공개]]></title>
-            <link>https://www.maxmovie.com/news/432743</link>
-            <guid>https://www.maxmovie.com/news/432743</guid>
-            <pubDate>Fri, 08 Apr 2022 00:31:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432743"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1648615004537WpYkN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432743"><h4>‘니 부모 얼굴이 보고 싶다’ 개봉 확정 &amp; 1차 포스터 공개</h4></a><span>03월 30일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1648615004537WpYkN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
