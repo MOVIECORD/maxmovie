@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 02:56:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 03:45:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,7 +46,7 @@
             <link>https://www.maxmovie.com/news/432796</link>
             <guid>https://www.maxmovie.com/news/432796</guid>
             <pubDate>Fri, 29 Apr 2022 02:55:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432796"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1651197967370YO4Mj.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432796"><h4>[주간 넷플릭스] ‘오자크 시즌4 파트 2’-’그레이스 앤 프랭키 시즌7 파트 2’-’마릴린 먼로 미스터리: 비공개 테이프’-’푸른 호수’-’할로윈 킬즈’</h4></a><span>49분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432796"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1651197967370YO4Mj.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432796"><h4>[주간 넷플릭스] ‘오자크 시즌4 파트 2’-’그레이스 앤 프랭키 시즌7 파트 2’-’마릴린 먼로 미스터리: 비공개 테이프’-’푸른 호수’-’할로윈 킬즈’</h4></a><span>1시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1651197967370YO4Mj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -349,7 +349,7 @@
             <title><![CDATA[[주간 넷플릭스] ‘오자크 시즌4 파트 2’-’그레이스 앤 프랭키 시즌7 파트 2’-’마릴린 먼로 미스터리: 비공개 테이프’-’푸른 호수’-’할로윈 킬즈’ (맥스무비 ─ OTT)]]></title>
             <link>https://www.maxmovie.com/news/432796</link>
             <guid>https://www.maxmovie.com/news/432796</guid>
-            <pubDate>Fri, 29 Apr 2022 02:56:27 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2022 02:55:56 GMT</pubDate>
             <content:encoded><![CDATA[이번주 넷플릭스 신작
 ‘오자크 시즌4 파트 2’부터 ‘할로윈 킬즈’까지]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1651197967370YO4Mj.jpg" length="0" type="image/jpg"/>
