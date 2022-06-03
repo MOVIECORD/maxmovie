@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 00:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 02:44:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,8 +46,17 @@
             <link>https://www.maxmovie.com/news/432848</link>
             <guid>https://www.maxmovie.com/news/432848</guid>
             <pubDate>Thu, 02 Jun 2022 07:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432848"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1654152123850ZdSax.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432848"><h4>김수미X신현준 ‘귀신경찰’, 특급 모자 케미 발산하는 ‘촬영 현장’ 공개</h4></a><span>17시간 전<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432848"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1654152123850ZdSax.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432848"><h4>김수미X신현준 ‘귀신경찰’, 특급 모자 케미 발산하는 ‘촬영 현장’ 공개</h4></a><span>19시간 전<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1654152123850ZdSax.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘애프터 양’ - ‘카시오페아’ - ‘쥬라기 월드: 도미니언’ - ‘극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발 쉐이미’]]></title>
+            <link>https://www.maxmovie.com/news/432846</link>
+            <guid>https://www.maxmovie.com/news/432846</guid>
+            <pubDate>Fri, 03 Jun 2022 02:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1654149928672pNP2i.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘브로커’ 칸 뤼미에르 극장에서 12분 기립박수 이끌어내다!]]></title>
@@ -78,16 +87,8 @@
             <link>https://www.maxmovie.com/news/432837</link>
             <guid>https://www.maxmovie.com/news/432837</guid>
             <pubDate>Thu, 02 Jun 2022 07:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘헤어질 결심’이 현장의 열기가 생생하게 담긴 칸 비하인드 스틸을 공개했다.제75회 칸 국제영화제 경쟁 부문 초청작 ‘헤어질 결심’은 산에서 벌어진 변사 사건을 수사하게 된 형사 ‘해준’(박해일)이 사망자의 아내 ‘서래’(탕웨이)를 만나고 의심과 관심을 동시에 느끼며 시작되는 이야기를 그린 영화. 지난 23일 월드 프리미어를 통한 첫 상영 이후 전 세]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432837"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1653540110723Xrvwd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432837"><h4>칸영화제 홀린 탕웨이X박해일… ‘헤어질 결심’ 칸 비하인드 스틸 공개</h4></a><span>05월 26일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1653540110723Xrvwd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이언 고슬링 X 크리스 에반스 ‘그레이 맨’ 메인 포스터 & 메인 예고편 공개]]></title>
-            <link>https://www.maxmovie.com/news/432835</link>
-            <guid>https://www.maxmovie.com/news/432835</guid>
-            <pubDate>Fri, 27 May 2022 04:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432835"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1653454213257zvtrz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432835"><h4>라이언 고슬링 X 크리스 에반스 ‘그레이 맨’ 메인 포스터 &amp; 메인 예고편 공개</h4></a><span>05월 25일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1653454213257zvtrz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
