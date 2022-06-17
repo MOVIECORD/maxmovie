@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 02:56:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 03:47:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,7 +46,7 @@
             <link>https://www.maxmovie.com/news/432869</link>
             <guid>https://www.maxmovie.com/news/432869</guid>
             <pubDate>Fri, 17 Jun 2022 02:56:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432869"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1655429345683fYzZl.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432869"><h4>[주간 넷플릭스] ‘환혼’-’스파이더헤드’-’불도저에 탄 소녀’-’러브 앤 아나키 시즌2’-’팜 스프링스’</h4></a><span>1시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432869"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1655429345683fYzZl.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432869"><h4>[주간 넷플릭스] ‘환혼’-’스파이더헤드’-’불도저에 탄 소녀’-’러브 앤 아나키 시즌2’-’팜 스프링스’</h4></a><span>2시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1655429345683fYzZl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -349,7 +349,7 @@
             <title><![CDATA[[주간 넷플릭스] ‘환혼’-’스파이더헤드’-’불도저에 탄 소녀’-’러브 앤 아나키 시즌2’-’팜 스프링스’ (맥스무비 ─ OTT)]]></title>
             <link>https://www.maxmovie.com/news/432869</link>
             <guid>https://www.maxmovie.com/news/432869</guid>
-            <pubDate>Fri, 17 Jun 2022 02:56:43 GMT</pubDate>
+            <pubDate>Fri, 17 Jun 2022 02:56:14 GMT</pubDate>
             <content:encoded><![CDATA[이번주 넷플릭스 신작
 ‘환혼’부터 ‘팜 스프링스’까지]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1655429345683fYzZl.jpg" length="0" type="image/jpg"/>
