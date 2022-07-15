@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 00:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 03:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1657519009779hXP4V.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[주간 넷플릭스] ‘블랙의 신부’-’바이오하자드: 더 시리즈’-’설득’-’쿵푸팬더: 용의 기사’-’테이큰’]]></title>
+            <link>https://www.maxmovie.com/news/432921</link>
+            <guid>https://www.maxmovie.com/news/432921</guid>
+            <pubDate>Fri, 15 Jul 2022 03:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432921"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1657850108707iA4MR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432921"><h4>[주간 넷플릭스] ‘블랙의 신부’-’바이오하자드: 더 시리즈’-’설득’-’쿵푸팬더: 용의 기사’-’테이큰’</h4></a><span>1시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1657850108707iA4MR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[이번 주 뭘 볼까] ‘엘비스’ - ‘로스트 도터’ - ‘멘’ - ‘뒤틀린 집’]]></title>
             <link>https://www.maxmovie.com/news/432918</link>
             <guid>https://www.maxmovie.com/news/432918</guid>
             <pubDate>Fri, 15 Jul 2022 00:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432918"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1657764921676glZxd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432918"><h4>[이번 주 뭘 볼까] ‘엘비스’ - ‘로스트 도터’ - ‘멘’ - ‘뒤틀린 집’</h4></a><span>12분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1657764921676glZxd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,16 +87,8 @@
             <link>https://www.maxmovie.com/news/432911</link>
             <guid>https://www.maxmovie.com/news/432911</guid>
             <pubDate>Thu, 14 Jul 2022 06:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘브로커’가 글로벌 장기 흥행을 이어가고 있다.CJ ENM‘브로커’는 베이비 박스를 둘러싸고 관계를 맺게 된 이들의 예기치 못한 특별한 여정을 그린 영화. 제75회 칸 국제영화제 남우주연상과 에큐메니컬상을 수상하며 세계적 주목을 받은 영화 ‘브로커’가 제69회 시드니영화제 폐막작으로 선정된 데 이어 지난 3일 제39회 뮌헨 국제영화제에서 최고상(ARR]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432911"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1657254661777AYlgf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432911"><h4>‘브로커’ 일본-홍콩 등 한국 넘어 글로벌 장기 흥행</h4></a><span>07월 08일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1657254661777AYlgf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘엘비스’ 바즈 루어만 감독의 뜨거운 한국 사랑]]></title>
-            <link>https://www.maxmovie.com/news/432910</link>
-            <guid>https://www.maxmovie.com/news/432910</guid>
-            <pubDate>Thu, 14 Jul 2022 06:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432910"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1657254499724dqorS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432910"><h4>‘엘비스’ 바즈 루어만 감독의 뜨거운 한국 사랑</h4></a><span>07월 08일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1657254499724dqorS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
