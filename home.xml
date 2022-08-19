@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 00:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 03:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1660267463744wf9nR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 넷플릭스] ‘스파이더맨: 노 웨이 홈’-’두 인생을 살아봐’-’에코’-’로열틴’-’워킹데드 시즌11’]]></title>
+            <link>https://www.maxmovie.com/news/432975</link>
+            <guid>https://www.maxmovie.com/news/432975</guid>
+            <pubDate>Fri, 19 Aug 2022 03:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432975"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1660875617027ipmOg.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432975"><h4>[주간 넷플릭스] ‘스파이더맨: 노 웨이 홈’-’두 인생을 살아봐’-’에코’-’로열틴’-’워킹데드 시즌11’</h4></a><span>47분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1660875617027ipmOg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[이번 주 뭘 볼까] ‘놉’ - ‘파로호’ - ‘풀타임’ - ‘녹턴’]]></title>
             <link>https://www.maxmovie.com/news/432974</link>
             <guid>https://www.maxmovie.com/news/432974</guid>
             <pubDate>Fri, 19 Aug 2022 00:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432974"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1660807672790JFEil.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432974"><h4>[이번 주 뭘 볼까] ‘놉’ - ‘파로호’ - ‘풀타임’ - ‘녹턴’</h4></a><span>9분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1660807672790JFEil.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,16 +87,8 @@
             <link>https://www.maxmovie.com/news/432963</link>
             <guid>https://www.maxmovie.com/news/432963</guid>
             <pubDate>Fri, 12 Aug 2022 02:58:15 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘컴백홈’이 개봉을 확정 짓고, 런칭 포스터를 공개했다.(주)제이앤씨미디어그룹송새벽, 라미란, 이범수가 출연하는 ‘컴백홈’이 오는 9월 개봉을 확정 짓고, 런칭 포스터를 공개했다. ‘컴백홈’은 모든 것을 잃고 15년 만에 고향으로 내려오게 된 무명 개그맨 ‘기세’(송새벽)가 거대 조직의 보스가 되면서 벌어지는 이야기.영화 ‘컴백홈’이 송새벽, 라미란,]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432963"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1660106125199I3kl0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432963"><h4>9월 개봉 ‘컴백홈’, 송새벽X라미란X이범수의 웃음 폭탄</h4></a><span>08월 10일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1660106125199I3kl0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘코코순이’ 이효리 ‘날 잊지 말아요’ 뮤직비디오 공개]]></title>
-            <link>https://www.maxmovie.com/news/432962</link>
-            <guid>https://www.maxmovie.com/news/432962</guid>
-            <pubDate>Wed, 17 Aug 2022 05:38:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432962"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1660105588860AOENR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432962"><h4>‘코코순이’ 이효리 ‘날 잊지 말아요’ 뮤직비디오 공개</h4></a><span>08월 10일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1660105588860AOENR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
