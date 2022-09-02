@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 00:38:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 03:32:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1661923207862sVZ8p.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 넷플릭스] ‘작은 아씨들’-’어쩌다 전원일기’-’러브 인 더 빌라’-’미나리’-’코다’]]></title>
+            <link>https://www.maxmovie.com/news/432999</link>
+            <guid>https://www.maxmovie.com/news/432999</guid>
+            <pubDate>Fri, 02 Sep 2022 03:32:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432999"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16620860405214qdZP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/432999"><h4>[주간 넷플릭스] ‘작은 아씨들’-’어쩌다 전원일기’-’러브 인 더 빌라’-’미나리’-’코다’</h4></a><span>48분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16620860405214qdZP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[이번 주 뭘 볼까] ‘리미트’ - ‘썬다운’ - ‘시맨틱 에러: 더 무비’ - ‘우리가 말하지 않은 것’]]></title>
             <link>https://www.maxmovie.com/news/432998</link>
             <guid>https://www.maxmovie.com/news/432998</guid>
             <pubDate>Fri, 02 Sep 2022 00:37:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432998"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1662022786738nhPzW.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432998"><h4>[이번 주 뭘 볼까] ‘리미트’ - ‘썬다운’ - ‘시맨틱 에러: 더 무비’ - ‘우리가 말하지 않은 것’</h4></a><span>8분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1662022786738nhPzW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,16 +87,8 @@
             <link>https://www.maxmovie.com/news/432991</link>
             <guid>https://www.maxmovie.com/news/432991</guid>
             <pubDate>Tue, 30 Aug 2022 06:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[2009년 개봉 영화 ‘아바타’가 ‘아바타 리마스터링’으로 9월 재개봉을 확정했다.월트디즈니컴퍼니 코리아개봉 당시 외화 최초 국내 천만 관객을 돌파했던 블록버스터 ‘아바타’가 오는 9월 ‘아바타 리마스터링’으로 재개봉을 확정하고 포스터와 예고편을 공개했다. 이번에 공개된 ‘아바타 리마스터링’의 포스터는 정면을 응시하고 있는 나비족 ‘네이티리’의 강렬한 눈빛]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432991"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1661746953533xRyuC.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432991"><h4>‘아바타 리마스터링’ 2022년 9월 재개봉 확정</h4></a><span>08월 29일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1661746953533xRyuC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소지섭 X 김윤진 ‘자백’, 10월 26일 개봉 & 티저 포스터 공개]]></title>
-            <link>https://www.maxmovie.com/news/432990</link>
-            <guid>https://www.maxmovie.com/news/432990</guid>
-            <pubDate>Thu, 01 Sep 2022 06:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432990"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1661746744204I0sDU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/432990"><h4>소지섭 X 김윤진 ‘자백’, 10월 26일 개봉 &amp; 티저 포스터 공개</h4></a><span>08월 29일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1661746744204I0sDU.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
