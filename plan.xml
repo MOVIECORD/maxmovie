@@ -1,8 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.maxmovie.com/plan</id>
-    <title>맥스무비 ─ 기획</title>
-    <updated>2022-09-24T06:16:42.084Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.maxmovie.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>맥스무비 ─ 기획</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 24 Sep 2022 07:10:56 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘썬더버드’ - ‘애프터: 에버 해피’ - ‘늑대사냥’ - ‘달이 지는 밤’]]></title>
+            <link>https://www.maxmovie.com/news/433026</link>
+            <guid>https://www.maxmovie.com/news/433026</guid>
+            <pubDate>Sat, 24 Sep 2022 07:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1663813663839rJrVs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘홈리스’ - ‘9명의 번역가’ - ‘둠둠’ - ‘오! 마이 고스트’]]></title>
+            <link>https://www.maxmovie.com/news/433017</link>
+            <guid>https://www.maxmovie.com/news/433017</guid>
+            <pubDate>Sat, 24 Sep 2022 07:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1663230815685hyi11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘공조2: 인터내셔날’ - ‘블랙폰’ - ‘다 잘된 거야’ - ‘성적표의 김민영’]]></title>
+            <link>https://www.maxmovie.com/news/433006</link>
+            <guid>https://www.maxmovie.com/news/433006</guid>
+            <pubDate>Sat, 24 Sep 2022 07:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16625156629921MYUI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘리미트’ - ‘썬다운’ - ‘시맨틱 에러: 더 무비’ - ‘우리가 말하지 않은 것’]]></title>
+            <link>https://www.maxmovie.com/news/432998</link>
+            <guid>https://www.maxmovie.com/news/432998</guid>
+            <pubDate>Sat, 24 Sep 2022 07:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1662022786738nhPzW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘불릿 트레인’ - ‘육사오(6/45)’ - ‘사랑할 땐 누구나 최악이 된다’ - ‘말아’]]></title>
+            <link>https://www.maxmovie.com/news/432984</link>
+            <guid>https://www.maxmovie.com/news/432984</guid>
+            <pubDate>Sat, 24 Sep 2022 07:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432984"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1661405492721AtYuR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432984"><h4>[이번 주 뭘 볼까] ‘불릿 트레인’ - ‘육사오(6/45)’ - ‘사랑할 땐 누구나 최악이 된다’ - ‘말아’</h4></a><span>08월 26일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1661405492721AtYuR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘놉’ - ‘파로호’ - ‘풀타임’ - ‘녹턴’]]></title>
+            <link>https://www.maxmovie.com/news/432974</link>
+            <guid>https://www.maxmovie.com/news/432974</guid>
+            <pubDate>Sat, 24 Sep 2022 07:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1660807672790JFEil.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘헌트’ - ‘굿 럭 투 유, 리오 그랜드’ - ‘멋진 세계’ - ‘DC 리그 오브 슈퍼-펫’]]></title>
+            <link>https://www.maxmovie.com/news/432966</link>
+            <guid>https://www.maxmovie.com/news/432966</guid>
+            <pubDate>Sat, 24 Sep 2022 07:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1660205052766Xn9xC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘비상선언’ - ‘극장판 도라에몽: 진구의 우주소전쟁 리틀스타워즈 2021’ - ‘베르히만 아일랜드’ - ‘보일링 포인트’]]></title>
+            <link>https://www.maxmovie.com/news/432952</link>
+            <guid>https://www.maxmovie.com/news/432952</guid>
+            <pubDate>Sat, 24 Sep 2022 07:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16595805561399rSF0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘한산: 용의 출현’ - ‘뽀로로 극장판 드래곤캐슬 대모험’ - ‘임파서블 러브’ - ‘배드 럭 뱅잉’]]></title>
+            <link>https://www.maxmovie.com/news/432940</link>
+            <guid>https://www.maxmovie.com/news/432940</guid>
+            <pubDate>Sat, 24 Sep 2022 07:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1658883930268DaECq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘외계+인 1부’ - ‘썸머 필름을 타고!’ - ‘미니언즈2’ - ‘아이를 위한 아이’]]></title>
+            <link>https://www.maxmovie.com/news/432930</link>
+            <guid>https://www.maxmovie.com/news/432930</guid>
+            <pubDate>Sat, 24 Sep 2022 07:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432930"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1658371207060bsaUB.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432930"><h4>[이번 주 뭘 볼까] ‘외계+인 1부’ - ‘썸머 필름을 타고!’ - ‘미니언즈2’ - ‘아이를 위한 아이’</h4></a><span>07월 22일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1658371207060bsaUB.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
