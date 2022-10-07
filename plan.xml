@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Oct 2022 20:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 21:07:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -77,23 +77,6 @@
             <content:encoded><![CDATA[이번주 뭘볼까
 이번주 개봉작 소개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1660807672790JFEil.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이번 주 뭘 볼까] ‘헌트’ - ‘굿 럭 투 유, 리오 그랜드’ - ‘멋진 세계’ - ‘DC 리그 오브 슈퍼-펫’]]></title>
-            <link>https://www.maxmovie.com/news/432966</link>
-            <guid>https://www.maxmovie.com/news/432966</guid>
-            <pubDate>Tue, 04 Oct 2022 17:31:05 GMT</pubDate>
-            <content:encoded><![CDATA[이번주 뭘볼까
-이번주 개봉작 소개]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1660205052766Xn9xC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이번 주 뭘 볼까] ‘비상선언’ - ‘극장판 도라에몽: 진구의 우주소전쟁 리틀스타워즈 2021’ - ‘베르히만 아일랜드’ - ‘보일링 포인트’]]></title>
-            <link>https://www.maxmovie.com/news/432952</link>
-            <guid>https://www.maxmovie.com/news/432952</guid>
-            <pubDate>Tue, 04 Oct 2022 17:31:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432952"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16595805561399rSF0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432952"><h4>[이번 주 뭘 볼까] ‘비상선언’ - ‘극장판 도라에몽: 진구의 우주소전쟁 리틀스타워즈 2021’ - ‘베르히만 아일랜드’ - ‘보일링 포인트’</h4></a><span>08월 05일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16595805561399rSF0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
