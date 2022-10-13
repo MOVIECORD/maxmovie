@@ -1,8 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.maxmovie.com/plan</id>
-    <title>맥스무비 ─ 기획</title>
-    <updated>2022-10-13T05:17:03.057Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.maxmovie.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>맥스무비 ─ 기획</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 13 Oct 2022 06:33:56 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘에브리씽 에브리웨어 올 앳 원스’ - ‘아나이스 인 러브’ - ‘스톰보이’ - ‘오펀: 천사의 탄생’]]></title>
+            <link>https://www.maxmovie.com/news/433053</link>
+            <guid>https://www.maxmovie.com/news/433053</guid>
+            <pubDate>Thu, 13 Oct 2022 06:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1665635944745J9GKj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘거래완료’ - ‘애프터 미투’ - ‘스파이더맨: 노 웨이 홈 ‘펀버전’’ - ‘은하철도 999 - 극장판’]]></title>
+            <link>https://www.maxmovie.com/news/433044</link>
+            <guid>https://www.maxmovie.com/news/433044</guid>
+            <pubDate>Thu, 13 Oct 2022 06:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1665035611593lMmXQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘정직한 후보2’ - ‘2차 송환’ - ‘성덕’ - ‘인생은 아름다워’]]></title>
+            <link>https://www.maxmovie.com/news/433035</link>
+            <guid>https://www.maxmovie.com/news/433035</guid>
+            <pubDate>Thu, 13 Oct 2022 06:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1664428995770OvVPJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘썬더버드’ - ‘애프터: 에버 해피’ - ‘늑대사냥’ - ‘달이 지는 밤’]]></title>
+            <link>https://www.maxmovie.com/news/433026</link>
+            <guid>https://www.maxmovie.com/news/433026</guid>
+            <pubDate>Thu, 13 Oct 2022 06:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1663813663839rJrVs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘홈리스’ - ‘9명의 번역가’ - ‘둠둠’ - ‘오! 마이 고스트’]]></title>
+            <link>https://www.maxmovie.com/news/433017</link>
+            <guid>https://www.maxmovie.com/news/433017</guid>
+            <pubDate>Thu, 13 Oct 2022 06:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433017"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1663230815685hyi11.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433017"><h4>[이번 주 뭘 볼까] ‘홈리스’ - ‘9명의 번역가’ - ‘둠둠’ - ‘오! 마이 고스트’</h4></a><span>09월 16일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1663230815685hyi11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘공조2: 인터내셔날’ - ‘블랙폰’ - ‘다 잘된 거야’ - ‘성적표의 김민영’]]></title>
+            <link>https://www.maxmovie.com/news/433006</link>
+            <guid>https://www.maxmovie.com/news/433006</guid>
+            <pubDate>Thu, 13 Oct 2022 06:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16625156629921MYUI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘리미트’ - ‘썬다운’ - ‘시맨틱 에러: 더 무비’ - ‘우리가 말하지 않은 것’]]></title>
+            <link>https://www.maxmovie.com/news/432998</link>
+            <guid>https://www.maxmovie.com/news/432998</guid>
+            <pubDate>Thu, 13 Oct 2022 06:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1662022786738nhPzW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘불릿 트레인’ - ‘육사오(6/45)’ - ‘사랑할 땐 누구나 최악이 된다’ - ‘말아’]]></title>
+            <link>https://www.maxmovie.com/news/432984</link>
+            <guid>https://www.maxmovie.com/news/432984</guid>
+            <pubDate>Thu, 13 Oct 2022 06:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1661405492721AtYuR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘놉’ - ‘파로호’ - ‘풀타임’ - ‘녹턴’]]></title>
+            <link>https://www.maxmovie.com/news/432974</link>
+            <guid>https://www.maxmovie.com/news/432974</guid>
+            <pubDate>Thu, 13 Oct 2022 06:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[이번주 뭘볼까
+이번주 개봉작 소개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1660807672790JFEil.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이번 주 뭘 볼까] ‘헌트’ - ‘굿 럭 투 유, 리오 그랜드’ - ‘멋진 세계’ - ‘DC 리그 오브 슈퍼-펫’]]></title>
+            <link>https://www.maxmovie.com/news/432966</link>
+            <guid>https://www.maxmovie.com/news/432966</guid>
+            <pubDate>Thu, 13 Oct 2022 06:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432966"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1660205052766Xn9xC.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432966"><h4>[이번 주 뭘 볼까] ‘헌트’ - ‘굿 럭 투 유, 리오 그랜드’ - ‘멋진 세계’ - ‘DC 리그 오브 슈퍼-펫’</h4></a><span>08월 12일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1660205052766Xn9xC.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
