@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Nov 2022 18:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Nov 2022 19:05:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -77,23 +77,6 @@
             <content:encoded><![CDATA[이번주 뭘볼까
 이번주 개봉작 소개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1663230815685hyi11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이번 주 뭘 볼까] ‘공조2: 인터내셔날’ - ‘블랙폰’ - ‘다 잘된 거야’ - ‘성적표의 김민영’]]></title>
-            <link>https://www.maxmovie.com/news/433006</link>
-            <guid>https://www.maxmovie.com/news/433006</guid>
-            <pubDate>Thu, 03 Nov 2022 00:41:40 GMT</pubDate>
-            <content:encoded><![CDATA[이번주 뭘볼까
-이번주 개봉작 소개]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16625156629921MYUI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이번 주 뭘 볼까] ‘리미트’ - ‘썬다운’ - ‘시맨틱 에러: 더 무비’ - ‘우리가 말하지 않은 것’]]></title>
-            <link>https://www.maxmovie.com/news/432998</link>
-            <guid>https://www.maxmovie.com/news/432998</guid>
-            <pubDate>Thu, 03 Nov 2022 00:41:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/432998"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1662022786738nhPzW.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/432998"><h4>[이번 주 뭘 볼까] ‘리미트’ - ‘썬다운’ - ‘시맨틱 에러: 더 무비’ - ‘우리가 말하지 않은 것’</h4></a><span>09월 02일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1662022786738nhPzW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
