@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 00:38:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 02:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,7 +44,7 @@
             <link>https://www.maxmovie.com/news/433193</link>
             <guid>https://www.maxmovie.com/news/433193</guid>
             <pubDate>Fri, 17 Feb 2023 00:37:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433193"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1676516017363z5cgz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433193"><h4>[이번 주 뭘 볼까] ‘피터 본 칸트’ - ‘카메라를 멈추면 안돼! 프랑스에서도’ - ‘어메이징 모리스’ - ‘앤트맨과 와스프: 퀀텀매니아’</h4></a><span>8분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433193"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1676516017363z5cgz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433193"><h4>[이번 주 뭘 볼까] ‘피터 본 칸트’ - ‘카메라를 멈추면 안돼! 프랑스에서도’ - ‘어메이징 모리스’ - ‘앤트맨과 와스프: 퀀텀매니아’</h4></a><span>1시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1676516017363z5cgz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -258,7 +258,7 @@
             <title><![CDATA[[이번 주 뭘 볼까] ‘피터 본 칸트’ - ‘카메라를 멈추면 안돼! 프랑스에서도’ - ‘어메이징 모리스’ - ‘앤트맨과 와스프: 퀀텀매니아’ (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/433193</link>
             <guid>https://www.maxmovie.com/news/433193</guid>
-            <pubDate>Fri, 17 Feb 2023 00:38:09 GMT</pubDate>
+            <pubDate>Fri, 17 Feb 2023 00:37:48 GMT</pubDate>
             <content:encoded><![CDATA[이번주 뭘볼까
 이번주 개봉작 소개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1676516017363z5cgz.jpg" length="0" type="image/jpg"/>
