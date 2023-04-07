@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 14:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 15:06:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16808524667993Lv60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[무릎 꿇은 이승기, 이다인에 '결혼해줄래']]></title>
+            <link>https://www.maxmovie.com/news/433284</link>
+            <guid>https://www.maxmovie.com/news/433284</guid>
+            <pubDate>Fri, 07 Apr 2023 15:05:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433284"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1680870792072lFf68.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433284"><h4>무릎 꿇은 이승기, 이다인에 '결혼해줄래'</h4></a><span>1분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1680870792072lFf68.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['우블' 발달장애 화가 정은혜, 개인전 '포옹' 개최]]></title>
             <link>https://www.maxmovie.com/news/433277</link>
             <guid>https://www.maxmovie.com/news/433277</guid>
             <pubDate>Fri, 07 Apr 2023 01:54:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433277"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16808289107814PoFR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433277"><h4>'우블' 발달장애 화가 정은혜, 개인전 '포옹' 개최 </h4></a><span>11시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[5일 아트스페이스 선  개막 
+"따뜻함, 사랑, 우정 안에서 사람들을 꼭 안아주고 싶은 작품들" 소개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16808289107814PoFR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,17 +88,8 @@
             <link>https://www.maxmovie.com/news/433270</link>
             <guid>https://www.maxmovie.com/news/433270</guid>
             <pubDate>Thu, 06 Apr 2023 07:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 시리즈 '성난 사람들' 6일 공개
-올해 아카데미상 9관왕 제작사 A24 합작]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433270"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1680761313322RF1gF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/433270"><h4>'미나리' 스티븐 연,  할리우드 최고 제작사와 시리즈 선보인다</h4></a><span>04월 06일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1680761313322RF1gF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스 프랫 온다…'가오갤' 팀 내한]]></title>
-            <link>https://www.maxmovie.com/news/433269</link>
-            <guid>https://www.maxmovie.com/news/433269</guid>
-            <pubDate>Fri, 07 Apr 2023 01:54:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433269"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1680746753203ydyma.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/433269"><h4>크리스 프랫 온다…'가오갤' 팀 내한</h4></a><span>04월 06일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1680746753203ydyma.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
