@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 07:05:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 08:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,6 +26,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1680768171677Oe1hQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[허진호 감독과 박상영 작가의 만남, '대도시의 사랑법']]></title>
+            <link>https://www.maxmovie.com/news/433271</link>
+            <guid>https://www.maxmovie.com/news/433271</guid>
+            <pubDate>Fri, 07 Apr 2023 05:06:24 GMT</pubDate>
+            <content:encoded><![CDATA[박상영 작가 소설  드라마로 탄생
+4명의 감독이 만드는 4가지 이야기]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1680761910343kdxEO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['우블' 발달장애 화가 정은혜, 개인전 '포옹' 개최]]></title>
             <link>https://www.maxmovie.com/news/433277</link>
             <guid>https://www.maxmovie.com/news/433277</guid>
@@ -35,20 +44,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16808289107814PoFR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[단독] 장동건, 다큐로 세계적 TV 어워드 노린다]]></title>
-            <link>https://www.maxmovie.com/news/433256</link>
-            <guid>https://www.maxmovie.com/news/433256</guid>
-            <pubDate>Fri, 07 Apr 2023 06:09:03 GMT</pubDate>
-            <content:encoded><![CDATA['장동건의 백 투 더 북스' 美 뉴욕TV&amp;필름 어워드 본선 초청
-6월 말 아르헨티나·미국 현지 제작에도 프리젠터로 참여]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1680585645383Y2NQk.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[영화감독들, 창작자 '정당한 보상' 위해 거리로]]></title>
+            <link>https://www.maxmovie.com/news/433281</link>
+            <guid>https://www.maxmovie.com/news/433281</guid>
+            <pubDate>Fri, 07 Apr 2023 08:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433281"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16808524667993Lv60.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433281"><h4>영화감독들, 창작자 '정당한 보상' 위해 거리로</h4></a><span>40분 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16808524667993Lv60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안성기, 4·19민주평화상 선정]]></title>
             <link>https://www.maxmovie.com/news/433275</link>
             <guid>https://www.maxmovie.com/news/433275</guid>
             <pubDate>Thu, 06 Apr 2023 23:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433275"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1680800312908yOCat.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433275"><h4>안성기, 4·19민주평화상 선정</h4></a><span>9시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[안성기(사진=아티스트컴퍼니)국민배우 안성기가 올해 4.19민주평화상을 수상한다.4.19민주평화상 운영위원회는 6일 제4회 수상자에 안성기를 선정했다고 밝혔다.안성기는 1993년부터 30여년 간 국제구호기금인 유니세프의 친선대사로 활동하며 봉사 및 구호활동을 이어왔다. 2011년부터 재단법인 신영균예술문화재단 이사장으로 활동하며 공익사업을 이끌어온 공로 등이]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1680800312908yOCat.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -58,15 +66,6 @@
             <pubDate>Thu, 06 Apr 2023 23:05:24 GMT</pubDate>
             <content:encoded><![CDATA[이병헌(사진=BA엔터테인먼트)배우 이병헌과 드라마 '사랑의 불시착'의 박지은 작가가 K콘텐츠의 우수성을 알린다.이병헌과 박 작가는 오는 19일(현지시간) 미국 스탠퍼드대 월터 쇼렌스틴 아시아태평양연구소(APRAC)가 주관하는 '한류의 미래:글로벌 무대의 한국영화' 콘퍼런스에 초청됐다.이번 콘퍼런스는 연구소 설립 40주년을 기념해 열린다.두 사람은 스탠퍼드대]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1680798798154ytX45.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허진호 감독과 박상영 작가의 만남, '대도시의 사랑법']]></title>
-            <link>https://www.maxmovie.com/news/433271</link>
-            <guid>https://www.maxmovie.com/news/433271</guid>
-            <pubDate>Fri, 07 Apr 2023 05:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[박상영 작가 소설  드라마로 탄생
-4명의 감독이 만드는 4가지 이야기]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1680761910343kdxEO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['미나리' 스티븐 연,  할리우드 최고 제작사와 시리즈 선보인다]]></title>
@@ -86,12 +85,12 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1680746753203ydyma.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김서형, 거짓말이 낳은 파국 속으로]]></title>
-            <link>https://www.maxmovie.com/news/433267</link>
-            <guid>https://www.maxmovie.com/news/433267</guid>
-            <pubDate>Thu, 06 Apr 2023 07:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433267"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1680741510067lEod0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/433267"><h4>김서형, 거짓말이 낳은 파국 속으로</h4></a><span>04월 06일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1680741510067lEod0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이용자 급감 넷플릭스, 신규 콘텐츠로 반등 이룰까]]></title>
+            <link>https://www.maxmovie.com/news/433268</link>
+            <guid>https://www.maxmovie.com/news/433268</guid>
+            <pubDate>Fri, 07 Apr 2023 08:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433268"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1680746479817mEVKT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433268"><h4>이용자 급감 넷플릭스, 신규 콘텐츠로 반등 이룰까 </h4></a><span>04월 06일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1680746479817mEVKT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
