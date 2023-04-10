@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 09:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 10:07:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1680939248615CcsiI.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 장항준 감독의 신작! '리바운드']]></title>
+            <link>https://www.maxmovie.com/news/433294</link>
+            <guid>https://www.maxmovie.com/news/433294</guid>
+            <pubDate>Mon, 10 Apr 2023 10:06:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433294"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681112026759Dboyb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433294"><h4>[오늘 뭘 볼까] 장항준 감독의 신작! '리바운드'</h4></a><span>47분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681112026759Dboyb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이 시국에? '음주운전 삼진아웃' 호란 등판에 비난 폭주]]></title>
             <link>https://www.maxmovie.com/news/433293</link>
             <guid>https://www.maxmovie.com/news/433293</guid>
             <pubDate>Mon, 10 Apr 2023 08:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433293"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681109882710E2oJy.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433293"><h4>이 시국에? '음주운전 삼진아웃' 호란 등판에 비난 폭주 </h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['복면가왕' 다시보기 중단, 제작진 사과 
+국민정서 고려하지 않은 제작진의 무책임한 태도]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681109882710E2oJy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,16 +91,8 @@
             <link>https://www.maxmovie.com/news/433281</link>
             <guid>https://www.maxmovie.com/news/433281</guid>
             <pubDate>Mon, 10 Apr 2023 09:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[한국영화감독조합, 저작권법 개정 강조]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433281"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16808524667993Lv60.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433281"><h4>영화감독들, 창작자 '정당한 보상' 위해 거리로</h4></a><span>04월 07일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16808524667993Lv60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장원영 언니, 데뷔 준비중]]></title>
-            <link>https://www.maxmovie.com/news/433280</link>
-            <guid>https://www.maxmovie.com/news/433280</guid>
-            <pubDate>Fri, 07 Apr 2023 16:07:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433280"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1680843978784kEzny.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433280"><h4>장원영 언니, 데뷔 준비중</h4></a><span>04월 07일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1680843978784kEzny.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
