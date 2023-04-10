@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 02:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 03:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16808524667993Lv60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['롱디' 커플 장동윤 박유나의 "언택트 러브스토리"]]></title>
+            <link>https://www.maxmovie.com/news/433291</link>
+            <guid>https://www.maxmovie.com/news/433291</guid>
+            <pubDate>Mon, 10 Apr 2023 03:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433291"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681093686631G05oK.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433291"><h4>'롱디' 커플 장동윤 박유나의 "언택트 러브스토리"</h4></a><span>34분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681093686631G05oK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장원영 언니, 데뷔 준비중]]></title>
             <link>https://www.maxmovie.com/news/433280</link>
             <guid>https://www.maxmovie.com/news/433280</guid>
             <pubDate>Fri, 07 Apr 2023 16:07:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433280"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1680843978784kEzny.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433280"><h4>장원영 언니, 데뷔 준비중</h4></a><span>04월 07일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[송승헌·유연석 소속사와 전속계약]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1680843978784kEzny.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +88,8 @@
             <link>https://www.maxmovie.com/news/433277</link>
             <guid>https://www.maxmovie.com/news/433277</guid>
             <pubDate>Fri, 07 Apr 2023 01:54:15 GMT</pubDate>
-            <content:encoded><![CDATA[5일 아트스페이스 선  개막 
-"따뜻함, 사랑, 우정 안에서 사람들을 꼭 안아주고 싶은 작품들" 소개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433277"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16808289107814PoFR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433277"><h4>'우블' 발달장애 화가 정은혜, 개인전 '포옹' 개최 </h4></a><span>04월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16808289107814PoFR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전도연 "이 정도로 잘하면 천직"]]></title>
-            <link>https://www.maxmovie.com/news/433273</link>
-            <guid>https://www.maxmovie.com/news/433273</guid>
-            <pubDate>Mon, 10 Apr 2023 01:55:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433273"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1680797879729OSp2V.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/433273"><h4>전도연 "이 정도로 잘하면 천직"</h4></a><span>04월 07일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1680797879729OSp2V.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
