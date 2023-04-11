@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 21:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 22:05:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음주운전 곽도원 약식기소]]></title>
+            <link>https://www.maxmovie.com/news/433305</link>
+            <guid>https://www.maxmovie.com/news/433305</guid>
+            <pubDate>Tue, 11 Apr 2023 22:04:50 GMT</pubDate>
+            <content:encoded><![CDATA[벌금 1000만원 약식기소
+동승자 무혐의 처분]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681203416818PmZbA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] ‘에어 조던’의 성공적인 탄생기! 영화 ‘에어’]]></title>
             <link>https://www.maxmovie.com/news/433303</link>
@@ -38,8 +47,7 @@
             <link>https://www.maxmovie.com/news/433300</link>
             <guid>https://www.maxmovie.com/news/433300</guid>
             <pubDate>Tue, 11 Apr 2023 06:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[영화제, 영화상 통합 운영
-제10회 들꽃영화상 예심 결과 발표]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433300"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16811896411721kH7s.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433300"><h4>10돌 맞은 들꽃영화제 새단장</h4></a><span>16시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16811896411721kH7s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -47,7 +55,8 @@
             <link>https://www.maxmovie.com/news/433299</link>
             <guid>https://www.maxmovie.com/news/433299</guid>
             <pubDate>Tue, 11 Apr 2023 02:26:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433299"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681178113725d61uQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433299"><h4>경찰, '마약 혐의' 유아인 공범 수사 착수</h4></a><span>19시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[프로포폴·대마·코카인·케타민 투약 혐의
+공범 수사 중…유아인 2차 소환 조사 예정]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681178113725d61uQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/433293</link>
             <guid>https://www.maxmovie.com/news/433293</guid>
             <pubDate>Mon, 10 Apr 2023 08:09:11 GMT</pubDate>
-            <content:encoded><![CDATA['복면가왕' 다시보기 중단, 제작진 사과 
-국민정서 고려하지 않은 제작진의 무책임한 태도]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433293"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681109882710E2oJy.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433293"><h4>이 시국에? '음주운전 삼진아웃' 호란 등판에 비난 폭주 </h4></a><span>04월 10일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681109882710E2oJy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지(Z)들이 '스즈메'에 빠진 이유]]></title>
-            <link>https://www.maxmovie.com/news/433292</link>
-            <guid>https://www.maxmovie.com/news/433292</guid>
-            <pubDate>Mon, 10 Apr 2023 08:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433292"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681094831676V4IdR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433292"><h4>지(Z)들이 '스즈메'에 빠진 이유</h4></a><span>04월 10일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681094831676V4IdR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
