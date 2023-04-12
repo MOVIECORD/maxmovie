@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 05:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 06:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16811753137623jjPA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 스티븐 연이 보여주는 짜릿한 복수! ‘성난 사람들’ (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/433310</link>
+            <guid>https://www.maxmovie.com/news/433310</guid>
+            <pubDate>Wed, 12 Apr 2023 06:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433310"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681277073951Cf0Wh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433310"><h4>[오늘 뭘 볼까] 스티븐 연이 보여주는 짜릿한 복수! ‘성난 사람들’</h4></a><span>23분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681277073951Cf0Wh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[마약 투약 유아인, 확인되지 않은 뉴스에 '법적 대응' (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/433309</link>
             <guid>https://www.maxmovie.com/news/433309</guid>
             <pubDate>Wed, 12 Apr 2023 03:06:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433309"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681266553756zHaez.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433309"><h4>마약 투약 유아인, 확인되지 않은 뉴스에 '법적 대응'  </h4></a><span>2시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA["경찰 조사 후 처벌 달게 받겠다" 입장 강조 
+졸피뎀, 이태원 클럽 등 거짓 내용 확산은 경계]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681266553756zHaez.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/433300</link>
             <guid>https://www.maxmovie.com/news/433300</guid>
             <pubDate>Tue, 11 Apr 2023 06:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[영화제, 영화상 통합 운영
-제10회 들꽃영화상 예심 결과 발표]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433300"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16811896411721kH7s.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433300"><h4>10돌 맞은 들꽃영화제 새단장</h4></a><span>04월 11일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16811896411721kH7s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰, '마약 혐의' 유아인 공범 수사 착수 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/433299</link>
-            <guid>https://www.maxmovie.com/news/433299</guid>
-            <pubDate>Tue, 11 Apr 2023 02:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433299"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681178113725d61uQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433299"><h4>경찰, '마약 혐의' 유아인 공범 수사 착수</h4></a><span>04월 11일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681178113725d61uQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전도연 "이 정도로 잘하면 천직" (맥스무비 ─ 인터뷰)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1646187587934gvBQc.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 스티븐 연이 보여주는 짜릿한 복수! ‘성난 사람들’ (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/433310</link>
+            <guid>https://www.maxmovie.com/news/433310</guid>
+            <pubDate>Wed, 12 Apr 2023 06:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ 넷플릭스 오리지널 시리즈 ‘성난 사람들(비프)’넷플릭스 시리즈 '성난 사람들' (사진제공 = 넷플릭스)넷플릭스 시리즈 ‘성난 사람들’은 일이 잘 풀리지 않는 도급업자 대니와 삶이 만족스럽지 않은 사업가 에이미 사이에서 벌어진 난폭 운전 사건이 불러오는 여파를 담은 작품이다. 주차장에서 사고를 낼 뻔하고 욕설을 날린 채 내]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681277073951Cf0Wh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[마약 투약 유아인, 확인되지 않은 뉴스에 '법적 대응' (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/433309</link>
             <guid>https://www.maxmovie.com/news/433309</guid>
@@ -295,8 +303,7 @@
             <link>https://www.maxmovie.com/news/433305</link>
             <guid>https://www.maxmovie.com/news/433305</guid>
             <pubDate>Tue, 11 Apr 2023 21:04:17 GMT</pubDate>
-            <content:encoded><![CDATA[벌금 1000만원 약식기소
-동승자 무혐의 처분]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433305"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681203416818PmZbA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433305"><h4>음주운전 곽도원 약식기소</h4></a><span>9시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681203416818PmZbA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -304,7 +311,8 @@
             <link>https://www.maxmovie.com/news/433304</link>
             <guid>https://www.maxmovie.com/news/433304</guid>
             <pubDate>Wed, 12 Apr 2023 00:31:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433304"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681204008152HfT4e.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433304"><h4>새 신랑 이승기, 신혼 없이 '워커홀릭' 모드 </h4></a><span>5시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[영화 '대가족' 촬영에 아시아 투어까지
+신혼 생활 즐길 틈 없이 왕성한 활동]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681204008152HfT4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -338,17 +346,16 @@
             <link>https://www.maxmovie.com/news/433300</link>
             <guid>https://www.maxmovie.com/news/433300</guid>
             <pubDate>Tue, 11 Apr 2023 06:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[영화제, 영화상 통합 운영
-제10회 들꽃영화상 예심 결과 발표]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433300"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16811896411721kH7s.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433300"><h4>10돌 맞은 들꽃영화제 새단장</h4></a><span>04월 11일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16811896411721kH7s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[경찰, '마약 혐의' 유아인 공범 수사 착수 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/433299</link>
-            <guid>https://www.maxmovie.com/news/433299</guid>
-            <pubDate>Tue, 11 Apr 2023 02:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433299"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681178113725d61uQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433299"><h4>경찰, '마약 혐의' 유아인 공범 수사 착수</h4></a><span>04월 11일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681178113725d61uQ.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[오늘 뭘 볼까] 스티븐 연이 보여주는 짜릿한 복수! ‘성난 사람들’ (맥스무비 ─ OTT)]]></title>
+            <link>https://www.maxmovie.com/news/433310</link>
+            <guid>https://www.maxmovie.com/news/433310</guid>
+            <pubDate>Wed, 12 Apr 2023 06:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ 넷플릭스 오리지널 시리즈 ‘성난 사람들(비프)’넷플릭스 시리즈 '성난 사람들' (사진제공 = 넷플릭스)넷플릭스 시리즈 ‘성난 사람들’은 일이 잘 풀리지 않는 도급업자 대니와 삶이 만족스럽지 않은 사업가 에이미 사이에서 벌어진 난폭 운전 사건이 불러오는 여파를 담은 작품이다. 주차장에서 사고를 낼 뻔하고 욕설을 날린 채 내]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681277073951Cf0Wh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무적의 K직장인은 다르다? 드라마 '레이스'가 온다 (맥스무비 ─ OTT)]]></title>
@@ -382,7 +389,7 @@
             <link>https://www.maxmovie.com/news/433234</link>
             <guid>https://www.maxmovie.com/news/433234</guid>
             <pubDate>Fri, 10 Mar 2023 03:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 ‘더 글로리’가 제작진과 배우가 직접 밝힌 기대 포인트를 공개했다.넷플릭스유년 시절 폭력으로 영혼까지 부서진 한 여자가 온 생을 걸어 치밀하게 준비한 처절한 복수와 그 소용돌이에 빠져드는 이들의 이야기를 그린 넷플릭스 시리즈 ‘더 글로리’의 파트2가 드디어 오늘 공개된다.오늘 ‘더 글로리’ 파트2의 공개를 앞두고 김은숙 작가, 안길호 감독, 배우들]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433234"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1678416564842djeVC.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/433234"><h4>넷플릭스 ‘더 글로리’ 파트2, 작가-감독-배우가 밝힌 기대 포인트는?</h4></a><span>03월 10일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1678416564842djeVC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -390,7 +397,7 @@
             <link>https://www.maxmovie.com/news/433226</link>
             <guid>https://www.maxmovie.com/news/433226</guid>
             <pubDate>Wed, 08 Mar 2023 07:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433226"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1678256752506okLRY.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/433226"><h4>크리스 에반스 X 아나 디 아르마스 ‘고스팅’, 로맨스와 액션의 환상적 만남!</h4></a><span>03월 08일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[‘캡틴 아메리카’ 크리스 에반스와 최근 할리우드에서 가장 핫한 배우 아나 디 아르마스가 출연하는 Apple TV+의 영화 ‘고스팅’ - Ghosted이 4월 21일 전 세계 공개를 확정지었다.Apple TV+크리스 에반스와 아나 디 아르마스의 출연으로 뜨거운 화제를 모으고 있는 영화 ‘고스팅’은 비밀요원 ‘세이디’(아나 디 아르마스)와 그녀와 사랑에 빠진]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1678256752506okLRY.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -422,16 +429,8 @@
             <link>https://www.maxmovie.com/news/433204</link>
             <guid>https://www.maxmovie.com/news/433204</guid>
             <pubDate>Tue, 21 Feb 2023 08:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 영화 ‘길복순’이 5인의 캐릭터 스틸을 공개했다.넷플릭스넷플릭스넷플릭스넷플릭스넷플릭스넷플릭스넷플릭스넷플릭스넷플릭스넷플릭스넷플릭스지난 2월 18일 베를린 국제영화제에서 공식 상영해 화제를 모았던 영화 ‘길복순’이 5인 5색 캐릭터의 개성이 돋보이는 스틸을 공개했다. ‘길복순’은 청부살인업계의 전설적인 킬러 길복순이 회사와 재계약 직전, 죽거나 또는]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433204"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1676965356025ix1CO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/433204"><h4>전도연X설경구X김시아X이솜X구교환 ‘길복순’ 독보적인 캐릭터들의 향연!</h4></a><span>02월 21일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1676965356025ix1CO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘만달로리안’ 시즌 3, 빛나는 존재감 ‘그로구’의 매력 포인트 (맥스무비 ─ OTT)]]></title>
-            <link>https://www.maxmovie.com/news/433201</link>
-            <guid>https://www.maxmovie.com/news/433201</guid>
-            <pubDate>Mon, 20 Feb 2023 15:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433201"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1676871763250G7QqO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/433201"><h4>‘만달로리안’ 시즌 3, 빛나는 존재감 ‘그로구’의 매력 포인트</h4></a><span>02월 20일<!-- --> · <a href="/writer/114">이정빈 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1676871763250G7QqO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['러브 바이러스' 이승기 이다인 웨딩화보 (맥스무비 ─ 포토)]]></title>
