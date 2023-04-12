@@ -1,8 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.maxmovie.com/plan</id>
-    <title>맥스무비 ─ 기획</title>
-    <updated>2023-04-12T09:06:14.954Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.maxmovie.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>맥스무비 ─ 기획</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 12 Apr 2023 10:07:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 스티븐 연이 보여주는 짜릿한 복수! ‘성난 사람들’]]></title>
+            <link>https://www.maxmovie.com/news/433310</link>
+            <guid>https://www.maxmovie.com/news/433310</guid>
+            <pubDate>Wed, 12 Apr 2023 10:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ 넷플릭스 오리지널 시리즈 ‘성난 사람들(비프)’넷플릭스 시리즈 '성난 사람들' (사진제공 = 넷플릭스)넷플릭스 시리즈 ‘성난 사람들’은 일이 잘 풀리지 않는 도급업자 대니와 삶이 만족스럽지 않은 사업가 에이미 사이에서 벌어진 난폭 운전 사건이 불러오는 여파를 담은 작품이다. 주차장에서 사고를 낼 뻔하고 욕설을 날린 채 내]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681277073951Cf0Wh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마약 투약 유아인, 확인되지 않은 뉴스에 '법적 대응']]></title>
+            <link>https://www.maxmovie.com/news/433309</link>
+            <guid>https://www.maxmovie.com/news/433309</guid>
+            <pubDate>Wed, 12 Apr 2023 10:07:10 GMT</pubDate>
+            <content:encoded><![CDATA["경찰 조사 후 처벌 달게 받겠다" 입장 강조 
+졸피뎀, 이태원 클럽 등 거짓 내용 확산은 경계]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681266553756zHaez.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강수연 추모식, 김현철이 부르는 '그대 안의 블루']]></title>
+            <link>https://www.maxmovie.com/news/433307</link>
+            <guid>https://www.maxmovie.com/news/433307</guid>
+            <pubDate>Wed, 12 Apr 2023 10:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[5월7일 기일 맞춰 '강수연, 영화롭게 오랫동안' 개막
+가수 김현철과 '그대 안의 블루' 특별 공연]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681258559888XVH2O.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[류승완 감독과 김혜수 염정아의 선전포고!]]></title>
+            <link>https://www.maxmovie.com/news/433306</link>
+            <guid>https://www.maxmovie.com/news/433306</guid>
+            <pubDate>Wed, 12 Apr 2023 10:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '밀수' 7월26일 개봉 확정
+해양범죄활극, 여름 성수기 출격]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681257436294r8xLz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음주운전 곽도원 약식기소]]></title>
+            <link>https://www.maxmovie.com/news/433305</link>
+            <guid>https://www.maxmovie.com/news/433305</guid>
+            <pubDate>Wed, 12 Apr 2023 10:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433305"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681203416818PmZbA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433305"><h4>음주운전 곽도원 약식기소</h4></a><span>13시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681203416818PmZbA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새 신랑 이승기, 신혼 없이 '워커홀릭' 모드]]></title>
+            <link>https://www.maxmovie.com/news/433304</link>
+            <guid>https://www.maxmovie.com/news/433304</guid>
+            <pubDate>Wed, 12 Apr 2023 10:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '대가족' 촬영에 아시아 투어까지
+신혼 생활 즐길 틈 없이 왕성한 활동]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681204008152HfT4e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] ‘에어 조던’의 성공적인 탄생기! 영화 ‘에어’]]></title>
+            <link>https://www.maxmovie.com/news/433303</link>
+            <guid>https://www.maxmovie.com/news/433303</guid>
+            <pubDate>Wed, 12 Apr 2023 10:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ ‘에어’영화 ‘에어’ (사진제공 = 워너브러더스 코리아)‘에어’는 1984년, 업계 꼴찌 나이키를 최고의 브랜드로 만들기 위해 NBA 신인 선수였던 마이클 조던에게 모든 것을 걸었던 게임체인저의 드라마틱한 성공 전략을 그린 영화.1984년, 업계 꼴찌를 벗어나지 못하고 있는 나이키는 브랜드의 간판이 되어 줄 새로운 모델을]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681197313818cRLVg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["스티븐 연은 우리를 실망시키지 않는다"]]></title>
+            <link>https://www.maxmovie.com/news/433302</link>
+            <guid>https://www.maxmovie.com/news/433302</guid>
+            <pubDate>Wed, 12 Apr 2023 10:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 오리지널 시리즈 '비프'  활약
+봉준호 감독과 재회한 '미키7' 등 관심]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681184608742CmPjH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 채율 사망…향년 27세]]></title>
+            <link>https://www.maxmovie.com/news/433301</link>
+            <guid>https://www.maxmovie.com/news/433301</guid>
+            <pubDate>Wed, 12 Apr 2023 10:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 '웨딩 임파서블' 출연 앞두고
+소속사 "고인의 명복 빌어달라"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681194923174RPFqt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10돌 맞은 들꽃영화제 새단장]]></title>
+            <link>https://www.maxmovie.com/news/433300</link>
+            <guid>https://www.maxmovie.com/news/433300</guid>
+            <pubDate>Wed, 12 Apr 2023 10:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433300"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16811896411721kH7s.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433300"><h4>10돌 맞은 들꽃영화제 새단장</h4></a><span>04월 11일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16811896411721kH7s.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
