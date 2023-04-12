@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 02:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 03:07:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16811753137623jjPA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마약 투약 유아인, 확인되지 않은 뉴스에 '법적 대응' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/433309</link>
+            <guid>https://www.maxmovie.com/news/433309</guid>
+            <pubDate>Wed, 12 Apr 2023 03:06:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433309"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681266553756zHaez.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433309"><h4>마약 투약 유아인, 확인되지 않은 뉴스에 '법적 대응'  </h4></a><span>30분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681266553756zHaez.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[강수연 추모식, 김현철이 부르는 '그대 안의 블루' (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/433307</link>
             <guid>https://www.maxmovie.com/news/433307</guid>
             <pubDate>Wed, 12 Apr 2023 01:58:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433307"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681258559888XVH2O.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433307"><h4>강수연 추모식, 김현철이 부르는 '그대 안의 블루'</h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[5월7일 기일 맞춰 '강수연, 영화롭게 오랫동안' 개막
+가수 김현철과 '그대 안의 블루' 특별 공연]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681258559888XVH2O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/433299</link>
             <guid>https://www.maxmovie.com/news/433299</guid>
             <pubDate>Tue, 11 Apr 2023 02:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[프로포폴·대마·코카인·케타민 투약 혐의
-공범 수사 중…유아인 2차 소환 조사 예정]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433299"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681178113725d61uQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433299"><h4>경찰, '마약 혐의' 유아인 공범 수사 착수</h4></a><span>04월 11일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681178113725d61uQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퇴임 1년 만에... 다큐 '문재인입니다' 개봉 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/433297</link>
-            <guid>https://www.maxmovie.com/news/433297</guid>
-            <pubDate>Tue, 11 Apr 2023 01:57:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433297"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681171829083R1jQ6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433297"><h4>퇴임 1년 만에... 다큐 '문재인입니다' 개봉 </h4></a><span>04월 11일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681171829083R1jQ6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전도연 "이 정도로 잘하면 천직" (맥스무비 ─ 인터뷰)]]></title>
@@ -264,6 +264,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1646187587934gvBQc.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[마약 투약 유아인, 확인되지 않은 뉴스에 '법적 대응' (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/433309</link>
+            <guid>https://www.maxmovie.com/news/433309</guid>
+            <pubDate>Wed, 12 Apr 2023 03:06:58 GMT</pubDate>
+            <content:encoded><![CDATA["경찰 조사 후 처벌 달게 받겠다" 입장 강조 
+졸피뎀, 이태원 클럽 등 거짓 내용 확산은 경계]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681266553756zHaez.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[강수연 추모식, 김현철이 부르는 '그대 안의 블루' (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/433307</link>
             <guid>https://www.maxmovie.com/news/433307</guid>
@@ -295,8 +304,7 @@
             <link>https://www.maxmovie.com/news/433304</link>
             <guid>https://www.maxmovie.com/news/433304</guid>
             <pubDate>Wed, 12 Apr 2023 00:31:38 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '대가족' 촬영에 아시아 투어까지
-신혼 생활 즐길 틈 없이 왕성한 활동]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433304"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681204008152HfT4e.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433304"><h4>새 신랑 이승기, 신혼 없이 '워커홀릭' 모드 </h4></a><span>3시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681204008152HfT4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -304,7 +312,7 @@
             <link>https://www.maxmovie.com/news/433303</link>
             <guid>https://www.maxmovie.com/news/433303</guid>
             <pubDate>Tue, 11 Apr 2023 08:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433303"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681197313818cRLVg.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433303"><h4>[오늘 뭘 볼까] ‘에어 조던’의 성공적인 탄생기! 영화 ‘에어’</h4></a><span>18시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ ‘에어’영화 ‘에어’ (사진제공 = 워너브러더스 코리아)‘에어’는 1984년, 업계 꼴찌 나이키를 최고의 브랜드로 만들기 위해 NBA 신인 선수였던 마이클 조던에게 모든 것을 걸었던 게임체인저의 드라마틱한 성공 전략을 그린 영화.1984년, 업계 꼴찌를 벗어나지 못하고 있는 나이키는 브랜드의 간판이 되어 줄 새로운 모델을]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681197313818cRLVg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -339,17 +347,8 @@
             <link>https://www.maxmovie.com/news/433299</link>
             <guid>https://www.maxmovie.com/news/433299</guid>
             <pubDate>Tue, 11 Apr 2023 02:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[프로포폴·대마·코카인·케타민 투약 혐의
-공범 수사 중…유아인 2차 소환 조사 예정]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433299"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681178113725d61uQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433299"><h4>경찰, '마약 혐의' 유아인 공범 수사 착수</h4></a><span>04월 11일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681178113725d61uQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퇴임 1년 만에... 다큐 '문재인입니다' 개봉 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/433297</link>
-            <guid>https://www.maxmovie.com/news/433297</guid>
-            <pubDate>Tue, 11 Apr 2023 01:57:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433297"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681171829083R1jQ6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433297"><h4>퇴임 1년 만에... 다큐 '문재인입니다' 개봉 </h4></a><span>04월 11일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681171829083R1jQ6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무적의 K직장인은 다르다? 드라마 '레이스'가 온다 (맥스무비 ─ OTT)]]></title>

@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 02:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 03:07:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16811753137623jjPA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마약 투약 유아인, 확인되지 않은 뉴스에 '법적 대응']]></title>
+            <link>https://www.maxmovie.com/news/433309</link>
+            <guid>https://www.maxmovie.com/news/433309</guid>
+            <pubDate>Wed, 12 Apr 2023 03:06:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433309"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681266553756zHaez.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433309"><h4>마약 투약 유아인, 확인되지 않은 뉴스에 '법적 대응'  </h4></a><span>30분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681266553756zHaez.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[강수연 추모식, 김현철이 부르는 '그대 안의 블루']]></title>
             <link>https://www.maxmovie.com/news/433307</link>
             <guid>https://www.maxmovie.com/news/433307</guid>
             <pubDate>Wed, 12 Apr 2023 01:58:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433307"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681258559888XVH2O.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433307"><h4>강수연 추모식, 김현철이 부르는 '그대 안의 블루'</h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[5월7일 기일 맞춰 '강수연, 영화롭게 오랫동안' 개막
+가수 김현철과 '그대 안의 블루' 특별 공연]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681258559888XVH2O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/433299</link>
             <guid>https://www.maxmovie.com/news/433299</guid>
             <pubDate>Tue, 11 Apr 2023 02:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[프로포폴·대마·코카인·케타민 투약 혐의
-공범 수사 중…유아인 2차 소환 조사 예정]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433299"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681178113725d61uQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433299"><h4>경찰, '마약 혐의' 유아인 공범 수사 착수</h4></a><span>04월 11일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681178113725d61uQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퇴임 1년 만에... 다큐 '문재인입니다' 개봉]]></title>
-            <link>https://www.maxmovie.com/news/433297</link>
-            <guid>https://www.maxmovie.com/news/433297</guid>
-            <pubDate>Tue, 11 Apr 2023 09:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433297"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681171829083R1jQ6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433297"><h4>퇴임 1년 만에... 다큐 '문재인입니다' 개봉 </h4></a><span>04월 11일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681171829083R1jQ6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
