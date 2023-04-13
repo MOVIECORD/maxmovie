@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 06:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 07:06:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681277073951Cf0Wh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 키아누 리브스가 키아누 리브스했다! 영화 ‘존 윅 4’]]></title>
+            <link>https://www.maxmovie.com/news/433319</link>
+            <guid>https://www.maxmovie.com/news/433319</guid>
+            <pubDate>Thu, 13 Apr 2023 07:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433319"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16813666808685bv6h.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433319"><h4>[오늘 뭘 볼까] 키아누 리브스가 키아누 리브스했다! 영화 ‘존 윅 4’</h4></a><span>23분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16813666808685bv6h.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[로튼토마토 92%에 빛나는 스페인 스릴러 '피기']]></title>
             <link>https://www.maxmovie.com/news/433318</link>
             <guid>https://www.maxmovie.com/news/433318</guid>
             <pubDate>Thu, 13 Apr 2023 05:05:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433318"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/168135434066194lbe.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433318"><h4>로튼토마토 92%에 빛나는 스페인 스릴러 '피기' </h4></a><span>2시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['종이의 집' '인비저블 게스트' 잇는 스릴러 26일 개봉 
+과체중 소녀의 틴에이저 리벤지 영화]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/168135434066194lbe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/433307</link>
             <guid>https://www.maxmovie.com/news/433307</guid>
             <pubDate>Wed, 12 Apr 2023 01:58:50 GMT</pubDate>
-            <content:encoded><![CDATA[5월7일 기일 맞춰 '강수연, 영화롭게 오랫동안' 개막
-가수 김현철과 '그대 안의 블루' 특별 공연]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433307"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681258559888XVH2O.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433307"><h4>강수연 추모식, 김현철이 부르는 '그대 안의 블루'</h4></a><span>04월 12일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681258559888XVH2O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[류승완 감독과 김혜수 염정아의 선전포고!]]></title>
-            <link>https://www.maxmovie.com/news/433306</link>
-            <guid>https://www.maxmovie.com/news/433306</guid>
-            <pubDate>Thu, 13 Apr 2023 01:57:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433306"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681257436294r8xLz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433306"><h4> 류승완 감독과 김혜수 염정아의 선전포고!</h4></a><span>04월 12일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681257436294r8xLz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
