@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 02:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 03:07:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681277073951Cf0Wh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[박해일 새둥지 틀다 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/433317</link>
+            <guid>https://www.maxmovie.com/news/433317</guid>
+            <pubDate>Thu, 13 Apr 2023 03:07:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433317"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681352734979vq9Js.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/433317"><h4>박해일 새둥지 틀다</h4></a><span>30분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681352734979vq9Js.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[마약 투약 유아인, 확인되지 않은 뉴스에 '법적 대응' (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/433309</link>
             <guid>https://www.maxmovie.com/news/433309</guid>
             <pubDate>Wed, 12 Apr 2023 03:06:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433309"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681266553756zHaez.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433309"><h4>마약 투약 유아인, 확인되지 않은 뉴스에 '법적 대응'  </h4></a><span>23시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA["경찰 조사 후 처벌 달게 받겠다" 입장 강조 
+졸피뎀, 이태원 클럽 등 거짓 내용 확산은 경계]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681266553756zHaez.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/433305</link>
             <guid>https://www.maxmovie.com/news/433305</guid>
             <pubDate>Tue, 11 Apr 2023 21:04:17 GMT</pubDate>
-            <content:encoded><![CDATA[벌금 1000만원 약식기소
-동승자 무혐의 처분]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433305"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681203416818PmZbA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433305"><h4>음주운전 곽도원 약식기소</h4></a><span>04월 11일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681203416818PmZbA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 신랑 이승기, 신혼 없이 '워커홀릭' 모드 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/433304</link>
-            <guid>https://www.maxmovie.com/news/433304</guid>
-            <pubDate>Wed, 12 Apr 2023 10:07:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433304"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681204008152HfT4e.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433304"><h4>새 신랑 이승기, 신혼 없이 '워커홀릭' 모드 </h4></a><span>04월 12일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681204008152HfT4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전도연 "이 정도로 잘하면 천직" (맥스무비 ─ 인터뷰)]]></title>
@@ -304,7 +304,7 @@
             <link>https://www.maxmovie.com/news/433310</link>
             <guid>https://www.maxmovie.com/news/433310</guid>
             <pubDate>Wed, 12 Apr 2023 06:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433310"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681277073951Cf0Wh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433310"><h4>[오늘 뭘 볼까] 스티븐 연이 보여주는 짜릿한 복수! ‘성난 사람들’</h4></a><span>20시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433310"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681277073951Cf0Wh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433310"><h4>[오늘 뭘 볼까] 스티븐 연이 보여주는 짜릿한 복수! ‘성난 사람들’</h4></a><span>21시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681277073951Cf0Wh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
