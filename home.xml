@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 00:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 01:58:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,8 +46,16 @@
             <link>https://www.maxmovie.com/news/433336</link>
             <guid>https://www.maxmovie.com/news/433336</guid>
             <pubDate>Sat, 15 Apr 2023 00:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433336"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681455796795Dnpap.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433336"><h4>전도연·미셸여, 나이 장벽 부순 언니들</h4></a><span>54분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433336"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681455796795Dnpap.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433336"><h4>전도연·미셸여, 나이 장벽 부순 언니들</h4></a><span>2시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681455796795Dnpap.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다큐 '문재인입니다' 벌써 열기! 텀블벅 모금 14억 돌파]]></title>
+            <link>https://www.maxmovie.com/news/433338</link>
+            <guid>https://www.maxmovie.com/news/433338</guid>
+            <pubDate>Sat, 15 Apr 2023 01:58:21 GMT</pubDate>
+            <content:encoded><![CDATA[다큐멘터리 '문재인입니다' 스틸 (사진제공=엠프로젝트)다큐멘터리 영화 '문재인입니다'의 사전 분위기가 심상치 않다.5월11일 개봉을 앞두고 상영 비용 마련을 위해 시작한&nbsp;텀블벅 크라우드 펀딩에서 목표치를 월등히 앞지르는 모금액을 달성하고 있다. 과연 텀블벅에서 확인된 열기가&nbsp;극장 개봉 이후 관객 동원으로 이어질지 관심이 집중된다.'문재인입니다'(제작 엠프로]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16814594659374CJi9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 김희애와 문소리의 숨막히는 정치쇼! ‘퀸메이커’]]></title>
@@ -78,16 +86,8 @@
             <link>https://www.maxmovie.com/news/433328</link>
             <guid>https://www.maxmovie.com/news/433328</guid>
             <pubDate>Fri, 14 Apr 2023 05:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[(사진제공=퀀텀이엔엠)드라마와 영화, 뮤지컬을 넘나드는 배우 박준면이 엔터테인먼트사 퀀텀이엔엠과 전속계약을 채결하고 활발한 활동을 예고했다.퀀텀이엔엠은&nbsp;14일&nbsp;"전천후 능력을 발휘하고 있는 다재 다능한 배우 박준면과 전속계약을 체결했다"며 "다양한 활동 범위를 지닌 배우인 만큼 역량을 마음껏 발휘할 수 있도록 전폭적으로 지원하겠다"고 밝혔다.박준면은 최근]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433328"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681447394863M9oco.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/433328"><h4>'슈룹' 신상궁, 소속사 생겼다</h4></a><span>21시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681447394863M9oco.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송강호가 사랑한 감독들]]></title>
-            <link>https://www.maxmovie.com/news/433327</link>
-            <guid>https://www.maxmovie.com/news/433327</guid>
-            <pubDate>Fri, 14 Apr 2023 22:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433327"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681456659396QimdY.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433327"><h4>송강호가 사랑한 감독들</h4></a><span>23시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681456659396QimdY.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
