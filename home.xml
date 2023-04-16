@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 23:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 00:33:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,11 +41,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681447768278s6bBi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 3편 개봉 전 챙겨보자! 영화 ‘가디언즈 오브 갤럭시’ 시리즈]]></title>
+            <link>https://www.maxmovie.com/news/433334</link>
+            <guid>https://www.maxmovie.com/news/433334</guid>
+            <pubDate>Sun, 16 Apr 2023 00:32:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433334"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681454044401be7VL.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433334"><h4>[오늘 뭘 볼까] 3편 개봉 전 챙겨보자! 영화 ‘가디언즈 오브 갤럭시’ 시리즈</h4></a><span>33분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681454044401be7VL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영등위, 공공기관 고객 만족도 '최고 등급']]></title>
             <link>https://www.maxmovie.com/news/433332</link>
             <guid>https://www.maxmovie.com/news/433332</guid>
             <pubDate>Fri, 14 Apr 2023 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433332"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681451054154WVCIy.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/433332"><h4>영등위, 공공기관 고객 만족도 '최고 등급' </h4></a><span>04월 14일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[영상물등급위원회가 기획재정부가 실시한 '2022년 공공기관 고객만족도 조사'에서 최고 등급을 받았다고 14일 밝혔다.&nbsp;&nbsp;영상물등급위원회(영등위·위원장 채윤희)는 기획재정부가 매년&nbsp;매년 공기업·준정부기관 등을 대상으로 전반적인 서비스 만족도와&nbsp;우수한 서비스 제공 여부 등을 종합적으로 평가해 선정하는 '우수기관'에 뽑혔다. 전체 252개 기관 중 영등위를 포함]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681451054154WVCIy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -77,17 +85,8 @@
             <link>https://www.maxmovie.com/news/433327</link>
             <guid>https://www.maxmovie.com/news/433327</guid>
             <pubDate>Sat, 15 Apr 2023 02:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[김지운 감독과 5번째 호흡 '거미집' 
-칸 국제영화제 비경쟁부문 진출]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433327"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681456659396QimdY.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433327"><h4>송강호가 사랑한 감독들</h4></a><span>04월 14일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681456659396QimdY.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[진구·공승연 '전주로 오세요']]></title>
-            <link>https://www.maxmovie.com/news/433325</link>
-            <guid>https://www.maxmovie.com/news/433325</guid>
-            <pubDate>Fri, 14 Apr 2023 01:55:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433325"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681433664757dR3JA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433325"><h4>진구·공승연 '전주로 오세요'</h4></a><span>04월 14일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681433664757dR3JA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

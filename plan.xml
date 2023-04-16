@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 23:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 00:33:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,11 +40,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681455035828cIURU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 3편 개봉 전 챙겨보자! 영화 ‘가디언즈 오브 갤럭시’ 시리즈]]></title>
+            <link>https://www.maxmovie.com/news/433334</link>
+            <guid>https://www.maxmovie.com/news/433334</guid>
+            <pubDate>Sun, 16 Apr 2023 00:32:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433334"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681454044401be7VL.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433334"><h4>[오늘 뭘 볼까] 3편 개봉 전 챙겨보자! 영화 ‘가디언즈 오브 갤럭시’ 시리즈</h4></a><span>33분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681454044401be7VL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[송혜교·전도연도 울린 ‘누누티비’, 결국 서비스 ‘종료’]]></title>
             <link>https://www.maxmovie.com/news/433333</link>
             <guid>https://www.maxmovie.com/news/433333</guid>
             <pubDate>Fri, 14 Apr 2023 07:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433333"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681453023809A7H2R.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433333"><h4>송혜교·전도연도 울린 ‘누누티비’, 결국 서비스 ‘종료’</h4></a><span>04월 14일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[국내 최대 불법 스트리밍 사이트 누누티비가 결국 서비스를 종료했다.(사진출처=누누티비 사이트 화면 캡처)지난 13일 서비스 종료 소식을 전한 누누티비는 바로 다음 날인 14일 0시에 서비스를 종료했다.누누티비는 13일 공식 계정을 통해 "걷잡을 수 없는 트래픽 요금 문제와 사이트 압박에 의거해 심사숙고 끝에 서비스 종료를 결정했다"고 밝히고 사이트 이용자들]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681453023809A7H2R.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -77,17 +85,8 @@
             <link>https://www.maxmovie.com/news/433326</link>
             <guid>https://www.maxmovie.com/news/433326</guid>
             <pubDate>Fri, 14 Apr 2023 01:55:55 GMT</pubDate>
-            <content:encoded><![CDATA[HBO '더 아이돌' 칸 비경쟁 초청
-블랙핑크 제니 연기 도전…더 위켄드, 릴리 로즈 뎁 등 출연]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433326"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16814356078320dkDs.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433326"><h4>블랙핑크 제니 칸 가나…'더 아이돌' 초청</h4></a><span>04월 14일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16814356078320dkDs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진구·공승연 '전주로 오세요']]></title>
-            <link>https://www.maxmovie.com/news/433325</link>
-            <guid>https://www.maxmovie.com/news/433325</guid>
-            <pubDate>Fri, 14 Apr 2023 01:55:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433325"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681433664757dR3JA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433325"><h4>진구·공승연 '전주로 오세요'</h4></a><span>04월 14일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681433664757dR3JA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
