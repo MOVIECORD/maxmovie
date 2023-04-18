@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 04:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 05:05:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,7 +44,7 @@
             <link>https://www.maxmovie.com/news/433356</link>
             <guid>https://www.maxmovie.com/news/433356</guid>
             <pubDate>Tue, 18 Apr 2023 04:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433356"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681788195811PrQqs.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433356"><h4>"'가오갤3', 로켓의  기원에 주목…팬들에게 바치는 영화"</h4></a><span>45분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433356"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1681788195811PrQqs.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433356"><h4>"'가오갤3', 로켓의  기원에 주목…팬들에게 바치는 영화"</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681788195811PrQqs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -261,7 +261,7 @@
             <title><![CDATA["'가오갤3', 로켓의  기원에 주목…팬들에게 바치는 영화" (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/433356</link>
             <guid>https://www.maxmovie.com/news/433356</guid>
-            <pubDate>Tue, 18 Apr 2023 04:08:15 GMT</pubDate>
+            <pubDate>Tue, 18 Apr 2023 04:07:54 GMT</pubDate>
             <content:encoded><![CDATA[영화 '가디언즈 오브 갤럭시 볼륨3' 내한 기자회견
 제임스 건, 크리스 프랫, 카렌 길런, 폼 클레멘티에프 참석]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681788195811PrQqs.jpg" length="0" type="image/jpg"/>
