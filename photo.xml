@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 00:31:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 01:59:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빈 디젤과 제이슨 모모아의 목숨을 건 질주 '분노의 질주: 라이드 오어 다이']]></title>
+            <link>https://www.maxmovie.com/news/433382</link>
+            <guid>https://www.maxmovie.com/news/433382</guid>
+            <pubDate>Fri, 21 Apr 2023 01:59:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/433382"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1682039636697ZMWdg.jpg" alt=""></span><span class="textBox"><h4>빈 디젤과 제이슨 모모아의 목숨을 건 질주 '분노의 질주: 라이드 오어 다이'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1682039636697ZMWdg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공효진과 이민호의 '무중력 로맨스']]></title>
             <link>https://www.maxmovie.com/news/433373</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/431450"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1606794443016cjZIH.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 유연석 '부드러운 미소'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1606794443016cjZIH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] '새해전야' 김강우 '훈훈한 손인사']]></title>
-            <link>https://www.maxmovie.com/news/431449</link>
-            <guid>https://www.maxmovie.com/news/431449</guid>
-            <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/431449"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1606794371044V3HXe.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 김강우 '훈훈한 손인사'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1606794371044V3HXe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
