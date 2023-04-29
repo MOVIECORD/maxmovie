@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 22:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 23:04:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1682659754115DmU49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 스페인판 '더 글로리'?!... 영화 '피기']]></title>
+            <link>https://www.maxmovie.com/news/433426</link>
+            <guid>https://www.maxmovie.com/news/433426</guid>
+            <pubDate>Sat, 29 Apr 2023 23:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '피기'‘피기’는 과체중으로 인해 친구들의 놀림에 시달리던 사라가 동네에 나타난 낯선 남자에게 자신을 놀리던 친구들이 납치되는 것을 목격하게 되면서 벌어지는 일들을 그린 틴에이저 리벤지 스릴러 영화다.스페인의 작은 시골 마을, 살인 사건과 실종 사건이 연이어 발생하고 유일한 목격자가 된 사라의 통쾌한 복수극 ‘피기’는 3]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16826629017252KAHo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오늘 뭘 볼까] 돌담져스가 돌아왔다! 드라마 '낭만닥터 김사부3']]></title>
             <link>https://www.maxmovie.com/news/433422</link>
             <guid>https://www.maxmovie.com/news/433422</guid>
@@ -76,16 +84,8 @@
             <link>https://www.maxmovie.com/news/433419</link>
             <guid>https://www.maxmovie.com/news/433419</guid>
             <pubDate>Fri, 28 Apr 2023 22:03:48 GMT</pubDate>
-            <content:encoded><![CDATA['영원한 강자는 없다.'15년간 관객 점유율 1위였던 투자배급사 CJ ENM(이하 CJ)의 시장 지배력이 흔들리며 배급시장의 지각변동이 일고 있다. 롯데엔터테인먼트(이하 롯데), 디즈니가 CJ와 1위를 다투는 가운데, 플러스엠엔터테인먼트(이하 플러스엠)가&nbsp;부상하며 혼조를 보이고 있다. 코로나19 팬데믹 상황이 이를 심화시키는 모양새다.●1위 디즈니·2위 롯]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433419"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16825580586357FcYT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433419"><h4>CJ 하락, 디즈니·롯데 비등, 투배사 절대 강자 사라졌다 </h4></a><span>04월 27일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16825580586357FcYT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박서준·아이유, 마리오 형제보다 먼저 웃었다]]></title>
-            <link>https://www.maxmovie.com/news/433417</link>
-            <guid>https://www.maxmovie.com/news/433417</guid>
-            <pubDate>Thu, 27 Apr 2023 10:06:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433417"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1682553859882qdXtd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433417"><h4>박서준·아이유, 마리오 형제보다 먼저 웃었다</h4></a><span>04월 27일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1682553859882qdXtd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
