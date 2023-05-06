@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 12:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 13:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['8년 장수커플'서 부부로…세븐·이다해 '맹세의 키스']]></title>
+            <link>https://www.maxmovie.com/news/433461</link>
+            <guid>https://www.maxmovie.com/news/433461</guid>
+            <pubDate>Sat, 06 May 2023 13:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/433461"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1683374974823g2zzL.jpg" alt=""></span><span class="textBox"><h4>'8년 장수커플'서 부부로…세븐·이다해 '맹세의 키스'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1683374974823g2zzL.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑에 빠진 인어공주, 한국어 더빙은 뉴진스 다니엘?]]></title>
             <link>https://www.maxmovie.com/news/433442</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/431453"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/160679469049564Vhi.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 유연석-이연희 '사랑스러운 커플' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/160679469049564Vhi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] '새해전야' 유연석-이연희 '비주얼 만점']]></title>
-            <link>https://www.maxmovie.com/news/431452</link>
-            <guid>https://www.maxmovie.com/news/431452</guid>
-            <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/431452"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1606794604128nBFlp.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 유연석-이연희 '비주얼 만점'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1606794604128nBFlp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
