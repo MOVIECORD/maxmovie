@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 04:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 05:05:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1683764810245qPIiJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['김사부3' 베테랑 한석규와 신입 이홍내·이신영의 '첩첩산중']]></title>
+            <link>https://www.maxmovie.com/news/433499</link>
+            <guid>https://www.maxmovie.com/news/433499</guid>
+            <pubDate>Fri, 12 May 2023 05:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433499"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1683865994576wJBxN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433499"><h4>'김사부3' 베테랑 한석규와 신입 이홍내·이신영의 '첩첩산중'</h4></a><span>17분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1683865994576wJBxN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['가오갤3'은 어떻게 200만 관객을 홀렸나]]></title>
             <link>https://www.maxmovie.com/news/433498</link>
             <guid>https://www.maxmovie.com/news/433498</guid>
             <pubDate>Fri, 12 May 2023 03:05:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433498"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1683859133130ie2vg.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433498"><h4>'가오갤3'은 어떻게 200만 관객을 홀렸나</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[10일 만에 200만 돌파…올해 개봉작 중 세번째
+시리즈 '유종의 미', 마블영화 소생은 글쎄]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1683859133130ie2vg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,17 +88,8 @@
             <link>https://www.maxmovie.com/news/433489</link>
             <guid>https://www.maxmovie.com/news/433489</guid>
             <pubDate>Thu, 11 May 2023 08:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[신예 안동구와 호흡 맞춰 청춘의 꿈과 사랑 그려
-'신과함께'부터 '증인'까지 매번 새로운 얼굴 보이는 배우]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433489"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16837659766911vxlO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433489"><h4>'쌍천만 배우' 김향기의 새 얼굴 '옆에서 숨만 쉬어도 좋아'</h4></a><span>05월 11일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16837659766911vxlO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] MZ가 말하는 이 시대의 연애란? 영화 '롱디']]></title>
-            <link>https://www.maxmovie.com/news/433486</link>
-            <guid>https://www.maxmovie.com/news/433486</guid>
-            <pubDate>Thu, 11 May 2023 03:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433486"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1683707889209Dmmq2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433486"><h4>[오늘 뭘 볼까] MZ가 말하는 이 시대의 연애란? 영화 '롱디'</h4></a><span>05월 10일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1683707889209Dmmq2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
