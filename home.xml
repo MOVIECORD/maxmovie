@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 02:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 03:06:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1683764810245qPIiJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['가오갤3'은 어떻게 200만 관객을 홀렸나]]></title>
+            <link>https://www.maxmovie.com/news/433498</link>
+            <guid>https://www.maxmovie.com/news/433498</guid>
+            <pubDate>Fri, 12 May 2023 03:05:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433498"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1683859133130ie2vg.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433498"><h4>'가오갤3'은 어떻게 200만 관객을 홀렸나</h4></a><span>25분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1683859133130ie2vg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배우 조우진과 뮤지션 김동률의 '특급 만남']]></title>
             <link>https://www.maxmovie.com/news/433497</link>
             <guid>https://www.maxmovie.com/news/433497</guid>
             <pubDate>Fri, 12 May 2023 01:56:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433497"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1683855842084Www64.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/433497"><h4>배우 조우진과 뮤지션 김동률의 '특급 만남' </h4></a><span>32분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[김동률 신곡 '황금가면' 뮤비 주연
+"가사를 쓰고 먼저 떠올린 배우"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1683855842084Www64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,16 +88,8 @@
             <link>https://www.maxmovie.com/news/433486</link>
             <guid>https://www.maxmovie.com/news/433486</guid>
             <pubDate>Thu, 11 May 2023 03:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '롱디''롱디' 스틸(사진제공=NEW)영화 '롱디'는 서른을 앞두고, 장거리 연애를 시작한 5년 차 동갑 커플 도하와 태인의 언택트 러브 스토리를 담은 작품이다.장동윤이 연기한 도하는 여자친구 태인(박유나)과 5년째 열애 중인 사회초년생으로 일과 사랑 두 마리 토끼를 모두 잡기 위해 고군분투하는 인물이다.&nbsp;태인은 도하와]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433486"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1683707889209Dmmq2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433486"><h4>[오늘 뭘 볼까] MZ가 말하는 이 시대의 연애란? 영화 '롱디'</h4></a><span>05월 10일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1683707889209Dmmq2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디스토피아에서 유토피아를 꿈꾼 '택배기사' 김우빈]]></title>
-            <link>https://www.maxmovie.com/news/433485</link>
-            <guid>https://www.maxmovie.com/news/433485</guid>
-            <pubDate>Thu, 11 May 2023 09:06:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433485"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1683700724611HoxfM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433485"><h4>디스토피아에서 유토피아를 꿈꾼 '택배기사' 김우빈</h4></a><span>05월 10일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1683700724611HoxfM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
