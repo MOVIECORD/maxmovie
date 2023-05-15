@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 06:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 07:06:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,6 +49,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684028470465xlRxV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 홍콩을 향한 거장들의 러브레터! 영화 '칠중주: 홍콩 이야기']]></title>
+            <link>https://www.maxmovie.com/news/433502</link>
+            <guid>https://www.maxmovie.com/news/433502</guid>
+            <pubDate>Mon, 15 May 2023 07:06:14 GMT</pubDate>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '칠중주: 홍콩 이야기''칠중주: 홍콩이야기' 스틸(사진제공=콘텐츠판다)영화 '칠중주: 홍콩 이야기'는 홍콩 거장 감독 7명이 홍콩을 향한 애틋한 고백을 담아 보내는 한 편의 러브레터 같은 작품이다.홍금보, 허안화, 담가명, 두기봉, 임영동 그리고 서극까지 '영웅본색' '동사서독' '천장지구' 등 영화사에서 빼놓을 수 없]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1683882014542S7rtj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[디즈니+ '레이스', K-직장인 드라마 성공 계보 이을까]]></title>
             <link>https://www.maxmovie.com/news/433500</link>
             <guid>https://www.maxmovie.com/news/433500</guid>
@@ -79,17 +87,8 @@
             <link>https://www.maxmovie.com/news/433497</link>
             <guid>https://www.maxmovie.com/news/433497</guid>
             <pubDate>Mon, 15 May 2023 05:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[김동률 신곡 '황금가면' 뮤비 주연
-"가사를 쓰고 먼저 떠올린 배우"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433497"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1683855842084Www64.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/433497"><h4>배우 조우진과 뮤지션 김동률의 '특급 만남' </h4></a><span>05월 12일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1683855842084Www64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[['문재인입니다' 스페셜③] 정치인 다큐,  논란에도 계속되는 이유]]></title>
-            <link>https://www.maxmovie.com/news/433494</link>
-            <guid>https://www.maxmovie.com/news/433494</guid>
-            <pubDate>Mon, 15 May 2023 05:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433494"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1683793472633p8bVk.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433494"><h4>['문재인입니다' 스페셜③] 정치인 다큐,  논란에도 계속되는 이유</h4></a><span>05월 12일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1683793472633p8bVk.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
