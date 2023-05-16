@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 05:05:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 06:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684130910727TcmTU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['쫓는 자' 김선호 vs '쫓기는 자' 강태주]]></title>
+            <link>https://www.maxmovie.com/news/433519</link>
+            <guid>https://www.maxmovie.com/news/433519</guid>
+            <pubDate>Tue, 16 May 2023 06:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433519"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1684217234140w0KwT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433519"><h4>'쫓는 자' 김선호 vs '쫓기는 자' 강태주</h4></a><span>1분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684217234140w0KwT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이지훈·한승연,  '빈틈없는 사이'로 만난다]]></title>
             <link>https://www.maxmovie.com/news/433514</link>
             <guid>https://www.maxmovie.com/news/433514</guid>
             <pubDate>Tue, 16 May 2023 05:05:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433514"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1684137226631mIAAq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433514"><h4>이지훈·한승연,  '빈틈없는 사이'로 만난다</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[이지훈과 한승연의 빈틈없는 동거가 시작된다.배급사 갤리온엔터테인먼트는 15일 "이지훈 한승연 주연의 영화 '빈틈없는 사이'가 7월 개봉을 확정했다"고 밝혔다.'빈틈없는 사이'는 방음이 안 되는 벽을 사이에 두고 서로의 일상을 공규하게 된 뮤지션 지망생 승진과 피규어 디자이너 라니의 이야기를 그린 로맨스 영화다.이지훈과 카라 한승연이 주연을 맡았다. 드라마]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684137226631mIAAq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +89,8 @@
             <link>https://www.maxmovie.com/news/433507</link>
             <guid>https://www.maxmovie.com/news/433507</guid>
             <pubDate>Tue, 16 May 2023 02:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 활동 외 솔로 첫 도전 
-목소리 연기와 OST도 소화]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433507"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1684049097464jNbCi.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/433507"><h4>뉴진스 다니엘, '인어공주' 한국어 더빙 주인공 </h4></a><span>05월 14일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684049097464jNbCi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['슈퍼 마리오 브라더스' 200만 돌파]]></title>
-            <link>https://www.maxmovie.com/news/433506</link>
-            <guid>https://www.maxmovie.com/news/433506</guid>
-            <pubDate>Tue, 16 May 2023 02:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433506"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1684046122689yxoLB.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433506"><h4>'슈퍼 마리오 브라더스' 200만 돌파 </h4></a><span>05월 14일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684046122689yxoLB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
