@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 10:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 11:04:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,11 +41,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684489290492lyxq8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[고 설리 유작, 넷플릭스 '페르소나2' 공개하나]]></title>
+            <link>https://www.maxmovie.com/news/433550</link>
+            <guid>https://www.maxmovie.com/news/433550</guid>
+            <pubDate>Sun, 21 May 2023 11:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433550"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1684664308846BW17O.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433550"><h4>고 설리 유작, 넷플릭스 '페르소나2' 공개하나 </h4></a><span>35분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684664308846BW17O.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[디카프리오 '킬러스 오브 더 플라워 문', 9분간 기립박수]]></title>
             <link>https://www.maxmovie.com/news/433548</link>
             <guid>https://www.maxmovie.com/news/433548</guid>
             <pubDate>Sun, 21 May 2023 06:07:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433548"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1684640408930OUVNv.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433548"><h4>디카프리오 '킬러스 오브 더 플라워 문', 9분간 기립박수</h4></a><span>6시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[20일 칸영화제 공식 상영회…현재까지 최장 기립박수]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684640408930OUVNv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,16 +86,8 @@
             <link>https://www.maxmovie.com/news/433539</link>
             <guid>https://www.maxmovie.com/news/433539</guid>
             <pubDate>Fri, 19 May 2023 23:05:39 GMT</pubDate>
-            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '극장판 짱구는 못말려:동물소환 닌자 배꼽수비대''극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대' 스틸(사진제공=CJ ENM)'극장판 짱구는 못말려:동물소환 닌자 배꼽수비대'가 18일 기준 누적관객 53만명(영화관입장권통합전산망)을 돌파하며 여전히 순항 중이다.영화 '극장판 짱구는 못말려:동물소환 닌자 배꼽수비대'는 출]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433539"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1684479532488Fb5wO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433539"><h4>[오늘 뭘 볼까] 닌자가 된 5살 짱구! '극장판 짱구는 못말려:동물소환 닌자 배꼽수비대'</h4></a><span>05월 19일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684479532488Fb5wO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['뷔와 데이트?' 제니, 칸 레드카펫에 관심 집중]]></title>
-            <link>https://www.maxmovie.com/news/433537</link>
-            <guid>https://www.maxmovie.com/news/433537</guid>
-            <pubDate>Sun, 21 May 2023 06:07:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433537"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1684463389766kL50L.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433537"><h4>'뷔와 데이트?' 제니, 칸 레드카펫에 관심 집중</h4></a><span>05월 19일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684463389766kL50L.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
