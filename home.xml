@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 03:07:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 04:08:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,11 +41,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684484659872iGOyV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[칸 레터] 칸의 이선균, 이미 베테랑이었다]]></title>
+            <link>https://www.maxmovie.com/news/433555</link>
+            <guid>https://www.maxmovie.com/news/433555</guid>
+            <pubDate>Mon, 22 May 2023 04:07:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433555"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1684726692459UKC9Z.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433555"><h4>[칸 레터] 칸의 이선균, 이미 베테랑이었다 </h4></a><span>14분 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684726692459UKC9Z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[캐스팅 논란 '인어공주', 국내 관객 시험대에]]></title>
             <link>https://www.maxmovie.com/news/433554</link>
             <guid>https://www.maxmovie.com/news/433554</guid>
             <pubDate>Mon, 22 May 2023 03:06:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433554"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1684723378528OsOPq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433554"><h4>캐스팅 논란 '인어공주', 국내 관객 시험대에</h4></a><span>5분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[오는 24일 개봉…흑인 가수 겸 배우 할리 베일리 에리얼 역]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684723378528OsOPq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,17 +86,8 @@
             <link>https://www.maxmovie.com/news/433546</link>
             <guid>https://www.maxmovie.com/news/433546</guid>
             <pubDate>Sun, 21 May 2023 02:06:05 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 '낭만닥터 김사부3' 감동 선사 
-최고 시청률 16.1%]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433546"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1684632347562ixzxV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433546"><h4>한석규가 그리는 '좋은 스승'의 모습, 시청자 공감 </h4></a><span>05월 21일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684632347562ixzxV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스즈메'보다 빠른 '가오갤3' 벌써…]]></title>
-            <link>https://www.maxmovie.com/news/433545</link>
-            <guid>https://www.maxmovie.com/news/433545</guid>
-            <pubDate>Mon, 22 May 2023 02:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433545"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1684546950265I6lPN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433545"><h4>'스즈메'보다 빠른 '가오갤3' 벌써…</h4></a><span>05월 20일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684546950265I6lPN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
