@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 04:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 05:06:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칸 포토] 이선균 주지훈의 '탈출:PROJECT SILENCE' 첫 공개 현장]]></title>
+            <link>https://www.maxmovie.com/news/433556</link>
+            <guid>https://www.maxmovie.com/news/433556</guid>
+            <pubDate>Mon, 22 May 2023 05:06:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/433556"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1684730641962GedDv.jpg" alt=""></span><span class="textBox"><h4>[칸 포토] 이선균 주지훈의 '탈출:PROJECT SILENCE' 첫 공개 현장  </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684730641962GedDv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[광역수사대로 간 '범죄도시' 유니버스]]></title>
             <link>https://www.maxmovie.com/news/433466</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/431455"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1606794835634tr4ZL.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 이연희 '한도초과 러블리'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1606794835634tr4ZL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] '새해전야' 이연희 '태양보다 밝은 미모']]></title>
-            <link>https://www.maxmovie.com/news/431454</link>
-            <guid>https://www.maxmovie.com/news/431454</guid>
-            <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/431454"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1606794779645lBeR7.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 이연희 '태양보다 밝은 미모'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1606794779645lBeR7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
