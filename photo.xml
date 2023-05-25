@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 07:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 08:09:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 '화란' 칸 국제영화제 레드카펫 현장]]></title>
+            <link>https://www.maxmovie.com/news/433585</link>
+            <guid>https://www.maxmovie.com/news/433585</guid>
+            <pubDate>Thu, 25 May 2023 08:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/433585"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1684999363254EOO76.jpg" alt=""></span><span class="textBox"><h4>영화 '화란' 칸 국제영화제 레드카펫 현장 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684999363254EOO76.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[칸 포토] 이선균 주지훈의 '탈출:PROJECT SILENCE' 첫 공개 현장]]></title>
             <link>https://www.maxmovie.com/news/433556</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/431456"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1606794909103Auh5P.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 이동휘 '수염이 잘 어울려'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1606794909103Auh5P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] '새해전야' 이연희 '한도초과 러블리']]></title>
-            <link>https://www.maxmovie.com/news/431455</link>
-            <guid>https://www.maxmovie.com/news/431455</guid>
-            <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/431455"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1606794835634tr4ZL.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 이연희 '한도초과 러블리'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1606794835634tr4ZL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
