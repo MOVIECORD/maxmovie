@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 19:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 20:06:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16849681803315Hmah.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[시리즈 최고 흥행…'가오갤3' 350만명 돌파]]></title>
+            <link>https://www.maxmovie.com/news/433606</link>
+            <guid>https://www.maxmovie.com/news/433606</guid>
+            <pubDate>Fri, 26 May 2023 20:05:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433606"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16851308136843SmhX.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433606"><h4>시리즈 최고 흥행…'가오갤3' 350만명 돌파</h4></a><span>9분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16851308136843SmhX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[단독] 韓 단편 '홀', 칸 영화제 2등상 쾌거]]></title>
             <link>https://www.maxmovie.com/news/433589</link>
             <guid>https://www.maxmovie.com/news/433589</guid>
             <pubDate>Fri, 26 May 2023 03:06:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433589"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685033649580SkUPV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/433589"><h4>[단독] 韓 단편 '홀', 칸 영화제 2등상 쾌거</h4></a><span>05월 25일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[한국영화아카데미 출신 황혜인 감독 연출
+방안 맨홀에 얽힌 이야기 호평 속 수상 성과]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685033649580SkUPV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/433584</link>
             <guid>https://www.maxmovie.com/news/433584</guid>
             <pubDate>Thu, 25 May 2023 06:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 호러영화 트렌드, 포크 호러 집중 조명
-'헥산:마녀들' '사탄의 피부' '악령' 등 10편 내외 상영]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433584"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1684990591963Ml2f2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433584"><h4>부천국제판타스틱영화제, '포크 호러' 집중 조명한다...특별전 개최</h4></a><span>05월 25일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684990591963Ml2f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유아인 구속영장 기각 "증거 인멸, 도망 염려 없다"]]></title>
-            <link>https://www.maxmovie.com/news/433583</link>
-            <guid>https://www.maxmovie.com/news/433583</guid>
-            <pubDate>Thu, 25 May 2023 00:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433583"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1684973502839etSWh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/433583"><h4>유아인 구속영장 기각 "증거 인멸, 도망 염려 없다"</h4></a><span>05월 25일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1684973502839etSWh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
