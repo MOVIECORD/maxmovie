@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 01:59:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 02:28:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,6 +50,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16851308136843SmhX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제니·비비, 칸 국제영화제에서는 '제니 루비 제인' 그리고 '김형서']]></title>
+            <link>https://www.maxmovie.com/news/433600</link>
+            <guid>https://www.maxmovie.com/news/433600</guid>
+            <pubDate>Sat, 27 May 2023 02:27:45 GMT</pubDate>
+            <content:encoded><![CDATA[제76회 칸국제영화제에서 베일 벗은 '디 아이돌'과 '화란'
+제니와 비비, 각각 제니 루비 제인 김형서로 배우 활동]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685087231212XRyBi.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[오늘 뭘 볼까] 고퀄리티로 돌아온 둘리! '아기공룡 둘리 : 얼음별 대모험 리마스터링']]></title>
             <link>https://www.maxmovie.com/news/433596</link>
             <guid>https://www.maxmovie.com/news/433596</guid>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/433588</link>
             <guid>https://www.maxmovie.com/news/433588</guid>
             <pubDate>Fri, 26 May 2023 04:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[칸 국제영화제 황금종려상 수상작
-'기생충'과 '타이타닉'을 떠올리게 하는 작품]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433588"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685005234168xF06c.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433588"><h4>웃기고 섬뜩한 '슬픔의 삼각형', 호평 속  3만 돌파 </h4></a><span>05월 25일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685005234168xF06c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 34년 만에 디즈니 실사 뮤지컬 영화로 다시 태어난 '인어공주']]></title>
-            <link>https://www.maxmovie.com/news/433587</link>
-            <guid>https://www.maxmovie.com/news/433587</guid>
-            <pubDate>Fri, 26 May 2023 08:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433587"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685002537829vPtWN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433587"><h4>[오늘 뭘 볼까] 34년 만에 디즈니 실사 뮤지컬 영화로 다시 태어난 '인어공주'</h4></a><span>05월 25일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685002537829vPtWN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
