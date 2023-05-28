@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 10:05:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 11:03:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,8 +46,17 @@ K팝스타 글로벌 인기에 영화 OST 등에 적극 기용]]></content:encod
             <link>https://www.maxmovie.com/news/433602</link>
             <guid>https://www.maxmovie.com/news/433602</guid>
             <pubDate>Sat, 27 May 2023 23:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433602"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685099072854S7kmq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433602"><h4>[오늘 뭘 볼까] 찬란한 사랑과 삶의 기록! 영화 '남은 인생 10년'</h4></a><span>11시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433602"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685099072854S7kmq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433602"><h4>[오늘 뭘 볼까] 찬란한 사랑과 삶의 기록! 영화 '남은 인생 10년'</h4></a><span>12시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685099072854S7kmq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['곡성'‧'연모'에 반한 '트랜스포머' 감독과 배우들, 새 시리즈 한국서 최초 개봉]]></title>
+            <link>https://www.maxmovie.com/news/433601</link>
+            <guid>https://www.maxmovie.com/news/433601</guid>
+            <pubDate>Sun, 28 May 2023 11:03:15 GMT</pubDate>
+            <content:encoded><![CDATA['트랜스포머' 시리즈에 열광하는 한국 관객에 애정
+하이라이트 신은 마지막 전투신]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685096392511bW6mn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제니·비비, 칸 국제영화제에서는 '제니 루비 제인' 그리고 '김형서']]></title>
@@ -79,17 +88,8 @@ K팝스타 글로벌 인기에 영화 OST 등에 적극 기용]]></content:encod
             <link>https://www.maxmovie.com/news/433595</link>
             <guid>https://www.maxmovie.com/news/433595</guid>
             <pubDate>Fri, 26 May 2023 04:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[칸 비경쟁부문 공식 상영, 2300여 관객 10여분 기립박수
-'브로커' 고레에다 히로카즈 "매우 즐거운 영화" 호평]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433595"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685072508726RUQDw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433595"><h4>[칸 현지취재]  진한 블랙코미디 '거미집', 떼창의 찬사    </h4></a><span>05월 26일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685072508726RUQDw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웃기고 섬뜩한 '슬픔의 삼각형', 호평 속  3만 돌파]]></title>
-            <link>https://www.maxmovie.com/news/433588</link>
-            <guid>https://www.maxmovie.com/news/433588</guid>
-            <pubDate>Thu, 25 May 2023 10:06:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433588"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685005234168xF06c.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433588"><h4>웃기고 섬뜩한 '슬픔의 삼각형', 호평 속  3만 돌파 </h4></a><span>05월 25일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685005234168xF06c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
