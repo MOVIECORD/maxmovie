@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 10:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 11:04:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칸 포토] '거미집' 주역들, 칸에서 빛났다]]></title>
+            <link>https://www.maxmovie.com/news/433615</link>
+            <guid>https://www.maxmovie.com/news/433615</guid>
+            <pubDate>Tue, 30 May 2023 11:04:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/433615"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1685440433099RsX1q.jpg" alt=""></span><span class="textBox"><h4>[칸 포토] '거미집' 주역들, 칸에서 빛났다 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685440433099RsX1q.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[칸 포토] 칸 국제영화제 '거미집' 레드카펫 현장]]></title>
             <link>https://www.maxmovie.com/news/433599</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/431459"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1606795179339s4nZy.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 이동휘-염혜란 '믿고 보는 케미스트리'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1606795179339s4nZy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] '새해전야' 이동휘-염혜란 '천두링 보고싶어~']]></title>
-            <link>https://www.maxmovie.com/news/431458</link>
-            <guid>https://www.maxmovie.com/news/431458</guid>
-            <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/431458"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1606795089981vHyPw.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 이동휘-염혜란 '천두링 보고싶어~'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1606795089981vHyPw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
