@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 03:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 04:08:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <link>https://www.maxmovie.com/news/433620</link>
             <guid>https://www.maxmovie.com/news/433620</guid>
             <pubDate>Wed, 31 May 2023 02:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433620"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685496315220YyvOE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/433620"><h4>'시맨틱 에러' 효과? BL '트랙터는 사랑을 싣고' 192개국 공개 </h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433620"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685496315220YyvOE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/433620"><h4>'시맨틱 에러' 효과? BL '트랙터는 사랑을 싣고' 192개국 공개 </h4></a><span>2시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685496315220YyvOE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -66,15 +66,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685429129411Im0oQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영화·드라마·연극 '종횡무진' 손석구 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/433593</link>
-            <guid>https://www.maxmovie.com/news/433593</guid>
-            <pubDate>Wed, 31 May 2023 00:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 드라마, 영화 두 마리 토끼 다 잡은 손석구
-올해,  윤종빈 감독 신작 이어 연극까지 도전]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685065508251WyHvZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스티븐 킹의 공포영화 '부기맨', 공포 스릴러 대가들 뭉쳤다 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/433612</link>
             <guid>https://www.maxmovie.com/news/433612</guid>
@@ -87,8 +78,17 @@
             <link>https://www.maxmovie.com/news/433611</link>
             <guid>https://www.maxmovie.com/news/433611</guid>
             <pubDate>Mon, 29 May 2023 06:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433611"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685318070107iJLBD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433611"><h4>'나쁜엄마' 그리고 '내 이름은 마더'…넷플릭스 장악한 엄마들</h4></a><span>05월 29일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[넷플릭스 장악한 엄마들
+JTBC 수목드라마 '나쁜엄마' 영화 '내 이름은 마더']]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685318070107iJLBD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 지민·피프티피프티…K팝스타에 눈독들이는 할리우드 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/433610</link>
+            <guid>https://www.maxmovie.com/news/433610</guid>
+            <pubDate>Sun, 28 May 2023 02:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433610"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685234820912K9mO3.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433610"><h4>BTS 지민·피프티피프티…K팝스타에 눈독들이는 할리우드</h4></a><span>05월 28일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685234820912K9mO3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[칸 단독인터뷰] 칸 수상 '홀' 황혜인 감독 "장편영화 잘 만들 일만" (맥스무비 ─ 인터뷰)]]></title>
