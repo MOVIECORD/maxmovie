@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 09:04:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 10:07:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[톰 크루즈 '미션 임파서블7', 북미보다 하루 먼저 본다]]></title>
+            <link>https://www.maxmovie.com/news/433632</link>
+            <guid>https://www.maxmovie.com/news/433632</guid>
+            <pubDate>Thu, 01 Jun 2023 10:06:56 GMT</pubDate>
+            <content:encoded><![CDATA['미션 임파서블:데드 레코닝 파트 원' 7월12일 국내 개봉]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685609689240u7B7I.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장동윤의 로코 '롱디', 이제 안방에서 본다]]></title>
             <link>https://www.maxmovie.com/news/433629</link>
@@ -38,7 +46,7 @@
             <link>https://www.maxmovie.com/news/433625</link>
             <guid>https://www.maxmovie.com/news/433625</guid>
             <pubDate>Thu, 01 Jun 2023 00:44:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 전 유료 시사회로 누적관객 122만명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433625"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685577595092QLYVZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433625"><h4>'범죄도시3' 첫날 74만명 '쾌조의 출발'</h4></a><span>10시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685577595092QLYVZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -46,7 +54,8 @@
             <link>https://www.maxmovie.com/news/433624</link>
             <guid>https://www.maxmovie.com/news/433624</guid>
             <pubDate>Wed, 31 May 2023 09:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433624"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16855226187847vmE1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433624"><h4>"평소 즐겨보지 않는데" 김태희가 스릴러 도전한 까닭은</h4></a><span>05월 31일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['마당이 있는 집'으로 3년 만에 안방극장 복귀
+"임지연 덕분에 더 몰입할 수 있었다" 첫 호흡]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16855226187847vmE1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/433618</link>
             <guid>https://www.maxmovie.com/news/433618</guid>
             <pubDate>Thu, 01 Jun 2023 02:45:21 GMT</pubDate>
-            <content:encoded><![CDATA[고규필, 박지환 이어 신스틸러 등극
-마동석과 '38 사기동대' 인연으로 '범죄도시3' 합류]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433618"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685491480668Z4DzV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433618"><h4>장이수 없어서 아쉬워? '범죄도시3' 힘든 젬은 초롱이</h4></a><span>9시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685491480668Z4DzV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['플래시' 악동 에즈라 밀러 이슈 딛고 DC부활 이끌까]]></title>
-            <link>https://www.maxmovie.com/news/433617</link>
-            <guid>https://www.maxmovie.com/news/433617</guid>
-            <pubDate>Wed, 31 May 2023 02:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433617"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685442001261zKW8a.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433617"><h4>'플래시' 악동 에즈라 밀러 이슈 딛고 DC부활 이끌까</h4></a><span>05월 31일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685442001261zKW8a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
