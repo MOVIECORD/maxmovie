@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 23:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 00:36:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,20 +34,28 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685491480668Z4DzV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["평소 즐겨보지 않는데" 김태희가 스릴러 도전한 까닭은]]></title>
-            <link>https://www.maxmovie.com/news/433624</link>
-            <guid>https://www.maxmovie.com/news/433624</guid>
-            <pubDate>Wed, 31 May 2023 09:10:37 GMT</pubDate>
-            <content:encoded><![CDATA['마당이 있는 집'으로 3년 만에 안방극장 복귀
-"임지연 덕분에 더 몰입할 수 있었다" 첫 호흡]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16855226187847vmE1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[톰 크루즈 '미션 임파서블7', 북미보다 하루 먼저 본다]]></title>
+            <link>https://www.maxmovie.com/news/433632</link>
+            <guid>https://www.maxmovie.com/news/433632</guid>
+            <pubDate>Fri, 02 Jun 2023 00:35:46 GMT</pubDate>
+            <content:encoded><![CDATA['미션 임파서블:데드 레코닝 파트 원' 7월12일 국내 개봉]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685609689240u7B7I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레전드의 귀환…'인디아나 존스5' 6월28일 개봉]]></title>
+            <link>https://www.maxmovie.com/news/433635</link>
+            <guid>https://www.maxmovie.com/news/433635</guid>
+            <pubDate>Fri, 02 Jun 2023 00:35:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433635"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685665509553Dr0ow.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433635"><h4>레전드의 귀환…'인디아나 존스5' 6월28일 개봉</h4></a><span>7분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685665509553Dr0ow.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장동윤의 로코 '롱디', 이제 안방에서 본다]]></title>
             <link>https://www.maxmovie.com/news/433629</link>
             <guid>https://www.maxmovie.com/news/433629</guid>
             <pubDate>Thu, 01 Jun 2023 02:44:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433629"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685582030933Ps9Yx.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433629"><h4>장동윤의 로코 '롱디', 이제 안방에서 본다 </h4></a><span>21시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[스크린라이프 방식의 로코
+ IPTV·VOD 서비스 시작]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685582030933Ps9Yx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -67,29 +75,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685577595092QLYVZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["평소 즐겨보지 않는데" 김태희가 스릴러 도전한 까닭은]]></title>
+            <link>https://www.maxmovie.com/news/433624</link>
+            <guid>https://www.maxmovie.com/news/433624</guid>
+            <pubDate>Wed, 31 May 2023 09:10:37 GMT</pubDate>
+            <content:encoded><![CDATA['마당이 있는 집'으로 3년 만에 안방극장 복귀
+"임지연 덕분에 더 몰입할 수 있었다" 첫 호흡]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16855226187847vmE1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오늘 뭘 볼까] 마동석의 맨주먹과 투 빌런의 등장! '범죄도시3']]></title>
             <link>https://www.maxmovie.com/news/433623</link>
             <guid>https://www.maxmovie.com/news/433623</guid>
             <pubDate>Wed, 31 May 2023 23:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '범죄도시3''범죄도시3' 스틸(사진제공= 에이비오엔터테인먼트)'범죄도시3'은 대체불가 괴물형사 마석도(마동석)가 서울 광역수사대로 이동 후, 신종 마약 범죄 사건의 배후인 주성철(이준혁)과 마약 사건에 연루된 또 다른 빌런 리키(아오키 무네타카)를 잡기 위해 펼치는 통쾌한 범죄 소탕 작전을 그린 영화다.&nbsp;베트남 납치 살]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433623"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16855225122494h160.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433623"><h4>[오늘 뭘 볼까] 마동석의 맨주먹과 투 빌런의 등장! '범죄도시3'</h4></a><span>05월 31일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16855225122494h160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끝나지 않은 '아널드 슈워제네거'의 전성기]]></title>
-            <link>https://www.maxmovie.com/news/433621</link>
-            <guid>https://www.maxmovie.com/news/433621</guid>
-            <pubDate>Wed, 31 May 2023 08:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[끝없는 '도전'... 보디빌더,  배우, 정치까지
-끝나지 않는 아널드 슈워제네거의 '전성기']]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685511845050HuTKp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['시맨틱 에러' 효과? BL '트랙터는 사랑을 싣고' 192개국 공개]]></title>
-            <link>https://www.maxmovie.com/news/433620</link>
-            <guid>https://www.maxmovie.com/news/433620</guid>
-            <pubDate>Thu, 01 Jun 2023 02:44:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433620"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685496315220YyvOE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/433620"><h4>'시맨틱 에러' 효과? BL '트랙터는 사랑을 싣고' 192개국 공개 </h4></a><span>05월 31일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685496315220YyvOE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
