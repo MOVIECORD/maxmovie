@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 09:06:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 10:07:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685665509553Dr0ow.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['범죄도시3' 벌써 손익분기점 돌파…지금부터 이익 발생]]></title>
+            <link>https://www.maxmovie.com/news/433645</link>
+            <guid>https://www.maxmovie.com/news/433645</guid>
+            <pubDate>Fri, 02 Jun 2023 10:06:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433645"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685696466889Rnzn8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433645"><h4>'범죄도시3' 벌써 손익분기점 돌파…지금부터 이익 발생</h4></a><span>53분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685696466889Rnzn8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에즈라 밀러 '플래시'에 '원조 배트맨' 나온다]]></title>
             <link>https://www.maxmovie.com/news/433638</link>
             <guid>https://www.maxmovie.com/news/433638</guid>
             <pubDate>Fri, 02 Jun 2023 09:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433638"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685669757775xE7Mu.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433638"><h4>에즈라 밀러 '플래시'에 '원조 배트맨' 나온다</h4></a><span>7시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[오는 14일 개봉
+마이클 키튼, 31년만에 배트맨 복귀]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685669757775xE7Mu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,17 +88,8 @@
             <link>https://www.maxmovie.com/news/433626</link>
             <guid>https://www.maxmovie.com/news/433626</guid>
             <pubDate>Thu, 01 Jun 2023 23:05:11 GMT</pubDate>
-            <content:encoded><![CDATA[인기 웹툰 원작, 구교환과 신승호 강기남 등 출연 
-'뷰티 인사이드' 백 감독의 두 번째 영화]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433626"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16855802800707Sv0b.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433626"><h4>구교환, 죽은 뒤 72시간 뒤 부활! 영화 '부활남' 촬영 돌입 </h4></a><span>06월 01일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16855802800707Sv0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['범죄도시3' 첫날 74만명 '쾌조의 출발']]></title>
-            <link>https://www.maxmovie.com/news/433625</link>
-            <guid>https://www.maxmovie.com/news/433625</guid>
-            <pubDate>Thu, 01 Jun 2023 23:05:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433625"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685577595092QLYVZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433625"><h4>'범죄도시3' 첫날 74만명 '쾌조의 출발'</h4></a><span>06월 01일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685577595092QLYVZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
