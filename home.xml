@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Jun 2023 06:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 07:04:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,7 +46,7 @@
             <link>https://www.maxmovie.com/news/433642</link>
             <guid>https://www.maxmovie.com/news/433642</guid>
             <pubDate>Sat, 03 Jun 2023 05:04:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433642"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685694393276oDIs6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/433642"><h4>남편 원빈도 응원한 '박하경 이야기', 이나영 "모든게 완벽"</h4></a><span>1시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433642"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685694393276oDIs6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/433642"><h4>남편 원빈도 응원한 '박하경 이야기', 이나영 "모든게 완벽"</h4></a><span>2시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685694393276oDIs6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -66,15 +66,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685665418487qSLqW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['플래시' '인디아나 존스' '미션 임파서블'…할리우드 올드보이의 공습]]></title>
-            <link>https://www.maxmovie.com/news/433640</link>
-            <guid>https://www.maxmovie.com/news/433640</guid>
-            <pubDate>Sat, 03 Jun 2023 06:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[마이클 키튼, 31년 만에 배트맨 캐릭터 선보여
-해리슨 포드, 톰 크루즈  인기 시리즈로  컴백]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685683499076OVwr1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[에즈라 밀러 '플래시'에 '원조 배트맨' 나온다]]></title>
             <link>https://www.maxmovie.com/news/433638</link>
             <guid>https://www.maxmovie.com/news/433638</guid>
@@ -88,8 +79,16 @@
             <link>https://www.maxmovie.com/news/433632</link>
             <guid>https://www.maxmovie.com/news/433632</guid>
             <pubDate>Fri, 02 Jun 2023 00:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433632"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685609689240u7B7I.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433632"><h4>톰 크루즈 '미션 임파서블7', 북미보다 하루 먼저 본다</h4></a><span>06월 01일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['미션 임파서블:데드 레코닝 파트 원' 7월12일 국내 개봉]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685609689240u7B7I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장동윤의 로코 '롱디', 이제 안방에서 본다]]></title>
+            <link>https://www.maxmovie.com/news/433629</link>
+            <guid>https://www.maxmovie.com/news/433629</guid>
+            <pubDate>Sat, 03 Jun 2023 07:04:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433629"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685582030933Ps9Yx.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433629"><h4>장동윤의 로코 '롱디', 이제 안방에서 본다 </h4></a><span>06월 01일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685582030933Ps9Yx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
