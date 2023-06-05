@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 23:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 00:36:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,11 +41,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685665418487qSLqW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['흥행퀸' 김남주의 선택…격정 멜로→사적 복수]]></title>
+            <link>https://www.maxmovie.com/news/433653</link>
+            <guid>https://www.maxmovie.com/news/433653</guid>
+            <pubDate>Mon, 05 Jun 2023 00:36:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433653"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685912344438oDV9u.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433653"><h4>'흥행퀸' 김남주의 선택…격정 멜로→사적 복수</h4></a><span>9분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685912344438oDV9u.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['범죄도시3' 첫주 450만명 동원…곧 '스즈메' 넘는다]]></title>
             <link>https://www.maxmovie.com/news/433654</link>
             <guid>https://www.maxmovie.com/news/433654</guid>
             <pubDate>Sun, 04 Jun 2023 23:03:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433654"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685918308324gHAal.gif);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433654"><h4>'범죄도시3' 첫주 450만명 동원…곧 '스즈메' 넘는다</h4></a><span>19분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[누적관객 수 450만명, 주말 이틀간 222만명 동원
+5일 오전 예매량 40만장 넘어서…500만 돌파 예고]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685918308324gHAal.gif" length="0" type="image/gif"/>
         </item>
         <item>
@@ -78,16 +87,8 @@
             <link>https://www.maxmovie.com/news/433645</link>
             <guid>https://www.maxmovie.com/news/433645</guid>
             <pubDate>Sun, 04 Jun 2023 09:06:23 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '범죄도시3'이 손익분기점을 돌파했다.(사진출처=영화 '범죄도시3' 스틸)2일 배급사 에이비오엔터테인먼트에 따르면, '범죄도시3'은 이날 오후 2시 영화관입장권통합전산망 기준으로 200만 관객을 돌파했다.'범죄도시3'의 손익분기점은 180만명으로 이후부터 이익이 발생하는데, 이날 제작비를 회수했다.특히 올해 한국영화 개봉작 가운데 첫 200만 관객을]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433645"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685696466889Rnzn8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433645"><h4>'범죄도시3' 벌써 손익분기점 돌파…지금부터 이익 발생</h4></a><span>06월 02일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685696466889Rnzn8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['플래시' '인디아나 존스' '미션 임파서블'…할리우드 올드보이의 공습]]></title>
-            <link>https://www.maxmovie.com/news/433640</link>
-            <guid>https://www.maxmovie.com/news/433640</guid>
-            <pubDate>Sun, 04 Jun 2023 22:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433640"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685683499076OVwr1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433640"><h4>'플래시' '인디아나 존스' '미션 임파서블'…할리우드 올드보이의 공습</h4></a><span>06월 02일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685683499076OVwr1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
