@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 22:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 23:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685860216375mD8Pe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 사랑과 다정함이 지닌 힘! 영화 '말없는 소녀']]></title>
+            <link>https://www.maxmovie.com/news/433663</link>
+            <guid>https://www.maxmovie.com/news/433663</guid>
+            <pubDate>Mon, 05 Jun 2023 23:04:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433663"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685956404187kUvJP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433663"><h4>[오늘 뭘 볼까] 사랑과 다정함이 지닌 힘! 영화 '말없는 소녀'</h4></a><span>5분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685956404187kUvJP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['슬램덩크' 잇는 '둘리' '짱구' '포켓몬'... 끝나지 않는 애니 인기]]></title>
             <link>https://www.maxmovie.com/news/433661</link>
             <guid>https://www.maxmovie.com/news/433661</guid>
             <pubDate>Mon, 05 Jun 2023 10:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433661"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685948866870xRggw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433661"><h4>'슬램덩크' 잇는 '둘리' '짱구' '포켓몬'... 끝나지 않는 애니 인기 </h4></a><span>12시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[스테디셀러 만화 원작 애니 영화, 관객들 마음 사로잡아
+'슬램덩크'부터 '짱구' '둘리' '포켓몬스터'까지]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685948866870xRggw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,16 +90,8 @@
             <link>https://www.maxmovie.com/news/433652</link>
             <guid>https://www.maxmovie.com/news/433652</guid>
             <pubDate>Sun, 04 Jun 2023 09:06:23 GMT</pubDate>
-            <content:encoded><![CDATA[인도에서 발생한 열차 충돌 참사로 인해 MBC 예능 '태어난 김에 세계일주2'(태계일주2) 팝업캠프가 중단된다.(사진출처=MBC 예능 '태어난 김에 세계일주2' 홈페이지 캡처)'태계일주2' 측은 4일 "6월2일부터 11일까지 진행 예정이었던 동묘 팝업캠프는 3일 인도 오디샤주에서 발생한 열차 충돌 사고를 애도하기 위해 운영을 중단하기로 결정했다"고 밝혔다.]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433652"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685868425649xblJW.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433652"><h4>'태계일주2' 팝업캠프 중단…"인도 열차 참사 애도"</h4></a><span>06월 04일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685868425649xblJW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공현주, 이란성 쌍둥이 엄마 됐다]]></title>
-            <link>https://www.maxmovie.com/news/433651</link>
-            <guid>https://www.maxmovie.com/news/433651</guid>
-            <pubDate>Sun, 04 Jun 2023 08:07:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433651"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685865709689w8D7l.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433651"><h4>공현주, 이란성 쌍둥이 엄마 됐다</h4></a><span>06월 04일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685865709689w8D7l.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
