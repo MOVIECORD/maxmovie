@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 22:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 23:05:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,8 +47,16 @@
             <link>https://www.maxmovie.com/news/433665</link>
             <guid>https://www.maxmovie.com/news/433665</guid>
             <pubDate>Tue, 06 Jun 2023 04:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433665"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685983096772GI4JV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433665"><h4> 올해 여름 극장가, '2022년 악몽' 씻을까...기대와 우려 사이 </h4></a><span>18시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433665"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685983096772GI4JV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433665"><h4> 올해 여름 극장가, '2022년 악몽' 씻을까...기대와 우려 사이 </h4></a><span>19시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685983096772GI4JV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 우리 사회의 냉혹한 현실을 담다! 영화 '드림팰리스']]></title>
+            <link>https://www.maxmovie.com/news/433664</link>
+            <guid>https://www.maxmovie.com/news/433664</guid>
+            <pubDate>Tue, 06 Jun 2023 23:04:46 GMT</pubDate>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '드림팰리스''드림팰리스' 스틸(사진제공=인디스토리)'드림팰리스'는 남편의 목숨값으로 장만한 아파트를 지키려는 두 여자의 고군분투를 담은 영화다.&nbsp;산업재해로 남편을 잃은 혜정과 수인은 진상규명을 위해 함께 싸운 사이다. 혜정은 합의금을 받고 싸움을 멈췄지만, 수인은 다른 유가족들과 아직도 농성 중이다. 남편 목숨 값으로]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685957234228fOofv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 사랑과 다정함이 지닌 힘! 영화 '말없는 소녀']]></title>
@@ -81,16 +89,8 @@
             <link>https://www.maxmovie.com/news/433657</link>
             <guid>https://www.maxmovie.com/news/433657</guid>
             <pubDate>Mon, 05 Jun 2023 02:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[DJ파티·물총싸움·퍼레이드 등 대규모 시민 참여 행사]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433657"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685927326747GXYRn.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433657"><h4>부천국제판타스틱영화제, 시민과 함께한다...'7월의 카니발' 개최</h4></a><span>06월 05일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685927326747GXYRn.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[톰 크루즈, 무려 11번째 내한... '미션임파서블7'로 또!]]></title>
-            <link>https://www.maxmovie.com/news/433655</link>
-            <guid>https://www.maxmovie.com/news/433655</guid>
-            <pubDate>Mon, 05 Jun 2023 08:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433655"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1685946847865S22O7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433655"><h4>톰 크루즈, 무려 11번째 내한... '미션임파서블7'로 또!</h4></a><span>06월 05일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685946847865S22O7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
