@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 06:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 07:05:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685956404187kUvJP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여성 퀴어, 성장 로맨스, 그리고 국산 애니... '그 여름'에 쏠린 눈]]></title>
+            <link>https://www.maxmovie.com/news/433677</link>
+            <guid>https://www.maxmovie.com/news/433677</guid>
+            <pubDate>Wed, 07 Jun 2023 07:05:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433677"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686116325459tInjM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433677"><h4> 여성 퀴어, 성장 로맨스, 그리고 국산 애니... '그 여름'에 쏠린 눈  </h4></a><span>57분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686116325459tInjM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[쏟아지는 BL드라마, OTT 플랫폼 타고 날아올라]]></title>
             <link>https://www.maxmovie.com/news/433675</link>
             <guid>https://www.maxmovie.com/news/433675</guid>
             <pubDate>Wed, 07 Jun 2023 06:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433675"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686106171826HDZqT.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433675"><h4>쏟아지는 BL드라마, OTT 플랫폼 타고 날아올라</h4></a><span>1시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[작년 '시멘틱 에러' 성공 이후 쏟아지는 BL드라마
+올해만 해도 벌써 7편 공개, 다양한 OTT 플랫폼 통해 국내외로 인기]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686106171826HDZqT.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/433667</link>
             <guid>https://www.maxmovie.com/news/433667</guid>
             <pubDate>Tue, 06 Jun 2023 10:06:04 GMT</pubDate>
-            <content:encoded><![CDATA[바디체인지 소재 '악마들' 7월5일 개봉 
-오대환과 투톱 주연, 연기 변신 시도]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433667"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686009806483okMb0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433667"><h4>연쇄살인범 된 장동윤의 새 얼굴, 영화 '악마들' 궁금증  ↑</h4></a><span>06월 06일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686009806483okMb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[범죄도시 500만 돌파, 파죽지세 쌍천만 노린다]]></title>
-            <link>https://www.maxmovie.com/news/433666</link>
-            <guid>https://www.maxmovie.com/news/433666</guid>
-            <pubDate>Tue, 06 Jun 2023 10:06:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433666"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686008443553fOUxE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433666"><h4>범죄도시 500만 돌파, 파죽지세 쌍천만 노린다 </h4></a><span>06월 05일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686008443553fOUxE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
