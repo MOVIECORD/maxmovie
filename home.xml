@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 07:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 09:06:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685956404187kUvJP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[드라마·영화·예능, '만능 치트키' 나인우]]></title>
+            <link>https://www.maxmovie.com/news/433678</link>
+            <guid>https://www.maxmovie.com/news/433678</guid>
+            <pubDate>Wed, 07 Jun 2023 09:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433678"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686121419850tzPy1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433678"><h4>드라마·영화·예능, '만능 치트키' 나인우</h4></a><span>1시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686121419850tzPy1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여성 퀴어, 성장 로맨스, 그리고 국산 애니... '그 여름'에 쏠린 눈]]></title>
             <link>https://www.maxmovie.com/news/433677</link>
             <guid>https://www.maxmovie.com/news/433677</guid>
             <pubDate>Wed, 07 Jun 2023 07:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433677"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686116325459tInjM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433677"><h4> 여성 퀴어, 성장 로맨스, 그리고 국산 애니... '그 여름'에 쏠린 눈  </h4></a><span>57분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[7일 개봉 애니메이션, 한국영화 예매율 2위
+최은영 작가 동명 단편 소설 원작]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686116325459tInjM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/433668</link>
             <guid>https://www.maxmovie.com/news/433668</guid>
             <pubDate>Wed, 07 Jun 2023 02:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[티빙 오리지널 시리즈 '춘화연애담' 주연 
-공주와 부마 후보의 위험천만한 로맨스]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433668"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16860226157437G3Dd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433668"><h4>고아성‧장률, '19금 사극'으로 첫 호흡  </h4></a><span>06월 06일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16860226157437G3Dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연쇄살인범 된 장동윤의 새 얼굴, 영화 '악마들' 궁금증  ↑]]></title>
-            <link>https://www.maxmovie.com/news/433667</link>
-            <guid>https://www.maxmovie.com/news/433667</guid>
-            <pubDate>Tue, 06 Jun 2023 10:06:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433667"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686009806483okMb0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433667"><h4>연쇄살인범 된 장동윤의 새 얼굴, 영화 '악마들' 궁금증  ↑</h4></a><span>06월 06일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686009806483okMb0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
