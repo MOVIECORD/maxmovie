@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 20:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 21:05:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,8 +45,17 @@
             <link>https://www.maxmovie.com/news/433729</link>
             <guid>https://www.maxmovie.com/news/433729</guid>
             <pubDate>Mon, 12 Jun 2023 12:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433729"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686570656157bpjVS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433729"><h4>김무열 윤승아, 결혼 8년 만에 득남 "젬마야 반가워"</h4></a><span>8시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433729"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686570656157bpjVS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433729"><h4>김무열 윤승아, 결혼 8년 만에 득남 "젬마야 반가워"</h4></a><span>9시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686570656157bpjVS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["할 수 있는 게 연기밖에 없으니까" 김선호 '귀공자' 임한 각오는]]></title>
+            <link>https://www.maxmovie.com/news/433728</link>
+            <guid>https://www.maxmovie.com/news/433728</guid>
+            <pubDate>Mon, 12 Jun 2023 21:05:10 GMT</pubDate>
+            <content:encoded><![CDATA[박훈정 손잡고 '귀공자'로 첫 스크린 연기…자비 없는 킬러 역
+사생활 논란에 출연 무산될 뻔도 "연기로 보답하고 싶었다"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16865611551550WocC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['신과함께' 집안 싸움, 하정우·주지훈 vs 김용화 감독 '8월2일 격돌']]></title>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/433716</link>
             <guid>https://www.maxmovie.com/news/433716</guid>
             <pubDate>Mon, 12 Jun 2023 00:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[영화, 드라마 2개 분야 진행
-12일 부터 26일까지 접수]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433716"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686528180252LTl6y.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433716"><h4>'총 상금 2억원' 롯데 크리에이티브 공모전 12일 접수 시작 </h4></a><span>20시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686528180252LTl6y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["토할 만큼 흥미진진한" 영화 '슬픔의 삼각형' 5만 돌파]]></title>
-            <link>https://www.maxmovie.com/news/433715</link>
-            <guid>https://www.maxmovie.com/news/433715</guid>
-            <pubDate>Mon, 12 Jun 2023 02:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433715"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686486879004PPHJC.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433715"><h4>"토할 만큼 흥미진진한" 영화 '슬픔의 삼각형' 5만 돌파 </h4></a><span>06월 11일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686486879004PPHJC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
