@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 22:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 23:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,8 +48,16 @@
             <link>https://www.maxmovie.com/news/433756</link>
             <guid>https://www.maxmovie.com/news/433756</guid>
             <pubDate>Wed, 14 Jun 2023 09:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433756"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686733317881lu2NU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433756"><h4>'하이쿠키'로 만난 남지현·김무열·최현욱</h4></a><span>13시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433756"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686733317881lu2NU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433756"><h4>'하이쿠키'로 만난 남지현·김무열·최현욱</h4></a><span>14시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686733317881lu2NU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 불·물·공기·흙, 4원소들의 우정을 담은 영화 '엘리멘탈']]></title>
+            <link>https://www.maxmovie.com/news/433755</link>
+            <guid>https://www.maxmovie.com/news/433755</guid>
+            <pubDate>Wed, 14 Jun 2023 23:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '엘리멘탈''엘리멘탈'의 한 장면(사진제공=월트디즈니 컴퍼니 코리아)'엘리멘탈'은 불, 물, 공기, 흙 4원소가 살고 있는 엘리멘트 시티에서 불처럼 열정 넘치는 앰버가 물 흐르듯 사는 웨이드를 만나 특별한 우정을 쌓으며 자신의 새로운 가능성을 발견하는 이야기다.&nbsp;영화 '굿 다이노'를 연출, '루카'를 기획했던 피터 손 감]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686730181017AykG0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['골때녀' 1호 커플, 최윤영·백지훈 결별]]></title>
@@ -82,17 +90,8 @@
             <link>https://www.maxmovie.com/news/433745</link>
             <guid>https://www.maxmovie.com/news/433745</guid>
             <pubDate>Wed, 14 Jun 2023 06:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[로맨틱 코미디 '다 이루어질지니' 투톱 주연
-'함부로 애틋하게' 이후 7년 만에 재회]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433745"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686703462951LdpbO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433745"><h4>김우빈·수지, 김은숙 작가 새 드라마 주연 </h4></a><span>22시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686703462951LdpbO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조 샐다나와 니콜 키드먼의 만남, 스파이 시리즈 '라이어니스'  7월 공개]]></title>
-            <link>https://www.maxmovie.com/news/433744</link>
-            <guid>https://www.maxmovie.com/news/433744</guid>
-            <pubDate>Wed, 14 Jun 2023 00:34:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433744"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686648610237DmPdQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/433744"><h4>조 샐다나와 니콜 키드먼의 만남, 스파이 시리즈 '라이어니스'  7월 공개 </h4></a><span>21시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686648610237DmPdQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
