@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 00:36:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 02:08:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['조춘자' 김혜수부터 '갈매기 눈썹' 고민시까지... '밀수' 반전 스틸]]></title>
+            <link>https://www.maxmovie.com/news/433762</link>
+            <guid>https://www.maxmovie.com/news/433762</guid>
+            <pubDate>Thu, 15 Jun 2023 02:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/433762"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1686791797278biLse.jpg" alt=""></span><span class="textBox"><h4>'조춘자' 김혜수부터 '갈매기 눈썹' 고민시까지... '밀수' 반전 스틸 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686791797278biLse.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어디서도 본 적 없는 비주얼, 핑크핑크 영화 '바비' 스틸]]></title>
             <link>https://www.maxmovie.com/news/433725</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/431461"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1606795355797eCe2Q.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 최수영 '요정 비주얼'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1606795355797eCe2Q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] '새해전야' 최수영 '여유로운 포즈']]></title>
-            <link>https://www.maxmovie.com/news/431460</link>
-            <guid>https://www.maxmovie.com/news/431460</guid>
-            <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/431460"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1606795288252gB16q.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 최수영 '여유로운 포즈'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1606795288252gB16q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
