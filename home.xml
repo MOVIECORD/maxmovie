@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 15:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 16:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,7 +47,7 @@
             <link>https://www.maxmovie.com/news/433784</link>
             <guid>https://www.maxmovie.com/news/433784</guid>
             <pubDate>Fri, 16 Jun 2023 10:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433784"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686906434997oHsc3.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433784"><h4>다이나믹듀오 최자, 비연예인 여성과 7월 결혼</h4></a><span>5시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433784"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686906434997oHsc3.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433784"><h4>다이나믹듀오 최자, 비연예인 여성과 7월 결혼</h4></a><span>7시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686906434997oHsc3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -58,6 +58,15 @@
             <content:encoded><![CDATA[국내 인기 애니메이션 시리즈 
 주인공 금비의 어린 시절 공개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686899223563fD60V.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[83세 배우 알 파치노, 54살 연하 연인과 '득남']]></title>
+            <link>https://www.maxmovie.com/news/433771</link>
+            <guid>https://www.maxmovie.com/news/433771</guid>
+            <pubDate>Fri, 16 Jun 2023 16:07:40 GMT</pubDate>
+            <content:encoded><![CDATA[29세 연인과 지난해 4월부터 교제 
+아들 이름 '로만 파치노'로 알려져]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686875870201JBH24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임윤아, '킹더랜드' 통해 '로코퀸'  노린다]]></title>
@@ -81,16 +90,8 @@
             <link>https://www.maxmovie.com/news/433769</link>
             <guid>https://www.maxmovie.com/news/433769</guid>
             <pubDate>Fri, 16 Jun 2023 09:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[2006년 6월15일 영화 '비열한 거리' 개봉]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433769"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/168681661277817f9S.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/433769"><h4>[N년 전 오늘!] '태권도 4단' 조인성, 비루한 청춘의 액션</h4></a><span>06월 15일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/168681661277817f9S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹더랜드' 이준호의 자신감, 뻔한 로코도 이준호가 하면 다르다?]]></title>
-            <link>https://www.maxmovie.com/news/433766</link>
-            <guid>https://www.maxmovie.com/news/433766</guid>
-            <pubDate>Fri, 16 Jun 2023 15:06:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433766"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686813971945lvsle.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433766"><h4>'킹더랜드' 이준호의 자신감, 뻔한 로코도 이준호가 하면 다르다?</h4></a><span>06월 15일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686813971945lvsle.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
