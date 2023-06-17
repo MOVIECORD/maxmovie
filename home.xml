@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 04:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 05:04:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16869647254964IErm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다이나믹듀오 최자, 비연예인 여성과 7월 결혼]]></title>
+            <link>https://www.maxmovie.com/news/433784</link>
+            <guid>https://www.maxmovie.com/news/433784</guid>
+            <pubDate>Sat, 17 Jun 2023 05:04:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433784"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686906434997oHsc3.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433784"><h4>다이나믹듀오 최자, 비연예인 여성과 7월 결혼</h4></a><span>19시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686906434997oHsc3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['신비아파트' 최초 조선시대 배경 특별판 7월14일 공개]]></title>
             <link>https://www.maxmovie.com/news/433777</link>
             <guid>https://www.maxmovie.com/news/433777</guid>
             <pubDate>Fri, 16 Jun 2023 08:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433777"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686899223563fD60V.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433777"><h4> '신비아파트' 최초 조선시대 배경 특별판 7월14일 공개 </h4></a><span>20시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[국내 인기 애니메이션 시리즈 
+주인공 금비의 어린 시절 공개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686899223563fD60V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,17 +88,8 @@
             <link>https://www.maxmovie.com/news/433772</link>
             <guid>https://www.maxmovie.com/news/433772</guid>
             <pubDate>Fri, 16 Jun 2023 02:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[주지훈, 이국종 교수 모티브로 한 드라마 출연
-'메디컬 탑팀' 이후 10년 만에 의학드라마 도전]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433772"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16868762937843HqdF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/433772"><h4>주지훈, 이국종 교수되다...'중증외상센터'로 의학드라마 재도전</h4></a><span>06월 16일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16868762937843HqdF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[83세 배우 알 파치노, 54살 연하 연인과 '득남']]></title>
-            <link>https://www.maxmovie.com/news/433771</link>
-            <guid>https://www.maxmovie.com/news/433771</guid>
-            <pubDate>Sat, 17 Jun 2023 03:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433771"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1686875870201JBH24.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433771"><h4>83세 배우 알 파치노, 54살 연하 연인과 '득남' </h4></a><span>06월 16일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686875870201JBH24.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
