@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 05:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 06:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,11 +41,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1687222979443KdoO0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[중앙그룹, 대학생 서포터즈 '앙중크루' 1기 모집]]></title>
+            <link>https://www.maxmovie.com/news/433818</link>
+            <guid>https://www.maxmovie.com/news/433818</guid>
+            <pubDate>Tue, 20 Jun 2023 06:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433818"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16872402400666cTvK.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433818"><h4>중앙그룹, 대학생 서포터즈 '앙중크루' 1기 모집</h4></a><span>18분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16872402400666cTvK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[구혜선 "전 남편 안재현 믿고 유튜브 무보수 출연" 항소 의지 밝혀]]></title>
             <link>https://www.maxmovie.com/news/433812</link>
             <guid>https://www.maxmovie.com/news/433812</guid>
             <pubDate>Tue, 20 Jun 2023 02:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433812"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1687220851829G6eXO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433812"><h4>구혜선 "전 남편 안재현 믿고 유튜브 무보수 출연" 항소 의지 밝혀</h4></a><span>4시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[전 소속사에 소송 냈다 패소한 구혜선
+"항소할 것" SNS에 밝혀]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1687220851829G6eXO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,16 +88,8 @@
             <link>https://www.maxmovie.com/news/433805</link>
             <guid>https://www.maxmovie.com/news/433805</guid>
             <pubDate>Mon, 19 Jun 2023 08:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[전작 이미지 벗고 새로운 얼굴로 돌아오는 배우들]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433805"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16871528198159RXRD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433805"><h4>성공을 뒤로 하고…김태리·박은빈·수지 '변신의 계절'</h4></a><span>21시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16871528198159RXRD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김남길·박서준·한소희·송강... 하반기 OTT 시리즈 공습]]></title>
-            <link>https://www.maxmovie.com/news/433802</link>
-            <guid>https://www.maxmovie.com/news/433802</guid>
-            <pubDate>Tue, 20 Jun 2023 03:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433802"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1687145140360wamJY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433802"><h4>김남길·박서준·한소희·송강... 하반기 OTT 시리즈 공습 </h4></a><span>21시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1687145140360wamJY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
