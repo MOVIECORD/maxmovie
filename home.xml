@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 22:07:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 23:07:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <link>https://www.maxmovie.com/news/433853</link>
             <guid>https://www.maxmovie.com/news/433853</guid>
             <pubDate>Fri, 23 Jun 2023 02:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433853"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1687482363584WoP5o.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433853"><h4>박하선·서현우의 비판(BIFAN) 만남</h4></a><span>20시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433853"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1687482363584WoP5o.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433853"><h4>박하선·서현우의 비판(BIFAN) 만남</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1687482363584WoP5o.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -65,6 +65,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1687415791768zibXL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 새만금의 마지막 갯벌을 담은 다큐멘터리 영화 '수라']]></title>
+            <link>https://www.maxmovie.com/news/433846</link>
+            <guid>https://www.maxmovie.com/news/433846</guid>
+            <pubDate>Fri, 23 Jun 2023 23:07:06 GMT</pubDate>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '수라''수라'의 한 장면(사진제공=스튜디오 두마)'수라'는 황윤 감독이 새만금의 마지막 갯벌 수라의 시간과 사람, 생명을 7년 동안 기록한 다큐멘터리 작품이다.&nbsp;우리가 미처 몰랐던 갯벌의 아름다움을 수려한 이미지와 사운드로 구현해냈다.수라는 새만금 간척사업 이후 현재 남아있는 마지막 갯벌의 이름이다. 본래 이름이 없었으]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16874162825920lgJY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배우 겸 가수 이부영, 신곡 '그런 사랑 해봐요'.."모든 이에게 위로를"]]></title>
             <link>https://www.maxmovie.com/news/433849</link>
             <guid>https://www.maxmovie.com/news/433849</guid>
@@ -77,16 +85,8 @@
             <link>https://www.maxmovie.com/news/433844</link>
             <guid>https://www.maxmovie.com/news/433844</guid>
             <pubDate>Thu, 22 Jun 2023 07:05:06 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니+ '사운드트랙 #2'  주연..올해 하반기 공개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433844"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16874148009215uHU8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433844"><h4>'파친코' 노상현, '사랑의 이해' 금새록이 돌아온다</h4></a><span>06월 22일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16874148009215uHU8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['팜유' 이장우, 8세 연하 조혜원과 "예쁜 사랑 중"]]></title>
-            <link>https://www.maxmovie.com/news/433843</link>
-            <guid>https://www.maxmovie.com/news/433843</guid>
-            <pubDate>Fri, 23 Jun 2023 02:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433843"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1687413640646OGmAU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433843"><h4>'팜유' 이장우, 8세 연하 조혜원과 "예쁜 사랑 중"</h4></a><span>06월 22일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1687413640646OGmAU.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
