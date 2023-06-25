@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jun 2023 23:06:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 00:44:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,14 +49,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1687507619755IGIVS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[N년 전 오늘!] '욘사마' 배용준, 日 시사주간지 표지 장식]]></title>
-            <link>https://www.maxmovie.com/news/433856</link>
-            <guid>https://www.maxmovie.com/news/433856</guid>
-            <pubDate>Sat, 24 Jun 2023 23:05:58 GMT</pubDate>
-            <content:encoded><![CDATA[2004년 6월23일 아사히신문 발간 '아에라' 특집판 발간]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1687506607790RC4vs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['첫 장르물' 김태리, '악귀' 속 모습 어떨까?]]></title>
             <link>https://www.maxmovie.com/news/433854</link>
             <guid>https://www.maxmovie.com/news/433854</guid>
@@ -86,8 +78,16 @@
             <link>https://www.maxmovie.com/news/433847</link>
             <guid>https://www.maxmovie.com/news/433847</guid>
             <pubDate>Sat, 24 Jun 2023 23:05:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433847"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16874168568661FQna.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433847"><h4>[오늘 뭘 볼까] 잊어서는 안 될 역사… 영화 '206: 사라지지 않는'</h4></a><span>6분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '206: 사라지지 않는''206: 사라지지 않는'의 한 장면(사진제공=찬란)'206: 사라지지 않는'은 제주4.3사건, 5.18민주화운동과 함께 국가가 은폐하려 한 '한국전쟁 민간인 학살' 사건. 그 진실을 찾아 나선 시민 발굴단의 여정의 기록을 담은 작품이다.영화는 1950년 6월 한국전쟁을 시작으로 1953년 7월까]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16874168568661FQna.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 더욱 확장된 세계관으로 돌아온 '스파이더맨: 어크로스 더 유니버스']]></title>
+            <link>https://www.maxmovie.com/news/433845</link>
+            <guid>https://www.maxmovie.com/news/433845</guid>
+            <pubDate>Sun, 25 Jun 2023 00:43:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433845"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1687415791768zibXL.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433845"><h4>[오늘 뭘 볼까] 더욱 확장된 세계관으로 돌아온 '스파이더맨: 어크로스 더 유니버스'</h4></a><span>06월 22일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1687415791768zibXL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
