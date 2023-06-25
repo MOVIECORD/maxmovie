@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 22:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 23:06:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,11 +40,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1687479830136zxQIf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[섬뜩한 장르물에 감춘 '따뜻한 눈', 김은희 월드의 정점 '악귀']]></title>
+            <link>https://www.maxmovie.com/news/433867</link>
+            <guid>https://www.maxmovie.com/news/433867</guid>
+            <pubDate>Sun, 25 Jun 2023 23:06:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433867"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1687679920567ZNmL5.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/433867"><h4>섬뜩한 장르물에 감춘 '따뜻한 눈', 김은희 월드의 정점 '악귀'</h4></a><span>7분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1687679920567ZNmL5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[강지영 1인2역, 이기광 빌런…유하 감독 신작은]]></title>
             <link>https://www.maxmovie.com/news/433865</link>
             <guid>https://www.maxmovie.com/news/433865</guid>
             <pubDate>Sun, 25 Jun 2023 03:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433865"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16876619906805X4k6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433865"><h4>강지영 1인2역, 이기광 빌런…유하 감독 신작은</h4></a><span>19시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[유하 감독이 돌아온다. 데뷔 이래 첫 드라마 연출을 맡아 하반기 공개를 앞두고 있다.트리플픽쳐스는 "유하 감독의 신작 '아이 킬 유'(I KILL U)가 6월12일 크랭크인을 했다"고 밝혔다.유하 감독이 영화 '파이프 라인' 이후 신작으로 드라마 '아이 킬 유'(I KILL U)를 선택했다.●유하 감독, 데뷔 이래 첫 드라마 연출'아이 킬 유'는 한때 태권]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16876619906805X4k6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,16 +84,8 @@
             <link>https://www.maxmovie.com/news/433857</link>
             <guid>https://www.maxmovie.com/news/433857</guid>
             <pubDate>Sat, 24 Jun 2023 00:42:38 GMT</pubDate>
-            <content:encoded><![CDATA['보 이즈 어프레이드'로 내한하는 아리 에스터 감독]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433857"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1687507619755IGIVS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433857"><h4>봉준호 감독, '유전'·'미드소마' 아리 에스터 감독 만난다</h4></a><span>06월 23일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1687507619755IGIVS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[N년 전 오늘!] '욘사마' 배용준, 日 시사주간지 표지 장식]]></title>
-            <link>https://www.maxmovie.com/news/433856</link>
-            <guid>https://www.maxmovie.com/news/433856</guid>
-            <pubDate>Sun, 25 Jun 2023 02:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433856"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1687506607790RC4vs.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/433856"><h4>[N년 전 오늘!] '욘사마' 배용준, 日 시사주간지 표지 장식</h4></a><span>06월 23일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1687506607790RC4vs.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
