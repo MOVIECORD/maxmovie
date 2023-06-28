@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 22:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 23:08:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,8 +47,17 @@
             <link>https://www.maxmovie.com/news/433902</link>
             <guid>https://www.maxmovie.com/news/433902</guid>
             <pubDate>Wed, 28 Jun 2023 08:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433902"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1687938817046YrjoR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/433902"><h4>제작사 하트피플, 영화 '연애하기 좋은 날' 제작... 새로운 도전 시작</h4></a><span>14시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433902"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1687938817046YrjoR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/433902"><h4>제작사 하트피플, 영화 '연애하기 좋은 날' 제작... 새로운 도전 시작</h4></a><span>15시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1687938817046YrjoR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[간병하던 노부인의 사망... 배우 김서형이 처한 새로운 '파국']]></title>
+            <link>https://www.maxmovie.com/news/433900</link>
+            <guid>https://www.maxmovie.com/news/433900</guid>
+            <pubDate>Wed, 28 Jun 2023 23:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[주연영화 '비닐하우스' 7월 개봉 
+웰메이드 스릴러 예고]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1687935538778nMmrE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['청담국제고등학교', 신예 장덕수 발굴...강렬한 눈도장]]></title>
@@ -80,16 +89,8 @@
             <link>https://www.maxmovie.com/news/433890</link>
             <guid>https://www.maxmovie.com/news/433890</guid>
             <pubDate>Tue, 27 Jun 2023 22:06:14 GMT</pubDate>
-            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '인디아나 존스:운명의 다이얼''인디아나 존스: 운명의 다이얼'의 한 장면(사진제공=월트디즈니컴퍼니코리아)'인디아나 존스:운명의 다이얼'은 역사를 뒤바꿀 수 있는 운명의 다이얼을 되찾기 위해 새로운 모험에 뛰어든 인디아나 존스가 전 세계를 무대로 펼치는 이야기다.&nbsp;1969년 뉴욕, 전설적인 모험가이자 고고학자 인디아나 존]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433890"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16878528825027tCQi.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433890"><h4>[오늘 뭘 볼까] 인디아나 존스의 42년만의 피날레! 영화 '인디아나 존스: 운명의 다이얼'</h4></a><span>06월 27일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16878528825027tCQi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아리 에스터 감독의 기기묘묘한 이야기…"제대로 살아보지 못한 인생에 대해"]]></title>
-            <link>https://www.maxmovie.com/news/433893</link>
-            <guid>https://www.maxmovie.com/news/433893</guid>
-            <pubDate>Wed, 28 Jun 2023 00:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433893"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16878607787536kxC3.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433893"><h4>아리 에스터 감독의 기기묘묘한 이야기…"제대로 살아보지 못한 인생에 대해"</h4></a><span>06월 27일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16878607787536kxC3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
