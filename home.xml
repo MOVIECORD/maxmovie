@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 23:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 00:45:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688036727983PSVG6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["'범죄도시3' 마침내 '천만' 돌파…관객 힘" 역대 30번째]]></title>
+            <link>https://www.maxmovie.com/news/433924</link>
+            <guid>https://www.maxmovie.com/news/433924</guid>
+            <pubDate>Sat, 01 Jul 2023 00:44:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433924"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688169555516rIcFo.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433924"><h4>"'범죄도시3' 마침내 '천만' 돌파…관객 힘" 역대 30번째</h4></a><span>43분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688169555516rIcFo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[맥스무비레터 #7번째 편지] 서울 거리에서 톰 크루즈를 만날 확률은?]]></title>
             <link>https://www.maxmovie.com/news/433923</link>
             <guid>https://www.maxmovie.com/news/433923</guid>
             <pubDate>Fri, 30 Jun 2023 23:05:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433923"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688163341227C3YEp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433923"><h4>[맥스무비레터 #7번째 편지] 서울 거리에서 톰 크루즈를 만날 확률은? </h4></a><span>6분 전<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 &lt;맥스무비레터&gt;에 실린 기사입니다]]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688163341227C3YEp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,16 +89,8 @@
             <link>https://www.maxmovie.com/news/433919</link>
             <guid>https://www.maxmovie.com/news/433919</guid>
             <pubDate>Fri, 30 Jun 2023 02:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[2004년 6월30일 영화 '인어공주' 개봉..제주 우도 촬영 뒷이야기]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433919"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688084141850CJja0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/433919"><h4>[N년 전 오늘!] 전도연, '간첩' 오인 받으며 영화 촬영한 사연</h4></a><span>23시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688084141850CJja0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[N년 전 오늘!] 고소영,  상영 금지 가처분 소송 '아파트'  공개]]></title>
-            <link>https://www.maxmovie.com/news/433914</link>
-            <guid>https://www.maxmovie.com/news/433914</guid>
-            <pubDate>Thu, 29 Jun 2023 08:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433914"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688015588617UJ8eI.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/433914"><h4>[N년 전 오늘!] 고소영,  상영 금지 가처분 소송 '아파트'  공개</h4></a><span>06월 29일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688015588617UJ8eI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
