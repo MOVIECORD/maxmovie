@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 21:06:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 22:06:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688375954996CLZ8r.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[4050세대 '심쿵'....'인디아나 존스5'에 담긴 42년간의 추억]]></title>
+            <link>https://www.maxmovie.com/news/433940</link>
+            <guid>https://www.maxmovie.com/news/433940</guid>
+            <pubDate>Mon, 03 Jul 2023 22:06:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433940"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688368803420amTgb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433940"><h4>4050세대 '심쿵'....'인디아나 존스5'에 담긴 42년간의 추억 </h4></a><span>7분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688368803420amTgb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['바비' 주연과 제작, 마고 로비가 관객에 전하고 싶은 메시지]]></title>
             <link>https://www.maxmovie.com/news/433939</link>
             <guid>https://www.maxmovie.com/news/433939</guid>
             <pubDate>Mon, 03 Jul 2023 07:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433939"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16883657175599WjZn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433939"><h4>'바비' 주연과 제작, 마고 로비가 관객에 전하고 싶은 메시지 </h4></a><span>14시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['바비' 판권 획득, 제작자 겸 배우로 나서 
+"다양한 사람들과 대화 나눌 수 있기를"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16883657175599WjZn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/433934</link>
             <guid>https://www.maxmovie.com/news/433934</guid>
             <pubDate>Mon, 03 Jul 2023 00:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 2주째 역주행 박스오피스 1위
-신작 '인디아나존스' 2위로 출발]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433934"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688343693383scAzv.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433934"><h4>여름 시장 뜻밖의 복병... '엘리멘탈' 2주 연속 흥행 1위 </h4></a><span>21시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688343693383scAzv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김태리, 비릿한 미소로 표현한 '악귀'...빛나는 연기 내공]]></title>
-            <link>https://www.maxmovie.com/news/433931</link>
-            <guid>https://www.maxmovie.com/news/433931</guid>
-            <pubDate>Sun, 02 Jul 2023 06:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433931"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688273684072q6jsp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433931"><h4>김태리, 비릿한 미소로 표현한 '악귀'...빛나는 연기 내공</h4></a><span>07월 02일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688273684072q6jsp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
