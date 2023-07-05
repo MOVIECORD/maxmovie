@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 05:08:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 06:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이병헌 · 박서준 · 박보영, 황궁 아파트에 모인 까닭은...]]></title>
+            <link>https://www.maxmovie.com/news/433968</link>
+            <guid>https://www.maxmovie.com/news/433968</guid>
+            <pubDate>Wed, 05 Jul 2023 06:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/433968"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1688536841604zyqSo.jpg" alt=""></span><span class="textBox"><h4>이병헌 · 박서준 · 박보영, 황궁 아파트에 모인 까닭은...</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688536841604zyqSo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['조춘자' 김혜수부터 '갈매기 눈썹' 고민시까지... '밀수' 반전 스틸]]></title>
             <link>https://www.maxmovie.com/news/433762</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/431462"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/16067954220154ezbe.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 최수영-유태오 '반가워요~'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16067954220154ezbe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] '새해전야' 최수영 '요정 비주얼']]></title>
-            <link>https://www.maxmovie.com/news/431461</link>
-            <guid>https://www.maxmovie.com/news/431461</guid>
-            <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/431461"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1606795355797eCe2Q.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 최수영 '요정 비주얼'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1606795355797eCe2Q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
