@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 02:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 03:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688433236680WSARE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[N년 전 오늘!] 그룹 슈퍼주니어, 배우 데뷔]]></title>
+            <link>https://www.maxmovie.com/news/433967</link>
+            <guid>https://www.maxmovie.com/news/433967</guid>
+            <pubDate>Wed, 05 Jul 2023 03:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433967"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688526642284igH8x.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433967"><h4>[N년 전 오늘!] 그룹 슈퍼주니어, 배우 데뷔</h4></a><span>6분 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688526642284igH8x.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[송혜교→김태희→전도연, '워맨스 전문가' 임지연 행보]]></title>
             <link>https://www.maxmovie.com/news/433960</link>
             <guid>https://www.maxmovie.com/news/433960</guid>
             <pubDate>Wed, 05 Jul 2023 02:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433960"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688519668814T3vrq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433960"><h4>송혜교→김태희→전도연, '워맨스 전문가' 임지연 행보  </h4></a><span>01월 01일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[임지연, 차차기작으로 '리볼버' 출연 확정 
+'더 글로리' 송혜교 '마당집' 김태희 이어 전도연]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688519668814T3vrq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/433951</link>
             <guid>https://www.maxmovie.com/news/433951</guid>
             <pubDate>Wed, 05 Jul 2023 02:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[치어리딩 소재 '빅토리' 크랭크업 
-밀레니엄 걸즈의 춤과 음악 이야기]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433951"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688434400567CYWDt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/433951"><h4>이혜리 · 박세완의 치어리딩 영화가 온다 </h4></a><span>07월 04일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688434400567CYWDt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10cm, 소란, 권진아, 스텔라장..제천의 뜨거운 밤 달군다]]></title>
-            <link>https://www.maxmovie.com/news/433950</link>
-            <guid>https://www.maxmovie.com/news/433950</guid>
-            <pubDate>Tue, 04 Jul 2023 02:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433950"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688450072923K3bbZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/433950"><h4>10cm, 소란, 권진아, 스텔라장..제천의 뜨거운 밤 달군다</h4></a><span>07월 04일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688450072923K3bbZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
