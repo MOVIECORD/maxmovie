@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 03:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 04:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사진으로 먼저 보는]  바뀌지 않는 참혹한 현실... 'D.P.' 시즌2]]></title>
+            <link>https://www.maxmovie.com/news/433984</link>
+            <guid>https://www.maxmovie.com/news/433984</guid>
+            <pubDate>Fri, 07 Jul 2023 04:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/433984"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1688701018105YvGv2.jpg" alt=""></span><span class="textBox"><h4>[사진으로 먼저 보는]  바뀌지 않는 참혹한 현실... 'D.P.' 시즌2</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688701018105YvGv2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이병헌 · 박서준 · 박보영, 황궁 아파트에 모인 까닭은...]]></title>
             <link>https://www.maxmovie.com/news/433968</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/431463"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1606795508726rP5yQ.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 주역들 '내년에는 조금 더 행복해져요!'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1606795508726rP5yQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] '새해전야' 최수영-유태오 '반가워요~']]></title>
-            <link>https://www.maxmovie.com/news/431462</link>
-            <guid>https://www.maxmovie.com/news/431462</guid>
-            <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/431462"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/16067954220154ezbe.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 최수영-유태오 '반가워요~'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16067954220154ezbe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
