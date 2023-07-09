@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 03:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 04:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,7 +44,7 @@
             <link>https://www.maxmovie.com/news/433997</link>
             <guid>https://www.maxmovie.com/news/433997</guid>
             <pubDate>Sun, 09 Jul 2023 03:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433997"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688871456067IOExN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433997"><h4>300만 돌파 '엘리멘탈', 막강 화력 원동력? '20대 여성'  </h4></a><span>8분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433997"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688871456067IOExN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433997"><h4>300만 돌파 '엘리멘탈', 막강 화력 원동력? '20대 여성'  </h4></a><span>55분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688871456067IOExN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -264,7 +264,7 @@
             <title><![CDATA[300만 돌파 '엘리멘탈', 막강 화력 원동력? '20대 여성' (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/433997</link>
             <guid>https://www.maxmovie.com/news/433997</guid>
-            <pubDate>Sun, 09 Jul 2023 03:24:54 GMT</pubDate>
+            <pubDate>Sun, 09 Jul 2023 03:24:34 GMT</pubDate>
             <content:encoded><![CDATA[개봉 25일만에 누적 300만 기록
 20대, 여성 관객의 전폭적인 지지]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688871456067IOExN.jpg" length="0" type="image/jpg"/>
