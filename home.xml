@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 05:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 06:09:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,17 +44,8 @@
             <link>https://www.maxmovie.com/news/433997</link>
             <guid>https://www.maxmovie.com/news/433997</guid>
             <pubDate>Sun, 09 Jul 2023 03:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433997"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688871456067IOExN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433997"><h4>300만 돌파 '엘리멘탈', 막강 화력 원동력? '20대 여성'  </h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433997"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688871456067IOExN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433997"><h4>300만 돌파 '엘리멘탈', 막강 화력 원동력? '20대 여성'  </h4></a><span>2시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688871456067IOExN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이젠 로맨스까지... 유해진, 데뷔 26년 만에 사랑에 빠졌다]]></title>
-            <link>https://www.maxmovie.com/news/433990</link>
-            <guid>https://www.maxmovie.com/news/433990</guid>
-            <pubDate>Sun, 09 Jul 2023 05:06:11 GMT</pubDate>
-            <content:encoded><![CDATA[데뷔 첫 로맨스 영화 '달짝지근해:7510' 주연
- 8월15일 개봉, 정우성의 연출작 '보호자'와 격돌]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688712823277joJYT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 두 소년의 특별한 여름날 '1986 그 여름, 그리고 고등어통조림']]></title>
@@ -87,8 +78,17 @@
             <link>https://www.maxmovie.com/news/433981</link>
             <guid>https://www.maxmovie.com/news/433981</guid>
             <pubDate>Fri, 07 Jul 2023 03:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433981"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688693525008ziZ7V.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433981"><h4>파라마운트+, 오드리 헵번·존 트라볼타 리즈 시절 소환</h4></a><span>07월 07일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[파라마운트+, 여름맞이 다채로운 뮤지컬 영화 소개
+'그리스' '시카고' '킨키 부츠' '토요일 밤의 열기' 등]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688693525008ziZ7V.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['미션 임파서블7', 로튼 토마토 신선도 98%...시리즈 최고 평점]]></title>
+            <link>https://www.maxmovie.com/news/433980</link>
+            <guid>https://www.maxmovie.com/news/433980</guid>
+            <pubDate>Sun, 09 Jul 2023 06:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433980"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688692323890Z9JKT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/433980"><h4>'미션 임파서블7', 로튼 토마토 신선도 98%...시리즈 최고 평점</h4></a><span>07월 07일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688692323890Z9JKT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
