@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 06:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 07:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16890239360340setI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[알프스에서 맺은 눈부신 우정과 성장 '여덟 개의 산']]></title>
+            <link>https://www.maxmovie.com/news/434021</link>
+            <guid>https://www.maxmovie.com/news/434021</guid>
+            <pubDate>Tue, 11 Jul 2023 07:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434021"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689054452426WJMc1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434021"><h4>알프스에서 맺은 눈부신 우정과 성장 '여덟 개의 산' </h4></a><span>50분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689054452426WJMc1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['킹더랜드' 안일한 아랍 왕자 묘사...K콘텐츠 위상 걸맞은 제작 필요할 때]]></title>
             <link>https://www.maxmovie.com/news/434018</link>
             <guid>https://www.maxmovie.com/news/434018</guid>
             <pubDate>Tue, 11 Jul 2023 06:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434018"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689044378366gLwcE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434018"><h4>'킹더랜드' 안일한 아랍 왕자 묘사...K콘텐츠 위상 걸맞은 제작 필요할 때</h4></a><span>40분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[아랍 문화 몰이해 캐릭터 설정
+IMDB 통해 아랍권 시청자들 '혹평' 및 최하 평점]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689044378366gLwcE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@ OTT 플랫폼 콘텐츠 엄선해 소개]]></content:encoded>
             <link>https://www.maxmovie.com/news/434011</link>
             <guid>https://www.maxmovie.com/news/434011</guid>
             <pubDate>Tue, 11 Jul 2023 03:14:04 GMT</pubDate>
-            <content:encoded><![CDATA['우행록' 감독과 주연 배우의 재회
-안도 사쿠라 등 일본 인기 배우들 출연]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434011"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16889785427895IfZY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434011"><h4>日 아카데미 8관왕 '한 남자', 츠마부키 사토시가 풀어낸 미스터리 </h4></a><span>21시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16889785427895IfZY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '바비', '미션7'와 '밀수' 틈새 공략]]></title>
-            <link>https://www.maxmovie.com/news/434006</link>
-            <guid>https://www.maxmovie.com/news/434006</guid>
-            <pubDate>Tue, 11 Jul 2023 03:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434006"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688967682063nUDaJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434006"><h4>영화 '바비', '미션7'와 '밀수' 틈새 공략</h4></a><span>07월 10일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688967682063nUDaJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
