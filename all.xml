@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 09:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 10:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@ IMDB 통해 아랍권 시청자들 '혹평' 및 최하 평점]]></content:encode
             <link>https://www.maxmovie.com/news/434019</link>
             <guid>https://www.maxmovie.com/news/434019</guid>
             <pubDate>Tue, 11 Jul 2023 05:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434019"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689050183383YAvEK.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434019"><h4>김희철·박기웅, 아트 서바이벌 '원얼스:아트피아'로 뭉쳤다</h4></a><span>4시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434019"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689050183383YAvEK.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434019"><h4>김희철·박기웅, 아트 서바이벌 '원얼스:아트피아'로 뭉쳤다</h4></a><span>5시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689050183383YAvEK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -59,15 +59,6 @@ IMDB 통해 아랍권 시청자들 '혹평' 및 최하 평점]]></content:encode
             <content:encoded><![CDATA[아랍 문화 몰이해 캐릭터 설정
 IMDB  통해 아랍권 시청자들 '혹평' 및 최하 평점]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689038404031il1S4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미션7' 개봉 전부터 흥행 2위? '변칙 개봉' 시장 교란 우려 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434014</link>
-            <guid>https://www.maxmovie.com/news/434014</guid>
-            <pubDate>Mon, 10 Jul 2023 23:06:53 GMT</pubDate>
-            <content:encoded><![CDATA[개봉일 전부터 대규모 유료 시사회 진행
-'꼼수 개봉'  우려 속 상영작 기회 빼앗아]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688983310997xGtM1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[콘텐츠 홍수 길잡이,  'OTT로 만나는 명작영화 51선' 출간 (맥스무비)]]></title>
@@ -88,12 +79,20 @@ OTT 플랫폼 콘텐츠 엄선해 소개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16889785427895IfZY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['나의 피투성이 연인', 카를로비바리영화제 그랑프리 수상 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434009</link>
-            <guid>https://www.maxmovie.com/news/434009</guid>
-            <pubDate>Mon, 10 Jul 2023 09:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434009"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688976585116GrNBi.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434009"><h4>'나의 피투성이 연인', 카를로비바리영화제 그랑프리 수상 </h4></a><span>07월 10일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688976585116GrNBi.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[영화 '바비', '미션7'와 '밀수' 틈새 공략 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/434006</link>
+            <guid>https://www.maxmovie.com/news/434006</guid>
+            <pubDate>Tue, 11 Jul 2023 10:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[오는 7월19일 개봉]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688967682063nUDaJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 24시간 침투하는 소음 플러팅? 영화 '빈틈없는 사이' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/434005</link>
+            <guid>https://www.maxmovie.com/news/434005</guid>
+            <pubDate>Tue, 11 Jul 2023 10:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434005"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688966622937b3wGL.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434005"><h4>[오늘 뭘 볼까] 24시간 침투하는 소음 플러팅? 영화 '빈틈없는 사이'</h4></a><span>11시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688966622937b3wGL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[BIFAN 인터뷰] '가부키초' 거리를 들여다본 일본의 두 거장 (맥스무비 ─ 인터뷰)]]></title>
@@ -306,7 +305,7 @@ IMDB 통해 아랍권 시청자들 '혹평' 및 최하 평점]]></content:encode
             <link>https://www.maxmovie.com/news/434015</link>
             <guid>https://www.maxmovie.com/news/434015</guid>
             <pubDate>Tue, 11 Jul 2023 00:37:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434015"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689033569229RlFi7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434015"><h4>이제 극장 개봉 최신  한국영화도 '한글 자막 버전'으로 본다 </h4></a><span>8시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434015"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689033569229RlFi7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434015"><h4>이제 극장 개봉 최신  한국영화도 '한글 자막 버전'으로 본다 </h4></a><span>9시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689033569229RlFi7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
