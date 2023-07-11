@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 21:05:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 22:06:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,19 @@ IMDB 통해 아랍권 시청자들 '혹평' 및 최하 평점]]></content:encode
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16890239360340setI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[['여름 빅4' SWOT분석] '비공식작전' 투톱 기대  VS 탈출극 기시감]]></title>
+            <link>https://www.maxmovie.com/news/434022</link>
+            <guid>https://www.maxmovie.com/news/434022</guid>
+            <pubDate>Tue, 11 Jul 2023 22:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434022"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689057583423fsPui.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434022"><h4>['여름 빅4' SWOT분석] '비공식작전' 투톱 기대  VS 탈출극 기시감 </h4></a><span>6분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689057583423fsPui.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김희철·박기웅, 아트 서바이벌 '원얼스:아트피아'로 뭉쳤다]]></title>
             <link>https://www.maxmovie.com/news/434019</link>
             <guid>https://www.maxmovie.com/news/434019</guid>
             <pubDate>Tue, 11 Jul 2023 05:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434019"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689050183383YAvEK.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434019"><h4>김희철·박기웅, 아트 서바이벌 '원얼스:아트피아'로 뭉쳤다</h4></a><span>16시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[7월14일 웨이브 통해 처음 방송하는 '원얼스:아트피아']]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689050183383YAvEK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +91,8 @@ OTT 플랫폼 콘텐츠 엄선해 소개]]></content:encoded>
             <link>https://www.maxmovie.com/news/434009</link>
             <guid>https://www.maxmovie.com/news/434009</guid>
             <pubDate>Tue, 11 Jul 2023 11:04:35 GMT</pubDate>
-            <content:encoded><![CDATA[프록시마 경쟁부문 최고상 영예
-원하지 않는 임신 하게 된 여성의 이야기]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434009"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688976585116GrNBi.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434009"><h4>'나의 피투성이 연인', 카를로비바리영화제 그랑프리 수상 </h4></a><span>07월 10일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688976585116GrNBi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[N년 전 오늘!] 김윤진, 韓 배우 최초로 美 최고 토크쇼 출연]]></title>
-            <link>https://www.maxmovie.com/news/434008</link>
-            <guid>https://www.maxmovie.com/news/434008</guid>
-            <pubDate>Tue, 11 Jul 2023 11:04:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434008"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1688973751784F2JuR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434008"><h4>[N년 전 오늘!] 김윤진, 韓 배우 최초로 美 최고 토크쇼 출연</h4></a><span>22시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688973751784F2JuR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
