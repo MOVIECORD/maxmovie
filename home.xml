@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 21:06:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 22:06:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,8 +46,17 @@
             <link>https://www.maxmovie.com/news/434035</link>
             <guid>https://www.maxmovie.com/news/434035</guid>
             <pubDate>Wed, 12 Jul 2023 13:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434035"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689166973208WHQVp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434035"><h4>블랙핑크 리사, 글로벌 부호와 교제설에 재계약 불발설까지</h4></a><span>7시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434035"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689166973208WHQVp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434035"><h4>블랙핑크 리사, 글로벌 부호와 교제설에 재계약 불발설까지</h4></a><span>8시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689166973208WHQVp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰] 스타를 괴물로 만드는 파파라치, 소름 돋는 '블랙 미러' 시즌6]]></title>
+            <link>https://www.maxmovie.com/news/434013</link>
+            <guid>https://www.maxmovie.com/news/434013</guid>
+            <pubDate>Wed, 12 Jul 2023 22:05:46 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스  오리지널 시리즈  '블랙 미러' 시즌6 
+러닝타임 42분 '메이지 데이' 편, 장르적 재미와 메시지까지]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689136807775qZ9Kx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[괴짜 천재의 기발함 엿볼 시간...'살바도르 달리:불멸을 찾아서']]></title>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434023</link>
             <guid>https://www.maxmovie.com/news/434023</guid>
             <pubDate>Wed, 12 Jul 2023 00:42:05 GMT</pubDate>
-            <content:encoded><![CDATA[7월26일 개봉하는 '비닐하우스', 신인 이솔희 감독 연출작
-김서형, 잘못된 선택으로 파국으로 치닫는 문정 역 맡아]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434023"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689062546659yPjrM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434023"><h4>김서형, "피하고 싶었다"고 말한 '비닐하우스' 왜 선택했나?</h4></a><span>07월 11일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689062546659yPjrM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알프스에서 맺은 눈부신 우정과 성장 '여덟 개의 산']]></title>
-            <link>https://www.maxmovie.com/news/434021</link>
-            <guid>https://www.maxmovie.com/news/434021</guid>
-            <pubDate>Tue, 11 Jul 2023 07:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434021"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689054452426WJMc1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434021"><h4>알프스에서 맺은 눈부신 우정과 성장 '여덟 개의 산' </h4></a><span>07월 11일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689054452426WJMc1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
