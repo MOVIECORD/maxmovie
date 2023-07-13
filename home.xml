@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 22:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 23:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,8 +46,16 @@
             <link>https://www.maxmovie.com/news/434045</link>
             <guid>https://www.maxmovie.com/news/434045</guid>
             <pubDate>Thu, 13 Jul 2023 22:07:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434045"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689244864822mkneQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/434045"><h4>['비공식작전' 2인 2색 리뷰]  '하정우와 주지훈' 장전한 추격전 그 이상</h4></a><span>8분 전<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434045"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689244864822mkneQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/434045"><h4>['비공식작전' 2인 2색 리뷰]  '하정우와 주지훈' 장전한 추격전 그 이상</h4></a><span>1시간 전<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689244864822mkneQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 인생의 막바지에 찾아온 사랑, 영화 '디어 마이 러브']]></title>
+            <link>https://www.maxmovie.com/news/434041</link>
+            <guid>https://www.maxmovie.com/news/434041</guid>
+            <pubDate>Thu, 13 Jul 2023 23:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '디어 마이 러브''디어 마이 러브'의 한 장면(사진제공=뮤제엔터테인먼트)'디어 마이 러브'는 은퇴한 선장 그리고 가사도우미로 만난 두 사람이 바닷가 외딴 집에서 다시 삶과 사랑을 시작하는 영화다.아일랜드의 바닷가 마을, 딸 그레이스가 소개한 가사도우미 애니에게 사랑의 감정을 느낀 하워드. 두 사람은 삶도 사랑도 처음인]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689210890073nnEad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["현영은 '맘카페 사기' 피해자" 의혹 부인]]></title>
@@ -79,17 +87,8 @@
             <link>https://www.maxmovie.com/news/434032</link>
             <guid>https://www.maxmovie.com/news/434032</guid>
             <pubDate>Thu, 13 Jul 2023 10:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[8월2일 개봉, 21세기에도 영향을 미친 20세기 천재화가
-달리와 그의 뮤즈였던 아내 갈라의 삶 다뤄]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434032"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689128595977HpfOy.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434032"><h4>괴짜 천재의 기발함 엿볼 시간...'살바도르 달리:불멸을 찾아서'</h4></a><span>07월 12일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689128595977HpfOy.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[감독으로 돌아오는 유지태, '톡투허' 어떤 영화]]></title>
-            <link>https://www.maxmovie.com/news/434030</link>
-            <guid>https://www.maxmovie.com/news/434030</guid>
-            <pubDate>Thu, 13 Jul 2023 22:07:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434030"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689125624412F59E8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434030"><h4>감독으로 돌아오는 유지태, '톡투허' 어떤 영화</h4></a><span>07월 12일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689125624412F59E8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
