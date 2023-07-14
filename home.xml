@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 21:05:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 22:06:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689215957592t1rvf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[맥스무비레터 #9번째 편지] 여름 기대작 '밀수' SWOT 분석, 그리고 신작 소식들]]></title>
+            <link>https://www.maxmovie.com/news/434056</link>
+            <guid>https://www.maxmovie.com/news/434056</guid>
+            <pubDate>Fri, 14 Jul 2023 22:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434056"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16893233497104pgSl.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434056"><h4> [맥스무비레터 #9번째 편지] 여름 기대작 '밀수' SWOT 분석, 그리고 신작 소식들 </h4></a><span>6분 전<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16893233497104pgSl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이돌 커플 탄생…천둥♥미미 4년째 교제]]></title>
             <link>https://www.maxmovie.com/news/434049</link>
             <guid>https://www.maxmovie.com/news/434049</guid>
             <pubDate>Fri, 14 Jul 2023 02:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434049"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689299093183WsxVv.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434049"><h4>아이돌 커플 탄생…천둥♥미미 4년째 교제</h4></a><span>19시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[SNS 손편지에 교제 사실 고백
+4년간 비밀연애…결혼 준비 중]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689299093183WsxVv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,17 +88,8 @@
             <link>https://www.maxmovie.com/news/434037</link>
             <guid>https://www.maxmovie.com/news/434037</guid>
             <pubDate>Fri, 14 Jul 2023 21:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[6월 매출액 1451억원, 관객 수 1452만 명 
-'범죄도시3' 871억원으로 6월 흥행 1위]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434037"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689208765878WDtmp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434037"><h4>'범죄도시3'이 살렸다…팬데믹 이전 97% 수준</h4></a><span>07월 13일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689208765878WDtmp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[톰 크루즈 '미션7' 1위 출발…관객 얼마나 들었나]]></title>
-            <link>https://www.maxmovie.com/news/434036</link>
-            <guid>https://www.maxmovie.com/news/434036</guid>
-            <pubDate>Fri, 14 Jul 2023 21:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434036"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689206843881BZ0Tq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434036"><h4>톰 크루즈 '미션7' 1위 출발…관객 얼마나 들었나</h4></a><span>07월 13일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689206843881BZ0Tq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
