@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 15:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 16:08:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,7 +46,7 @@
             <link>https://www.maxmovie.com/news/434051</link>
             <guid>https://www.maxmovie.com/news/434051</guid>
             <pubDate>Sun, 16 Jul 2023 12:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434051"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689301817936yyhZD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/434051"><h4>[오늘 뭘 볼까] 넷플릭스 '버드 박스' 스핀오프, 영화 '버드 박스:바르셀로나'</h4></a><span>16시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434051"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689301817936yyhZD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/434051"><h4>[오늘 뭘 볼까] 넷플릭스 '버드 박스' 스핀오프, 영화 '버드 박스:바르셀로나'</h4></a><span>17시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689301817936yyhZD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -274,12 +274,38 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689508122499eTdv7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[영화음악의 두 거장, 관객을 다시 만난다 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/434063</link>
+            <guid>https://www.maxmovie.com/news/434063</guid>
+            <pubDate>Sun, 16 Jul 2023 16:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[엔니오 모리꼬네, 다큐 영화로 인생과 음악 이야기
+류이치 사카모토, 제천에서 콘서트로 추억 회상]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689520084476Wk6HC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손석구·남명렬 '가짜 연기' 논란.."배우의 연기 고민 계기" (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/434062</link>
+            <guid>https://www.maxmovie.com/news/434062</guid>
+            <pubDate>Sun, 16 Jul 2023 10:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[손석구 "가짜 연기" 발언 비판 남명렬, SNS 댓글창 폐쇄
+"연기와 무대에 대한 열정과 고민 필요" 시선 키우다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689478599891Ag3Wi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름, 할리우드 흥행작이 밀고 한국영화 끌고 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/434061</link>
+            <guid>https://www.maxmovie.com/news/434061</guid>
+            <pubDate>Sun, 16 Jul 2023 16:08:15 GMT</pubDate>
+            <content:encoded><![CDATA['미션 임파서블7' '엘리멘탈' 등 할리우드영화 흥행
+여름 개봉 한국영화 기대작 관객 관심도 커진다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689498789493B5mMw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[임영웅, 영화로 60억 매출..BTS 넘어섰다 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/434060</link>
             <guid>https://www.maxmovie.com/news/434060</guid>
             <pubDate>Sun, 16 Jul 2023 02:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[올해 3월 개봉 '아임 히어로 더 파이널' 25만 관객
-방탄소년단 최고 흥행작 기록과 대비되며 화제]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434060"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689509223951b0cvH.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434060"><h4>임영웅, 영화로 60억 매출..BTS 넘어섰다</h4></a><span>14시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689509223951b0cvH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +331,7 @@
             <link>https://www.maxmovie.com/news/434057</link>
             <guid>https://www.maxmovie.com/news/434057</guid>
             <pubDate>Fri, 14 Jul 2023 23:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434057"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689325711022JLcDp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434057"><h4>[위클리 이슈 모음 zip] '해프닝' 임영웅 열애설부터 주윤발 건강이상설까지</h4></a><span>07월 14일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[일주일 동안 엔터테인먼트 전반에서 일어난 다양한 이슈를 소개합니다홍콩 유명 배우 주윤발. 영화 '무쌍'의 한 장면●주윤발 혼수상태?홍콩 유명배우 주윤발의 건강 이상설이 제기됐다.13일 중국 시나연예는 "주윤발이 지난 6일 뇌졸중으로 혼수상태에 빠졌다"고 보도했다.주윤발은 지난 4일 자신이 출연한 영화 홍보 활동 중에 코로나19 확진을 받고 모든 홍보 일정을]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689325711022JLcDp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -321,34 +347,8 @@
             <link>https://www.maxmovie.com/news/434055</link>
             <guid>https://www.maxmovie.com/news/434055</guid>
             <pubDate>Fri, 14 Jul 2023 08:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[9년 만에 연극 '나무 위의 군대'로 돌아온 손석구 
-과거 연극 경험 "가짜 연기"라고 지적해 논란]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434055"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689320943048E0HWl.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434055"><h4>손석구의 "가짜 연기" 발언,  연극인 남명렬 "오만" 비판  </h4></a><span>07월 14일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689320943048E0HWl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 진정한 행복을 찾아 나서는 '플러스 사이즈 그녀의 생존기' (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/434050</link>
-            <guid>https://www.maxmovie.com/news/434050</guid>
-            <pubDate>Fri, 14 Jul 2023 23:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '플러스 사이즈 그녀의 생존기''플러스 사이즈 그녀의 생존기'의 한 장면(사진제공=넷플릭스)넷플릭스 오리지널 시리즈 '플러스 사이즈 그녀의 생존기'는 최악의 이별을 겪은 메이비스가 새로운 삶을 찾아 나서며 벌어지는 이야기다.&nbsp;스타일리스트 어시스턴트인 메이비스는 자신을 전적으로 지원해 주는 사진작가 남자친구 덕에 업계에서]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689301145592rFJV1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌 커플 탄생…천둥♥미미 4년째 교제 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/434049</link>
-            <guid>https://www.maxmovie.com/news/434049</guid>
-            <pubDate>Fri, 14 Jul 2023 02:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[SNS 손편지에 교제 사실 고백
-4년간 비밀연애…결혼 준비 중]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689299093183WsxVv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['밀수' 믿고 보는 감독·배우에 믿고 보는 제작진까지 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/434048</link>
-            <guid>https://www.maxmovie.com/news/434048</guid>
-            <pubDate>Fri, 14 Jul 2023 02:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434048"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689297509363hlwGB.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434048"><h4>'밀수' 믿고 보는 감독·배우에 믿고 보는 제작진까지</h4></a><span>07월 14일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689297509363hlwGB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 넷플릭스 '버드 박스' 스핀오프, 영화 '버드 박스:바르셀로나' (맥스무비 ─ OTT)]]></title>
