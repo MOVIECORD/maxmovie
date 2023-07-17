@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 04:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 05:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,20 +42,11 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689509223951b0cvH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[N년 전 오늘!] 송강호·이병헌·정우성이 뭉친 ‘김치 웨스턴’ 개봉 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434067</link>
-            <guid>https://www.maxmovie.com/news/434067</guid>
-            <pubDate>Mon, 17 Jul 2023 00:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434067"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689549991086F3zcp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434067"><h4>[N년 전 오늘!] 송강호·이병헌·정우성이 뭉친 ‘김치 웨스턴’ 개봉</h4></a><span>4시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689549991086F3zcp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[신민아‧김우빈, 선행도 사랑처럼...수해 피해 1억원씩 기부 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/434064</link>
             <guid>https://www.maxmovie.com/news/434064</guid>
             <pubDate>Sun, 16 Jul 2023 12:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[수재민 돕기 위해 각각 1웍원씩 기부 
-신민아 "집중 호우로 피해 본 분들에게 깊은 위로"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434064"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689508122499eTdv7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434064"><h4>신민아‧김우빈, 선행도 사랑처럼...수해 피해 1억원씩 기부 </h4></a><span>17시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689508122499eTdv7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -89,8 +80,17 @@
             <link>https://www.maxmovie.com/news/434061</link>
             <guid>https://www.maxmovie.com/news/434061</guid>
             <pubDate>Sun, 16 Jul 2023 16:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434061"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689498789493B5mMw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434061"><h4>여름, 할리우드 흥행작이 밀고 한국영화 끌고</h4></a><span>07월 16일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['미션 임파서블7' '엘리멘탈' 등 할리우드영화 흥행
+여름 개봉 한국영화 기대작 관객 관심도 커진다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689498789493B5mMw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김혜수·염정아·설경구·하정우·도경수…전국으로 내달린다 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/434059</link>
+            <guid>https://www.maxmovie.com/news/434059</guid>
+            <pubDate>Mon, 17 Jul 2023 05:07:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434059"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689411092723JXI3j.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434059"><h4>김혜수·염정아·설경구·하정우·도경수…전국으로 내달린다</h4></a><span>07월 15일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689411092723JXI3j.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[BIFAN 인터뷰] '가부키초' 거리를 들여다본 일본의 두 거장 (맥스무비 ─ 인터뷰)]]></title>
@@ -300,7 +300,7 @@
             <link>https://www.maxmovie.com/news/434065</link>
             <guid>https://www.maxmovie.com/news/434065</guid>
             <pubDate>Sun, 16 Jul 2023 22:05:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434065"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689510137715HMhvn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434065"><h4>제임스 카메론 감독, 공식 입장까지 내고 '발끈'한 이유 </h4></a><span>6시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434065"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689510137715HMhvn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434065"><h4>제임스 카메론 감독, 공식 입장까지 내고 '발끈'한 이유 </h4></a><span>7시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689510137715HMhvn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -429,6 +429,14 @@
             <pubDate>Wed, 28 Jun 2023 07:07:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/433899"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1687933221334nZHWP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/433899"><h4>영화 보면 소득공제 받는다, 7월1일부터 시행 </h4></a><span>06월 28일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1687933221334nZHWP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사진으로 먼저 보는] 평범하게 살고 싶었던, '보호자' 정우성 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/434073</link>
+            <guid>https://www.maxmovie.com/news/434073</guid>
+            <pubDate>Mon, 17 Jul 2023 05:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/434073"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/168956833889178J45.jpg" alt=""></span><span class="textBox"><h4>[사진으로 먼저 보는] 평범하게 살고 싶었던, '보호자' 정우성 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/168956833889178J45.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사진으로 먼저 보는] 유해진·김희선의 '달짝지근한' 로맨스 (맥스무비 ─ 포토)]]></title>
@@ -661,14 +669,6 @@
             <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/431465"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1606795818893X3kL4.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 질문에 답하는 홍지영 감독</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1606795818893X3kL4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] '새해전야' 주역들 '12월에 만나요!' (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/431464</link>
-            <guid>https://www.maxmovie.com/news/431464</guid>
-            <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/431464"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1606795620282F20Cw.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 주역들 '12월에 만나요!'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1606795620282F20Cw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

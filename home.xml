@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 04:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 05:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,20 +42,11 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689509223951b0cvH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[N년 전 오늘!] 송강호·이병헌·정우성이 뭉친 ‘김치 웨스턴’ 개봉]]></title>
-            <link>https://www.maxmovie.com/news/434067</link>
-            <guid>https://www.maxmovie.com/news/434067</guid>
-            <pubDate>Mon, 17 Jul 2023 03:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434067"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689549991086F3zcp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434067"><h4>[N년 전 오늘!] 송강호·이병헌·정우성이 뭉친 ‘김치 웨스턴’ 개봉</h4></a><span>4시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689549991086F3zcp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[신민아‧김우빈, 선행도 사랑처럼...수해 피해 1억원씩 기부]]></title>
             <link>https://www.maxmovie.com/news/434064</link>
             <guid>https://www.maxmovie.com/news/434064</guid>
             <pubDate>Sun, 16 Jul 2023 12:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[수재민 돕기 위해 각각 1웍원씩 기부 
-신민아 "집중 호우로 피해 본 분들에게 깊은 위로"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434064"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689508122499eTdv7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434064"><h4>신민아‧김우빈, 선행도 사랑처럼...수해 피해 1억원씩 기부 </h4></a><span>17시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689508122499eTdv7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -89,8 +80,17 @@
             <link>https://www.maxmovie.com/news/434061</link>
             <guid>https://www.maxmovie.com/news/434061</guid>
             <pubDate>Mon, 17 Jul 2023 03:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434061"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689498789493B5mMw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434061"><h4>여름, 할리우드 흥행작이 밀고 한국영화 끌고</h4></a><span>07월 16일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['미션 임파서블7' '엘리멘탈' 등 할리우드영화 흥행
+여름 개봉 한국영화 기대작 관객 관심도 커진다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689498789493B5mMw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김혜수·염정아·설경구·하정우·도경수…전국으로 내달린다]]></title>
+            <link>https://www.maxmovie.com/news/434059</link>
+            <guid>https://www.maxmovie.com/news/434059</guid>
+            <pubDate>Mon, 17 Jul 2023 05:07:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434059"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689411092723JXI3j.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434059"><h4>김혜수·염정아·설경구·하정우·도경수…전국으로 내달린다</h4></a><span>07월 15일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689411092723JXI3j.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
