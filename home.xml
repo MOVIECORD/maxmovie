@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 21:05:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 22:05:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689581095665aoqIM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[리뷰:포테이토 지수 89.5%] '밀수' 이름값 한 통쾌한 액션영화]]></title>
+            <link>https://www.maxmovie.com/news/434090</link>
+            <guid>https://www.maxmovie.com/news/434090</guid>
+            <pubDate>Tue, 18 Jul 2023 22:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434090"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689671679904Jrfby.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/434090"><h4>[리뷰:포테이토 지수 89.5%] '밀수' 이름값 한 통쾌한 액션영화</h4></a><span>5분 전<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689671679904Jrfby.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[7년 만의 귀환 '크라임씬', 오리지널 멤버 장진·박지윤·장동민 합류]]></title>
             <link>https://www.maxmovie.com/news/434084</link>
             <guid>https://www.maxmovie.com/news/434084</guid>
             <pubDate>Tue, 18 Jul 2023 00:59:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434084"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689639916487UxPFx.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434084"><h4>7년 만의 귀환 '크라임씬', 오리지널 멤버 장진·박지윤·장동민 합류</h4></a><span>20시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['크라임씬 리턴즈', 내년 초 티빙서 방송]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689639916487UxPFx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +88,8 @@
             <link>https://www.maxmovie.com/news/434078</link>
             <guid>https://www.maxmovie.com/news/434078</guid>
             <pubDate>Tue, 18 Jul 2023 03:20:07 GMT</pubDate>
-            <content:encoded><![CDATA['인시디어스:빨간 문' 19일 개봉 
-제임스 완 감독이 설계한 공포 세계 5번째 작품]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434078"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689576712264VLutI.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434078"><h4>'인디아나 존스' 누른 공포영화, 얼마나 무섭길래... </h4></a><span>07월 17일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689576712264VLutI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸작이냐, 문제작이냐, 해석욕구  자극 '보 이즈...' 5만 돌파]]></title>
-            <link>https://www.maxmovie.com/news/434076</link>
-            <guid>https://www.maxmovie.com/news/434076</guid>
-            <pubDate>Mon, 17 Jul 2023 08:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434076"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689576869647FPHCY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434076"><h4>걸작이냐, 문제작이냐, 해석욕구  자극 '보 이즈...' 5만 돌파</h4></a><span>07월 17일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689576869647FPHCY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
