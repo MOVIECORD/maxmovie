@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 09:06:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 10:07:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689814932933iyD0k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['런닝맨:리벤져스', 명품 성우 라인업 완성]]></title>
+            <link>https://www.maxmovie.com/news/434117</link>
+            <guid>https://www.maxmovie.com/news/434117</guid>
+            <pubDate>Thu, 20 Jul 2023 10:07:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434117"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689846450752ZRoD3.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434117"><h4>'런닝맨:리벤져스', 명품 성우 라인업 완성</h4></a><span>10분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689846450752ZRoD3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[세계 1100만부 판매 만화 원작 애니, 제천국제음악영화제 폐막작 선정]]></title>
             <link>https://www.maxmovie.com/news/434114</link>
             <guid>https://www.maxmovie.com/news/434114</guid>
             <pubDate>Thu, 20 Jul 2023 09:06:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434114"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689840989950f7JoS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434114"><h4>세계 1100만부 판매 만화 원작 애니, 제천국제음악영화제 폐막작 선정</h4></a><span>50분 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[애니메이션 '블루 자이언트', 8월 제천국제음악영화제에서 첫 공개
+올해 축제, 사카모토 류이치·박찬욱 등 거장과 명장들의 작품 상영]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689840989950f7JoS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/434102</link>
             <guid>https://www.maxmovie.com/news/434102</guid>
             <pubDate>Thu, 20 Jul 2023 08:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 VS 디즈니+, 여름 대작 맞불
-웹툰 원작, 초호화 캐스팅 공통점]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434102"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689755799502NTtbT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/434102"><h4>여름 OTT 대전, 'D.P.' VS '무빙'... 누가 더 셀까 </h4></a><span>12시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689755799502NTtbT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신혜선·김성균·강태오, 여름대전 대미 장식]]></title>
-            <link>https://www.maxmovie.com/news/434101</link>
-            <guid>https://www.maxmovie.com/news/434101</guid>
-            <pubDate>Wed, 19 Jul 2023 08:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434101"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16897513985301MRPp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434101"><h4> 신혜선·김성균·강태오, 여름대전 대미 장식</h4></a><span>07월 19일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16897513985301MRPp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
