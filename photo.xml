@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 09:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 10:07:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이병헌·박서준·박보영이 마주한, '폐허의 현장']]></title>
+            <link>https://www.maxmovie.com/news/434167</link>
+            <guid>https://www.maxmovie.com/news/434167</guid>
+            <pubDate>Mon, 24 Jul 2023 10:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/434167"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1690191824854UE3WS.jpg" alt=""></span><span class="textBox"><h4>이병헌·박서준·박보영이 마주한, '폐허의 현장'  </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690191824854UE3WS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[죄수복 입은 고현정, 이런 모습 처음이야...]]></title>
             <link>https://www.maxmovie.com/news/434166</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/431468"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/16067960756377laLY.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 최수영 '동글동글 큰 눈'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16067960756377laLY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] '새해전야' 이동휘 '귀여운 뿔테 안경']]></title>
-            <link>https://www.maxmovie.com/news/431467</link>
-            <guid>https://www.maxmovie.com/news/431467</guid>
-            <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/431467"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1606795978772tFIq5.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 이동휘 '귀여운 뿔테 안경'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1606795978772tFIq5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
