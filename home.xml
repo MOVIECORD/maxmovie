@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 02:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 03:08:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690187507522w862E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[N년 전 오늘] '태권소녀'로 불린 김혜수의 성장기 공개]]></title>
+            <link>https://www.maxmovie.com/news/434174</link>
+            <guid>https://www.maxmovie.com/news/434174</guid>
+            <pubDate>Tue, 25 Jul 2023 03:07:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434174"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16902515895644GZIr.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434174"><h4>[N년 전 오늘] '태권소녀'로 불린 김혜수의 성장기 공개</h4></a><span>42분 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16902515895644GZIr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['신인감독 정우성', 김남길·박성웅·김준한 캐스팅한 이유]]></title>
             <link>https://www.maxmovie.com/news/434172</link>
             <guid>https://www.maxmovie.com/news/434172</guid>
             <pubDate>Tue, 25 Jul 2023 02:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434172"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690246465822odMPq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434172"><h4>'신인감독 정우성', 김남길·박성웅·김준한 캐스팅한 이유  </h4></a><span>46분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[8월15일 개봉 '보호자' 감독 데뷔 
+박성웅 "디테일이 살아있는 감독"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690246465822odMPq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434164</link>
             <guid>https://www.maxmovie.com/news/434164</guid>
             <pubDate>Mon, 24 Jul 2023 08:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[tvN '알쓸별잡' 게스트 출격
-킬리언 머피·로다주 등 인터뷰 나서]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434164"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690181771150vuxlR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434164"><h4>"어떤 얘기 나눌까"...크리스토퍼 놀란 감독, 韓 예능 첫 나들이</h4></a><span>19시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690181771150vuxlR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["OTT 콘텐츠도 영화, 법으로 정하자"]]></title>
-            <link>https://www.maxmovie.com/news/434162</link>
-            <guid>https://www.maxmovie.com/news/434162</guid>
-            <pubDate>Mon, 24 Jul 2023 06:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434162"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690177201705T4qmx.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434162"><h4>"OTT 콘텐츠도 영화, 법으로 정하자"  </h4></a><span>20시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690177201705T4qmx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
