@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 22:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 23:05:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,8 +49,16 @@
             <link>https://www.maxmovie.com/news/434187</link>
             <guid>https://www.maxmovie.com/news/434187</guid>
             <pubDate>Wed, 26 Jul 2023 08:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434187"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690357119257SghJF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434187"><h4>'형사록' 시즌2 경수진, 청순함 지우고 열혈 형사로</h4></a><span>14시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434187"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690357119257SghJF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434187"><h4>'형사록' 시즌2 경수진, 청순함 지우고 열혈 형사로</h4></a><span>15시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690357119257SghJF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] "좋은 아버지가 되고 싶었어"… 영화 '더 썬']]></title>
+            <link>https://www.maxmovie.com/news/434128</link>
+            <guid>https://www.maxmovie.com/news/434128</guid>
+            <pubDate>Wed, 26 Jul 2023 23:05:19 GMT</pubDate>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '더 썬''더 썬'의 한 장면. 사진제공=스튜디오 디에이치엘영화 '더 썬'은 그 무엇보다 좋은 아버지가 되고 싶었던 남자 피터가 삶이 버거운 아들 니콜라스를 다시 만나며 펼쳐지는 이야기다.&nbsp;성공한 변호사로 뉴욕에서 행복한 새 가정을 이룬 피터는 어느 날, 전처에게 아들 니콜라스가 학교를 나가지 않는다는 소식을 듣는다. 좋]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689902097363RtJfh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[N년 전 오늘!]  하지원, 최고의 호러퀸'으로 우뚝]]></title>
@@ -83,16 +91,8 @@
             <link>https://www.maxmovie.com/news/434180</link>
             <guid>https://www.maxmovie.com/news/434180</guid>
             <pubDate>Wed, 26 Jul 2023 09:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[공포영화 '치악산' 9월 개봉]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434180"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690332525835QaeKG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434180"><h4>윤균상, 공포영화 주연으로</h4></a><span>22시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690332525835QaeKG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["처음이자 마지막이면 안 되기에" 신예 이솔희 감독의 결심 (인터뷰)]]></title>
-            <link>https://www.maxmovie.com/news/434176</link>
-            <guid>https://www.maxmovie.com/news/434176</guid>
-            <pubDate>Wed, 26 Jul 2023 09:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434176"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169027772897330swi.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/434176"><h4>"처음이자 마지막이면 안 되기에" 신예 이솔희 감독의 결심 (인터뷰)</h4></a><span>07월 25일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/169027772897330swi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
