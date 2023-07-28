@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 07:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 08:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[관객을 또 놀라게 할, 놀란... '오펜하이머' 놀라운 현장 모습]]></title>
+            <link>https://www.maxmovie.com/news/434212</link>
+            <guid>https://www.maxmovie.com/news/434212</guid>
+            <pubDate>Fri, 28 Jul 2023 08:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/434212"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1690530144830CZgQt.jpg" alt=""></span><span class="textBox"><h4>관객을 또 놀라게 할, 놀란... '오펜하이머' 놀라운 현장 모습 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690530144830CZgQt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이병헌·박서준·박보영이 마주한, '폐허의 현장']]></title>
             <link>https://www.maxmovie.com/news/434167</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/431469"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1606796159825CB7um.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 유태오 '깔끔한 헤어스타일'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1606796159825CB7um.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토] '새해전야' 최수영 '동글동글 큰 눈']]></title>
-            <link>https://www.maxmovie.com/news/431468</link>
-            <guid>https://www.maxmovie.com/news/431468</guid>
-            <pubDate>Mon, 20 Feb 2023 15:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/431468"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/16067960756377laLY.jpg" alt=""></span><span class="textBox"><h4>[포토] '새해전야' 최수영 '동글동글 큰 눈'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16067960756377laLY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
