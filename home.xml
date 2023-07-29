@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 22:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 23:05:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690530144830CZgQt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 돌이킬 수 없는 파국 담은 영화 '비닐하우스']]></title>
+            <link>https://www.maxmovie.com/news/434131</link>
+            <guid>https://www.maxmovie.com/news/434131</guid>
+            <pubDate>Sat, 29 Jul 2023 23:04:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434131"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1689902925232AZzeG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434131"><h4> [오늘 뭘 볼까] 돌이킬 수 없는 파국 담은 영화 '비닐하우스'</h4></a><span>5분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689902925232AZzeG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["귀신보다 악한 인간"…김은희 작가 '악귀'가 通한 이유]]></title>
             <link>https://www.maxmovie.com/news/434205</link>
             <guid>https://www.maxmovie.com/news/434205</guid>
             <pubDate>Sat, 29 Jul 2023 00:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434205"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690509159182mkhnz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434205"><h4>"귀신보다 악한 인간"…김은희 작가 '악귀'가 通한 이유</h4></a><span>07월 28일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[실제 '악습' 모티브로 가슴 아픈 현실 전해
+김태리, 평범함과 악귀 씐 모습 오가며 내공 입증]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690509159182mkhnz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,17 +88,8 @@
             <link>https://www.maxmovie.com/news/434203</link>
             <guid>https://www.maxmovie.com/news/434203</guid>
             <pubDate>Sat, 29 Jul 2023 00:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[달에 있는 듯한 리얼 체험 제공
-역대급 영상미, 기술 진보 이뤄]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434203"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690503705700Z0n6C.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434203"><h4>'더 문',  아이맥스·돌비·4DX 특수관 '총공' </h4></a><span>07월 28일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690503705700Z0n6C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1위 굳히기 '밀수' VS 또 역주행 '엘리멘탈' VS 화력 잃은 톰 크루즈]]></title>
-            <link>https://www.maxmovie.com/news/434202</link>
-            <guid>https://www.maxmovie.com/news/434202</guid>
-            <pubDate>Sat, 29 Jul 2023 00:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434202"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690503350280Ka8Hw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434202"><h4>1위 굳히기 '밀수' VS 또 역주행 '엘리멘탈' VS 화력 잃은 톰 크루즈 </h4></a><span>07월 28일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690503350280Ka8Hw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
