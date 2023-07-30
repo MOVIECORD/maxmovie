@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 04:07:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 05:04:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690509189112vgSZU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[N년 전 오늘!] 한 남자와 세 여자의 욕망이 다가오다]]></title>
+            <link>https://www.maxmovie.com/news/434220</link>
+            <guid>https://www.maxmovie.com/news/434220</guid>
+            <pubDate>Sun, 30 Jul 2023 05:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434220"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16906908318790IaCK.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434220"><h4>[N년 전 오늘!] 한 남자와 세 여자의 욕망이 다가오다</h4></a><span>5분 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16906908318790IaCK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[리뷰:포테이토 지수 67%]  후쿠시마 원전 드라마 '더 데이스', 막상 뚜껑 열어보니...]]></title>
             <link>https://www.maxmovie.com/news/434217</link>
             <guid>https://www.maxmovie.com/news/434217</guid>
             <pubDate>Sun, 30 Jul 2023 04:07:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434217"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16906792967527UJyg.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/434217"><h4>[리뷰:포테이토 지수 67%]  후쿠시마 원전 드라마 '더 데이스', 막상 뚜껑 열어보니... </h4></a><span>48분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[지루한 재난물 VS 현재진행형 비극
+발전소 직원들의 고군분투·수뇌부 무능함]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16906792967527UJyg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/434208</link>
             <guid>https://www.maxmovie.com/news/434208</guid>
             <pubDate>Fri, 28 Jul 2023 04:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[비슷한 고민 지닌 2030에 건네는 응원 
-퀴어 당사자의 이야기 넘어 연대까지]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434208"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690514133501wxkiR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434208"><h4>성 정체성 다른 두 친구의 여정 '퀴어 마이 프렌즈' 8월9일 개봉  </h4></a><span>07월 28일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690514133501wxkiR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신예 김주아, 초단편 프로젝트 '거기서 만나' 주연]]></title>
-            <link>https://www.maxmovie.com/news/434207</link>
-            <guid>https://www.maxmovie.com/news/434207</guid>
-            <pubDate>Fri, 28 Jul 2023 04:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434207"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690512918721gUWkt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434207"><h4>신예 김주아, 초단편 프로젝트 '거기서 만나' 주연 </h4></a><span>07월 28일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690512918721gUWkt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
