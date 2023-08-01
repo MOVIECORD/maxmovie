@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 05:06:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 06:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16907683460726z6Is.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['더 문', '밀수'와 쌍끌이 흥행 예고]]></title>
+            <link>https://www.maxmovie.com/news/434247</link>
+            <guid>https://www.maxmovie.com/news/434247</guid>
+            <pubDate>Tue, 01 Aug 2023 06:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434247"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690868632621jVAte.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434247"><h4>'더 문', '밀수'와 쌍끌이 흥행 예고</h4></a><span>20분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690868632621jVAte.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아시아서 전 세계로…ACA 2023 확대]]></title>
             <link>https://www.maxmovie.com/news/434244</link>
             <guid>https://www.maxmovie.com/news/434244</guid>
             <pubDate>Tue, 01 Aug 2023 03:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434244"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16908573363263on7l.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434244"><h4>아시아서 전 세계로…ACA 2023 확대</h4></a><span>2시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[아시아서 전 세계로 확대 개편
+10월8일 영화의전당 개최]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16908573363263on7l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/434238</link>
             <guid>https://www.maxmovie.com/news/434238</guid>
             <pubDate>Tue, 01 Aug 2023 00:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 7일째 200만 돌파
-실시간 예매율 1위, '더 문' 2위]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434238"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690849490731dJLek.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434238"><h4>류승완 감독 '밀수', 200만 관객 돌파...예매율도 1위</h4></a><span>5시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690849490731dJLek.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19년 연애의 결실, 양자경 '달달' 신혼 사진 대방출]]></title>
-            <link>https://www.maxmovie.com/news/434234</link>
-            <guid>https://www.maxmovie.com/news/434234</guid>
-            <pubDate>Mon, 31 Jul 2023 09:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434234"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690792575620WCqy0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434234"><h4>19년 연애의 결실, 양자경 '달달' 신혼 사진 대방출 </h4></a><span>20시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690792575620WCqy0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
