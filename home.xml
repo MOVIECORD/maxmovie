@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 02:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 03:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,12 +44,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16907683460726z6Is.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아시아서 전 세계로…ACA 2023 확대]]></title>
+            <link>https://www.maxmovie.com/news/434244</link>
+            <guid>https://www.maxmovie.com/news/434244</guid>
+            <pubDate>Tue, 01 Aug 2023 03:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434244"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16908573363263on7l.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434244"><h4>아시아서 전 세계로…ACA 2023 확대</h4></a><span>34분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16908573363263on7l.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['더 문' 김용화 "도경수, 땀 비오듯 흘렸는데..."]]></title>
             <link>https://www.maxmovie.com/news/434243</link>
             <guid>https://www.maxmovie.com/news/434243</guid>
             <pubDate>Tue, 01 Aug 2023 02:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434243"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16908553366668T2JU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434243"><h4>'더 문' 김용화 "도경수, 땀 비오듯 흘렸는데..."</h4></a><span>10분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16908553366668T2JU.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[김용화 감독, '더 문'으로 도경수와 재회
+'더 문'은 한국영화 최초의 달 탐사 소재 SF영화…2일 개봉]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690858694360lPZE9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["감"을 잡 "자"…맥스무비  '포테이토 지수' 리뷰 도입, 영화계 주목]]></title>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/434234</link>
             <guid>https://www.maxmovie.com/news/434234</guid>
             <pubDate>Mon, 31 Jul 2023 09:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[페라리 전 CEO 장 토드와 결혼
-"우리 결혼했어요!" 사진 공개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434234"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690792575620WCqy0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434234"><h4>19년 연애의 결실, 양자경 '달달' 신혼 사진 대방출 </h4></a><span>18시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690792575620WCqy0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['밀수' 입소문 시작됐나…좌판율 보면 안다]]></title>
-            <link>https://www.maxmovie.com/news/434229</link>
-            <guid>https://www.maxmovie.com/news/434229</guid>
-            <pubDate>Mon, 31 Jul 2023 23:05:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434229"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690766263839FQON1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434229"><h4>'밀수' 입소문 시작됐나…좌판율 보면 안다</h4></a><span>07월 31일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690766263839FQON1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
