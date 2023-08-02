@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 07:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 08:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@ M자 헤어, "팬들 떠나갈 거 같지만..."]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690871306775iSBCp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['한국판 바벤하이머' 기대해볼까]]></title>
+            <link>https://www.maxmovie.com/news/434265</link>
+            <guid>https://www.maxmovie.com/news/434265</guid>
+            <pubDate>Wed, 02 Aug 2023 08:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434265"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16909615718643DiMe.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434265"><h4>'한국판 바벤하이머' 기대해볼까</h4></a><span>28분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16909615718643DiMe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['원얼스:아트피아', 에이티즈의 끝나지 않는 활약 예고]]></title>
             <link>https://www.maxmovie.com/news/434263</link>
             <guid>https://www.maxmovie.com/news/434263</guid>
             <pubDate>Wed, 02 Aug 2023 06:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434263"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690955443942EM5HZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434263"><h4>'원얼스:아트피아', 에이티즈의 끝나지 않는 활약 예고</h4></a><span>1시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[에이티즈, '원얼스:아트피아' 4회 출격
+참가자들, '웨이브' '게릴라' 두고 대결 펼쳐]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690955443942EM5HZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@ M자 헤어, "팬들 떠나갈 거 같지만..."]]></content:encoded>
             <link>https://www.maxmovie.com/news/434257</link>
             <guid>https://www.maxmovie.com/news/434257</guid>
             <pubDate>Wed, 02 Aug 2023 01:56:51 GMT</pubDate>
-            <content:encoded><![CDATA['기생충' 정이서·'꽃섬' 김혜나 출연
-서미애 작가 단편 소설 영화화]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434257"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690938672486cNsRB.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434257"><h4>BIFAN 2관왕 '그녀의 취미생활', 8월30일 관객 만난다</h4></a><span>6시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690938672486cNsRB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['밀수',  박스오피스 1위 속 '더 문'·'비공식작전' 개봉...예매율은?]]></title>
-            <link>https://www.maxmovie.com/news/434255</link>
-            <guid>https://www.maxmovie.com/news/434255</guid>
-            <pubDate>Wed, 02 Aug 2023 01:56:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434255"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169093635501050DE5.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434255"><h4>'밀수',  박스오피스 1위 속 '더 문'·'비공식작전' 개봉...예매율은?</h4></a><span>6시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/169093635501050DE5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
