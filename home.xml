@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 01:55:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 02:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16909366005587cRKs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['사랑에 빠진' 블랙핑크 지수♥안보현 "좋은 감정으로 알아가는 단계"]]></title>
+            <link>https://www.maxmovie.com/news/434273</link>
+            <guid>https://www.maxmovie.com/news/434273</guid>
+            <pubDate>Thu, 03 Aug 2023 02:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434273"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691027250751TqJqY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434273"><h4>'사랑에 빠진' 블랙핑크 지수♥안보현 "좋은 감정으로 알아가는 단계"</h4></a><span>18분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691027250751TqJqY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[임시완·정해인, '둘이 절친이었어?' 스코틀랜드 위스키 여행]]></title>
             <link>https://www.maxmovie.com/news/434272</link>
             <guid>https://www.maxmovie.com/news/434272</guid>
             <pubDate>Thu, 03 Aug 2023 01:54:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434272"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691024921018fM4TK.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434272"><h4>임시완·정해인, '둘이 절친이었어?' 스코틀랜드 위스키 여행 </h4></a><span>37분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[23일 첫 방송 '배우는 여행중'
+동갑내기 절친의 여행 예능]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691024921018fM4TK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@ SF '더 문', 버디'비공식작전' 나란히 개봉]]></content:encoded>
             <link>https://www.maxmovie.com/news/434263</link>
             <guid>https://www.maxmovie.com/news/434263</guid>
             <pubDate>Wed, 02 Aug 2023 06:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[에이티즈, '원얼스:아트피아' 4회 출격
-참가자들, '웨이브' '게릴라' 두고 대결 펼쳐]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434263"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690955443942EM5HZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434263"><h4>'원얼스:아트피아', 에이티즈의 끝나지 않는 활약 예고</h4></a><span>20시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690955443942EM5HZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["'더 문' 우주장면, 다큐인가 생각될 정도"]]></title>
-            <link>https://www.maxmovie.com/news/434262</link>
-            <guid>https://www.maxmovie.com/news/434262</guid>
-            <pubDate>Wed, 02 Aug 2023 06:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434262"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1690952507916zkF9J.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434262"><h4>"'더 문' 우주장면, 다큐인가 생각될 정도"</h4></a><span>20시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690952507916zkF9J.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
