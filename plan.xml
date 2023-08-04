@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 21:04:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 22:05:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,8 +48,16 @@
             <link>https://www.maxmovie.com/news/434291</link>
             <guid>https://www.maxmovie.com/news/434291</guid>
             <pubDate>Fri, 04 Aug 2023 01:55:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434291"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691112648428HxUAd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434291"><h4>'빅4' 대전에서 치고 나가는 '밀수', 손익분기점 돌파 언제쯤?</h4></a><span>19시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434291"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691112648428HxUAd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434291"><h4>'빅4' 대전에서 치고 나가는 '밀수', 손익분기점 돌파 언제쯤?</h4></a><span>20시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691112648428HxUAd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 유령 전문가들의 예측불가 사투, 영화 '헌티드 맨션']]></title>
+            <link>https://www.maxmovie.com/news/434288</link>
+            <guid>https://www.maxmovie.com/news/434288</guid>
+            <pubDate>Fri, 04 Aug 2023 22:05:04 GMT</pubDate>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '헌티드 맨션''헌티드 맨션'의 한 장면. 사진제공=월트디즈니컴퍼니코리아'헌티드 맨션'은 디즈니 테마 파크 어트랙션 '헌티드 맨션'에서 영감을 받은 이야기로, 999명의 유령들이 살고 있는 저택을 찾은 유령 전문가들의 예측불가 사투를 그린 영화다.&nbsp;뉴올리언스의 대저택으로 이사 온 개비와 아들 트래비스. 겉모습부터 심상치]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691110077426T6s1Y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이선균·정유미 '잠', 칸 이어 토론토 국제영화제 초청]]></title>
@@ -82,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434278</link>
             <guid>https://www.maxmovie.com/news/434278</guid>
             <pubDate>Thu, 03 Aug 2023 07:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 8주차에도 흥행 파워
-대작 공세에서 장기 흥행]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434278"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691045121534Hhad1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434278"><h4>미쳤다! '엘리멘탈'...600만 돌파 </h4></a><span>08월 03일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691045121534Hhad1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 장기하, '밀수' 이어 '베테랑2'도 음악감독 맡는다]]></title>
-            <link>https://www.maxmovie.com/news/434275</link>
-            <guid>https://www.maxmovie.com/news/434275</guid>
-            <pubDate>Thu, 03 Aug 2023 04:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434275"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691030163528SCLRV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434275"><h4>[단독] 장기하, '밀수' 이어 '베테랑2'도 음악감독 맡는다</h4></a><span>08월 03일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691030163528SCLRV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

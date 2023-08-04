@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 21:04:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 22:05:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,8 +48,16 @@
             <link>https://www.maxmovie.com/news/434291</link>
             <guid>https://www.maxmovie.com/news/434291</guid>
             <pubDate>Fri, 04 Aug 2023 01:55:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434291"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691112648428HxUAd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434291"><h4>'빅4' 대전에서 치고 나가는 '밀수', 손익분기점 돌파 언제쯤?</h4></a><span>19시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434291"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691112648428HxUAd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434291"><h4>'빅4' 대전에서 치고 나가는 '밀수', 손익분기점 돌파 언제쯤?</h4></a><span>20시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691112648428HxUAd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 유령 전문가들의 예측불가 사투, 영화 '헌티드 맨션']]></title>
+            <link>https://www.maxmovie.com/news/434288</link>
+            <guid>https://www.maxmovie.com/news/434288</guid>
+            <pubDate>Fri, 04 Aug 2023 22:04:39 GMT</pubDate>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '헌티드 맨션''헌티드 맨션'의 한 장면. 사진제공=월트디즈니컴퍼니코리아'헌티드 맨션'은 디즈니 테마 파크 어트랙션 '헌티드 맨션'에서 영감을 받은 이야기로, 999명의 유령들이 살고 있는 저택을 찾은 유령 전문가들의 예측불가 사투를 그린 영화다.&nbsp;뉴올리언스의 대저택으로 이사 온 개비와 아들 트래비스. 겉모습부터 심상치]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691110077426T6s1Y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이선균·정유미 '잠', 칸 이어 토론토 국제영화제 초청]]></title>
@@ -82,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434283</link>
             <guid>https://www.maxmovie.com/news/434283</guid>
             <pubDate>Fri, 04 Aug 2023 04:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[2004년 8월4일 MBC 정은임 아나운서 세상과 이별
-'정은임의 FM 영화음악' 진행..숱한 청취자와 사랑]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434283"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691103147064rrjIa.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434283"><h4>[N년 전 오늘!] 영화와 세상을 사랑한 사람, 떠나다</h4></a><span>23시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691103147064rrjIa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마침내, 김동률이 온다... 4년만에 콘서트 '예매 대란' 예고]]></title>
-            <link>https://www.maxmovie.com/news/434282</link>
-            <guid>https://www.maxmovie.com/news/434282</guid>
-            <pubDate>Fri, 04 Aug 2023 03:06:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434282"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691051166354GYerh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434282"><h4>마침내, 김동률이 온다... 4년만에 콘서트 '예매 대란' 예고 </h4></a><span>08월 03일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691051166354GYerh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
