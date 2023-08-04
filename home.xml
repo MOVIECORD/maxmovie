@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 09:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 10:07:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,17 +48,8 @@
             <link>https://www.maxmovie.com/news/434291</link>
             <guid>https://www.maxmovie.com/news/434291</guid>
             <pubDate>Fri, 04 Aug 2023 01:55:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434291"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691112648428HxUAd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434291"><h4>'빅4' 대전에서 치고 나가는 '밀수', 손익분기점 돌파 언제쯤?</h4></a><span>7시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434291"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691112648428HxUAd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434291"><h4>'빅4' 대전에서 치고 나가는 '밀수', 손익분기점 돌파 언제쯤?</h4></a><span>8시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691112648428HxUAd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 'D.P.' 시즌2 한준희 감독, 한 걸음 내디디려는 몸부림]]></title>
-            <link>https://www.maxmovie.com/news/434284</link>
-            <guid>https://www.maxmovie.com/news/434284</guid>
-            <pubDate>Fri, 04 Aug 2023 01:55:30 GMT</pubDate>
-            <content:encoded><![CDATA["이야기를 왜 해야 하나?" 계속 자문
- "처음부터 한 호흡으로 쭉 보면 더 재밌다"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691075410894ZbzCD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이선균·정유미 '잠', 칸 이어 토론토 국제영화제 초청]]></title>
@@ -76,6 +67,15 @@
             <content:encoded><![CDATA['밀수', 신작 개봉 속 박스오피스 정상 
 '비공식작전'·'엘리멘탈'이 뒤이어]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691107321310sZ2Wo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 'D.P.' 시즌2 한준희 감독, 한 걸음 내디디려는 몸부림]]></title>
+            <link>https://www.maxmovie.com/news/434284</link>
+            <guid>https://www.maxmovie.com/news/434284</guid>
+            <pubDate>Fri, 04 Aug 2023 01:55:30 GMT</pubDate>
+            <content:encoded><![CDATA["이야기를 왜 해야 하나?" 계속 자문
+ "처음부터 한 호흡으로 쭉 보면 더 재밌다"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691075410894ZbzCD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[N년 전 오늘!] 영화와 세상을 사랑한 사람, 떠나다]]></title>
