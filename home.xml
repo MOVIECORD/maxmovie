@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 01:45:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Aug 2023 02:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691110077426T6s1Y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[N년 전 오늘!] '오징어 게임', 이 영화에서 시작됐다]]></title>
+            <link>https://www.maxmovie.com/news/434304</link>
+            <guid>https://www.maxmovie.com/news/434304</guid>
+            <pubDate>Sun, 06 Aug 2023 02:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434304"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16912861253090ufAq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434304"><h4>[N년 전 오늘!] '오징어 게임', 이 영화에서 시작됐다</h4></a><span>8분 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16912861253090ufAq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['밀수', 폭염 식히는 시원함으로 '흥행' 건져 올렸다]]></title>
             <link>https://www.maxmovie.com/news/434303</link>
             <guid>https://www.maxmovie.com/news/434303</guid>
             <pubDate>Sun, 06 Aug 2023 01:44:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434303"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691283634519n5N1B.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434303"><h4>'밀수', 폭염 식히는 시원함으로 '흥행' 건져 올렸다</h4></a><span>26분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[누적 관객 300만 돌파
+더위 탈출 영화로 '주목']]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691283634519n5N1B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434293</link>
             <guid>https://www.maxmovie.com/news/434293</guid>
             <pubDate>Fri, 04 Aug 2023 04:10:50 GMT</pubDate>
-            <content:encoded><![CDATA['경영자들' 'SNL코리아'로 열혈홍보
-9일 개봉 '보호자'서 감독 겸 주연]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434293"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691114349007tdGok.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434293"><h4>"정우성 형이 왜 거기서 나와?"</h4></a><span>08월 04일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691114349007tdGok.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김혜수부터 주보비까지, 하이텐션 '해녀즈'... '밀수' 흥행의 힘]]></title>
-            <link>https://www.maxmovie.com/news/434292</link>
-            <guid>https://www.maxmovie.com/news/434292</guid>
-            <pubDate>Sat, 05 Aug 2023 00:33:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434292"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16911130940773rLVf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434292"><h4>김혜수부터 주보비까지, 하이텐션 '해녀즈'... '밀수' 흥행의 힘  </h4></a><span>08월 04일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16911130940773rLVf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
