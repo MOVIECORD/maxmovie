@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 21:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 22:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691404838423y8qC3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 살아남은 자들의 생존 규칙, 영화 '콘크리트 유토피아']]></title>
+            <link>https://www.maxmovie.com/news/434332</link>
+            <guid>https://www.maxmovie.com/news/434332</guid>
+            <pubDate>Tue, 08 Aug 2023 22:04:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434332"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691455795424Os9lP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434332"><h4>[오늘 뭘 볼까] 살아남은 자들의 생존 규칙, 영화 '콘크리트 유토피아'</h4></a><span>5분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691455795424Os9lP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연상호 등 감독 27명 "韓 애니 사망 선고" 영진위 사업 폐지에  성명]]></title>
             <link>https://www.maxmovie.com/news/434336</link>
             <guid>https://www.maxmovie.com/news/434336</guid>
             <pubDate>Tue, 08 Aug 2023 07:04:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434336"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691477363556cOIV9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434336"><h4>연상호 등 감독 27명 "韓 애니 사망 선고" 영진위 사업 폐지에  성명 </h4></a><span>14시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[영진위 2024년 애니 종합지원사업 예산 전액 삭감 
+"애니메이션 창작의 씨를 말리는 졸속 결정"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691477363556cOIV9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434328</link>
             <guid>https://www.maxmovie.com/news/434328</guid>
             <pubDate>Tue, 08 Aug 2023 05:04:39 GMT</pubDate>
-            <content:encoded><![CDATA[외피는 중년 로맨스, 속살은 하이틴 로맨스
-로맨스 그 이상의 가슴 따뜻한 이야기]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434328"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691443465321EitSg.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/434328"><h4>[리뷰:포테이토 지수 77%]다름을 인정하면? '달짝지근해'!②</h4></a><span>08월 07일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691443465321EitSg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 본질적인 사랑에 관한 고찰, 영화 '에고이스트']]></title>
-            <link>https://www.maxmovie.com/news/434316</link>
-            <guid>https://www.maxmovie.com/news/434316</guid>
-            <pubDate>Tue, 08 Aug 2023 09:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434316"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691371239772a0Ov3.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434316"><h4>[오늘 뭘 볼까] 본질적인 사랑에 관한 고찰, 영화 '에고이스트'</h4></a><span>23시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691371239772a0Ov3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

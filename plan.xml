@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 21:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 22:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,8 +48,16 @@
             <link>https://www.maxmovie.com/news/434333</link>
             <guid>https://www.maxmovie.com/news/434333</guid>
             <pubDate>Tue, 08 Aug 2023 01:55:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434333"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691455776996872W2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434333"><h4>'몸값', 파라마운트+ 통해 전 세계 공개</h4></a><span>20시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434333"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691455776996872W2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434333"><h4>'몸값', 파라마운트+ 통해 전 세계 공개</h4></a><span>21시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691455776996872W2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 살아남은 자들의 생존 규칙, 영화 '콘크리트 유토피아']]></title>
+            <link>https://www.maxmovie.com/news/434332</link>
+            <guid>https://www.maxmovie.com/news/434332</guid>
+            <pubDate>Tue, 08 Aug 2023 22:04:42 GMT</pubDate>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '콘크리트 유토피아''콘크리트 유토피아'의 한 장면. 사진제공=롯데엔터테인먼트'콘크리트 유토피아'는 대지진으로 폐허가 되어 버린 서울, 유일하게 남은 황궁 아파트로 생존자들이 모여들며 시작되는 이야기를 그린 재난 드라마다.&nbsp;온 세상을 집어삼킨 대지진, 그리고 하루아침에 폐허가 된 서울. 모든 것이 무너졌지만 오직 황궁 아]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691455795424Os9lP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박서준, '머리띠 착용 거부' 지적에 "오해 있어"]]></title>
@@ -81,17 +89,8 @@
             <link>https://www.maxmovie.com/news/434325</link>
             <guid>https://www.maxmovie.com/news/434325</guid>
             <pubDate>Mon, 07 Aug 2023 23:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[여름 시즌 겨냥 한국영화 "스토리 최적화 기술력" 
-IMAX, 스크린X 등 다양한 특수상영 버전 관심 ↑]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434325"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691446090125c7snf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434325"><h4>‘밀수’·‘더 문’·‘콘유’, 특수상영관이 더 좋다</h4></a><span>23시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691446090125c7snf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새롭게 돌아오는 '닌자터틀:뮤턴트 대소동'...국내 9월 개봉]]></title>
-            <link>https://www.maxmovie.com/news/434324</link>
-            <guid>https://www.maxmovie.com/news/434324</guid>
-            <pubDate>Mon, 07 Aug 2023 08:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434324"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691393593353mrWsh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434324"><h4>새롭게 돌아오는 '닌자터틀:뮤턴트 대소동'...국내 9월 개봉</h4></a><span>08월 07일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691393593353mrWsh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
