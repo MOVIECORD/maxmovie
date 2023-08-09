@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 23:05:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 00:36:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691478880571cVqpm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['밀수', 시체스 영화제 경쟁 부문 초청...끊이지 않는 러브콜]]></title>
+            <link>https://www.maxmovie.com/news/434341</link>
+            <guid>https://www.maxmovie.com/news/434341</guid>
+            <pubDate>Wed, 09 Aug 2023 00:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434341"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16915398630891PZrh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434341"><h4>'밀수', 시체스 영화제 경쟁 부문 초청...끊이지 않는 러브콜</h4></a><span>18분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16915398630891PZrh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하야오 감독 은퇴작 '그대들은 어떻게 살 것인가' 국내 개봉 확정]]></title>
             <link>https://www.maxmovie.com/news/434335</link>
             <guid>https://www.maxmovie.com/news/434335</guid>
             <pubDate>Tue, 08 Aug 2023 08:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434335"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691458920570rbKGG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434335"><h4>하야오 감독 은퇴작 '그대들은 어떻게 살 것인가' 국내 개봉 확정 </h4></a><span>21시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[하야오 감독이 10년 만에 내놓은 신작
+7월 일본 개봉, 300만 돌파 흥행]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691458920570rbKGG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434328</link>
             <guid>https://www.maxmovie.com/news/434328</guid>
             <pubDate>Tue, 08 Aug 2023 05:04:39 GMT</pubDate>
-            <content:encoded><![CDATA[외피는 중년 로맨스, 속살은 하이틴 로맨스
-로맨스 그 이상의 가슴 따뜻한 이야기]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434328"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691443465321EitSg.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/434328"><h4>[리뷰:포테이토 지수 77%]다름을 인정하면? '달짝지근해'!②</h4></a><span>08월 07일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691443465321EitSg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰:포테이토 지수 80%]  멋 부리지 않아 더 웃긴,  '달짝지근해'  ①]]></title>
-            <link>https://www.maxmovie.com/news/434326</link>
-            <guid>https://www.maxmovie.com/news/434326</guid>
-            <pubDate>Tue, 08 Aug 2023 05:04:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434326"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691404838423y8qC3.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/434326"><h4>[리뷰:포테이토 지수 80%]  멋 부리지 않아 더 웃긴,  '달짝지근해'  ①</h4></a><span>08월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691404838423y8qC3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
