@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 05:06:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 06:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691541682299qOvY8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[['오펜하이머' SWOT분석]  놀란의 귀환 VS 러닝타임 3시간 장벽]]></title>
+            <link>https://www.maxmovie.com/news/434342</link>
+            <guid>https://www.maxmovie.com/news/434342</guid>
+            <pubDate>Wed, 09 Aug 2023 06:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434342"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691541810734kKCjq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434342"><h4>['오펜하이머' SWOT분석]&nbsp; 놀란의 귀환 VS 러닝타임 3시간 장벽 </h4></a><span>30분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691541810734kKCjq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['밀수', 시체스 영화제 경쟁 부문 초청...끊이지 않는 러브콜]]></title>
             <link>https://www.maxmovie.com/news/434341</link>
             <guid>https://www.maxmovie.com/news/434341</guid>
             <pubDate>Wed, 09 Aug 2023 00:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434341"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16915398630891PZrh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434341"><h4>'밀수', 시체스 영화제 경쟁 부문 초청...끊이지 않는 러브콜</h4></a><span>4시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[토론토, 로카르노 영화제 이어 또다시 초청
+"새로운 시도와 열정으로 새로운 감동 선사"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16915398630891PZrh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/434335</link>
             <guid>https://www.maxmovie.com/news/434335</guid>
             <pubDate>Tue, 08 Aug 2023 01:55:22 GMT</pubDate>
-            <content:encoded><![CDATA[하야오 감독이 10년 만에 내놓은 신작
-7월 일본 개봉, 300만 돌파 흥행]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434335"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691458920570rbKGG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434335"><h4>하야오 감독 은퇴작 '그대들은 어떻게 살 것인가' 국내 개봉 확정 </h4></a><span>08월 08일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691458920570rbKGG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['또 전성기' 엄정화, 드라마→예능→다음은?]]></title>
-            <link>https://www.maxmovie.com/news/434334</link>
-            <guid>https://www.maxmovie.com/news/434334</guid>
-            <pubDate>Wed, 09 Aug 2023 03:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434334"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691458365487n2n9r.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434334"><h4>'또 전성기' 엄정화, 드라마→예능→다음은?</h4></a><span>08월 08일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691458365487n2n9r.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
