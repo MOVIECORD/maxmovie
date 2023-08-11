@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 05:06:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 06:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691721112767K9zuM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰] "도전과 새로운 시도"를 향한 감독 정우성의 열망]]></title>
+            <link>https://www.maxmovie.com/news/434380</link>
+            <guid>https://www.maxmovie.com/news/434380</guid>
+            <pubDate>Fri, 11 Aug 2023 06:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434380"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691730724299bKq5K.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/434380"><h4>[인터뷰] "도전과 새로운 시도"를 향한 감독 정우성의 열망 </h4></a><span>36분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691730724299bKq5K.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[놀란 감독의 매직 시작…벽돌책 '아메리칸 프로메테우스' 베스트셀러行]]></title>
             <link>https://www.maxmovie.com/news/434374</link>
             <guid>https://www.maxmovie.com/news/434374</guid>
             <pubDate>Fri, 11 Aug 2023 03:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434374"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691721242956DCuUh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434374"><h4>놀란 감독의 매직 시작…벽돌책 '아메리칸 프로메테우스' 베스트셀러行</h4></a><span>2시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['오펜하이머' 원작에 대한 관심 치솟아
+개봉 앞두고 예매율 1위·아이맥스관 매진 행렬]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691721242956DCuUh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/434364</link>
             <guid>https://www.maxmovie.com/news/434364</guid>
             <pubDate>Thu, 10 Aug 2023 10:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[10일 SNS에 "희귀성 위말트림프종" 밝혀
-완치 판정, "지지 않겠다" 약속]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434364"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169165893322070hbZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434364"><h4>가수 윤도현, 지난 3년간 암 투병 사실 고백 </h4></a><span>20시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/169165893322070hbZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["황동혁 천재"·"내가 더 오징어상"…'오징어게임2' 말말말]]></title>
-            <link>https://www.maxmovie.com/news/434362</link>
-            <guid>https://www.maxmovie.com/news/434362</guid>
-            <pubDate>Fri, 11 Aug 2023 00:30:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434362"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691634448412vgo0G.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434362"><h4>"황동혁 천재"·"내가 더 오징어상"…'오징어게임2' 말말말</h4></a><span>23시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691634448412vgo0G.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
