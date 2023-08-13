@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Aug 2023 06:07:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 07:04:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,15 +42,24 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691749746335x9zEs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김성균의 '전성시대' 활짝 열렸다]]></title>
+            <link>https://www.maxmovie.com/news/434395</link>
+            <guid>https://www.maxmovie.com/news/434395</guid>
+            <pubDate>Sun, 13 Aug 2023 07:03:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434395"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691908354813GEqbE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434395"><h4>김성균의 '전성시대' 활짝 열렸다</h4></a><span>33분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691908354813GEqbE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방탄 리더 RM도 군입대 임박... "곧 술 못 마실 시기가 온다"]]></title>
             <link>https://www.maxmovie.com/news/434394</link>
             <guid>https://www.maxmovie.com/news/434394</guid>
             <pubDate>Sun, 13 Aug 2023 06:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434394"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691906109058AAKyN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434394"><h4>방탄 리더 RM도 군입대 임박... "곧 술 못 마실 시기가 온다" </h4></a><span>7분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[팬 플랫폼 위버스 통해 근황 공개
+짧게 자른 헤어스타일 "빡빡이 해서 미안"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691906109058AAKyN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['무빙' 조인성 "평범한 이들의 비범한 힘"..美 뉴스위크 인터뷰]]></title>
+            <title><![CDATA['무빙' 조인성 "평범한 이들의 비범함"..美 뉴스위크 인터뷰]]></title>
             <link>https://www.maxmovie.com/news/434393</link>
             <guid>https://www.maxmovie.com/news/434393</guid>
             <pubDate>Sun, 13 Aug 2023 06:07:07 GMT</pubDate>
@@ -81,17 +90,8 @@ JTBC 드라마 '힙하게' 코미디와 스릴러의 조화]]></content:encoded>
             <link>https://www.maxmovie.com/news/434387</link>
             <guid>https://www.maxmovie.com/news/434387</guid>
             <pubDate>Sun, 13 Aug 2023 01:40:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 'D-2' 32만7458장 기록
-광복절 개봉 특수, 스코어 관심]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434387"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1691889026469OHjgH.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434387"><h4>관객들 '오펜하이머'만 기다렸나? 사전 예매 32장 돌파 </h4></a><span>5시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691889026469OHjgH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 두 친구의 특별한 우정, 영화 '퀴어 마이 프렌즈']]></title>
-            <link>https://www.maxmovie.com/news/434371</link>
-            <guid>https://www.maxmovie.com/news/434371</guid>
-            <pubDate>Sun, 13 Aug 2023 06:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434371"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169171807307390V67.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434371"><h4>[오늘 뭘 볼까] 두 친구의 특별한 우정, 영화 '퀴어 마이 프렌즈'</h4></a><span>5시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/169171807307390V67.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
