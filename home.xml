@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 22:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 23:05:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692170980066e9yMw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[30kg 찌운 이정하, '무빙' 초반 돌풍의 '핵']]></title>
+            <link>https://www.maxmovie.com/news/434470</link>
+            <guid>https://www.maxmovie.com/news/434470</guid>
+            <pubDate>Thu, 17 Aug 2023 23:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434470"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692283236566IQB50.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434470"><h4>30kg 찌운 이정하, '무빙' 초반 돌풍의 '핵' </h4></a><span>5분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692283236566IQB50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정우성·이정재의 우정, 김성수 감독의 '태양은 없다'가 시작이었다]]></title>
             <link>https://www.maxmovie.com/news/434466</link>
             <guid>https://www.maxmovie.com/news/434466</guid>
             <pubDate>Thu, 17 Aug 2023 22:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434466"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692256541164jcDqQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434466"><h4>정우성·이정재의 우정, 김성수 감독의 '태양은 없다'가 시작이었다</h4></a><span>5분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['팝업 시네마: 부안 무빙' 25일~27일
+'태양은 없다' 야외 상영 및 GV]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692256541164jcDqQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434460</link>
             <guid>https://www.maxmovie.com/news/434460</guid>
             <pubDate>Thu, 17 Aug 2023 03:06:45 GMT</pubDate>
-            <content:encoded><![CDATA['기생충' 정이서·'꽃섬' 김혜나의 연대기
-동명 단편 소설을 영화화한 작품]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434460"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692224023690SOPnl.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/434460"><h4>[리뷰:포테이토 지수 72%] '그녀의 취미생활', 다가올 행복 위해 '독'을 품다</h4></a><span>20시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692224023690SOPnl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오펜하이머' 급감…'콘유' '달짝' 반등 노린다]]></title>
-            <link>https://www.maxmovie.com/news/434464</link>
-            <guid>https://www.maxmovie.com/news/434464</guid>
-            <pubDate>Thu, 17 Aug 2023 02:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434464"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169223412590853ln9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434464"><h4>'오펜하이머' 급감…'콘유' '달짝' 반등 노린다</h4></a><span>20시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/169223412590853ln9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
