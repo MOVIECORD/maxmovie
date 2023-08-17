@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 09:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 10:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692170980066e9yMw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['콘크리트 유토피아', 韓영화 대표한다...美아카데미 출품작 선정]]></title>
+            <link>https://www.maxmovie.com/news/434469</link>
+            <guid>https://www.maxmovie.com/news/434469</guid>
+            <pubDate>Thu, 17 Aug 2023 10:05:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434469"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692263087239035DS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434469"><h4>'콘크리트 유토피아', 韓영화 대표한다...美아카데미 출품작 선정</h4></a><span>40분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692263087239035DS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["이 영화에 정우성 가득 담겨"]]></title>
             <link>https://www.maxmovie.com/news/434467</link>
             <guid>https://www.maxmovie.com/news/434467</guid>
             <pubDate>Thu, 17 Aug 2023 08:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434467"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692256415673IAyC4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434467"><h4>"이 영화에 정우성 가득 담겨"</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['보호자' 스페셜 GV 성료
+김성수 "기존 액션영화와 달라"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692256415673IAyC4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/434436</link>
             <guid>https://www.maxmovie.com/news/434436</guid>
             <pubDate>Wed, 16 Aug 2023 07:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[고현정, 3인1역 도전
-인기 웹툰 원작…8월18일 공개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434436"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692164623629etvme.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/434436"><h4>'얼태기' 고민한다는 고현정, '마스크걸' 선택한 이유</h4></a><span>08월 16일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692164623629etvme.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[200만 팔로워 뉴스타 김민규, 강엔터테인먼트 전속계약]]></title>
-            <link>https://www.maxmovie.com/news/434444</link>
-            <guid>https://www.maxmovie.com/news/434444</guid>
-            <pubDate>Wed, 16 Aug 2023 07:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434444"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692164046999sAY6U.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434444"><h4>200만 팔로워 뉴스타 김민규, 강엔터테인먼트 전속계약 </h4></a><span>08월 16일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692164046999sAY6U.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
