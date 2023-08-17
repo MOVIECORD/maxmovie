@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 01:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 02:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692170980066e9yMw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['오펜하이머' 급감…'콘유' '달짝' 반등 노린다]]></title>
+            <link>https://www.maxmovie.com/news/434464</link>
+            <guid>https://www.maxmovie.com/news/434464</guid>
+            <pubDate>Thu, 17 Aug 2023 02:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434464"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169223412590853ln9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434464"><h4>'오펜하이머' 급감…'콘유' '달짝' 반등 노린다</h4></a><span>18분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/169223412590853ln9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이제훈, 최불암과 바통터치…'수사반장' 부활]]></title>
             <link>https://www.maxmovie.com/news/434455</link>
             <guid>https://www.maxmovie.com/news/434455</guid>
             <pubDate>Wed, 16 Aug 2023 10:05:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434455"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692169548356ZqIT6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/434455"><h4>이제훈, 최불암과 바통터치…'수사반장' 부활</h4></a><span>18시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[이제훈·이동휘 촬영 돌입…내년 방송
+1959~60년대 아날로그 수사 선보여]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692169548356ZqIT6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/434432</link>
             <guid>https://www.maxmovie.com/news/434432</guid>
             <pubDate>Wed, 16 Aug 2023 07:04:33 GMT</pubDate>
-            <content:encoded><![CDATA['깊고 푸른 밤' '바보들의 행진' 등 원작자
-"최인호 작가 10주기,  문학적 업적 기린다"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434432"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692157214935mFgrd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434432"><h4>'별들의 고향' 최인호 기리는 청년문화상 나온다</h4></a><span>22시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692157214935mFgrd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['마라맛' 임성한 작가, 차기작은 '치정 스릴러']]></title>
-            <link>https://www.maxmovie.com/news/434430</link>
-            <guid>https://www.maxmovie.com/news/434430</guid>
-            <pubDate>Wed, 16 Aug 2023 07:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434430"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692150522349X7hiv.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434430"><h4>'마라맛' 임성한 작가, 차기작은 '치정 스릴러' </h4></a><span>22시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692150522349X7hiv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
