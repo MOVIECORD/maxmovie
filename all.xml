@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 07:04:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 08:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692170980066e9yMw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["이 영화에 정우성 가득 담겨" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/434467</link>
+            <guid>https://www.maxmovie.com/news/434467</guid>
+            <pubDate>Thu, 17 Aug 2023 08:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434467"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692256415673IAyC4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434467"><h4>"이 영화에 정우성 가득 담겨"</h4></a><span>48분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692256415673IAyC4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[리뷰:포테이토 지수 72%] '그녀의 취미생활', 다가올 행복 위해 '독'을 품다 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/434460</link>
             <guid>https://www.maxmovie.com/news/434460</guid>
             <pubDate>Thu, 17 Aug 2023 03:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434460"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692224023690SOPnl.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/434460"><h4>[리뷰:포테이토 지수 72%] '그녀의 취미생활', 다가올 행복 위해 '독'을 품다</h4></a><span>4시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['기생충' 정이서·'꽃섬' 김혜나의 연대기
+동명 단편 소설을 영화화한 작품]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692224023690SOPnl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/434444</link>
             <guid>https://www.maxmovie.com/news/434444</guid>
             <pubDate>Wed, 16 Aug 2023 06:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[엠넷 '프로듀스X101' 출신 신예
-"순수한 열정과 밝은 에너지" 기대]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434444"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692164046999sAY6U.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434444"><h4>200만 팔로워 뉴스타 김민규, 강엔터테인먼트 전속계약 </h4></a><span>08월 16일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692164046999sAY6U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼히어로물 '무빙' 흥행 화력ing…5개국 1위 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434431</link>
-            <guid>https://www.maxmovie.com/news/434431</guid>
-            <pubDate>Wed, 16 Aug 2023 07:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434431"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692156230912CMzuM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/434431"><h4>슈퍼히어로물 '무빙' 흥행 화력ing…5개국 1위</h4></a><span>08월 16일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692156230912CMzuM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] "도전과 새로운 시도"를 향한 감독 정우성의 열망 (맥스무비 ─ 인터뷰)]]></title>
@@ -268,6 +268,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690793361899SvmoI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["이 영화에 정우성 가득 담겨" (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/434467</link>
+            <guid>https://www.maxmovie.com/news/434467</guid>
+            <pubDate>Thu, 17 Aug 2023 08:10:33 GMT</pubDate>
+            <content:encoded><![CDATA['보호자' 스페셜 GV 성료
+김성수 "기존 액션영화와 달라"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692256415673IAyC4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['오펜하이머' 급감…'콘유' '달짝' 반등 노린다 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/434464</link>
             <guid>https://www.maxmovie.com/news/434464</guid>
@@ -299,8 +308,7 @@
             <link>https://www.maxmovie.com/news/434461</link>
             <guid>https://www.maxmovie.com/news/434461</guid>
             <pubDate>Thu, 17 Aug 2023 00:29:03 GMT</pubDate>
-            <content:encoded><![CDATA[짧은 등장으로 집중도↑
-'밀수' 조인성 '콘유' 엄태구 '달짝' 정우성]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434461"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692230838238rlfGx.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434461"><h4>'밀수' '콘유' '달짝'의 특별출연 활용법</h4></a><span>7시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692230838238rlfGx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +316,7 @@
             <link>https://www.maxmovie.com/news/434456</link>
             <guid>https://www.maxmovie.com/news/434456</guid>
             <pubDate>Wed, 16 Aug 2023 22:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434456"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692170980066e9yMw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434456"><h4>[오늘 뭘 볼까] 달짝지근한 사랑의 맛, 영화 '달짝지근해: 7510'</h4></a><span>9시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '달짝지근해: 7510''달짝지근해: 7510'의 한 장면. 사진제공=마인드마크영화 '달짝지근해: 7510'은 천재적인 제과 연구원 치호가 세상 긍정 마인드의 일영을 만나면서 인생의 맛이 버라이어티하게 바뀌는 이야기를 그린 작품이다.타고난 미각 100%, 현실 감각은 0% 제과 연구원 치호(유해진). 과자밖에 모르는 치호]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692170980066e9yMw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -343,17 +351,8 @@
             <link>https://www.maxmovie.com/news/434432</link>
             <guid>https://www.maxmovie.com/news/434432</guid>
             <pubDate>Wed, 16 Aug 2023 07:04:33 GMT</pubDate>
-            <content:encoded><![CDATA['깊고 푸른 밤' '바보들의 행진' 등 원작자
-"최인호 작가 10주기,  문학적 업적 기린다"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434432"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692157214935mFgrd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434432"><h4>'별들의 고향' 최인호 기리는 청년문화상 나온다</h4></a><span>08월 16일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692157214935mFgrd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['마라맛' 임성한 작가, 차기작은 '치정 스릴러' (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/434430</link>
-            <guid>https://www.maxmovie.com/news/434430</guid>
-            <pubDate>Wed, 16 Aug 2023 07:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434430"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692150522349X7hiv.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434430"><h4>'마라맛' 임성한 작가, 차기작은 '치정 스릴러' </h4></a><span>08월 16일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692150522349X7hiv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이제훈, 최불암과 바통터치…'수사반장' 부활 (맥스무비 ─ OTT)]]></title>
