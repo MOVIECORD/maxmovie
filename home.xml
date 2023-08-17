@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 02:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 03:07:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692170980066e9yMw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[리뷰:포테이토 지수 72%] '그녀의 취미생활', 다가올 행복 위해 '독'을 품다]]></title>
+            <link>https://www.maxmovie.com/news/434460</link>
+            <guid>https://www.maxmovie.com/news/434460</guid>
+            <pubDate>Thu, 17 Aug 2023 03:06:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434460"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692224023690SOPnl.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/434460"><h4>[리뷰:포테이토 지수 72%] '그녀의 취미생활', 다가올 행복 위해 '독'을 품다</h4></a><span>33분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692224023690SOPnl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['오펜하이머' 급감…'콘유' '달짝' 반등 노린다]]></title>
             <link>https://www.maxmovie.com/news/434464</link>
             <guid>https://www.maxmovie.com/news/434464</guid>
             <pubDate>Thu, 17 Aug 2023 02:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434464"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169223412590853ln9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434464"><h4>'오펜하이머' 급감…'콘유' '달짝' 반등 노린다</h4></a><span>18분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['오펜하이머' 드롭률 73%
+'콘유' 300만 향해…'달짝' 평점 높아]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/169223412590853ln9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/434431</link>
             <guid>https://www.maxmovie.com/news/434431</guid>
             <pubDate>Thu, 17 Aug 2023 01:37:02 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니+ TV쇼 부문 한국 포함 5개국 1위
-16일 공개 8~9회서 한효주·조인성 애틋한 로맨스]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434431"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692156230912CMzuM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/434431"><h4>슈퍼히어로물 '무빙' 흥행 화력ing…5개국 1위</h4></a><span>23시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692156230912CMzuM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['별들의 고향' 최인호 기리는 청년문화상 나온다]]></title>
-            <link>https://www.maxmovie.com/news/434432</link>
-            <guid>https://www.maxmovie.com/news/434432</guid>
-            <pubDate>Wed, 16 Aug 2023 07:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434432"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692157214935mFgrd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434432"><h4>'별들의 고향' 최인호 기리는 청년문화상 나온다</h4></a><span>22시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692157214935mFgrd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
