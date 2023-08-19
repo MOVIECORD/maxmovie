@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 23:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 00:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692318346104HGlJ0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[위클리 이슈 모음 zip] '양조위 부인'부터 'DJ 소다 법적 대응'까지]]></title>
+            <link>https://www.maxmovie.com/news/434480</link>
+            <guid>https://www.maxmovie.com/news/434480</guid>
+            <pubDate>Sat, 19 Aug 2023 00:26:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434480"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16923498449537mnhX.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434480"><h4>[위클리 이슈 모음 zip] '양조위 부인'부터 'DJ 소다 법적 대응'까지</h4></a><span>27분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16923498449537mnhX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이영애, 하와이 산불 구호성금 5천만원 기부 "역경 이겨내길"]]></title>
             <link>https://www.maxmovie.com/news/434479</link>
             <guid>https://www.maxmovie.com/news/434479</guid>
             <pubDate>Fri, 18 Aug 2023 10:05:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434479"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692348521084RBuuh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434479"><h4>이영애, 하와이 산불 구호성금 5천만원 기부 "역경 이겨내길"</h4></a><span>13시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[대한적십자사 통해 성금 기부
+"하와이 마우이 주민께 애도와 위로"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692348521084RBuuh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434467</link>
             <guid>https://www.maxmovie.com/news/434467</guid>
             <pubDate>Thu, 17 Aug 2023 08:10:10 GMT</pubDate>
-            <content:encoded><![CDATA['보호자' 스페셜 GV 성료
-김성수 "기존 액션영화와 달라"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434467"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692256415673IAyC4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434467"><h4>"이 영화에 정우성 가득 담겨"</h4></a><span>08월 17일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692256415673IAyC4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰:포테이토 지수 72%] '그녀의 취미생활', 다가올 행복 위해 '독'을 품다]]></title>
-            <link>https://www.maxmovie.com/news/434460</link>
-            <guid>https://www.maxmovie.com/news/434460</guid>
-            <pubDate>Thu, 17 Aug 2023 03:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434460"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692224023690SOPnl.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/434460"><h4>[리뷰:포테이토 지수 72%] '그녀의 취미생활', 다가올 행복 위해 '독'을 품다</h4></a><span>08월 17일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692224023690SOPnl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
