@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 21:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 22:04:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692318346104HGlJ0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 사랑으로 서로의 아픔을 치유하다, 영화 '너의 순간']]></title>
+            <link>https://www.maxmovie.com/news/434475</link>
+            <guid>https://www.maxmovie.com/news/434475</guid>
+            <pubDate>Sun, 20 Aug 2023 22:03:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434475"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16923240635348ukgZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434475"><h4>[오늘 뭘 볼까] 사랑으로 서로의 아픔을 치유하다, 영화 '너의 순간'</h4></a><span>4분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16923240635348ukgZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오늘 뭘 볼까] 스타 셰프의 특별한 미식 여행, 다큐멘터리 '땅끝 레스토랑']]></title>
             <link>https://www.maxmovie.com/news/434474</link>
             <guid>https://www.maxmovie.com/news/434474</guid>
             <pubDate>Sat, 19 Aug 2023 22:03:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434474"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692321116251ntZbA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434474"><h4>[오늘 뭘 볼까] 스타 셰프의 특별한 미식 여행, 다큐멘터리 '땅끝 레스토랑'</h4></a><span>23시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '땅끝 레스토랑''땅끝 레스토랑'의 한 장면. 사진제공=디즈니+내셔널지오그래픽 다큐멘터리 '땅끝 레스토랑'은 미국의 인기 프로그램 '톱 셰프 시즌 10'의 우승자이자 '톱 셰프 시즌 21'의 진행자로 발탁된 한국계 요리사 크리스틴 키시의 미식 여행을 담은 작품이다.디즈니+를 통해 공개된 '땅끝 레스토랑'은 세계에서 가장]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692321116251ntZbA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434466</link>
             <guid>https://www.maxmovie.com/news/434466</guid>
             <pubDate>Sun, 20 Aug 2023 05:04:09 GMT</pubDate>
-            <content:encoded><![CDATA['팝업 시네마: 부안 무빙' 25일~27일
-'태양은 없다' 야외 상영 및 GV]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434466"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692256541164jcDqQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434466"><h4>정우성·이정재의 우정, 김성수 감독의 '태양은 없다'가 시작이었다</h4></a><span>08월 17일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692256541164jcDqQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['콘크리트 유토피아', 韓영화 대표한다...美아카데미 출품작 선정]]></title>
-            <link>https://www.maxmovie.com/news/434469</link>
-            <guid>https://www.maxmovie.com/news/434469</guid>
-            <pubDate>Sun, 20 Aug 2023 05:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434469"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692263087239035DS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434469"><h4>'콘크리트 유토피아', 韓영화 대표한다...美아카데미 출품작 선정</h4></a><span>08월 17일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692263087239035DS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
