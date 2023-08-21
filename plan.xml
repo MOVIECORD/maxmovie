@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 07:05:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 08:09:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 '치악산', 노이즈 마케팅 위한 의도된 '혐오 포스터' 논란]]></title>
+            <link>https://www.maxmovie.com/news/434492</link>
+            <guid>https://www.maxmovie.com/news/434492</guid>
+            <pubDate>Mon, 21 Aug 2023 08:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[아무리 리얼리티 공포라고 해도...
+엽기 범죄 현장 묘사 포스터, 비난 폭주]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692601079474YuiEI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돌연변이 거북이들 '닌자터틀:뮤턴트 대소동' 9월14일 개봉]]></title>
             <link>https://www.maxmovie.com/news/434489</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/434483</link>
             <guid>https://www.maxmovie.com/news/434483</guid>
             <pubDate>Mon, 21 Aug 2023 05:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 시리즈 '마스크걸' 주연
-콤플렉스와 욕망이 뒤섞인 인물]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434483"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692581379978gyozF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434483"><h4>['마스크걸' 인물탐구①] '김모미' 이한별에 빠져들다 </h4></a><span>3시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692581379978gyozF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/434482</link>
             <guid>https://www.maxmovie.com/news/434482</guid>
             <pubDate>Mon, 21 Aug 2023 00:28:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434482"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692576104315khrNn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434482"><h4>주말 박스오피스 '오펜하이머'·'콘유' 양강 체제 속 '달짝지근해' 선전</h4></a><span>6시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['오펜하이머' 사흘간 약 77만명 관객 동원
+'콘크리트 유토피아'는 박스오피스 2위]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692576104315khrNn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434477</link>
             <guid>https://www.maxmovie.com/news/434477</guid>
             <pubDate>Fri, 18 Aug 2023 05:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[퍼즐 끼워 맞추듯 완벽한 서사 구조
-강풀 작가 극본 작업에 "3년 매달려"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434477"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16923279528667n1SH.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434477"><h4>'무빙' 속 '남산돈까스' 옥상이 보라색인 이유는?</h4></a><span>08월 18일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16923279528667n1SH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["견우야 미안해~이번엔 변산이야"]]></title>
-            <link>https://www.maxmovie.com/news/434476</link>
-            <guid>https://www.maxmovie.com/news/434476</guid>
-            <pubDate>Fri, 18 Aug 2023 22:04:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434476"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692328786944sKkPg.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434476"><h4>"견우야 미안해~이번엔 변산이야"</h4></a><span>08월 18일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692328786944sKkPg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
