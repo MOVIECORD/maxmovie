@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 02:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 03:06:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/169259894746074EQ4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이정재, 청춘의 표상이 되다]]></title>
+            <link>https://www.maxmovie.com/news/434502</link>
+            <guid>https://www.maxmovie.com/news/434502</guid>
+            <pubDate>Tue, 22 Aug 2023 03:06:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434502"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692672547058qv6hF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434502"><h4>이정재, 청춘의 표상이 되다 </h4></a><span>3분 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692672547058qv6hF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[캐스팅 담당자 누구? '마스크걸', 최다니엘·이준영 등 신스틸러 돋보여]]></title>
             <link>https://www.maxmovie.com/news/434499</link>
             <guid>https://www.maxmovie.com/news/434499</guid>
             <pubDate>Tue, 22 Aug 2023 01:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434499"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692665295127h9LcI.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434499"><h4>캐스팅 담당자 누구? '마스크걸', 최다니엘·이준영 등 신스틸러 돋보여</h4></a><span>1시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[김모미에 영향 끼친 신스틸러 주목 받아
+반전의 최다니엘·분노 자아낸 이준영 등]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692665295127h9LcI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,16 +91,8 @@
             <link>https://www.maxmovie.com/news/434488</link>
             <guid>https://www.maxmovie.com/news/434488</guid>
             <pubDate>Mon, 21 Aug 2023 22:04:30 GMT</pubDate>
-            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '메가로돈2''메가로돈2'의 한 장면. 사진제공=워너브러더스 코리아영화 '메가로돈2'는 전 세계에서 가장 깊은 마리아나 해구, 역사상 가장 거대하고 무자비한 최상위 포식자가 도사리는 그곳에서 강철 다이버 조나스(제이슨 스타뎀)가 더 맹렬하게 돌아온 메가로돈과 짜릿한 대결을 펼치는 액션 어드벤처 작품이다.지구 역사상 가장]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434488"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16925960324073l5NQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434488"><h4>[오늘 뭘 볼까] 더 강렬하게 돌아온, 영화 '메가로돈2'</h4></a><span>5시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16925960324073l5NQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌연변이 거북이들 '닌자터틀:뮤턴트 대소동' 9월14일 개봉]]></title>
-            <link>https://www.maxmovie.com/news/434489</link>
-            <guid>https://www.maxmovie.com/news/434489</guid>
-            <pubDate>Mon, 21 Aug 2023 06:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434489"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16925963692669KVPs.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434489"><h4>돌연변이 거북이들 '닌자터틀:뮤턴트 대소동' 9월14일 개봉 </h4></a><span>20시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16925963692669KVPs.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
