@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 21:04:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 22:04:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16927523003438qH41.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] "함께라서 외롭지 않아"… 영화 '강변의 무코리타']]></title>
+            <link>https://www.maxmovie.com/news/434513</link>
+            <guid>https://www.maxmovie.com/news/434513</guid>
+            <pubDate>Wed, 23 Aug 2023 22:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434513"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16927585783393MorK.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434513"><h4>[오늘 뭘 볼까] "함께라서 외롭지 않아"… 영화 '강변의 무코리타'</h4></a><span>4분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16927585783393MorK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['그알'  "공정성" 논란에 신뢰도 추락 위기?]]></title>
             <link>https://www.maxmovie.com/news/434510</link>
             <guid>https://www.maxmovie.com/news/434510</guid>
             <pubDate>Wed, 23 Aug 2023 06:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434510"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692752083549e0Gvo.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434510"><h4>'그알'  "공정성" 논란에 신뢰도 추락 위기?</h4></a><span>19시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[피프티 피프티 사태 조명, '편파방송' 논란
+"연예계 도박판 묘사" 관련 단체  반발]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692752083549e0Gvo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@ CGV 단독 개봉, 2017년 공연 실황]]></content:encoded>
             <link>https://www.maxmovie.com/news/434506</link>
             <guid>https://www.maxmovie.com/news/434506</guid>
             <pubDate>Wed, 23 Aug 2023 00:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[데뷔 15주년 기념해 첫 팬 콘서트 개최
-현재 박보검 등과 '폭싹 속았수다' 촬영]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434506"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692690532391uSx2T.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434506"><h4>가수 아이유는 '데뷔 15주년' 기념·배우 이지은은 '촬영 중'</h4></a><span>08월 22일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692690532391uSx2T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이동휘를 '자괴감'에 빠트린, 강동원의 '오후 6시' 외모]]></title>
-            <link>https://www.maxmovie.com/news/434505</link>
-            <guid>https://www.maxmovie.com/news/434505</guid>
-            <pubDate>Wed, 23 Aug 2023 00:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434505"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692686213310e885e.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434505"><h4>이동휘를 '자괴감'에 빠트린, 강동원의 '오후 6시' 외모 </h4></a><span>08월 22일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692686213310e885e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
