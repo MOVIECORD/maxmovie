@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 03:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 04:08:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,7 +47,7 @@
             <link>https://www.maxmovie.com/news/434520</link>
             <guid>https://www.maxmovie.com/news/434520</guid>
             <pubDate>Thu, 24 Aug 2023 01:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434520"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692836823234T9KiG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434520"><h4>강하늘·정소민도 추석 극장 가세</h4></a><span>2시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434520"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692836823234T9KiG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434520"><h4>강하늘·정소민도 추석 극장 가세</h4></a><span>3시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692836823234T9KiG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,21 +78,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692752083549e0Gvo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['무빙 DAY' 이정하→조인성·한효주 → 이제 류승룡 차례]]></title>
-            <link>https://www.maxmovie.com/news/434511</link>
-            <guid>https://www.maxmovie.com/news/434511</guid>
-            <pubDate>Thu, 24 Aug 2023 02:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[10, 11회의 주인공은 '구룡포' 류승룡
-포항부터 울산까지 제패한 괴물 장주원  역]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16927523003438qH41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[그 유명한 영화 '뽕', 4K 복원 유튜브 공개]]></title>
             <link>https://www.maxmovie.com/news/434509</link>
             <guid>https://www.maxmovie.com/news/434509</guid>
             <pubDate>Wed, 23 Aug 2023 00:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434509"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692749897190qyV8J.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434509"><h4>그 유명한 영화 '뽕', 4K 복원 유튜브 공개 </h4></a><span>08월 23일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[한국영상자료원 디지털 복원 작업 
+이두용 감독 연출, 2985년작]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692749897190qyV8J.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서태지 25주년 공연 실황 영화, 9월6일 개봉]]></title>
+            <link>https://www.maxmovie.com/news/434508</link>
+            <guid>https://www.maxmovie.com/news/434508</guid>
+            <pubDate>Thu, 24 Aug 2023 04:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434508"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692748881124tmj6k.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434508"><h4>서태지 25주년 공연 실황 영화, 9월6일 개봉 </h4></a><span>08월 23일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692748881124tmj6k.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
