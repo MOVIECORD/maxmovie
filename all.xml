@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 03:07:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 04:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,8 +47,17 @@
             <link>https://www.maxmovie.com/news/434533</link>
             <guid>https://www.maxmovie.com/news/434533</guid>
             <pubDate>Fri, 25 Aug 2023 00:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434533"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692918533941UgLec.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434533"><h4>영화인생 40년 '정지영 감독 회고전' 英 런던에서 최초 개최 </h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434533"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692918533941UgLec.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434533"><h4>영화인생 40년 '정지영 감독 회고전' 英 런던에서 최초 개최 </h4></a><span>2시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692918533941UgLec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['무빙' 이정하, 2023년 완벽한 '떡상' 차기작도 계속 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/434527</link>
+            <guid>https://www.maxmovie.com/news/434527</guid>
+            <pubDate>Fri, 25 Aug 2023 04:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니+ 시리즈 '무빙' 인기 주역
+드라마 '원'  영화 '빅토리' 등]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692869206928JPJoV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[N년 전 오늘!] '해운대' 중국 개봉 앞두고 불법 파일 유포 (맥스무비)]]></title>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/434525</link>
             <guid>https://www.maxmovie.com/news/434525</guid>
             <pubDate>Thu, 24 Aug 2023 08:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니+ TV쇼 부문 월드와이드 1위 
-회를 거듭할수록 확산하는 세계관]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434525"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692861655522UBNK2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/434525"><h4>'무빙'이 '무빙' 했다! 디즈니+글로벌 1위 등극 </h4></a><span>20시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692861655522UBNK2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강하늘·정소민도 추석 극장 가세 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434520</link>
-            <guid>https://www.maxmovie.com/news/434520</guid>
-            <pubDate>Thu, 24 Aug 2023 01:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434520"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692836823234T9KiG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434520"><h4>강하늘·정소민도 추석 극장 가세</h4></a><span>08월 24일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692836823234T9KiG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 고현정 "'마스크걸'로 첫 장르물, 내 쓰임 다양해지길" (맥스무비 ─ 인터뷰)]]></title>
@@ -305,11 +305,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692871193210bI52a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['무빙' 이정하, 2023년 완벽한 '떡상' 차기작도 계속 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/434527</link>
+            <guid>https://www.maxmovie.com/news/434527</guid>
+            <pubDate>Fri, 25 Aug 2023 04:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434527"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692869206928JPJoV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434527"><h4>'무빙' 이정하, 2023년 완벽한 '떡상' 차기작도 계속 </h4></a><span>9분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692869206928JPJoV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오늘 뭘 볼까] 안하무인 아싸들의 진정한 홀로서기, 영화 '아만다' (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/434522</link>
             <guid>https://www.maxmovie.com/news/434522</guid>
             <pubDate>Thu, 24 Aug 2023 22:04:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434522"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692855688108iJ4hV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434522"><h4>[오늘 뭘 볼까] 안하무인 아싸들의 진정한 홀로서기, 영화 '아만다'</h4></a><span>5시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '아만다''아만다'의 한 장면. 사진제공=이놀미디어영화 '아만다'는 스물다섯 아만다가 옛 친구 레베카와 조우하면서 벌어지는 이야기를 담은 작품이다.남의 시선 따위 신경 쓰지 않은 채, 막무가내 일상을 살아가는 아만다. 히키코모리 옛 친구 레베카와 재회해 새로운 세상과 마주하려 마음먹은 그때, 이들의 앞을 가로막는 존재가]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692855688108iJ4hV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -343,16 +351,17 @@
             <link>https://www.maxmovie.com/news/434518</link>
             <guid>https://www.maxmovie.com/news/434518</guid>
             <pubDate>Thu, 24 Aug 2023 00:27:53 GMT</pubDate>
-            <content:encoded><![CDATA['가문의 영광' 시리즈의 컴백이 확정됐다.영화 '가문의 영광:리턴즈' 티저 포스터. 사진제공=NEW.배급사 NEW는 24"'가문의 영광:리턴즈'가 오는 9월 개봉을 확정했다"고 밝혔다.'가문의 영광:리턴즈'는 잘나가는 스타 작가 대서와 가문의 막내딸 진경을 결혼시키기 위해 온갖 음모를 꾸미는 장씨 가문의 결혼성사 작전을 그린 코미디 영화다.'가문의 영광:리]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434518"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692835416701Zvh8z.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434518"><h4>돌아오는 '가문의 영광:리턴즈', 9월 개봉 확정</h4></a><span>08월 24일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692835416701Zvh8z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['무빙' 번개맨 차태현, '엽기적인 그녀'와 함께 '부안 무빙'에 뜬다 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/434517</link>
-            <guid>https://www.maxmovie.com/news/434517</guid>
-            <pubDate>Thu, 24 Aug 2023 00:27:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434517"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692834188883n0zpy.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434517"><h4>'무빙' 번개맨 차태현, '엽기적인 그녀'와 함께 '부안 무빙'에 뜬다 </h4></a><span>08월 23일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692834188883n0zpy.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['무빙' 이정하, 2023년 완벽한 '떡상' 차기작도 계속 (맥스무비 ─ OTT)]]></title>
+            <link>https://www.maxmovie.com/news/434527</link>
+            <guid>https://www.maxmovie.com/news/434527</guid>
+            <pubDate>Fri, 25 Aug 2023 04:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니+ 시리즈 '무빙' 인기 주역
+드라마 '원'  영화 '빅토리' 등]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692869206928JPJoV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['무빙'이 '무빙' 했다! 디즈니+글로벌 1위 등극 (맥스무비 ─ OTT)]]></title>
@@ -386,8 +395,7 @@
             <link>https://www.maxmovie.com/news/434514</link>
             <guid>https://www.maxmovie.com/news/434514</guid>
             <pubDate>Wed, 23 Aug 2023 06:08:31 GMT</pubDate>
-            <content:encoded><![CDATA['문제적 인물' 김모미 향한 관심
-염혜란 안재홍 이한별 등 맹활약]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434514"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692766679067rNR94.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/434514"><h4>'마스크걸', 넷플릭스 비영어 부문 글로벌 2위 안착 </h4></a><span>08월 23일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692766679067rNR94.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -395,7 +403,8 @@
             <link>https://www.maxmovie.com/news/434511</link>
             <guid>https://www.maxmovie.com/news/434511</guid>
             <pubDate>Wed, 23 Aug 2023 01:38:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434511"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16927523003438qH41.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434511"><h4>'무빙 DAY' 이정하→조인성·한효주 → 이제 류승룡 차례 </h4></a><span>08월 23일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[10, 11회의 주인공은 '구룡포' 류승룡
+포항부터 울산까지 제패한 괴물 장주원  역]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16927523003438qH41.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -429,17 +438,8 @@
             <link>https://www.maxmovie.com/news/434483</link>
             <guid>https://www.maxmovie.com/news/434483</guid>
             <pubDate>Mon, 21 Aug 2023 05:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 시리즈 '마스크걸' 주연
-콤플렉스와 욕망이 뒤섞인 인물]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434483"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692581379978gyozF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434483"><h4>['마스크걸' 인물탐구①] '김모미' 이한별에 빠져들다 </h4></a><span>08월 21일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692581379978gyozF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['무빙' 속 '남산돈까스' 옥상이 보라색인 이유는? (맥스무비 ─ OTT)]]></title>
-            <link>https://www.maxmovie.com/news/434477</link>
-            <guid>https://www.maxmovie.com/news/434477</guid>
-            <pubDate>Fri, 18 Aug 2023 05:04:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434477"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16923279528667n1SH.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434477"><h4>'무빙' 속 '남산돈까스' 옥상이 보라색인 이유는?</h4></a><span>08월 18일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16923279528667n1SH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['한강'은 우리가 지킨다, Team 한강 불철주야 스틸 (맥스무비 ─ 포토)]]></title>
