@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 21:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 22:04:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,8 +46,16 @@
             <link>https://www.maxmovie.com/news/434543</link>
             <guid>https://www.maxmovie.com/news/434543</guid>
             <pubDate>Sat, 26 Aug 2023 06:07:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434543"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693022863796hUZIl.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434543"><h4>"'왕의 남자' 등 좋은 영화 많이 탄생한 곳" 이준익 감독이 말하는 부안은</h4></a><span>15시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434543"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693022863796hUZIl.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434543"><h4>"'왕의 남자' 등 좋은 영화 많이 탄생한 곳" 이준익 감독이 말하는 부안은</h4></a><span>16시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693022863796hUZIl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 소녀들의 성장통! 넷플릭스 영화 '내 성인식에 절대 오지 마!']]></title>
+            <link>https://www.maxmovie.com/news/434536</link>
+            <guid>https://www.maxmovie.com/news/434536</guid>
+            <pubDate>Sat, 26 Aug 2023 22:03:45 GMT</pubDate>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '내 성인식에 절대 오지 마!''내 성인식에 절대 오지 마!'의 한 장면. 사진제공=넷플릭스'내 성인식에 절대 오지 마!'는 성인식을 앞둔 두 중학생 절친의 성장통을 그린 넷플릭스 영화다.&nbsp;단짝 친구인 스테이시와 리디아는 늘 최고의 성인식 파티를 꿈꿔왔지만 같은 학교의 짝사랑 상대 앤디가 둘 사이에 끼어들며 모든 일이 꼬]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692935887290KScLI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 숨막히는 서스펜스 스릴러 영화 '볼코노고프 대위 탈출하다']]></title>
@@ -80,17 +88,8 @@
             <link>https://www.maxmovie.com/news/434532</link>
             <guid>https://www.maxmovie.com/news/434532</guid>
             <pubDate>Fri, 25 Aug 2023 00:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[2009년 8월25일 1000만 흥행 물거품
-중국 이어 미국 등 해외시장 공략 차질]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434532"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16929179106487pM1s.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434532"><h4>[N년 전 오늘!] '해운대' 중국 개봉 앞두고 불법 파일 유포</h4></a><span>08월 25일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16929179106487pM1s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '치악산', 이래저래 논란의 연속]]></title>
-            <link>https://www.maxmovie.com/news/434529</link>
-            <guid>https://www.maxmovie.com/news/434529</guid>
-            <pubDate>Sat, 26 Aug 2023 07:03:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434529"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692870431034kDveo.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434529"><h4>영화 '치악산', 이래저래 논란의 연속 </h4></a><span>08월 24일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692870431034kDveo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
