@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 07:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 08:09:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/169327255499807lWQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[배우 차태현과 이준익·김성수·곽재용·배창호 감독 등 한국영화 주역들, 모두 모였다!]]></title>
+            <link>https://www.maxmovie.com/news/434567</link>
+            <guid>https://www.maxmovie.com/news/434567</guid>
+            <pubDate>Tue, 29 Aug 2023 08:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434567"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693294309154dpCOd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434567"><h4>배우 차태현과 이준익·김성수·곽재용·배창호 감독 등 한국영화 주역들, 모두 모였다!</h4></a><span>22분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693294309154dpCOd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제니 연기 데뷔작 '디 아이돌', 시즌2는 없다]]></title>
             <link>https://www.maxmovie.com/news/434566</link>
             <guid>https://www.maxmovie.com/news/434566</guid>
             <pubDate>Tue, 29 Aug 2023 07:03:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434566"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693290621081WGmbW.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434566"><h4>제니 연기 데뷔작 '디 아이돌', 시즌2는 없다</h4></a><span>16분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[제니 출연으로 화제몰이 성공했으나
+선정성 논란으로 첫 회부터 뭇매 맞아]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693290621081WGmbW.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/434557</link>
             <guid>https://www.maxmovie.com/news/434557</guid>
             <pubDate>Tue, 29 Aug 2023 02:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[25일~27일 '팝업 시네마: 부인 무빙' 성료
-자연과 영화가 어우러지는  야외상영 계속]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434557"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693203991950fu1Uz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434557"><h4>이준익‧차태현‧곽재용‧김성수‧배창호 감독, '팝업 시네마: 부안 무빙'에 반했다 </h4></a><span>08월 28일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693203991950fu1Uz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["꿈을 위한 한 발"…백승환·김충길이 말하는 '델타 보이즈']]></title>
-            <link>https://www.maxmovie.com/news/434555</link>
-            <guid>https://www.maxmovie.com/news/434555</guid>
-            <pubDate>Tue, 29 Aug 2023 02:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434555"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693193604894XptTm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434555"><h4> "꿈을 위한 한 발"…백승환·김충길이 말하는 '델타 보이즈'</h4></a><span>08월 28일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693193604894XptTm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
