@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 21:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 22:04:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693274326714rCeet.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 당신도 타겟이 될 수 있다! 영화 '타겟']]></title>
+            <link>https://www.maxmovie.com/news/434562</link>
+            <guid>https://www.maxmovie.com/news/434562</guid>
+            <pubDate>Tue, 29 Aug 2023 22:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434562"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16932805613025CLUa.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434562"><h4>[오늘 뭘 볼까] 당신도 타겟이 될 수 있다! 영화 '타겟'</h4></a><span>4분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16932805613025CLUa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[논란의 연속 '치악산', 법적 분쟁 예고 속 '시사회'로 정면돌파]]></title>
             <link>https://www.maxmovie.com/news/434559</link>
             <guid>https://www.maxmovie.com/news/434559</guid>
             <pubDate>Tue, 29 Aug 2023 10:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434559"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693271581864OM2yw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434559"><h4>논란의 연속 '치악산', 법적 분쟁 예고 속 '시사회'로 정면돌파  </h4></a><span>17시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[과도한 노이즈 마케팅에 원주시도 '발끈'
+'곡성' '곤지암' 등 유사 사례 있지만...]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693271581864OM2yw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434557</link>
             <guid>https://www.maxmovie.com/news/434557</guid>
             <pubDate>Tue, 29 Aug 2023 10:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[25일~27일 '팝업 시네마: 부인 무빙' 성료
-자연과 영화가 어우러지는  야외상영 계속]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434557"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693203991950fu1Uz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434557"><h4>이준익‧차태현‧곽재용‧김성수‧배창호 감독, '팝업 시네마: 부안 무빙'에 반했다 </h4></a><span>08월 28일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693203991950fu1Uz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이정재의 탄생"...배창호 감독 '젊은남자' 속 X세대를 말하다]]></title>
-            <link>https://www.maxmovie.com/news/434554</link>
-            <guid>https://www.maxmovie.com/news/434554</guid>
-            <pubDate>Tue, 29 Aug 2023 02:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434554"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693194421137CrVcE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434554"><h4>"이정재의 탄생"...배창호 감독 '젊은남자' 속 X세대를 말하다</h4></a><span>08월 28일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693194421137CrVcE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
