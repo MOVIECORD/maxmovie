@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 05:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 06:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692919695399mmRaL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['주오남 삼킨' 안재홍, 아직 여러 발 남았다]]></title>
+            <link>https://www.maxmovie.com/news/434563</link>
+            <guid>https://www.maxmovie.com/news/434563</guid>
+            <pubDate>Tue, 29 Aug 2023 06:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434563"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693284542254x3nBZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434563"><h4>'주오남 삼킨' 안재홍, 아직 여러 발 남았다</h4></a><span>39분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693284542254x3nBZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[논란의 연속 '치악산', 법적 분쟁 예고 속 '시사회'로 정면돌파]]></title>
             <link>https://www.maxmovie.com/news/434559</link>
             <guid>https://www.maxmovie.com/news/434559</guid>
             <pubDate>Tue, 29 Aug 2023 04:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434559"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693271581864OM2yw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434559"><h4>논란의 연속 '치악산', 법적 분쟁 예고 속 '시사회'로 정면돌파  </h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[과도한 노이즈 마케팅에 원주시도 '발끈'
+'곡성' '곤지암' 등 유사 사례 있지만...]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693271581864OM2yw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/434553</link>
             <guid>https://www.maxmovie.com/news/434553</guid>
             <pubDate>Sun, 27 Aug 2023 07:03:02 GMT</pubDate>
-            <content:encoded><![CDATA[25일~27일 변산해수욕장 5편 야외상영
-김성수 감독 '팬덤'까지 등장, 인기 실감]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434553"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16931169440959EN9s.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434553"><h4>[팝업 시네마: 부안 무빙] '태양은 없다' 김성수 감독 GV, 관객을 사로잡았다  </h4></a><span>08월 27일<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16931169440959EN9s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[23년 만에 밝혀진 '엽기적인 그녀' 차태현의 비밀]]></title>
-            <link>https://www.maxmovie.com/news/434550</link>
-            <guid>https://www.maxmovie.com/news/434550</guid>
-            <pubDate>Mon, 28 Aug 2023 07:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434550"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693113756065ZmZwc.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434550"><h4>23년 만에 밝혀진 '엽기적인 그녀' 차태현의 비밀 </h4></a><span>08월 27일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693113756065ZmZwc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
