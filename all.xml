@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 21:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 22:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693452698205bwdIo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 두 해녀의 찬란한 여정 담은 영화 '물꽃의 전설' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/434590</link>
+            <guid>https://www.maxmovie.com/news/434590</guid>
+            <pubDate>Thu, 31 Aug 2023 22:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434590"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693459105029oWg52.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434590"><h4>[오늘 뭘 볼까] 두 해녀의 찬란한 여정 담은 영화 '물꽃의 전설'</h4></a><span>5분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693459105029oWg52.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NEW, '닥터 차정숙'·'밀수'·'무빙' 등, 방송·극장·OTT 넘나들며 활약 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/434588</link>
             <guid>https://www.maxmovie.com/news/434588</guid>
             <pubDate>Thu, 31 Aug 2023 04:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434588"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16934526651634UggV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434588"><h4>NEW, '닥터 차정숙'·'밀수'·'무빙' 등, 방송·극장·OTT 넘나들며 활약</h4></a><span>17시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[500만 '밀수', 글로벌 인기 '무빙' 등 돋보여
+플랫폼 넘나들며 콘텐츠 동력 창출]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16934526651634UggV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -58,23 +67,6 @@
             <pubDate>Thu, 31 Aug 2023 03:06:33 GMT</pubDate>
             <content:encoded><![CDATA[기상캐스터 출신 방송인 안혜경이 결혼한다.사진제공=안혜경 인스타그램안혜경은 오는 9월24일 서울 강남구에 위치한 한 웨딩홀에서 동갑내기 방송계 종사자와 웨딩마치를 울린다. 비연예인인 예비신랑을 배려해 결혼식은 비공개로 치러진다.안혜경은 전날(30일) 네버다이엔터테인먼트와 전속계약 체결 소식을 전하며 활발한 활동을 예고했다. 새 소속사와 전속계약와 결혼으로]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/169344872522190SLV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['타겟' 2위로 출발…'오펜하이머'와 9천명 차 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434584</link>
-            <guid>https://www.maxmovie.com/news/434584</guid>
-            <pubDate>Thu, 31 Aug 2023 02:14:07 GMT</pubDate>
-            <content:encoded><![CDATA['타겟', '오펜하이머' 이어 박스오피스 2위]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693446095740XolxO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신세경 측, 악플러 끝까지 책임 묻겠다 "무관용의 원칙" (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434583</link>
-            <guid>https://www.maxmovie.com/news/434583</guid>
-            <pubDate>Thu, 31 Aug 2023 01:40:21 GMT</pubDate>
-            <content:encoded><![CDATA['아라문의 검' 첫방 앞두고 악플러 기승
-3차 추가 고소 진행 중]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693445284614Tol7y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['무빙', 류승룡 앞에 등장한 새로운 초능력자...후반부 예고 (맥스무비)]]></title>
@@ -90,8 +82,17 @@
             <link>https://www.maxmovie.com/news/434580</link>
             <guid>https://www.maxmovie.com/news/434580</guid>
             <pubDate>Wed, 30 Aug 2023 11:04:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434580"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693390723785yGAY0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434580"><h4>'코미디 흥행' 윤아→한선화, 이번엔 유라 차례 </h4></a><span>08월 30일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[코미디 장르에서 두각 '스크린 안착'
+추석 개봉 '가문의 영광: 리턴즈' 주목]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693390723785yGAY0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 제이슨 스타뎀의 첩보 액션 영화 '스파이 코드명 포춘' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/434574</link>
+            <guid>https://www.maxmovie.com/news/434574</guid>
+            <pubDate>Thu, 31 Aug 2023 22:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434574"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693364012256PI8O9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434574"><h4>[오늘 뭘 볼까] 제이슨 스타뎀의 첩보 액션 영화 '스파이 코드명 포춘'</h4></a><span>08월 30일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693364012256PI8O9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '마스크' 벗은 이한별, "넌 존재 자체로 사랑받을 자격이 있다" (맥스무비 ─ 인터뷰)]]></title>
@@ -277,6 +278,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693465942597dLrxZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 두 해녀의 찬란한 여정 담은 영화 '물꽃의 전설' (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/434590</link>
+            <guid>https://www.maxmovie.com/news/434590</guid>
+            <pubDate>Thu, 31 Aug 2023 22:04:43 GMT</pubDate>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '물꽃의 전설''물꽃의 전설'의 한 장면. 사진제공=영화사 진진'물꽃의 전설'은 87년 경력 최고령 상군 현순직 해녀와 막내 채지애 해녀가 제주 바닷속 비밀의 화원에 핀 물꽃을 다시 보기 위해 바다로 나서는 휴먼 다큐멘터리 영화다.87년 경력 현순직 해녀는 전복과 소라가 가득하고, 물꽃이 만개했던 바닷속 비밀 곳간이 늘]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693459105029oWg52.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박서준의 '더 마블스', 역시 MCU 최단 러닝타임 예측 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/434589</link>
             <guid>https://www.maxmovie.com/news/434589</guid>
@@ -298,8 +307,7 @@
             <link>https://www.maxmovie.com/news/434585</link>
             <guid>https://www.maxmovie.com/news/434585</guid>
             <pubDate>Thu, 31 Aug 2023 02:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[영웅 손기정, 제자 서윤복 이야기 
-추석 명절 겨냥해 9월27일 개봉]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434585"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693445793834TiIkD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434585"><h4>하정우와 임시완, '1947 보스톤'으로 향한 까닭은? </h4></a><span>20시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693445793834TiIkD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -307,7 +315,7 @@
             <link>https://www.maxmovie.com/news/434584</link>
             <guid>https://www.maxmovie.com/news/434584</guid>
             <pubDate>Thu, 31 Aug 2023 02:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434584"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693446095740XolxO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434584"><h4>'타겟' 2위로 출발…'오펜하이머'와 9천명 차</h4></a><span>18시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['타겟', '오펜하이머' 이어 박스오피스 2위]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693446095740XolxO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -342,17 +350,8 @@
             <link>https://www.maxmovie.com/news/434579</link>
             <guid>https://www.maxmovie.com/news/434579</guid>
             <pubDate>Wed, 30 Aug 2023 09:05:04 GMT</pubDate>
-            <content:encoded><![CDATA[공개 3일 만에 2위→2주차 1위 등극
-캐나다, 프랑스, 이집트, 홍콩 등 1위]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434579"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693384162433hCs65.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434579"><h4>'마스크걸', 글로벌 정상 찍었다...묘한 안재홍·이한별 스틸 공개</h4></a><span>08월 30일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693384162433hCs65.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[간토대지진 조선인 학살 100년, 특집 다큐 나온다 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/434578</link>
-            <guid>https://www.maxmovie.com/news/434578</guid>
-            <pubDate>Wed, 30 Aug 2023 09:05:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434578"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693383232052QToEH.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434578"><h4>간토대지진 조선인 학살 100년, 특집 다큐 나온다</h4></a><span>08월 30일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693383232052QToEH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['무빙' 만큼 재미있는, 봉석이의 SNS (맥스무비 ─ OTT)]]></title>
