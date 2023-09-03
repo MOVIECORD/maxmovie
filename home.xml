@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 00:30:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 01:42:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,15 +50,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693558446627jf9p2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하정우, '비공식작전' 부진이 남긴 교훈을 이야기하다]]></title>
-            <link>https://www.maxmovie.com/news/434601</link>
-            <guid>https://www.maxmovie.com/news/434601</guid>
-            <pubDate>Sun, 03 Sep 2023 00:29:55 GMT</pubDate>
-            <content:encoded><![CDATA["오답 노트 만들어 확률을 높이겠다"
-9월27일 영화 '1947 보스톤' 개봉]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693544637280PzWh6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[박스오피스 1위 영화도 4만명…극장 비수기 돌입]]></title>
             <link>https://www.maxmovie.com/news/434600</link>
             <guid>https://www.maxmovie.com/news/434600</guid>
@@ -88,8 +79,17 @@
             <link>https://www.maxmovie.com/news/434597</link>
             <guid>https://www.maxmovie.com/news/434597</guid>
             <pubDate>Sat, 02 Sep 2023 00:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434597"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693531823075AJxz7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434597"><h4>'무빙' '마스크걸', 전 세계 사로잡은 K콘텐츠 저력 </h4></a><span>09월 01일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['무빙', 디즈니+ 구원투수 역할 톡톡
+'마스크걸', 공개 2주 차 글로벌 정상]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693531823075AJxz7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국화꽃 향기 남기고 떠난 배우 장진영, 14주기]]></title>
+            <link>https://www.maxmovie.com/news/434596</link>
+            <guid>https://www.maxmovie.com/news/434596</guid>
+            <pubDate>Sun, 03 Sep 2023 01:42:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434596"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693529173072foJnZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434596"><h4>국화꽃 향기 남기고 떠난 배우 장진영, 14주기 </h4></a><span>09월 01일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693529173072foJnZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
