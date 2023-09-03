@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 22:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 23:04:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693710511922Ze5VJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['너의 시간 속으로', OST 속으로 빠져들 준비 완료]]></title>
+            <link>https://www.maxmovie.com/news/434611</link>
+            <guid>https://www.maxmovie.com/news/434611</guid>
+            <pubDate>Sun, 03 Sep 2023 23:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434611"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693674499296pLfQP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434611"><h4>'너의 시간 속으로', OST 속으로 빠져들 준비 완료</h4></a><span>11분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693674499296pLfQP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[맥스무비레터 #16번째 편지]  이정재·정우성은 왜 "살려달라"고 말했을까요?]]></title>
             <link>https://www.maxmovie.com/news/434610</link>
             <guid>https://www.maxmovie.com/news/434610</guid>
             <pubDate>Fri, 01 Sep 2023 23:04:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434610"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693608165100SZSvz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434610"><h4>[맥스무비레터 #16번째 편지]  이정재·정우성은 왜 "살려달라"고 말했을까요?</h4></a><span>09월 01일<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 &lt;맥스무비레터&gt;에 실린 기사입니다]]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693608165100SZSvz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,16 +91,8 @@
             <link>https://www.maxmovie.com/news/434605</link>
             <guid>https://www.maxmovie.com/news/434605</guid>
             <pubDate>Fri, 01 Sep 2023 22:04:30 GMT</pubDate>
-            <content:encoded><![CDATA[일주일 동안 엔터테인먼트 전반에서 일어난 다양한 이슈를 소개합니다.외항사 부당 대우 폭로한 혜리. 사진제공=혜리 SNS●혜리, 외항사 갑질 폭로걸스데이 출신 배우 혜리가 외국 항공사에 당한 부당한 대우를 폭로했다.혜리는 지난 달 31일 "한 달 반 전에 예약하고 좌석까지 미리 지정했는데 퍼스트 클래스 좌석이 없다고 이코노미로 다운그레이드시켰다"며 환불도 안]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434605"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169355599479016DnZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434605"><h4>[위클리 이슈 모음zip]혜리 외항사 횡포 폭로부터 피프티 피프티 항고까지</h4></a><span>09월 01일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/169355599479016DnZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[['무빙' 특집]  돌풍의 원동력, 차별화 포인트 '셋']]></title>
-            <link>https://www.maxmovie.com/news/434604</link>
-            <guid>https://www.maxmovie.com/news/434604</guid>
-            <pubDate>Sat, 02 Sep 2023 00:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434604"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693557573256hGVk2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434604"><h4>['무빙' 특집]  돌풍의 원동력, 차별화 포인트 '셋'</h4></a><span>09월 02일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693557573256hGVk2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

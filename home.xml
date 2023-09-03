@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 22:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 23:04:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/169355599479016DnZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['너의 시간 속으로', OST 속으로 빠져들 준비 완료]]></title>
+            <link>https://www.maxmovie.com/news/434611</link>
+            <guid>https://www.maxmovie.com/news/434611</guid>
+            <pubDate>Sun, 03 Sep 2023 23:04:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434611"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693674499296pLfQP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434611"><h4>'너의 시간 속으로', OST 속으로 빠져들 준비 완료</h4></a><span>11분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693674499296pLfQP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[['무빙' 특집] 봉석희수 VS 강훈희수, 당신의 선택은?]]></title>
             <link>https://www.maxmovie.com/news/434609</link>
             <guid>https://www.maxmovie.com/news/434609</guid>
             <pubDate>Sun, 03 Sep 2023 04:07:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434609"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693575108823w3qAh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434609"><h4>['무빙' 특집] 봉석희수 VS 강훈희수, 당신의 선택은?</h4></a><span>09월 02일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['무빙' 초반 흥행 일등공신 '봉희강'
+하이틴소설 보는 듯한 풋풋한 삼각 로맨스]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693575108823w3qAh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434601</link>
             <guid>https://www.maxmovie.com/news/434601</guid>
             <pubDate>Sun, 03 Sep 2023 03:05:28 GMT</pubDate>
-            <content:encoded><![CDATA["오답 노트 만들어 확률을 높이겠다"
-9월27일 영화 '1947 보스톤' 개봉]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434601"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693544637280PzWh6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434601"><h4>하정우, '비공식작전' 부진이 남긴 교훈을 이야기하다 </h4></a><span>09월 01일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693544637280PzWh6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박스오피스 1위 영화도 4만명…극장 비수기 돌입]]></title>
-            <link>https://www.maxmovie.com/news/434600</link>
-            <guid>https://www.maxmovie.com/news/434600</guid>
-            <pubDate>Fri, 01 Sep 2023 06:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434600"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693543612928moH0o.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434600"><h4>박스오피스 1위 영화도 4만명…극장 비수기 돌입</h4></a><span>09월 01일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693543612928moH0o.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
