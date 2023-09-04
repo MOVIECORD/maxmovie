@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 01:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 02:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693787941473xztK2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['다음 소희' 영평상 작품상, '올빼미' 3관왕]]></title>
+            <link>https://www.maxmovie.com/news/434620</link>
+            <guid>https://www.maxmovie.com/news/434620</guid>
+            <pubDate>Mon, 04 Sep 2023 02:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434620"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16937923017682mP7L.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434620"><h4>'다음 소희' 영평상 작품상, '올빼미' 3관왕  </h4></a><span>9분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16937923017682mP7L.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[드디어 출격, '무빙'의 '눈물 버튼' 히어로 이재만]]></title>
             <link>https://www.maxmovie.com/news/434619</link>
             <guid>https://www.maxmovie.com/news/434619</guid>
             <pubDate>Mon, 04 Sep 2023 01:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434619"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693789815213e9F17.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/434619"><h4>드디어 출격, '무빙'의 '눈물 버튼' 히어로 이재만 </h4></a><span>5분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['아들 바라기' 이재만, 어떤 이야기 궁금증 
+"가족을 지키려는 본능, 괴력의 사나이"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693789815213e9F17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/434611</link>
             <guid>https://www.maxmovie.com/news/434611</guid>
             <pubDate>Sun, 03 Sep 2023 23:04:11 GMT</pubDate>
-            <content:encoded><![CDATA['라스트 댄스' 대체할 한국 곡 궁금증
-뉴진스, 김종서 '아름다운 구속' 리메이크]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434611"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693674499296pLfQP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434611"><h4>'너의 시간 속으로', OST 속으로 빠져들 준비 완료</h4></a><span>3시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693674499296pLfQP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나문희, 중국 한류스타 됐다..나문희 이모티콘 인기]]></title>
-            <link>https://www.maxmovie.com/news/434613</link>
-            <guid>https://www.maxmovie.com/news/434613</guid>
-            <pubDate>Mon, 04 Sep 2023 01:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434613"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693713181228s3LE7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434613"><h4>나문희, 중국 한류스타 됐다..나문희 이모티콘 인기</h4></a><span>21시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693713181228s3LE7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
