@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 05:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 06:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/434640</link>
             <guid>https://www.maxmovie.com/news/434640</guid>
             <pubDate>Tue, 05 Sep 2023 05:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434640"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693888393123c2urL.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434640"><h4>영원한 따거 주윤발, 14년 만에 한국 온다</h4></a><span>14분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434640"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693888393123c2urL.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434640"><h4>영원한 따거 주윤발, 14년 만에 한국 온다</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693888393123c2urL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,21 +78,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693810080323sDrqo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 장수에 대한 탐구, 넷플릭스 '100세까지 살기: 블루존의 비밀']]></title>
+            <link>https://www.maxmovie.com/news/434624</link>
+            <guid>https://www.maxmovie.com/news/434624</guid>
+            <pubDate>Tue, 05 Sep 2023 06:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '100세까지 살기: 블루존의 비밀''100세까지 살기: 블루존의 비밀'의 한 장면. 사진제공=넷플릭스'100세까지 살기: 블루존의 비밀'은 100세 이상 사는 사람들의 비율이 가장 높은 지역 블루존을 살펴보며 장수를 누리는 사람들의 건강한 습관과 문화적 지혜를 알아보는 여정을 담은 넷플릭스 다큐멘터리 시리즈다.&nbsp;오랜 시]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/169380278149751PiJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['상견니' 그 이상을 향한, 안효섭 · 전여빈의 각오]]></title>
             <link>https://www.maxmovie.com/news/434626</link>
             <guid>https://www.maxmovie.com/news/434626</guid>
             <pubDate>Tue, 05 Sep 2023 05:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 '너의 시간 속으로' 8일 공개
-대만 로맨스 '상견니' 리메이크작 관심]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434626"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693803545808e0Bnx.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434626"><h4>'상견니' 그 이상을 향한, 안효섭 · 전여빈의 각오 </h4></a><span>09월 04일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693803545808e0Bnx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니 '크리에이터' 할리우드 실력파 배우 뭉쳤다]]></title>
-            <link>https://www.maxmovie.com/news/434625</link>
-            <guid>https://www.maxmovie.com/news/434625</guid>
-            <pubDate>Tue, 05 Sep 2023 05:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434625"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693804495113pfnnn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434625"><h4>디즈니 '크리에이터' 할리우드 실력파 배우 뭉쳤다</h4></a><span>23시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693804495113pfnnn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
