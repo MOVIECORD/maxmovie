@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 01:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 02:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693793594446LrDpU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["OO OO에 재미도 갖춰" 정유미가 꼽은 '잠' 경쟁력은]]></title>
+            <link>https://www.maxmovie.com/news/434636</link>
+            <guid>https://www.maxmovie.com/news/434636</guid>
+            <pubDate>Tue, 05 Sep 2023 02:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434636"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169387823570787ES0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434636"><h4>"OO OO에 재미도 갖춰" 정유미가 꼽은 '잠' 경쟁력은</h4></a><span>10분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/169387823570787ES0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['마스크걸' "올해 가장 치열한 시리즈"]]></title>
             <link>https://www.maxmovie.com/news/434635</link>
             <guid>https://www.maxmovie.com/news/434635</guid>
             <pubDate>Tue, 05 Sep 2023 01:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434635"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693877218607O91zn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434635"><h4>'마스크걸' "올해 가장 치열한 시리즈"</h4></a><span>8분 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[영국·이탈리아 언론 '마스크걸' 극찬
+"다양한 장르와 폭넓은 주제 일관성"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693877218607O91zn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/434628</link>
             <guid>https://www.maxmovie.com/news/434628</guid>
             <pubDate>Mon, 04 Sep 2023 07:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[단편 줄고 장편 역대 최다
-독립영화 결산 축제 11월30일 개막]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434628"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693810080323sDrqo.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434628"><h4>서울독립영화제2023, 총1374편 접수</h4></a><span>19시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693810080323sDrqo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['상견니' 그 이상을 향한, 안효섭 · 전여빈의 각오]]></title>
-            <link>https://www.maxmovie.com/news/434626</link>
-            <guid>https://www.maxmovie.com/news/434626</guid>
-            <pubDate>Tue, 05 Sep 2023 00:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434626"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693803545808e0Bnx.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434626"><h4>'상견니' 그 이상을 향한, 안효섭 · 전여빈의 각오 </h4></a><span>20시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693803545808e0Bnx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

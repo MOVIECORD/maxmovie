@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 01:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 02:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693793594446LrDpU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["OO OO에 재미도 갖춰" 정유미가 꼽은 '잠' 경쟁력은 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/434636</link>
+            <guid>https://www.maxmovie.com/news/434636</guid>
+            <pubDate>Tue, 05 Sep 2023 02:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434636"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169387823570787ES0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434636"><h4>"OO OO에 재미도 갖춰" 정유미가 꼽은 '잠' 경쟁력은</h4></a><span>10분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/169387823570787ES0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['마스크걸' "올해 가장 치열한 시리즈" (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/434635</link>
             <guid>https://www.maxmovie.com/news/434635</guid>
             <pubDate>Tue, 05 Sep 2023 01:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434635"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693877218607O91zn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434635"><h4>'마스크걸' "올해 가장 치열한 시리즈"</h4></a><span>8분 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[영국·이탈리아 언론 '마스크걸' 극찬
+"다양한 장르와 폭넓은 주제 일관성"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693877218607O91zn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/434628</link>
             <guid>https://www.maxmovie.com/news/434628</guid>
             <pubDate>Mon, 04 Sep 2023 07:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[단편 줄고 장편 역대 최다
-독립영화 결산 축제 11월30일 개막]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434628"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693810080323sDrqo.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434628"><h4>서울독립영화제2023, 총1374편 접수</h4></a><span>19시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693810080323sDrqo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['상견니' 그 이상을 향한, 안효섭 · 전여빈의 각오 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434626</link>
-            <guid>https://www.maxmovie.com/news/434626</guid>
-            <pubDate>Mon, 04 Sep 2023 06:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434626"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693803545808e0Bnx.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434626"><h4>'상견니' 그 이상을 향한, 안효섭 · 전여빈의 각오 </h4></a><span>20시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693803545808e0Bnx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '마스크' 벗은 이한별, "넌 존재 자체로 사랑받을 자격이 있다" (맥스무비 ─ 인터뷰)]]></title>
@@ -266,10 +266,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691443465321EitSg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["OO OO에 재미도 갖춰" 정유미가 꼽은 '잠' 경쟁력은 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/434636</link>
+            <guid>https://www.maxmovie.com/news/434636</guid>
+            <pubDate>Tue, 05 Sep 2023 02:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[남편의 수면장애에 불안해하는 아내 역
+"'잠', 신인 감독의 스마트한 데뷔"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/169387823570787ES0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['마스크걸' "올해 가장 치열한 시리즈" (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/434635</link>
             <guid>https://www.maxmovie.com/news/434635</guid>
-            <pubDate>Tue, 05 Sep 2023 01:39:05 GMT</pubDate>
+            <pubDate>Tue, 05 Sep 2023 01:38:40 GMT</pubDate>
             <content:encoded><![CDATA[영국·이탈리아 언론 '마스크걸' 극찬
 "다양한 장르와 폭넓은 주제 일관성"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693877218607O91zn.jpg" length="0" type="image/jpg"/>
@@ -278,7 +287,7 @@
             <title><![CDATA[류승완·염정아·박정민·고민시, 토론토 관객 만난다 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/434633</link>
             <guid>https://www.maxmovie.com/news/434633</guid>
-            <pubDate>Tue, 05 Sep 2023 01:39:05 GMT</pubDate>
+            <pubDate>Tue, 05 Sep 2023 01:38:40 GMT</pubDate>
             <content:encoded><![CDATA['밀수' 제48회 토론토 국제영화제 초청
 관객 기대 높은 갈라 프레젠테이션 섹션 상영]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693875141045DM8Gq.jpg" length="0" type="image/jpg"/>
@@ -287,7 +296,7 @@
             <title><![CDATA['인어공주' '비공식작전'... 이제 안방에서 본다 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/434632</link>
             <guid>https://www.maxmovie.com/news/434632</guid>
-            <pubDate>Tue, 05 Sep 2023 01:39:05 GMT</pubDate>
+            <pubDate>Tue, 05 Sep 2023 01:38:40 GMT</pubDate>
             <content:encoded><![CDATA[높은 기대치 밑도는 성적
 안방에서 제2의 라운드]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693873485089s7YPj.jpg" length="0" type="image/jpg"/>
@@ -297,8 +306,7 @@
             <link>https://www.maxmovie.com/news/434631</link>
             <guid>https://www.maxmovie.com/news/434631</guid>
             <pubDate>Mon, 04 Sep 2023 22:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[올해 월드와이드 1위 등극
-국내선 58만명 동원 그쳐]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434631"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693833544415orfGS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434631"><h4>'바비', '슈퍼 마리오' 형제 제쳤다…올해 최고 흥행</h4></a><span>4시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693833544415orfGS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +314,8 @@
             <link>https://www.maxmovie.com/news/434630</link>
             <guid>https://www.maxmovie.com/news/434630</guid>
             <pubDate>Mon, 04 Sep 2023 22:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434630"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693822973691ofNX6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434630"><h4>'존재 자체가 판타지' 강동원, 판타지에서 꼭 통한다 </h4></a><span>3시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[27일 개봉 '천박사 퇴마 연구소' 주연
+'전우치' '검은 사제들' 이을지 관심]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693822973691ofNX6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -340,16 +349,8 @@
             <link>https://www.maxmovie.com/news/434625</link>
             <guid>https://www.maxmovie.com/news/434625</guid>
             <pubDate>Mon, 04 Sep 2023 06:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니 SF블록버스터 '크리에이터'가 10월 개봉을 확정한 가운데 탄탄한 배우 라인업을 공개했다.오는 10월 개봉하는 영화 '크리에이터'에 출연하는 존 데이비드 워싱턴, 젬마 찬, 매들린 유나 보일스, 그리고 켄 와타나베(왼쪽 위부터 시계방향으로). 사진제공=월트디즈니컴퍼니코리아'크리에이터'는 고도화된 AI들에 의해 핵공격이 시작된 후, 특수부대 요원 조슈]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434625"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693804495113pfnnn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434625"><h4>디즈니 '크리에이터' 할리우드 실력파 배우 뭉쳤다</h4></a><span>20시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693804495113pfnnn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 장수에 대한 탐구, 넷플릭스 '100세까지 살기: 블루존의 비밀' (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/434624</link>
-            <guid>https://www.maxmovie.com/news/434624</guid>
-            <pubDate>Mon, 04 Sep 2023 22:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434624"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169380278149751PiJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434624"><h4>[오늘 뭘 볼까] 장수에 대한 탐구, 넷플릭스 '100세까지 살기: 블루존의 비밀'</h4></a><span>3시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/169380278149751PiJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[순정 만화 속으로 들어간, '너의 시간 속으로' (맥스무비 ─ OTT)]]></title>
