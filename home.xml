@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 21:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 22:05:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694072976842JqUtn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 잠드는 순간 시작되는 끔찍한 공포, 영화 '잠']]></title>
+            <link>https://www.maxmovie.com/news/434665</link>
+            <guid>https://www.maxmovie.com/news/434665</guid>
+            <pubDate>Thu, 07 Sep 2023 22:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434665"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694068869345urURm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434665"><h4>[오늘 뭘 볼까] 잠드는 순간 시작되는 끔찍한 공포, 영화 '잠'</h4></a><span>5분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694068869345urURm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이정재→정우성 잇는 조현철의 '조금 다른' 감독 데뷔]]></title>
             <link>https://www.maxmovie.com/news/434666</link>
             <guid>https://www.maxmovie.com/news/434666</guid>
             <pubDate>Thu, 07 Sep 2023 08:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434666"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694069499052zfwTV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434666"><h4>이정재→정우성 잇는 조현철의 '조금 다른' 감독 데뷔 </h4></a><span>13시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[연출 데뷔작 '너와 나' 10월 개봉 
+각본도 맡아, 섬세한 감수성]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694069499052zfwTV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/434655</link>
             <guid>https://www.maxmovie.com/news/434655</guid>
             <pubDate>Thu, 07 Sep 2023 06:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[내달 개봉 '30일'서 역대급 찌질 연기 예고
-"이렇게까지 해야 하나…" 고백에 폭소]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434655"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693990724100bI1kM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434655"><h4>강하늘, 얼마나 망가지길래…</h4></a><span>09월 06일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693990724100bI1kM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김히어라 일진 논란에…'SNL4' 결방 결정]]></title>
-            <link>https://www.maxmovie.com/news/434653</link>
-            <guid>https://www.maxmovie.com/news/434653</guid>
-            <pubDate>Wed, 06 Sep 2023 07:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434653"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693979660773GgqVN.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434653"><h4>김히어라 일진 논란에…'SNL4' 결방 결정</h4></a><span>09월 06일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693979660773GgqVN.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

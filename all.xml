@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 21:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 22:05:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694072976842JqUtn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 잠드는 순간 시작되는 끔찍한 공포, 영화 '잠' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/434665</link>
+            <guid>https://www.maxmovie.com/news/434665</guid>
+            <pubDate>Thu, 07 Sep 2023 22:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434665"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694068869345urURm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434665"><h4>[오늘 뭘 볼까] 잠드는 순간 시작되는 끔찍한 공포, 영화 '잠'</h4></a><span>5분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694068869345urURm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이정재→정우성 잇는 조현철의 '조금 다른' 감독 데뷔 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/434666</link>
             <guid>https://www.maxmovie.com/news/434666</guid>
             <pubDate>Thu, 07 Sep 2023 08:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434666"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694069499052zfwTV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434666"><h4>이정재→정우성 잇는 조현철의 '조금 다른' 감독 데뷔 </h4></a><span>13시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[연출 데뷔작 '너와 나' 10월 개봉 
+각본도 맡아, 섬세한 감수성]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694069499052zfwTV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/434655</link>
             <guid>https://www.maxmovie.com/news/434655</guid>
             <pubDate>Wed, 06 Sep 2023 22:04:17 GMT</pubDate>
-            <content:encoded><![CDATA[내달 개봉 '30일'서 역대급 찌질 연기 예고
-"이렇게까지 해야 하나…" 고백에 폭소]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434655"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693990724100bI1kM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434655"><h4>강하늘, 얼마나 망가지길래…</h4></a><span>09월 06일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693990724100bI1kM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김히어라 일진 논란에…'SNL4' 결방 결정 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434653</link>
-            <guid>https://www.maxmovie.com/news/434653</guid>
-            <pubDate>Wed, 06 Sep 2023 07:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434653"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693979660773GgqVN.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434653"><h4>김히어라 일진 논란에…'SNL4' 결방 결정</h4></a><span>09월 06일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693979660773GgqVN.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '마스크' 벗은 이한별, "넌 존재 자체로 사랑받을 자격이 있다" (맥스무비 ─ 인터뷰)]]></title>
@@ -287,6 +287,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694069499052zfwTV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 잠드는 순간 시작되는 끔찍한 공포, 영화 '잠' (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/434665</link>
+            <guid>https://www.maxmovie.com/news/434665</guid>
+            <pubDate>Thu, 07 Sep 2023 22:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[오늘, 볼만한 작품을 추천합니다.◆ '잠''잠'의 한 장면. 사진제공=롯데엔터테인먼트'잠'은 행복한 신혼부부 현수와 수진을 악몽처럼 덮친 남편 현수의 수면 중 이상행동, 잠드는 순간 시작되는 끔찍한 공포의 비밀을 풀기 위해 애쓰는 두 사람의 이야기를 그린 영화다.행복한 신혼부부 현수(이선균)와 수진(정유미). 어느 날&nbsp;옆에 잠든 남편 현수가 "누가 들어왔어]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694068869345urURm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박찬욱, 또 다른 제자 위해 한번 더! (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/434664</link>
             <guid>https://www.maxmovie.com/news/434664</guid>
@@ -300,8 +308,7 @@
             <link>https://www.maxmovie.com/news/434663</link>
             <guid>https://www.maxmovie.com/news/434663</guid>
             <pubDate>Thu, 07 Sep 2023 06:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[나문희 김영옥 박근형 주연
-노년의 우정과 인생 이야기]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434663"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694061244221TjQvF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434663"><h4>임영웅의 첫 영화 참여, '소풍'은 어떤 작품?</h4></a><span>16시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694061244221TjQvF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -309,7 +316,8 @@
             <link>https://www.maxmovie.com/news/434661</link>
             <guid>https://www.maxmovie.com/news/434661</guid>
             <pubDate>Thu, 07 Sep 2023 06:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434661"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16940559183591Xvb7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434661"><h4>[단독] 임영웅,  자작곡으로 영화 '소풍' 지원 사격 </h4></a><span>16시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[노래로 영화에 참여하기는 처음
+"영화에 도움 되길 바라는 마음"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16940559183591Xvb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,17 +352,8 @@
             <link>https://www.maxmovie.com/news/434656</link>
             <guid>https://www.maxmovie.com/news/434656</guid>
             <pubDate>Wed, 06 Sep 2023 10:06:02 GMT</pubDate>
-            <content:encoded><![CDATA[범죄 오락 장르, 송새벽과 호흡
-웃음 더한 코미디로 승부수]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434656"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16939919957059Fv5H.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434656"><h4>'화사한 그녀'로 돌아온 엄정화, '차정숙' 열풍 한번 더?</h4></a><span>09월 06일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16939919957059Fv5H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강하늘, 얼마나 망가지길래… (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/434655</link>
-            <guid>https://www.maxmovie.com/news/434655</guid>
-            <pubDate>Wed, 06 Sep 2023 22:04:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434655"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693990724100bI1kM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434655"><h4>강하늘, 얼마나 망가지길래…</h4></a><span>23시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693990724100bI1kM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['무빙' 구룡포가 공개한 4일간의 '피땀눈물 액션' (맥스무비 ─ OTT)]]></title>
