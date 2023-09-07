@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 08:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 09:06:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임영웅 참여 영화 '소풍' 영상, 8일 부국제 홈피서 첫 공개]]></title>
+            <link>https://www.maxmovie.com/news/434667</link>
+            <guid>https://www.maxmovie.com/news/434667</guid>
+            <pubDate>Thu, 07 Sep 2023 09:06:28 GMT</pubDate>
+            <content:encoded><![CDATA[자작곡 '모래 알갱이', 영화 '소풍'에 삽입
+부국제 초청, 홈페이지 통해 영상 공개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694073628897umuoy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이정재→정우성 잇는 조현철의 '조금 다른' 감독 데뷔]]></title>
             <link>https://www.maxmovie.com/news/434666</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/434661</link>
             <guid>https://www.maxmovie.com/news/434661</guid>
             <pubDate>Thu, 07 Sep 2023 06:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[노래로 영화에 참여하기는 처음
-"영화에 도움 되길 바라는 마음"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434661"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16940559183591Xvb7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434661"><h4>[단독] 임영웅,  자작곡으로 영화 '소풍' 지원 사격 </h4></a><span>4시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16940559183591Xvb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/434660</link>
             <guid>https://www.maxmovie.com/news/434660</guid>
             <pubDate>Thu, 07 Sep 2023 01:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434660"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694052318822z8Eli.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434660"><h4>전종서, 연인 이충현 감독과 2번째 영화 '발레리나' 10월 공개 </h4></a><span>6시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[영화 '콜'의감독과 주연으로 만나 연인
+2번째 합작, 무자비한 액션 복수극]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694052318822z8Eli.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/434655</link>
             <guid>https://www.maxmovie.com/news/434655</guid>
             <pubDate>Wed, 06 Sep 2023 22:04:42 GMT</pubDate>
-            <content:encoded><![CDATA[내달 개봉 '30일'서 역대급 찌질 연기 예고
-"이렇게까지 해야 하나…" 고백에 폭소]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434655"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693990724100bI1kM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434655"><h4>강하늘, 얼마나 망가지길래…</h4></a><span>11시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693990724100bI1kM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['중기' 가고 '준기' 왔다... '아라문의 검' 새로운 시작]]></title>
-            <link>https://www.maxmovie.com/news/434654</link>
-            <guid>https://www.maxmovie.com/news/434654</guid>
-            <pubDate>Wed, 06 Sep 2023 22:04:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434654"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1693990690828r8JXT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434654"><h4>'중기' 가고 '준기' 왔다... '아라문의 검' 새로운 시작 </h4></a><span>10시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693990690828r8JXT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
