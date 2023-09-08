@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 05:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 06:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694072976842JqUtn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[임영웅 파워! 3시간 만에 5000건 돌파]]></title>
+            <link>https://www.maxmovie.com/news/434677</link>
+            <guid>https://www.maxmovie.com/news/434677</guid>
+            <pubDate>Fri, 08 Sep 2023 06:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434677"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169415230765746g69.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434677"><h4>임영웅 파워! 3시간 만에 5000건 돌파</h4></a><span>12분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/169415230765746g69.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 등 86개국 1위한 '원피스', 미국선 2위…시즌2 나올까]]></title>
             <link>https://www.maxmovie.com/news/434671</link>
             <guid>https://www.maxmovie.com/news/434671</guid>
             <pubDate>Fri, 08 Sep 2023 05:04:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434671"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694137852250ScMYZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/434671"><h4>일본 등 86개국 1위한 '원피스', 미국선 2위…시즌2 나올까</h4></a><span>38분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[9월7일 플릭스 패트롤 집계 86개국 1위
+시즌2 대본 완성…관건은 흥행]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694137852250ScMYZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434666</link>
             <guid>https://www.maxmovie.com/news/434666</guid>
             <pubDate>Thu, 07 Sep 2023 08:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[연출 데뷔작 '너와 나' 10월 개봉 
-각본도 맡아, 섬세한 감수성]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434666"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694069499052zfwTV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434666"><h4>이정재→정우성 잇는 조현철의 '조금 다른' 감독 데뷔 </h4></a><span>22시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694069499052zfwTV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전종서, 연인 이충현 감독과 2번째 영화 '발레리나' 10월 공개]]></title>
-            <link>https://www.maxmovie.com/news/434660</link>
-            <guid>https://www.maxmovie.com/news/434660</guid>
-            <pubDate>Thu, 07 Sep 2023 01:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434660"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694052318822z8Eli.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434660"><h4>전종서, 연인 이충현 감독과 2번째 영화 '발레리나' 10월 공개 </h4></a><span>09월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694052318822z8Eli.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

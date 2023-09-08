@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 05:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 06:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694072976842JqUtn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[임영웅 파워! 3시간 만에 5000건 돌파 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/434677</link>
+            <guid>https://www.maxmovie.com/news/434677</guid>
+            <pubDate>Fri, 08 Sep 2023 06:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434677"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169415230765746g69.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434677"><h4>임영웅 파워! 3시간 만에 5000건 돌파</h4></a><span>12분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/169415230765746g69.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 등 86개국 1위한 '원피스', 미국선 2위…시즌2 나올까 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/434671</link>
             <guid>https://www.maxmovie.com/news/434671</guid>
             <pubDate>Fri, 08 Sep 2023 05:04:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434671"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694137852250ScMYZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/434671"><h4>일본 등 86개국 1위한 '원피스', 미국선 2위…시즌2 나올까</h4></a><span>38분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[9월7일 플릭스 패트롤 집계 86개국 1위
+시즌2 대본 완성…관건은 흥행]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694137852250ScMYZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434666</link>
             <guid>https://www.maxmovie.com/news/434666</guid>
             <pubDate>Thu, 07 Sep 2023 08:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[연출 데뷔작 '너와 나' 10월 개봉 
-각본도 맡아, 섬세한 감수성]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434666"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694069499052zfwTV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434666"><h4>이정재→정우성 잇는 조현철의 '조금 다른' 감독 데뷔 </h4></a><span>22시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694069499052zfwTV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전종서, 연인 이충현 감독과 2번째 영화 '발레리나' 10월 공개 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434660</link>
-            <guid>https://www.maxmovie.com/news/434660</guid>
-            <pubDate>Thu, 07 Sep 2023 01:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434660"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694052318822z8Eli.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434660"><h4>전종서, 연인 이충현 감독과 2번째 영화 '발레리나' 10월 공개 </h4></a><span>09월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694052318822z8Eli.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '마스크' 벗은 이한별, "넌 존재 자체로 사랑받을 자격이 있다" (맥스무비 ─ 인터뷰)]]></title>
@@ -267,6 +267,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691443465321EitSg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[임영웅 파워! 3시간 만에 5000건 돌파 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/434677</link>
+            <guid>https://www.maxmovie.com/news/434677</guid>
+            <pubDate>Fri, 08 Sep 2023 06:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '소풍' 뮤직비디오 공개
+임영웅 자작곡 '모래 알갱이'로 제작]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/169415230765746g69.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장도연, MBC '라디오스타' 새로운 MC (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/434673</link>
             <guid>https://www.maxmovie.com/news/434673</guid>
@@ -297,8 +306,7 @@
             <link>https://www.maxmovie.com/news/434668</link>
             <guid>https://www.maxmovie.com/news/434668</guid>
             <pubDate>Fri, 08 Sep 2023 00:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[7일 IPTV 등 VOD 서비스 시작
-감독 정우성의 새로운 면모 확인]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434668"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169413196667758Qha.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434668"><h4>정우성의 '보호자', 이제 안방에서 본다 </h4></a><span>5시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/169413196667758Qha.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +314,8 @@
             <link>https://www.maxmovie.com/news/434667</link>
             <guid>https://www.maxmovie.com/news/434667</guid>
             <pubDate>Thu, 07 Sep 2023 09:06:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434667"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694073628897umuoy.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434667"><h4>임영웅 참여 영화 '소풍' 영상, 8일 부국제 홈피서 첫 공개  </h4></a><span>20시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[자작곡 '모래 알갱이', 영화 '소풍'에 삽입
+부국제 초청, 홈페이지 통해 영상 공개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694073628897umuoy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -340,23 +349,14 @@
             <link>https://www.maxmovie.com/news/434663</link>
             <guid>https://www.maxmovie.com/news/434663</guid>
             <pubDate>Thu, 07 Sep 2023 06:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[나문희 김영옥 박근형 주연
-노년의 우정과 인생 이야기]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434663"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694061244221TjQvF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434663"><h4>임영웅의 첫 영화 참여, '소풍'은 어떤 작품?</h4></a><span>09월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694061244221TjQvF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유해진 무대인사 또! '달짝지근해' 뒷심 어디까지? (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/434662</link>
-            <guid>https://www.maxmovie.com/news/434662</guid>
-            <pubDate>Fri, 08 Sep 2023 01:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434662"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694055479024jFmsb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434662"><h4>유해진 무대인사 또! '달짝지근해' 뒷심 어디까지? </h4></a><span>4시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694055479024jFmsb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 등 86개국 1위한 '원피스', 미국선 2위…시즌2 나올까 (맥스무비 ─ OTT)]]></title>
             <link>https://www.maxmovie.com/news/434671</link>
             <guid>https://www.maxmovie.com/news/434671</guid>
-            <pubDate>Fri, 08 Sep 2023 05:05:02 GMT</pubDate>
+            <pubDate>Fri, 08 Sep 2023 05:04:30 GMT</pubDate>
             <content:encoded><![CDATA[9월7일 플릭스 패트롤 집계 86개국 1위
 시즌2 대본 완성…관건은 흥행]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694137852250ScMYZ.jpg" length="0" type="image/jpg"/>
