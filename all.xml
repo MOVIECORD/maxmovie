@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 01:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 02:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,7 +46,7 @@
             <link>https://www.maxmovie.com/news/434684</link>
             <guid>https://www.maxmovie.com/news/434684</guid>
             <pubDate>Sun, 10 Sep 2023 01:42:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434684"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169430833301569ihx.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434684"><h4>현실적이라 더 무서운, '잠' 4일 연속 정상</h4></a><span>28분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434684"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169430833301569ihx.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434684"><h4>현실적이라 더 무서운, '잠' 4일 연속 정상</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/169430833301569ihx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -269,7 +269,7 @@
             <title><![CDATA[현실적이라 더 무서운, '잠' 4일 연속 정상 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/434684</link>
             <guid>https://www.maxmovie.com/news/434684</guid>
-            <pubDate>Sun, 10 Sep 2023 01:43:09 GMT</pubDate>
+            <pubDate>Sun, 10 Sep 2023 01:42:47 GMT</pubDate>
             <content:encoded><![CDATA[잠과 스릴러의 만남
 비수기 뚫고 순항중]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/169430833301569ihx.jpg" length="0" type="image/jpg"/>
