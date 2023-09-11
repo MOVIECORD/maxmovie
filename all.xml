@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 23:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 00:29:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694220009328aL5t5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['잠', 개봉 첫 주말 39만명이 관람했다...박스오피스 1위 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/434690</link>
+            <guid>https://www.maxmovie.com/news/434690</guid>
+            <pubDate>Mon, 11 Sep 2023 00:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434690"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694391721056Na383.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434690"><h4>'잠', 개봉 첫 주말 39만명이 관람했다...박스오피스 1위</h4></a><span>2분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694391721056Na383.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[임영웅 효과, '소풍' 티켓파워로 이어질까 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/434686</link>
             <guid>https://www.maxmovie.com/news/434686</guid>
             <pubDate>Sun, 10 Sep 2023 22:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434686"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16943258561768HBdn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434686"><h4>임영웅 효과, '소풍' 티켓파워로 이어질까</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[임영웅 첫 참여한 영화 '소풍' MV 인기
+공개 이틀 만에 조회수 9만건 돌파]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16943258561768HBdn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/434684</link>
             <guid>https://www.maxmovie.com/news/434684</guid>
             <pubDate>Sun, 10 Sep 2023 01:42:47 GMT</pubDate>
-            <content:encoded><![CDATA[잠과 스릴러의 만남
-비수기 뚫고 순항중]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434684"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16943388928262Kih4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434684"><h4>현실적이라 더 무서운, '잠' 4일 연속 정상</h4></a><span>23시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16943388928262Kih4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 안효섭·전여빈·강훈의 애틋한 로맨스, '너의 시간 속으로' (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434674</link>
-            <guid>https://www.maxmovie.com/news/434674</guid>
-            <pubDate>Fri, 08 Sep 2023 22:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434674"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694143552179kjjs9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434674"><h4>[오늘 뭘 볼까] 안효섭·전여빈·강훈의 애틋한 로맨스, '너의 시간 속으로'</h4></a><span>09월 08일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694143552179kjjs9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '마스크' 벗은 이한별, "넌 존재 자체로 사랑받을 자격이 있다" (맥스무비 ─ 인터뷰)]]></title>
@@ -266,6 +266,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691443465321EitSg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['잠', 개봉 첫 주말 39만명이 관람했다...박스오피스 1위 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/434690</link>
+            <guid>https://www.maxmovie.com/news/434690</guid>
+            <pubDate>Mon, 11 Sep 2023 00:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[5일째 박스오피스 정상
+'오펜하이머', 300만 돌파 눈앞]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694391721056Na383.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['활동 중단' 박혜수, 조현철 감독작 '너와 나'로 복귀 준비 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/434687</link>
             <guid>https://www.maxmovie.com/news/434687</guid>
@@ -297,8 +306,7 @@
             <link>https://www.maxmovie.com/news/434684</link>
             <guid>https://www.maxmovie.com/news/434684</guid>
             <pubDate>Sun, 10 Sep 2023 01:42:47 GMT</pubDate>
-            <content:encoded><![CDATA[잠과 스릴러의 만남
-비수기 뚫고 순항중]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434684"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16943388928262Kih4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434684"><h4>현실적이라 더 무서운, '잠' 4일 연속 정상</h4></a><span>23시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16943388928262Kih4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +314,8 @@
             <link>https://www.maxmovie.com/news/434683</link>
             <guid>https://www.maxmovie.com/news/434683</guid>
             <pubDate>Sun, 10 Sep 2023 01:43:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434683"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694306427330qWFeD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434683"><h4>'콘크리트 유토피아' 美 포브스 기대작 꼽혀</h4></a><span>22시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['올해 TIFF 기대작 10편' 선정
+美 오스카 국제영화상 한국영화 출품작]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694306427330qWFeD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -340,16 +349,8 @@
             <link>https://www.maxmovie.com/news/434679</link>
             <guid>https://www.maxmovie.com/news/434679</guid>
             <pubDate>Fri, 08 Sep 2023 22:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[김히어라일주일 동안 엔터테인먼트 전반에서 일어난 다양한 이슈를 소개합니다.●김히어라 논란ing김히어라에 대한 일진·학폭 의혹 논란이 꼬리에 꼬리를 물고 이어지고 있다.지난 6일 김히어라 관련 논란이 '학창시절 일진 모임의 멤버였다'는 디스패치의 보도로 시작된 가운데, 김히어라와 소속사의 부인으로 진실공방으로 번지는 모습이다.여기에 보도에 거론된 학교 측이]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434679"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694166756640XIyv0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434679"><h4>[위클리 이슈 모음zip] '양조위 눈물'부터 '김히어라 논란'까지</h4></a><span>09월 08일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694166756640XIyv0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['웃긴 영화'가 열고 닫는다 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/434678</link>
-            <guid>https://www.maxmovie.com/news/434678</guid>
-            <pubDate>Fri, 08 Sep 2023 09:05:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434678"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694160556366kLKIw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434678"><h4>'웃긴 영화'가 열고 닫는다</h4></a><span>09월 08일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694160556366kLKIw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4년 만에 돌아온 '아라문의 검', 이준기 vs 이준기로 포문 (맥스무비 ─ OTT)]]></title>
