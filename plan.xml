@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 00:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 01:42:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진범은 누구?…'폭로', 웰메이드 법정 스릴러 나올까]]></title>
+            <link>https://www.maxmovie.com/news/434691</link>
+            <guid>https://www.maxmovie.com/news/434691</guid>
+            <pubDate>Mon, 11 Sep 2023 01:41:51 GMT</pubDate>
+            <content:encoded><![CDATA[법정물 전문 스토리텔러 홍용호 감독 연출 
+2023 보스턴 국제영화제 최고 스토리상 수상]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694392066574nc2mw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['잠', 개봉 첫 주말 39만명이 관람했다...박스오피스 1위]]></title>
             <link>https://www.maxmovie.com/news/434690</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/434685</link>
             <guid>https://www.maxmovie.com/news/434685</guid>
             <pubDate>Sun, 10 Sep 2023 05:04:34 GMT</pubDate>
-            <content:encoded><![CDATA['아티스트 김수철' 2부 등장
-김수철의 데뷔 45주년 축하 영상]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434685"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694318707970GtnhK.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434685"><h4>박찬욱·이병헌 '불후' 깜짝 등장 왜?</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694318707970GtnhK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/434684</link>
             <guid>https://www.maxmovie.com/news/434684</guid>
             <pubDate>Sun, 10 Sep 2023 01:43:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434684"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16943388928262Kih4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434684"><h4>현실적이라 더 무서운, '잠' 4일 연속 정상</h4></a><span>23시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[잠과 스릴러의 만남
+비수기 뚫고 순항중]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16943388928262Kih4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,16 +92,8 @@
             <link>https://www.maxmovie.com/news/434680</link>
             <guid>https://www.maxmovie.com/news/434680</guid>
             <pubDate>Sat, 09 Sep 2023 01:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434680"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694220009328aL5t5.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434680"><h4>[맥스무비레터 #18번째 편지]  임영웅부터  주윤발까지, 핫스타 소식 모음zip </h4></a><span>09월 09일<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694220009328aL5t5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[위클리 이슈 모음zip] '양조위 눈물'부터 '김히어라 논란'까지]]></title>
-            <link>https://www.maxmovie.com/news/434679</link>
-            <guid>https://www.maxmovie.com/news/434679</guid>
-            <pubDate>Fri, 08 Sep 2023 22:04:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434679"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694166756640XIyv0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434679"><h4>[위클리 이슈 모음zip] '양조위 눈물'부터 '김히어라 논란'까지</h4></a><span>09월 08일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694166756640XIyv0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
