@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 07:06:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 08:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16943258561768HBdn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[CGV 공연 실황, 흥행 복불복…'아이유 영화'는 어떨까?]]></title>
+            <link>https://www.maxmovie.com/news/434694</link>
+            <guid>https://www.maxmovie.com/news/434694</guid>
+            <pubDate>Mon, 11 Sep 2023 08:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434694"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694396431746i9Ajn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434694"><h4>CGV 공연 실황, 흥행 복불복…'아이유 영화'는 어떨까?</h4></a><span>40분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694396431746i9Ajn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[진범은 누구?…'폭로', 웰메이드 법정 스릴러 나올까]]></title>
             <link>https://www.maxmovie.com/news/434691</link>
             <guid>https://www.maxmovie.com/news/434691</guid>
             <pubDate>Mon, 11 Sep 2023 01:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434691"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694392066574nc2mw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434691"><h4>진범은 누구?…'폭로', 웰메이드 법정 스릴러 나올까</h4></a><span>6시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[법정물 전문 스토리텔러 홍용호 감독 연출 
+2023 보스턴 국제영화제 최고 스토리상 수상]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694392066574nc2mw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/434684</link>
             <guid>https://www.maxmovie.com/news/434684</guid>
             <pubDate>Mon, 11 Sep 2023 07:06:03 GMT</pubDate>
-            <content:encoded><![CDATA[잠과 스릴러의 만남
-비수기 뚫고 순항중]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434684"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16943388928262Kih4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434684"><h4>현실적이라 더 무서운, '잠' 4일 연속 정상</h4></a><span>09월 10일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16943388928262Kih4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['콘크리트 유토피아' 美 포브스 기대작 꼽혀]]></title>
-            <link>https://www.maxmovie.com/news/434683</link>
-            <guid>https://www.maxmovie.com/news/434683</guid>
-            <pubDate>Mon, 11 Sep 2023 07:06:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434683"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694306427330qWFeD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434683"><h4>'콘크리트 유토피아' 美 포브스 기대작 꼽혀</h4></a><span>09월 10일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694306427330qWFeD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
