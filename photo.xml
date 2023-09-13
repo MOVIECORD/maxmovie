@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 00:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 01:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사진만 봐도 '설렘주의보',  안효섭 ·전여빈의  '너의 시간 속으로']]></title>
+            <link>https://www.maxmovie.com/news/434719</link>
+            <guid>https://www.maxmovie.com/news/434719</guid>
+            <pubDate>Wed, 13 Sep 2023 01:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/434719"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1694567491289jiOzN.jpg" alt=""></span><span class="textBox"><h4>사진만 봐도 '설렘주의보',  안효섭 ·전여빈의  '너의 시간 속으로' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694567491289jiOzN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사진으로 보는 '무빙' 촬영 현장 비하인드]]></title>
             <link>https://www.maxmovie.com/news/434706</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Apr 2023 01:59:07 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/433382"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1682039636697ZMWdg.jpg" alt=""></span><span class="textBox"><h4>빈 디젤과 제이슨 모모아의 목숨을 건 질주 '분노의 질주: 라이드 오어 다이'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1682039636697ZMWdg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공효진과 이민호의 '무중력 로맨스']]></title>
-            <link>https://www.maxmovie.com/news/433373</link>
-            <guid>https://www.maxmovie.com/news/433373</guid>
-            <pubDate>Thu, 20 Apr 2023 01:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/433373"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1681951685619M041Q.jpg" alt=""></span><span class="textBox"><h4>공효진과 이민호의 '무중력 로맨스'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1681951685619M041Q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
