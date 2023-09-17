@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 06:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 07:04:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694770597486vaTdM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 슈가, 22일 입소...팀에서 세 번째 병역 이행]]></title>
+            <link>https://www.maxmovie.com/news/434769</link>
+            <guid>https://www.maxmovie.com/news/434769</guid>
+            <pubDate>Sun, 17 Sep 2023 07:04:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434769"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694929850420hHUIM.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434769"><h4>방탄소년단 슈가, 22일 입소...팀에서 세 번째 병역 이행</h4></a><span>55분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694929850420hHUIM.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[데니안 '차박', 로맨스릴러의 저력...해외 11개국 개봉 확정]]></title>
             <link>https://www.maxmovie.com/news/434768</link>
             <guid>https://www.maxmovie.com/news/434768</guid>
             <pubDate>Sun, 17 Sep 2023 05:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434768"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694926322563W8bP2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434768"><h4>데니안 '차박', 로맨스릴러의 저력...해외 11개국 개봉 확정</h4></a><span>1시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[데니안·김민채 주연작
+작은 영화의 저력 보여줘]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694926322563W8bP2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,16 +90,8 @@
             <link>https://www.maxmovie.com/news/434763</link>
             <guid>https://www.maxmovie.com/news/434763</guid>
             <pubDate>Fri, 15 Sep 2023 23:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 &lt;맥스무비레터&gt;에 실린 기사입니다]]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434763"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694779718408hbUfU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434763"><h4>[맥스무비레터 #18번째 편지]  '1947 보스톤' '거미집', 미리 봤습니다</h4></a><span>09월 15일<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694779718408hbUfU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[위클리 이슈 모음zip] 임영웅 피켓팅부터 이영애 기부까지]]></title>
-            <link>https://www.maxmovie.com/news/434762</link>
-            <guid>https://www.maxmovie.com/news/434762</guid>
-            <pubDate>Sun, 17 Sep 2023 05:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434762"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694778884209l0pgJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434762"><h4>[위클리 이슈 모음zip] 임영웅 피켓팅부터 이영애 기부까지</h4></a><span>09월 15일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694778884209l0pgJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
