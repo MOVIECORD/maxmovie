@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 09:04:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 10:05:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["스마트한 데뷔 영화"...'잠', 100만 관객 사로잡았다]]></title>
+            <link>https://www.maxmovie.com/news/434772</link>
+            <guid>https://www.maxmovie.com/news/434772</guid>
+            <pubDate>Sun, 17 Sep 2023 10:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 12일째인 17일, 100만 관객 돌파
+봉준호 감독 호평, 흥행으로 이어졌나]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694943182980wkB5b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['무빙' 기세 이어갈 디즈니+ 오리지널 시리즈는?]]></title>
             <link>https://www.maxmovie.com/news/434770</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/434766</link>
             <guid>https://www.maxmovie.com/news/434766</guid>
             <pubDate>Sun, 17 Sep 2023 03:06:40 GMT</pubDate>
-            <content:encoded><![CDATA[KBS 주말극에서 활약한 유이 주연
-하준, 태산가 미스터리 서막 열어]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434766"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694914965599QENmx.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434766"><h4>'효심이네 각자도생', 16.5%로 출발...전작보다 소폭 낮아</h4></a><span>7시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694914965599QENmx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/434765</link>
             <guid>https://www.maxmovie.com/news/434765</guid>
             <pubDate>Sun, 17 Sep 2023 01:44:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434765"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694912360155Cxvvk.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434765"><h4>결혼 27주년 축하했는데...휴 잭맨, 13세 연상 부인과 결별</h4></a><span>7시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[공동성명 발표해 결별 소식 알려
+지난 4월 결혼기념일 축하한지 5개월 만]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694912360155Cxvvk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434761</link>
             <guid>https://www.maxmovie.com/news/434761</guid>
             <pubDate>Sat, 16 Sep 2023 00:28:25 GMT</pubDate>
-            <content:encoded><![CDATA[강혜정 외유내강 대표 인터뷰
-'밀수' 흥행 이어 '천박사'로 추석 공략]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434761"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694770597486vaTdM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434761"><h4>[추석영화 선호도조사③]'천박사' 제작사 대표 "시장은 늘 좋은 이야기 기다려"</h4></a><span>09월 15일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694770597486vaTdM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가수 임정희, 발레리노 김희현과 10월3일 결혼]]></title>
-            <link>https://www.maxmovie.com/news/434760</link>
-            <guid>https://www.maxmovie.com/news/434760</guid>
-            <pubDate>Fri, 15 Sep 2023 09:06:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434760"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694766088293iDG9p.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434760"><h4>가수 임정희, 발레리노 김희현과 10월3일 결혼 </h4></a><span>09월 15일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694766088293iDG9p.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
