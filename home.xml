@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 14:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 15:04:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/434771</link>
             <guid>https://www.maxmovie.com/news/434771</guid>
             <pubDate>Sun, 17 Sep 2023 10:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434771"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694939999320cmax4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434771"><h4>S.E.S. 리더의 책임감...바다, 슈에 쓴소리 후 눈물</h4></a><span>4시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434771"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694939999320cmax4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434771"><h4>S.E.S. 리더의 책임감...바다, 슈에 쓴소리 후 눈물</h4></a><span>5시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694939999320cmax4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,6 +70,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694926322563W8bP2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[손익분기점 넘어선 '잠', 100만 향해 달린다]]></title>
+            <link>https://www.maxmovie.com/news/434764</link>
+            <guid>https://www.maxmovie.com/news/434764</guid>
+            <pubDate>Sun, 17 Sep 2023 15:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[손익분기점인 80만 관객 돌파
+봉준호 감독 제자 유재선 감독 데뷔작]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694909914513vCjtt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오늘 뭘 볼까] 제80회 베니스국제영화제 각본상에 빛나는 영화 '공작']]></title>
             <link>https://www.maxmovie.com/news/434757</link>
             <guid>https://www.maxmovie.com/news/434757</guid>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/434758</link>
             <guid>https://www.maxmovie.com/news/434758</guid>
             <pubDate>Sun, 17 Sep 2023 05:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[전체적으로 '소재 및 줄거리'&nbsp;→ '배우' 
-20대일수록 '입소문' 중요도 높아]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434758"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694758315805iQCfr.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434758"><h4>[추석영화 선호도조사④] 평소 영화 선택 시,  가장 중요한 요소는? </h4></a><span>09월 15일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694758315805iQCfr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 운명적 사랑을 꿈꾼다면… 영화 '첫눈에 반할 통계적 확률']]></title>
-            <link>https://www.maxmovie.com/news/434756</link>
-            <guid>https://www.maxmovie.com/news/434756</guid>
-            <pubDate>Fri, 15 Sep 2023 23:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434756"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694751280307uRKNg.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434756"><h4>[오늘 뭘 볼까] 운명적 사랑을 꿈꾼다면… 영화 '첫눈에 반할 통계적 확률'</h4></a><span>09월 15일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694751280307uRKNg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
