@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 04:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 05:06:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694770597486vaTdM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[배우 노영국 18일 사망, 드라마 촬영 중 비보]]></title>
+            <link>https://www.maxmovie.com/news/434779</link>
+            <guid>https://www.maxmovie.com/news/434779</guid>
+            <pubDate>Mon, 18 Sep 2023 05:05:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434779"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695012965672ZzVMY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434779"><h4>배우 노영국 18일 사망, 드라마 촬영 중 비보  </h4></a><span>10분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695012965672ZzVMY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미야자키 하야오 감독, 또 은퇴 번복...신작 구상]]></title>
             <link>https://www.maxmovie.com/news/434777</link>
             <guid>https://www.maxmovie.com/news/434777</guid>
             <pubDate>Mon, 18 Sep 2023 03:07:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434777"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695003407476QXsam.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434777"><h4>미야자키 하야오 감독, 또 은퇴 번복...신작 구상 </h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[신작 '그대들은 어떻게 살 것인가'  
+은퇴작 언급 번복, 다른 작품 준비]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695003407476QXsam.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/434768</link>
             <guid>https://www.maxmovie.com/news/434768</guid>
             <pubDate>Sun, 17 Sep 2023 05:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[데니안·김민채 주연작
-작은 영화의 저력 보여줘]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434768"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694926322563W8bP2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434768"><h4>데니안 '차박', 로맨스릴러의 저력...해외 11개국 개봉 확정</h4></a><span>09월 17일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694926322563W8bP2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김순옥표 매운맛, 여전히 얼얼하네…자극적인 전개 '7인의 탈출']]></title>
-            <link>https://www.maxmovie.com/news/434767</link>
-            <guid>https://www.maxmovie.com/news/434767</guid>
-            <pubDate>Mon, 18 Sep 2023 01:41:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434767"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694924662685texux.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434767"><h4>김순옥표 매운맛, 여전히 얼얼하네…자극적인 전개 '7인의 탈출'</h4></a><span>23시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694924662685texux.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
