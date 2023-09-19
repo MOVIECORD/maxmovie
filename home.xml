@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 00:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 01:42:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,6 +17,24 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695015066603mHHzK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰] 송강호 "연기 넘버원? 자괴감·열등감 느껴요"]]></title>
+            <link>https://www.maxmovie.com/news/434785</link>
+            <guid>https://www.maxmovie.com/news/434785</guid>
+            <pubDate>Tue, 19 Sep 2023 01:42:14 GMT</pubDate>
+            <content:encoded><![CDATA["'거미집', '이게 영화지!'라는 말 듣길"
+"특정 감독, 현장에 대한 이야기 아냐"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695023172828z8uej.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['육사오'→'잠', 작은 영화의 반가운 반란]]></title>
+            <link>https://www.maxmovie.com/news/434791</link>
+            <guid>https://www.maxmovie.com/news/434791</guid>
+            <pubDate>Tue, 19 Sep 2023 00:29:18 GMT</pubDate>
+            <content:encoded><![CDATA[총제작비 50억~70억원대
+장기간 침체 속 작은 영화의 저력]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695082026644dUiKN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[데일리 핫이슈] 유아인 구속영장 재청구 · 레드벨벳 컴백 · 있지 리지 활동 중단]]></title>
             <link>https://www.maxmovie.com/news/434787</link>
             <guid>https://www.maxmovie.com/news/434787</guid>
@@ -25,13 +43,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695027869788ltLat.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[갑작스러운 별세 비보 노영국, 사인은 심장마비]]></title>
-            <link>https://www.maxmovie.com/news/434782</link>
-            <guid>https://www.maxmovie.com/news/434782</guid>
-            <pubDate>Mon, 18 Sep 2023 07:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[유족 측 '조용하게 장례 치르겠다'
-출연 중인 '효심이네 각자도생' 애도]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695019229228AaY0Z.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[故변희봉 별세 접한 봉준호·송강호, 한걸음에 빈소 달려와]]></title>
+            <link>https://www.maxmovie.com/news/434792</link>
+            <guid>https://www.maxmovie.com/news/434792</guid>
+            <pubDate>Tue, 19 Sep 2023 01:42:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434792"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695084079436cjvlw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434792"><h4>故변희봉 별세 접한 봉준호·송강호, 한걸음에 빈소 달려와</h4></a><span>38분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695084079436cjvlw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고민시·홍경, 부산국제영화제 폐막식 사회]]></title>
+            <link>https://www.maxmovie.com/news/434793</link>
+            <guid>https://www.maxmovie.com/news/434793</guid>
+            <pubDate>Tue, 19 Sep 2023 01:42:14 GMT</pubDate>
+            <content:encoded><![CDATA[가장 주목받는 남녀 배우의 만남 
+10월4일 개막 부국제 열흘간 축제]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695083908031u4tf2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 판타지 청춘 로맨스 신작, 영화 '여름을 향한 터널, 이별의 출구']]></title>
@@ -40,14 +66,6 @@
             <pubDate>Mon, 18 Sep 2023 22:04:13 GMT</pubDate>
             <content:encoded><![CDATA['여름을 향한 터널, 이별의 출구'의 한 장면. 사진제공=미디어캐슬오늘, 볼만한 작품을 추천합니다.◆ '여름을 향한 터널, 이별의 출구'영화 '여름을 향한 터널, 이별의 출구'는 시간이 다르게 흐르는 우라시마 터널을 발견한 고교생 카오루와 안즈가 각자의 소원을 이루기 위해 찬란한 여름을 함께 보내는 판타지 청춘 로맨스다.&nbsp;&nbsp;영화는 소원을 이루어 주지만 시간]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695022813260BN1T3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['육사오'→'잠', 작은 영화의 반가운 반란]]></title>
-            <link>https://www.maxmovie.com/news/434791</link>
-            <guid>https://www.maxmovie.com/news/434791</guid>
-            <pubDate>Tue, 19 Sep 2023 00:29:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434791"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695082026644dUiKN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434791"><h4>'육사오'→'잠', 작은 영화의 반가운 반란</h4></a><span>9분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695082026644dUiKN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로운,  SF9 떠나 연기 활동 전념..."새로운 도전"]]></title>
@@ -67,30 +85,12 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695022182218UTroB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배우 변희봉, 18일 별세... 큰 별이 지다]]></title>
-            <link>https://www.maxmovie.com/news/434780</link>
-            <guid>https://www.maxmovie.com/news/434780</guid>
-            <pubDate>Tue, 19 Sep 2023 00:29:18 GMT</pubDate>
-            <content:encoded><![CDATA[50여년간 연기자의 길 걸어온 배우 
-2019년 영화 '양자물리학' 마지막 작품]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695014089918eMI6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 노영국 18일 사망, 드라마 촬영 중 비보]]></title>
-            <link>https://www.maxmovie.com/news/434779</link>
-            <guid>https://www.maxmovie.com/news/434779</guid>
-            <pubDate>Mon, 18 Sep 2023 05:05:39 GMT</pubDate>
-            <content:encoded><![CDATA[구체적인 사인  알려지지 않아 
-'효심이네 각자도생' 2회 만에]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695012965672ZzVMY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미야자키 하야오 감독, 또 은퇴 번복...신작 구상]]></title>
-            <link>https://www.maxmovie.com/news/434777</link>
-            <guid>https://www.maxmovie.com/news/434777</guid>
-            <pubDate>Mon, 18 Sep 2023 09:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434777"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695003407476QXsam.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434777"><h4>미야자키 하야오 감독, 또 은퇴 번복...신작 구상 </h4></a><span>22시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695003407476QXsam.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[갑작스러운 사망 비보 노영국, 사인은 심장마비]]></title>
+            <link>https://www.maxmovie.com/news/434782</link>
+            <guid>https://www.maxmovie.com/news/434782</guid>
+            <pubDate>Mon, 18 Sep 2023 07:05:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434782"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695019229228AaY0Z.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434782"><h4>갑작스러운 사망 비보 노영국, 사인은 심장마비 </h4></a><span>18시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695019229228AaY0Z.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
