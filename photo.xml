@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 00:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 01:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[희수‧봉석‧미현‧주원까지, 팀 '무빙'이 전한 감사 인증샷]]></title>
+            <link>https://www.maxmovie.com/news/434806</link>
+            <guid>https://www.maxmovie.com/news/434806</guid>
+            <pubDate>Wed, 20 Sep 2023 01:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/434806"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1695170866352ge5XZ.jpg" alt=""></span><span class="textBox"><h4>희수‧봉석‧미현‧주원까지, 팀 '무빙'이 전한 감사 인증샷 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695170866352ge5XZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이런 송중기 처음이야"...송중기·홍사빈이 그린 느와르 '화란']]></title>
             <link>https://www.maxmovie.com/news/434730</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 06 May 2023 13:07:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/433461"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1683374974823g2zzL.jpg" alt=""></span><span class="textBox"><h4>'결혼' 세븐·이다해, 하객 앞 맹세의 키스</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1683374974823g2zzL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑에 빠진 인어공주, 한국어 더빙은 뉴진스 다니엘?]]></title>
-            <link>https://www.maxmovie.com/news/433442</link>
-            <guid>https://www.maxmovie.com/news/433442</guid>
-            <pubDate>Tue, 02 May 2023 08:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/433442"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1683013739028PcP3k.jpg" alt=""></span><span class="textBox"><h4>사랑에 빠진 인어공주, 한국어 더빙은 뉴진스 다니엘?</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1683013739028PcP3k.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
