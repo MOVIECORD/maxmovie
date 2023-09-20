@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 05:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 06:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695170866352ge5XZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['무빙' 고윤정, '슬의생' 스핀오프 주연 발탁]]></title>
+            <link>https://www.maxmovie.com/news/434809</link>
+            <guid>https://www.maxmovie.com/news/434809</guid>
+            <pubDate>Wed, 20 Sep 2023 06:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434809"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695186302306CKJCE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434809"><h4>'무빙' 고윤정, '슬의생' 스핀오프 주연 발탁  </h4></a><span>1분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695186302306CKJCE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼례 나라슈퍼 실화 사건 다룬 '소년들' 11월1일 개봉]]></title>
             <link>https://www.maxmovie.com/news/434807</link>
             <guid>https://www.maxmovie.com/news/434807</guid>
             <pubDate>Wed, 20 Sep 2023 03:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434807"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695177541283n4NYE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434807"><h4>삼례 나라슈퍼 실화 사건 다룬 '소년들' 11월1일 개봉</h4></a><span>28분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[정지영 감독 연출, 설경구‧유준상 주연
+'부러진 화살' '블랙머니' 잇는 실화극]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695177541283n4NYE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/434801</link>
             <guid>https://www.maxmovie.com/news/434801</guid>
             <pubDate>Wed, 20 Sep 2023 04:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[송중기, 노 개런티 출연 화제
-제76회 칸 국제영화제 초청작]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434801"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695113457735QK0tT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434801"><h4>서늘한 송중기...'화란'으로 강렬한 연기 변신 예고</h4></a><span>21시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695113457735QK0tT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["위대한 피사체" 강동원, 정작 "나이 느껴진다" 고백한 까닭은]]></title>
-            <link>https://www.maxmovie.com/news/434800</link>
-            <guid>https://www.maxmovie.com/news/434800</guid>
-            <pubDate>Wed, 20 Sep 2023 04:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434800"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695111895415IWPQt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434800"><h4>"위대한 피사체" 강동원, 정작 "나이 느껴진다" 고백한 까닭은</h4></a><span>20시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695111895415IWPQt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
