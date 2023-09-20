@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 08:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 09:06:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16951955915793MVT9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[배우 곽시양, '하트시그널2' 임현주와 "연인 사이"]]></title>
+            <link>https://www.maxmovie.com/news/434814</link>
+            <guid>https://www.maxmovie.com/news/434814</guid>
+            <pubDate>Wed, 20 Sep 2023 09:05:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434814"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695196204898Yhd2D.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434814"><h4>배우 곽시양, '하트시그널2' 임현주와 "연인 사이"</h4></a><span>56분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695196204898Yhd2D.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['대세' 손석구, 소속사 없이 독자 활동 돌입]]></title>
             <link>https://www.maxmovie.com/news/434812</link>
             <guid>https://www.maxmovie.com/news/434812</guid>
             <pubDate>Wed, 20 Sep 2023 08:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434812"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695194530557xCCXI.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434812"><h4>'대세' 손석구, 소속사 없이 독자 활동 돌입 </h4></a><span>12분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['나의 해방일지'·'범죄도시3' 통해 도약
+"현재 소속사 없이 다음 작품 준비 중"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695194530557xCCXI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434803</link>
             <guid>https://www.maxmovie.com/news/434803</guid>
             <pubDate>Tue, 19 Sep 2023 11:03:17 GMT</pubDate>
-            <content:encoded><![CDATA[올해 2월 사업가와 웨딩마치
-19일 이혼 소송 등 가정사 퍼져]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434803"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695118605298y1bKi.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434803"><h4>가수 서인영, 결혼 7개월만에 '이혼설' </h4></a><span>22시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695118605298y1bKi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 레이서가 된 게이머! 영화 '그란 투리스모']]></title>
-            <link>https://www.maxmovie.com/news/434797</link>
-            <guid>https://www.maxmovie.com/news/434797</guid>
-            <pubDate>Tue, 19 Sep 2023 22:04:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434797"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16951023205299L8MP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434797"><h4>[오늘 뭘 볼까] 레이서가 된 게이머! 영화 '그란 투리스모'</h4></a><span>10시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16951023205299L8MP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

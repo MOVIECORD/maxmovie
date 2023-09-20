@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 08:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 09:06:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마음을 훔치러 '도적'이 왔다, 김남길‧서현‧유재명의 카리스마]]></title>
+            <link>https://www.maxmovie.com/news/434815</link>
+            <guid>https://www.maxmovie.com/news/434815</guid>
+            <pubDate>Wed, 20 Sep 2023 09:06:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/434815"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1695197416855cVbB3.jpg" alt=""></span><span class="textBox"><h4>마음을 훔치러 '도적'이 왔다, 김남길‧서현‧유재명의 카리스마 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695197416855cVbB3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[희수‧봉석‧미현‧주원까지, 팀 '무빙'이 전한 감사 인증샷]]></title>
             <link>https://www.maxmovie.com/news/434806</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 May 2023 02:00:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/433466"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1683507287282RLtLH.jpg" alt=""></span><span class="textBox"><h4>광역수사대로 간 '범죄도시' 유니버스 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1683507287282RLtLH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['결혼' 세븐·이다해, 하객 앞 맹세의 키스]]></title>
-            <link>https://www.maxmovie.com/news/433461</link>
-            <guid>https://www.maxmovie.com/news/433461</guid>
-            <pubDate>Sat, 06 May 2023 13:07:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/433461"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1683374974823g2zzL.jpg" alt=""></span><span class="textBox"><h4>'결혼' 세븐·이다해, 하객 앞 맹세의 키스</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1683374974823g2zzL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
