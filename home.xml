@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 06:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 07:05:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695170866352ge5XZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김호중, 세 번째 영화 나온다...'바람 따라 만나리' 10월 개봉]]></title>
+            <link>https://www.maxmovie.com/news/434810</link>
+            <guid>https://www.maxmovie.com/news/434810</guid>
+            <pubDate>Wed, 20 Sep 2023 07:04:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434810"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695189214081BO2Fz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434810"><h4>김호중, 세 번째 영화 나온다...'바람 따라 만나리' 10월 개봉</h4></a><span>52분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695189214081BO2Fz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['무빙' 고윤정, '슬의생' 스핀오프 주연 발탁]]></title>
             <link>https://www.maxmovie.com/news/434809</link>
             <guid>https://www.maxmovie.com/news/434809</guid>
             <pubDate>Wed, 20 Sep 2023 06:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434809"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695186302306CKJCE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434809"><h4>'무빙' 고윤정, '슬의생' 스핀오프 주연 발탁  </h4></a><span>1분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['언젠가는 슬기로울 전공의생활' 주인공
+'환혼'에서 '무빙' 이어 차기작까지 쭉]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695186302306CKJCE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,16 +90,8 @@
             <link>https://www.maxmovie.com/news/434797</link>
             <guid>https://www.maxmovie.com/news/434797</guid>
             <pubDate>Tue, 19 Sep 2023 22:04:48 GMT</pubDate>
-            <content:encoded><![CDATA['그란 투리스모'의 한 장면. 사진제공=소니픽쳐스오늘, 볼만한 작품을 추천합니다.◆ '그란 투리스모''그란 투리스모'는 게임 그란 투리스모에 진심인 게이머 소년이 자신만의 게임 스킬을 실제 자동차 경주에서 활용하며 프로 레이서로 거듭나는 실화를 그린 액션 블록버스터다.레이싱 게임 그란 투리스모의 '덕후' 잔 마든보로. 스피드라고는 게임으로만 만족해야 했던]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434797"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16951023205299L8MP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434797"><h4>[오늘 뭘 볼까] 레이서가 된 게이머! 영화 '그란 투리스모'</h4></a><span>9시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16951023205299L8MP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서늘한 송중기...'화란'으로 강렬한 연기 변신 예고]]></title>
-            <link>https://www.maxmovie.com/news/434801</link>
-            <guid>https://www.maxmovie.com/news/434801</guid>
-            <pubDate>Wed, 20 Sep 2023 04:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434801"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695113457735QK0tT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434801"><h4>서늘한 송중기...'화란'으로 강렬한 연기 변신 예고</h4></a><span>21시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695113457735QK0tT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
