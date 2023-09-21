@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 09:07:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 10:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16952811088711Y2S6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰]강동원 "아저씨 연기도 하고, 글로벌 문도 두드려야죠" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/434828</link>
+            <guid>https://www.maxmovie.com/news/434828</guid>
+            <pubDate>Thu, 21 Sep 2023 10:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434828"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695288977105NU6C9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/434828"><h4>[인터뷰]강동원 "아저씨 연기도 하고, 글로벌 문도 두드려야죠"</h4></a><span>40분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695288977105NU6C9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영화제 예산 삭감 철회 촉구, 단체 117개 영화인 1114명 추가 참여 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/434829</link>
             <guid>https://www.maxmovie.com/news/434829</guid>
             <pubDate>Thu, 21 Sep 2023 09:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434829"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695285749643vsmHn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434829"><h4>영화제 예산 삭감 철회 촉구, 단체 117개 영화인 1114명 추가 참여 </h4></a><span>3분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[영화제연대 "영화창작 배급 등에 악영향 초래"
+영화제의 문화적, 지역 발전 기능 강조]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695285749643vsmHn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,22 +92,23 @@
             <link>https://www.maxmovie.com/news/434818</link>
             <guid>https://www.maxmovie.com/news/434818</guid>
             <pubDate>Wed, 20 Sep 2023 22:03:54 GMT</pubDate>
-            <content:encoded><![CDATA[(전날 일어난 엔터테인먼트 이슈를 소개합니다)]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434818"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695205271877oNcX2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434818"><h4>[데일리 핫이슈] 고 변희봉 발인·스윙스 사생활 피해 호소·방탄소년단 재계약</h4></a><span>12시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695205271877oNcX2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[['무빙' 피날레 리뷰] '초능력'보다 '사람' 그 처연한 엔딩, 몰아치는 액션 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434817</link>
-            <guid>https://www.maxmovie.com/news/434817</guid>
-            <pubDate>Wed, 20 Sep 2023 10:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434817"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16952000485787kw1B.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434817"><h4>['무빙' 피날레 리뷰] '초능력'보다 '사람' 그 처연한 엔딩, 몰아치는 액션 </h4></a><span>23시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16952000485787kw1B.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[인터뷰]강동원 "아저씨 연기도 하고, 글로벌 문도 두드려야죠" (맥스무비 ─ 인터뷰)]]></title>
+            <link>https://www.maxmovie.com/news/434828</link>
+            <guid>https://www.maxmovie.com/news/434828</guid>
+            <pubDate>Thu, 21 Sep 2023 10:08:07 GMT</pubDate>
+            <content:encoded><![CDATA['천박사 퇴마 연구소' 가짜 퇴마사 역
+"신인감독 작품, 새롭고 재밌어"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695288977105NU6C9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 김지운 감독 "비탄과 절망 자기혐오에 빠지면서도, 왜 영화를 할까요?" (맥스무비 ─ 인터뷰)]]></title>
             <link>https://www.maxmovie.com/news/434825</link>
             <guid>https://www.maxmovie.com/news/434825</guid>
-            <pubDate>Thu, 21 Sep 2023 09:06:40 GMT</pubDate>
+            <pubDate>Thu, 21 Sep 2023 09:06:32 GMT</pubDate>
             <content:encoded><![CDATA[9월27일 개봉  '거미집' 연출
 "영화인 김지운, 늙고 싶지 않아"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695279704336VFo9d.jpg" length="0" type="image/jpg"/>
@@ -126,8 +136,7 @@
             <link>https://www.maxmovie.com/news/434726</link>
             <guid>https://www.maxmovie.com/news/434726</guid>
             <pubDate>Wed, 13 Sep 2023 07:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[류승범 맡은 프랭크, 원래 백인 역할
-시즌2 맡으면 "화면 업그레이드"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434726"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694583492236wvFL8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/434726"><h4>[인터뷰] "조인성 부양·타이틀·시즌2"...박인제 감독이 말하는 '무빙' 비하인드</h4></a><span>09월 13일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694583492236wvFL8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -135,7 +144,8 @@
             <link>https://www.maxmovie.com/news/434715</link>
             <guid>https://www.maxmovie.com/news/434715</guid>
             <pubDate>Tue, 12 Sep 2023 10:06:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434715"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1694508227490uxXxF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/434715"><h4>[인터뷰] '무빙' 김성균, 이재만 이야기를 마음 졸이며 기다린 이유</h4></a><span>09월 12일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[순박하지만 괴력을 보유한 이재만 역할
+시리즈·영화·예능 등 전방위 활약]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694508227490uxXxF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -170,17 +180,8 @@
             <link>https://www.maxmovie.com/news/434524</link>
             <guid>https://www.maxmovie.com/news/434524</guid>
             <pubDate>Thu, 24 Aug 2023 23:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[남편의 수면장애 때문에 불안한 아내
-"나도 몰랐던 내 얼굴에 놀랐다"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434524"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692858656871cmWpk.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/434524"><h4>[인터뷰]정유미, '잠' 보고 나서 아쉬워한 까닭은</h4></a><span>08월 24일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692858656871cmWpk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] '무빙' 고윤정 "판이 커진다. 선택  그대로 직진" (맥스무비 ─ 인터뷰)]]></title>
-            <link>https://www.maxmovie.com/news/434516</link>
-            <guid>https://www.maxmovie.com/news/434516</guid>
-            <pubDate>Wed, 23 Aug 2023 08:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434516"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1692775527672TvoZv.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/434516"><h4>[인터뷰] '무빙' 고윤정 "판이 커진다. 선택  그대로 직진"</h4></a><span>08월 23일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692775527672TvoZv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리뷰:포테이토 지수 85%]'천박사', 강동원 액션 is 뭔들 (맥스무비 ─ 리뷰)]]></title>
@@ -278,7 +279,7 @@
             <title><![CDATA[영화제 예산 삭감 철회 촉구, 단체 117개 영화인 1114명 추가 참여 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/434829</link>
             <guid>https://www.maxmovie.com/news/434829</guid>
-            <pubDate>Thu, 21 Sep 2023 09:06:57 GMT</pubDate>
+            <pubDate>Thu, 21 Sep 2023 09:06:32 GMT</pubDate>
             <content:encoded><![CDATA[영화제연대 "영화창작 배급 등에 악영향 초래"
 영화제의 문화적, 지역 발전 기능 강조]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695285749643vsmHn.jpg" length="0" type="image/jpg"/>
@@ -306,7 +307,7 @@
             <link>https://www.maxmovie.com/news/434822</link>
             <guid>https://www.maxmovie.com/news/434822</guid>
             <pubDate>Thu, 21 Sep 2023 01:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434822"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695258074292FEosY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434822"><h4>'무빙' 류승룡, 종영 아쉬움 달래려 촬영장 사진 대방출 </h4></a><span>8시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434822"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695258074292FEosY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434822"><h4>'무빙' 류승룡, 종영 아쉬움 달래려 촬영장 사진 대방출 </h4></a><span>9시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695258074292FEosY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -348,14 +349,14 @@
             <link>https://www.maxmovie.com/news/434816</link>
             <guid>https://www.maxmovie.com/news/434816</guid>
             <pubDate>Wed, 20 Sep 2023 22:03:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434816"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695197917712GLeWF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434816"><h4>블랙핑크 지수, '천박사'로 스크린 데뷔한 이유 </h4></a><span>11시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434816"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695197917712GLeWF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434816"><h4>블랙핑크 지수, '천박사'로 스크린 데뷔한 이유 </h4></a><span>12시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695197917712GLeWF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['무빙' 고윤정 "우리의 원동력은 사랑" SNS 작별 인사 (맥스무비 ─ OTT)]]></title>
             <link>https://www.maxmovie.com/news/434830</link>
             <guid>https://www.maxmovie.com/news/434830</guid>
-            <pubDate>Thu, 21 Sep 2023 09:07:05 GMT</pubDate>
+            <pubDate>Thu, 21 Sep 2023 09:06:57 GMT</pubDate>
             <content:encoded><![CDATA[21일 SNS에 장문의 '무빙' 관련 소감 인사
 "잘컸네 우리 딸" 조인성·류승룡 댓글 화답]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695287065734SlWtI.jpg" length="0" type="image/jpg"/>
