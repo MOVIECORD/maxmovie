@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 22:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 23:06:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695285188243b7F08.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유아인, 두 번째 구속영장 기각 "동종 범죄 전력 없다"]]></title>
+            <link>https://www.maxmovie.com/news/434835</link>
+            <guid>https://www.maxmovie.com/news/434835</guid>
+            <pubDate>Thu, 21 Sep 2023 23:05:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434835"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16953363957309yJeU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434835"><h4>유아인, 두 번째 구속영장 기각 "동종 범죄 전력 없다" </h4></a><span>10분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16953363957309yJeU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[데일리 핫이슈] 블랙핑크 재계약 향방? '마녀2' 신시아 드라마 주연]]></title>
             <link>https://www.maxmovie.com/news/434832</link>
             <guid>https://www.maxmovie.com/news/434832</guid>
             <pubDate>Thu, 21 Sep 2023 22:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434832"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695287643437bp57n.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434832"><h4>[데일리 핫이슈] 블랙핑크 재계약 향방? '마녀2' 신시아 드라마 주연 </h4></a><span>5분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695287643437bp57n.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -82,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434821</link>
             <guid>https://www.maxmovie.com/news/434821</guid>
             <pubDate>Thu, 21 Sep 2023 01:39:48 GMT</pubDate>
-            <content:encoded><![CDATA['리바운드' 이어 스릴러 영화 개봉 
-개그맨 송은이 제작자로 나서]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434821"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695254882687gapWP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434821"><h4>장항준 감독과 송은이 대표의 첫 합작, '오픈 더 도어' 10월 개봉</h4></a><span>22시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695254882687gapWP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천만 흥행·칸 진출 30대 배우 임시완,  '비상'과 '질주']]></title>
-            <link>https://www.maxmovie.com/news/434819</link>
-            <guid>https://www.maxmovie.com/news/434819</guid>
-            <pubDate>Thu, 21 Sep 2023 06:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434819"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695255297147WU2E4.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434819"><h4>천만 흥행·칸 진출 30대 배우 임시완,  '비상'과 '질주'</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695255297147WU2E4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
