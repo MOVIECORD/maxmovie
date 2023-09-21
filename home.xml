@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 07:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 08:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695205271877oNcX2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미야자키 하야오 신작, 마침내 본다...10월25일 개봉]]></title>
+            <link>https://www.maxmovie.com/news/434826</link>
+            <guid>https://www.maxmovie.com/news/434826</guid>
+            <pubDate>Thu, 21 Sep 2023 08:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434826"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16952811088711Y2S6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434826"><h4>미야자키 하야오 신작, 마침내 본다...10월25일 개봉</h4></a><span>29분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16952811088711Y2S6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[천만 흥행·칸 진출 30대 배우 임시완,  '비상'과 '질주']]></title>
             <link>https://www.maxmovie.com/news/434819</link>
             <guid>https://www.maxmovie.com/news/434819</guid>
             <pubDate>Thu, 21 Sep 2023 06:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434819"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695255297147WU2E4.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434819"><h4>천만 흥행·칸 진출 30대 배우 임시완,  '비상'과 '질주'</h4></a><span>6시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['비상선언'→'보스톤' 성수기 부상
+스타성과 연기력 갖춘 배우 인정]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695255297147WU2E4.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434813</link>
             <guid>https://www.maxmovie.com/news/434813</guid>
             <pubDate>Wed, 20 Sep 2023 08:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[20일 SNS 통해 사실 발표
-여러 장 웨딩 사진도 게재]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434813"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16951955915793MVT9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434813"><h4>배우 이채은, 올해 4월 결혼..."조금 늦은 소식" </h4></a><span>09월 20일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16951955915793MVT9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김호중, 세 번째 영화 나온다...'바람 따라 만나리' 10월 개봉]]></title>
-            <link>https://www.maxmovie.com/news/434810</link>
-            <guid>https://www.maxmovie.com/news/434810</guid>
-            <pubDate>Thu, 21 Sep 2023 06:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434810"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695189214081BO2Fz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434810"><h4>김호중, 세 번째 영화 나온다...'바람 따라 만나리' 10월 개봉</h4></a><span>09월 20일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695189214081BO2Fz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
