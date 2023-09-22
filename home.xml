@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 22:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 23:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,8 +48,16 @@
             <link>https://www.maxmovie.com/news/434851</link>
             <guid>https://www.maxmovie.com/news/434851</guid>
             <pubDate>Fri, 22 Sep 2023 22:04:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434851"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695389777604R5lOt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434851"><h4>[위클리 이슈 모음zip] 홍상수·김민희 신작, 임영웅 티켓값 850만원?, 라이즈 돌풍</h4></a><span>5분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434851"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695389777604R5lOt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434851"><h4>[위클리 이슈 모음zip] 홍상수·김민희 신작, 임영웅 티켓값 850만원?, 라이즈 돌풍</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695389777604R5lOt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스무비레터 #19번째 편지] 황금연휴, 정주행 콘텐츠 찾아드릴게요]]></title>
+            <link>https://www.maxmovie.com/news/434850</link>
+            <guid>https://www.maxmovie.com/news/434850</guid>
+            <pubDate>Fri, 22 Sep 2023 23:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 &lt;맥스무비레터&gt;에 실린 기사입니다]]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695374977952uy3oN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['은퇴한 아이돌' 수지의 로맨스...'이두나!' 10월20일 공개]]></title>
@@ -82,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434845</link>
             <guid>https://www.maxmovie.com/news/434845</guid>
             <pubDate>Fri, 22 Sep 2023 07:05:33 GMT</pubDate>
-            <content:encoded><![CDATA["첫 액션 도전, 통쾌하고 시원한 캐릭터"
-10월25일 개봉, 이준영과 호흡]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434845"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695363634673jORq9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434845"><h4>박진표 감독과 만난 신혜선, "토 나올 듯 힘들었다" 고백한 이유 </h4></a><span>16시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695363634673jORq9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#김서형 눈물 #류준열 죄책감 #김종수 첫 수상]]></title>
-            <link>https://www.maxmovie.com/news/434839</link>
-            <guid>https://www.maxmovie.com/news/434839</guid>
-            <pubDate>Fri, 22 Sep 2023 01:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434839"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695343932006aSSGx.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434839"><h4>#김서형 눈물 #류준열 죄책감 #김종수 첫 수상</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695343932006aSSGx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
