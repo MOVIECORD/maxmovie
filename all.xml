@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 06:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 07:06:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,21 +34,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695343932006aSSGx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰]임시완 "식욕 때문에 괴로울 땐 '나는 국가대표다'" (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434833</link>
-            <guid>https://www.maxmovie.com/news/434833</guid>
-            <pubDate>Fri, 22 Sep 2023 00:28:55 GMT</pubDate>
-            <content:encoded><![CDATA['1947 보스톤'서 서윤복 도전
-"내 삶의 구심점은 배우"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16953343248304owpS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미야자키 하야오가 설립한 지브리, 아들 아닌 니혼TV에 경영권 넘긴다 (맥스무비)]]></title>
+            <title><![CDATA[미야자키 하야오, 지브리 경영권 아들 아닌 방송국에 넘긴 까닭 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/434841</link>
             <guid>https://www.maxmovie.com/news/434841</guid>
             <pubDate>Fri, 22 Sep 2023 03:06:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434841"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695350356275I31gH.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434841"><h4>미야자키 하야오가 설립한 지브리, 아들 아닌 니혼TV에 경영권 넘긴다</h4></a><span>3시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[민영 니혼TV에 경영권 이전
+고령의 나이 등 고려한 결정]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695350356275I31gH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박진표 감독과 만난 신혜선, "토 나올 듯 힘들었다" 고백한 이유 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/434845</link>
+            <guid>https://www.maxmovie.com/news/434845</guid>
+            <pubDate>Fri, 22 Sep 2023 07:05:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434845"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695363634673jORq9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434845"><h4>박진표 감독과 만난 신혜선, "토 나올 듯 힘들었다" 고백한 이유 </h4></a><span>3분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695363634673jORq9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박희순, '무빙' 대본도 안보고 "무조건 출연" 결정한 이유 (맥스무비)]]></title>
@@ -69,6 +69,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16953363957309yJeU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰]임시완 "식욕 때문에 괴로울 땐 '나는 국가대표다'" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/434833</link>
+            <guid>https://www.maxmovie.com/news/434833</guid>
+            <pubDate>Fri, 22 Sep 2023 00:28:55 GMT</pubDate>
+            <content:encoded><![CDATA['1947 보스톤'서 서윤복 도전
+"내 삶의 구심점은 배우"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16953343248304owpS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[데일리 핫이슈] 블랙핑크 재계약 향방? '마녀2' 신시아 드라마 주연 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/434832</link>
             <guid>https://www.maxmovie.com/news/434832</guid>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434829</link>
             <guid>https://www.maxmovie.com/news/434829</guid>
             <pubDate>Thu, 21 Sep 2023 09:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[영화제연대 "영화창작 배급 등에 악영향 초래"
-영화제의 문화적, 지역 발전 기능 강조]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434829"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695285749643vsmHn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434829"><h4>영화제 예산 삭감 철회 촉구, 단체 117개 영화인 1114명 추가 참여 </h4></a><span>22시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695285749643vsmHn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['무빙' 고윤정 "우리의 원동력은 사랑" SNS 작별 인사 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434830</link>
-            <guid>https://www.maxmovie.com/news/434830</guid>
-            <pubDate>Thu, 21 Sep 2023 09:06:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434830"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695287065734SlWtI.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434830"><h4>'무빙' 고윤정 "우리의 원동력은 사랑" SNS 작별 인사</h4></a><span>21시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695287065734SlWtI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰]임시완 "식욕 때문에 괴로울 땐 '나는 국가대표다'" (맥스무비 ─ 인터뷰)]]></title>
@@ -265,11 +265,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692609563689u3gYT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미야자키 하야오가 설립한 지브리, 아들 아닌 니혼TV에 경영권 넘긴다 (맥스무비 ─ 기획)]]></title>
+            <title><![CDATA[박진표 감독과 만난 신혜선, "토 나올 듯 힘들었다" 고백한 이유 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/434845</link>
+            <guid>https://www.maxmovie.com/news/434845</guid>
+            <pubDate>Fri, 22 Sep 2023 07:05:58 GMT</pubDate>
+            <content:encoded><![CDATA["첫 액션 도전, 통쾌하고 시원한 캐릭터"
+10월25일 개봉, 이준영과 호흡]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695363634673jORq9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미야자키 하야오, 지브리 경영권 아들 아닌 방송국에 넘긴 까닭 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/434841</link>
             <guid>https://www.maxmovie.com/news/434841</guid>
             <pubDate>Fri, 22 Sep 2023 03:06:48 GMT</pubDate>
-            <content:encoded><![CDATA[미야자키 하야오 감독(왼쪽)과 기무라 타쿠야. 사진제공=기무라 타쿠야SNS일본 애니메이션 거장 미야자키 하야오 감독이 설립한 제작사 스튜디오 지브리(지브리)가 경영권을 일본 민영방송사 니혼TV에 넘기기로 했다.21일 도쿄신문 등 일본 언론에 따르면 지브리와 니혼TV는 이날 도쿄의 지브리 본사에서 기자회견을 갖고, 니혼TV가 내달 6일 지브리 지분 42.3%]]></content:encoded>
+            <content:encoded><![CDATA[민영 니혼TV에 경영권 이전
+고령의 나이 등 고려한 결정]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695350356275I31gH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -294,7 +304,7 @@
             <link>https://www.maxmovie.com/news/434838</link>
             <guid>https://www.maxmovie.com/news/434838</guid>
             <pubDate>Fri, 22 Sep 2023 01:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[송중기와 홍사빈 그리고 김형서의 누아르&nbsp;드라마는 어떤 이야기일까.&nbsp;희망 없는 세상을 각기 다른 방식으로 살아가는 인물들의 이야기를 그린 영화 '화란'이 마침내 모습을 드러낸다.&nbsp;10월 11일 개봉하는 '화란'은 지옥 같은 현실에서 벗어나고 싶은 소년 연규(홍사빈)가 조직의 중간 보스 치건(송중기)을 만나 위태로운 세계에 함께 하게 되며 펼쳐지는 이야기다.&nbsp;]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434838"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16953433717227QAqG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434838"><h4>송중기·홍사빈·김형서의 핏빛 누아르 '화란'</h4></a><span>6시간 전<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16953433717227QAqG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -302,7 +312,8 @@
             <link>https://www.maxmovie.com/news/434837</link>
             <guid>https://www.maxmovie.com/news/434837</guid>
             <pubDate>Fri, 22 Sep 2023 06:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434837"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695343356690zvDVk.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434837"><h4>['무빙'은 계속된다] 가장 빠른 시상식 '무빙 어워드'  </h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[앞으로 각종 시상식 휩쓸 '무빙' 주역들
+그에 앞서 선정한 흥미로운 '무빙' 시상식]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695343356690zvDVk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -337,22 +348,14 @@
             <link>https://www.maxmovie.com/news/434832</link>
             <guid>https://www.maxmovie.com/news/434832</guid>
             <pubDate>Thu, 21 Sep 2023 22:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434832"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695287643437bp57n.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434832"><h4>[데일리 핫이슈] 블랙핑크 재계약 향방? '마녀2' 신시아 드라마 주연 </h4></a><span>9시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695287643437bp57n.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써 그립다…아쉬움 달랠 '무빙' 주역들 차기작은? (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/434831</link>
-            <guid>https://www.maxmovie.com/news/434831</guid>
-            <pubDate>Fri, 22 Sep 2023 00:28:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434831"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695288232322y36SU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434831"><h4>벌써 그립다…아쉬움 달랠 '무빙' 주역들 차기작은?</h4></a><span>5시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695288232322y36SU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[['무빙'은 계속된다]  오랫동안 잊지 못할 '명장면' (맥스무비 ─ OTT)]]></title>
             <link>https://www.maxmovie.com/news/434840</link>
             <guid>https://www.maxmovie.com/news/434840</guid>
-            <pubDate>Fri, 22 Sep 2023 06:10:25 GMT</pubDate>
+            <pubDate>Fri, 22 Sep 2023 06:10:17 GMT</pubDate>
             <content:encoded><![CDATA[액션 멜로 휴먼 뒤섞인 대서사
 이야기는 끝나도 기억될 장면들]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695351481179Sne7i.jpg" length="0" type="image/jpg"/>
@@ -361,7 +364,7 @@
             <title><![CDATA[['무빙'은 계속된다] 가장 빠른 시상식 '무빙 어워드' (맥스무비 ─ OTT)]]></title>
             <link>https://www.maxmovie.com/news/434837</link>
             <guid>https://www.maxmovie.com/news/434837</guid>
-            <pubDate>Fri, 22 Sep 2023 06:10:25 GMT</pubDate>
+            <pubDate>Fri, 22 Sep 2023 06:10:17 GMT</pubDate>
             <content:encoded><![CDATA[앞으로 각종 시상식 휩쓸 '무빙' 주역들
 그에 앞서 선정한 흥미로운 '무빙' 시상식]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695343356690zvDVk.jpg" length="0" type="image/jpg"/>
@@ -379,7 +382,7 @@
             <title><![CDATA[['무빙'은 계속된다] 시즌2 과연 나올까? 가능성 높이는 떡밥들 (맥스무비 ─ OTT)]]></title>
             <link>https://www.maxmovie.com/news/434834</link>
             <guid>https://www.maxmovie.com/news/434834</guid>
-            <pubDate>Fri, 22 Sep 2023 06:10:25 GMT</pubDate>
+            <pubDate>Fri, 22 Sep 2023 06:10:17 GMT</pubDate>
             <content:encoded><![CDATA[강풀 박인제 김성균... 시즌2에 대한 '말말말'
 김영탁 신혜원 프랭크 등 새로운 캐릭터 암시]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695333640549ZhE2V.jpg" length="0" type="image/jpg"/>
@@ -389,7 +392,7 @@
             <link>https://www.maxmovie.com/news/434831</link>
             <guid>https://www.maxmovie.com/news/434831</guid>
             <pubDate>Fri, 22 Sep 2023 00:28:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434831"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695288232322y36SU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434831"><h4>벌써 그립다…아쉬움 달랠 '무빙' 주역들 차기작은?</h4></a><span>5시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434831"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695288232322y36SU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434831"><h4>벌써 그립다…아쉬움 달랠 '무빙' 주역들 차기작은?</h4></a><span>6시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695288232322y36SU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
