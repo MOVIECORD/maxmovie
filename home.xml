@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 07:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 08:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695350356275I31gH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연기자 기은세, 결혼 11년 만에 파경]]></title>
+            <link>https://www.maxmovie.com/news/434846</link>
+            <guid>https://www.maxmovie.com/news/434846</guid>
+            <pubDate>Fri, 22 Sep 2023 08:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434846"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695366455350AXR1n.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434846"><h4>연기자 기은세, 결혼 11년 만에 파경 </h4></a><span>56분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695366455350AXR1n.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박진표 감독과 만난 신혜선, "토 나올 듯 힘들었다" 고백한 이유]]></title>
             <link>https://www.maxmovie.com/news/434845</link>
             <guid>https://www.maxmovie.com/news/434845</guid>
             <pubDate>Fri, 22 Sep 2023 07:05:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434845"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695363634673jORq9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434845"><h4>박진표 감독과 만난 신혜선, "토 나올 듯 힘들었다" 고백한 이유 </h4></a><span>3분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA["첫 액션 도전, 통쾌하고 시원한 캐릭터"
+10월25일 개봉, 이준영과 호흡]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695363634673jORq9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,16 +91,8 @@
             <link>https://www.maxmovie.com/news/434832</link>
             <guid>https://www.maxmovie.com/news/434832</guid>
             <pubDate>Fri, 22 Sep 2023 06:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434832"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695287643437bp57n.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434832"><h4>[데일리 핫이슈] 블랙핑크 재계약 향방? '마녀2' 신시아 드라마 주연 </h4></a><span>10시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695287643437bp57n.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[영화제 예산 삭감 철회 촉구, 단체 117개 영화인 1114명 추가 참여]]></title>
-            <link>https://www.maxmovie.com/news/434829</link>
-            <guid>https://www.maxmovie.com/news/434829</guid>
-            <pubDate>Thu, 21 Sep 2023 09:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434829"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695285749643vsmHn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434829"><h4>영화제 예산 삭감 철회 촉구, 단체 117개 영화인 1114명 추가 참여 </h4></a><span>22시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695285749643vsmHn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
