@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 09:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 10:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695350356275I31gH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['은퇴한 아이돌' 수지의 로맨스...'이두나!' 10월20일 공개]]></title>
+            <link>https://www.maxmovie.com/news/434849</link>
+            <guid>https://www.maxmovie.com/news/434849</guid>
+            <pubDate>Fri, 22 Sep 2023 10:06:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434849"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695373906395KtqxA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434849"><h4>'은퇴한 아이돌' 수지의 로맨스...'이두나!' 10월20일 공개</h4></a><span>50분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695373906395KtqxA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연기자 기은세, 결혼 11년 만에 파경]]></title>
             <link>https://www.maxmovie.com/news/434846</link>
             <guid>https://www.maxmovie.com/news/434846</guid>
             <pubDate>Fri, 22 Sep 2023 08:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434846"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695366455350AXR1n.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/434846"><h4>연기자 기은세, 결혼 11년 만에 파경 </h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA["서로의 앞길 응원하며 결혼 생활 마무리"
+2012년 12살 연상 재미교포 사업가와 결혼]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695366455350AXR1n.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/434835</link>
             <guid>https://www.maxmovie.com/news/434835</guid>
             <pubDate>Thu, 21 Sep 2023 23:05:30 GMT</pubDate>
-            <content:encoded><![CDATA[지난 5월에 이어 또 다시 영장 기각 
-유아인 "큰 심려 끼쳐 죄송하다"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434835"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16953363957309yJeU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434835"><h4>유아인, 두 번째 구속영장 기각 "동종 범죄 전력 없다" </h4></a><span>11시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16953363957309yJeU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰]임시완 "식욕 때문에 괴로울 땐 '나는 국가대표다'"]]></title>
-            <link>https://www.maxmovie.com/news/434833</link>
-            <guid>https://www.maxmovie.com/news/434833</guid>
-            <pubDate>Fri, 22 Sep 2023 06:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434833"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16953343248304owpS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/434833"><h4>[인터뷰]임시완 "식욕 때문에 괴로울 땐 '나는 국가대표다'"</h4></a><span>9시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16953343248304owpS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
