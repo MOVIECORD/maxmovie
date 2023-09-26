@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 06:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 07:05:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봉준호 감독의 미공개 첫 단편 찾는 여정, 다큐 '노란문']]></title>
+            <link>https://www.maxmovie.com/news/434882</link>
+            <guid>https://www.maxmovie.com/news/434882</guid>
+            <pubDate>Tue, 26 Sep 2023 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[90년대 시네필들의 공간 '노란문 영화연구소'
+넷플릭스 오리지널 다큐, 10월27일 공개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695707945892jx9Zh.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[송강호, 한국배우 최초 마스터클래스]]></title>
             <link>https://www.maxmovie.com/news/434880</link>
@@ -40,8 +49,7 @@
             <link>https://www.maxmovie.com/news/434877</link>
             <guid>https://www.maxmovie.com/news/434877</guid>
             <pubDate>Tue, 26 Sep 2023 01:42:12 GMT</pubDate>
-            <content:encoded><![CDATA[예매율 전체 1위
-강동원 파워 통하나]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434877"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695687973380ojVU6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434877"><h4>멀티캐스팅·퇴마·웃음+액션…'천박사' 주목할 특징 셋</h4></a><span>5시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695687973380ojVU6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -49,7 +57,7 @@
             <link>https://www.maxmovie.com/news/434874</link>
             <guid>https://www.maxmovie.com/news/434874</guid>
             <pubDate>Mon, 25 Sep 2023 22:04:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434874"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695628580326ylrsJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434874"><h4>[데일리 핫이슈]제니·지수 1인 회사 설립?·'큐피드' 저작권료 가압류</h4></a><span>8시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695628580326ylrsJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434868</link>
             <guid>https://www.maxmovie.com/news/434868</guid>
             <pubDate>Mon, 25 Sep 2023 04:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[조용하게 키운 사랑의 결실
-소속사 "이제 막 예식 준비"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434868"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695611224890MwrPA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434868"><h4>배우 이상엽, 내년 3월 결혼 </h4></a><span>09월 25일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695611224890MwrPA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강동원 파워…'천박사' 11만장 돌파]]></title>
-            <link>https://www.maxmovie.com/news/434867</link>
-            <guid>https://www.maxmovie.com/news/434867</guid>
-            <pubDate>Mon, 25 Sep 2023 01:42:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434867"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16956037027292suZU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434867"><h4>강동원 파워…'천박사' 11만장 돌파</h4></a><span>09월 25일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16956037027292suZU.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
