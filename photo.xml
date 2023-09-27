@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 00:30:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 01:42:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추석 연휴 시간 순삭할, '도적: 칼의 소리' 비하인드]]></title>
+            <link>https://www.maxmovie.com/news/434892</link>
+            <guid>https://www.maxmovie.com/news/434892</guid>
+            <pubDate>Wed, 27 Sep 2023 01:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/434892"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1695777203856BeaOV.jpg" alt=""></span><span class="textBox"><h4>추석 연휴 시간 순삭할, '도적: 칼의 소리' 비하인드 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695777203856BeaOV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["웹툰 찢고 나온" 수지의 눈부신 비주얼 '이두나!']]></title>
             <link>https://www.maxmovie.com/news/434884</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 26 May 2023 08:09:38 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/433599"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1685086865085xuqDR.jpg" alt=""></span><span class="textBox"><h4>[칸 포토] 칸 국제영화제 '거미집' 레드카펫 현장 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685086865085xuqDR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[칸 포토] 송중기·홍사빈·김형서의 '화란' 포토콜 현장]]></title>
-            <link>https://www.maxmovie.com/news/433591</link>
-            <guid>https://www.maxmovie.com/news/433591</guid>
-            <pubDate>Fri, 26 May 2023 00:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/433591"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1685060226569MCtQK.jpg" alt=""></span><span class="textBox"><h4>[칸 포토] 송중기·홍사빈·김형서의 '화란' 포토콜 현장 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685060226569MCtQK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
