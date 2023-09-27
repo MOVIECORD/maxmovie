@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 02:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 03:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,11 +45,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695710755532vpIln.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['천박사' 등 3편, 예매량은 '공조2' 넘었는데…최종 스코어는]]></title>
+            <link>https://www.maxmovie.com/news/434893</link>
+            <guid>https://www.maxmovie.com/news/434893</guid>
+            <pubDate>Wed, 27 Sep 2023 03:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434893"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695780093734w0fks.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434893"><h4>'천박사' 등 3편, 예매량은 '공조2' 넘었는데…최종 스코어는</h4></a><span>51분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695780093734w0fks.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[데일리 핫이슈] 고우림 현역 입대·존박 득녀·부동산 사기 의혹 휘말린 비]]></title>
             <link>https://www.maxmovie.com/news/434887</link>
             <guid>https://www.maxmovie.com/news/434887</guid>
             <pubDate>Tue, 26 Sep 2023 22:04:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434887"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695717959688lrJW0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434887"><h4>[데일리 핫이슈] 고우림 현역 입대·존박 득녀·부동산 사기 의혹 휘말린 비</h4></a><span>4시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695717959688lrJW0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +91,8 @@
             <link>https://www.maxmovie.com/news/434880</link>
             <guid>https://www.maxmovie.com/news/434880</guid>
             <pubDate>Tue, 26 Sep 2023 02:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[제20회 홍콩아시안영화제 참석
-'거미집' 개막작 선정]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434880"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16956930123878axBp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434880"><h4>송강호, 한국배우 최초 마스터클래스</h4></a><span>09월 26일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16956930123878axBp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멀티캐스팅·퇴마·웃음+액션…'천박사' 주목할 특징 셋]]></title>
-            <link>https://www.maxmovie.com/news/434877</link>
-            <guid>https://www.maxmovie.com/news/434877</guid>
-            <pubDate>Tue, 26 Sep 2023 01:41:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434877"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695687973380ojVU6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434877"><h4>멀티캐스팅·퇴마·웃음+액션…'천박사' 주목할 특징 셋</h4></a><span>09월 26일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695687973380ojVU6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
