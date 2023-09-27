@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 06:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 07:06:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,11 +45,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695710755532vpIln.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독] 설리의 마지막 목소리 '진리에게', 부국제 전회차 매진]]></title>
+            <link>https://www.maxmovie.com/news/434897</link>
+            <guid>https://www.maxmovie.com/news/434897</guid>
+            <pubDate>Wed, 27 Sep 2023 07:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434897"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695796656883Chd5w.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434897"><h4>[단독] 설리의 마지막 목소리 '진리에게', 부국제 전회차 매진 </h4></a><span>4분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695796656883Chd5w.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['천박사' 등 3편, 예매량은 '공조2' 넘었는데…최종 스코어는]]></title>
             <link>https://www.maxmovie.com/news/434893</link>
             <guid>https://www.maxmovie.com/news/434893</guid>
             <pubDate>Wed, 27 Sep 2023 03:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434893"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695780093734w0fks.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434893"><h4>'천박사' 등 3편, 예매량은 '공조2' 넘었는데…최종 스코어는</h4></a><span>3시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['천박사' '보스톤' '거미집' 3편 동시 출격
+작년 단독주자 '공조2' 최종 698만명]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695780093734w0fks.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/434881</link>
             <guid>https://www.maxmovie.com/news/434881</guid>
             <pubDate>Wed, 27 Sep 2023 02:15:06 GMT</pubDate>
-            <content:encoded><![CDATA['무빙' '한강' '힙하게' 동시 출연 존재감
-40대 후반, 연기가 천직임을 깨달아]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434881"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695693051567oj4cS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/434881"><h4>[인터뷰] '무빙'→'한강', 김희원 "악역 딛고 나랏밥 먹는 공무원의 연속"</h4></a><span>22시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695693051567oj4cS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송강호, 한국배우 최초 마스터클래스]]></title>
-            <link>https://www.maxmovie.com/news/434880</link>
-            <guid>https://www.maxmovie.com/news/434880</guid>
-            <pubDate>Tue, 26 Sep 2023 02:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434880"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16956930123878axBp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434880"><h4>송강호, 한국배우 최초 마스터클래스</h4></a><span>09월 26일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16956930123878axBp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
