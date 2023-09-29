@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 21:04:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 22:05:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <link>https://www.maxmovie.com/news/434902</link>
             <guid>https://www.maxmovie.com/news/434902</guid>
             <pubDate>Thu, 28 Sep 2023 01:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[고윤정 이어 신시아, 한예지, 강유석, 정준원 합류
+            <content:encoded><![CDATA[고윤정 이어 신시아, 정준원 등 합류
 '슬의생' 스핀오프로 내년 상반기 방송]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695864205460MOSpr.jpg" length="0" type="image/jpg"/>
         </item>
@@ -30,8 +30,8 @@
             <link>https://www.maxmovie.com/news/434909</link>
             <guid>https://www.maxmovie.com/news/434909</guid>
             <pubDate>Thu, 28 Sep 2023 07:06:00 GMT</pubDate>
-            <content:encoded><![CDATA['천박사' 홍보 위해 '피식쇼' 출연한 강동원
-"100평 부지 단독주택에 산다" 공개해]]></content:encoded>
+            <content:encoded><![CDATA['천박사' 홍보 위해 '피식쇼' 출연
+집 평수 묻자 "부지가 거의 100평"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695881084461OczOJ.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -61,15 +61,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695878717106ilrO6.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[뉴진스, 추석 맞아 한복 화보 공개..."풍요롭고 따뜻한 한가위 보내길" (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434906</link>
-            <guid>https://www.maxmovie.com/news/434906</guid>
-            <pubDate>Fri, 29 Sep 2023 21:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[고운 한복 자태 과시
-추석 연휴 계획도 공유]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695954253314EXqcj.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA['알쓸인잡' 인연...방탄소년단 RM, 대한법의학회에 1억원 기부 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/434905</link>
             <guid>https://www.maxmovie.com/news/434905</guid>
@@ -92,8 +83,17 @@
             <link>https://www.maxmovie.com/news/434903</link>
             <guid>https://www.maxmovie.com/news/434903</guid>
             <pubDate>Thu, 28 Sep 2023 03:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434903"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695866932981BVErV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434903"><h4>전편 능가하는 공포? '더 넌2', 박스오피스 3위로 등판</h4></a><span>09월 28일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['컨저링 유니버스' 8번째 작품
+2018년 개봉한 '더 넌'의 후속작]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695866932981BVErV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강동원 주연 '천박사', 14만 관객 동원해 박스오피스 1위로 출발 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/434901</link>
+            <guid>https://www.maxmovie.com/news/434901</guid>
+            <pubDate>Thu, 28 Sep 2023 01:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434901"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695859873611rKAGM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434901"><h4>강동원 주연 '천박사', 14만 관객 동원해 박스오피스 1위로 출발</h4></a><span>09월 28일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695859873611rKAGM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '도적' 김남길 "치열하고 처절한, 감정까지 담아낸 액션" (맥스무비 ─ 인터뷰)]]></title>
