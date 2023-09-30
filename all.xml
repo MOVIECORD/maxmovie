@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 23:05:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 00:28:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <link>https://www.maxmovie.com/news/434902</link>
             <guid>https://www.maxmovie.com/news/434902</guid>
             <pubDate>Thu, 28 Sep 2023 01:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[고윤정 이어 신시아, 한예지, 강유석, 정준원 합류
+            <content:encoded><![CDATA[고윤정 이어 신시아, 정준원 등 합류
 '슬의생' 스핀오프로 내년 상반기 방송]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695864205460MOSpr.jpg" length="0" type="image/jpg"/>
         </item>
@@ -30,8 +30,8 @@
             <link>https://www.maxmovie.com/news/434909</link>
             <guid>https://www.maxmovie.com/news/434909</guid>
             <pubDate>Thu, 28 Sep 2023 07:06:00 GMT</pubDate>
-            <content:encoded><![CDATA['천박사' 홍보 위해 '피식쇼' 출연한 강동원
-"100평 부지 단독주택에 산다" 공개해]]></content:encoded>
+            <content:encoded><![CDATA['천박사' 홍보 위해 '피식쇼' 출연
+집 평수 묻자 "부지가 거의 100평"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695881084461OczOJ.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695777770569lHj7r.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[격차 벌리는 강동원…'천박사' 사흘째 1위 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/434913</link>
+            <guid>https://www.maxmovie.com/news/434913</guid>
+            <pubDate>Sat, 30 Sep 2023 00:28:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434913"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696033341484bJ4H4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434913"><h4>격차 벌리는 강동원…'천박사' 사흘째 1위</h4></a><span>1분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696033341484bJ4H4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이서진, 윤여정 이어 후크엔터 떠난다..."9월 말 계약 종료" (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/434908</link>
             <guid>https://www.maxmovie.com/news/434908</guid>
             <pubDate>Thu, 28 Sep 2023 06:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434908"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695880437414zGYay.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434908"><h4>이서진, 윤여정 이어 후크엔터 떠난다..."9월 말 계약 종료"</h4></a><span>09월 28일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[2010년 전속계약 맺은 후 13년 함께해
+"긴 시간 함께해 준 이서진에게 감사"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695880437414zGYay.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -59,15 +68,6 @@
             <content:encoded><![CDATA[현실 공감 로맨스 표방
 이동욱, 임수정이 그릴 싱글 라이프는?]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695878717106ilrO6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스, 추석 맞아 한복 화보 공개..."풍요롭고 따뜻한 한가위 보내길" (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434906</link>
-            <guid>https://www.maxmovie.com/news/434906</guid>
-            <pubDate>Fri, 29 Sep 2023 23:04:46 GMT</pubDate>
-            <content:encoded><![CDATA[고운 한복 자태 과시
-추석 연휴 계획도 공유]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695954253314EXqcj.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['알쓸인잡' 인연...방탄소년단 RM, 대한법의학회에 1억원 기부 (맥스무비)]]></title>
@@ -266,6 +266,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694395581141O55D0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[격차 벌리는 강동원…'천박사' 사흘째 1위 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/434913</link>
+            <guid>https://www.maxmovie.com/news/434913</guid>
+            <pubDate>Sat, 30 Sep 2023 00:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[10만→14만명으로 격차 벌려
+추석 연휴 승기 굳혀]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696033341484bJ4H4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[강동원 '천박사' 이튿날도 1위…관객 수 증가 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/434912</link>
             <guid>https://www.maxmovie.com/news/434912</guid>
@@ -297,8 +306,7 @@
             <link>https://www.maxmovie.com/news/434908</link>
             <guid>https://www.maxmovie.com/news/434908</guid>
             <pubDate>Thu, 28 Sep 2023 06:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[2010년 전속계약 맺은 후 13년 함께해
-"긴 시간 함께해 준 이서진에게 감사"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434908"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695880437414zGYay.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434908"><h4>이서진, 윤여정 이어 후크엔터 떠난다..."9월 말 계약 종료"</h4></a><span>09월 28일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695880437414zGYay.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +314,8 @@
             <link>https://www.maxmovie.com/news/434907</link>
             <guid>https://www.maxmovie.com/news/434907</guid>
             <pubDate>Thu, 28 Sep 2023 06:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434907"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695878717106ilrO6.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434907"><h4>이동욱·임수정이 그리는 '싱글 인 서울', 11월29일 관객 찾는다</h4></a><span>09월 28일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[현실 공감 로맨스 표방
+이동욱, 임수정이 그릴 싱글 라이프는?]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695878717106ilrO6.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -341,16 +350,8 @@
             <link>https://www.maxmovie.com/news/434900</link>
             <guid>https://www.maxmovie.com/news/434900</guid>
             <pubDate>Thu, 28 Sep 2023 01:41:20 GMT</pubDate>
-            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 &lt;맥스무비레터&gt;에 실린 기사입니다]]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434900"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695803539599Hw7vb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434900"><h4>[맥스무비레터 #20번째 편지] 🌕추석에 뭘 볼까? 고민 중인 사람 모두 모여라🤘</h4></a><span>09월 28일<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695803539599Hw7vb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유 파워!…'아이유 영화' 7만명 돌파 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/434898</link>
-            <guid>https://www.maxmovie.com/news/434898</guid>
-            <pubDate>Wed, 27 Sep 2023 08:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434898"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695799266693DWQCb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434898"><h4>아이유 파워!…'아이유 영화' 7만명 돌파</h4></a><span>09월 27일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695799266693DWQCb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[맥스무비레터 #20번째 편지] 🌕추석에 뭘 볼까? 고민 중인 사람 모두 모여라🤘 (맥스무비 ─ OTT)]]></title>
