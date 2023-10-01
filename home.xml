@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Oct 2023 05:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Oct 2023 06:09:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696061636964NDF3p.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 완전체 못지 않은, 정국의 '글로벌 파워']]></title>
+            <link>https://www.maxmovie.com/news/434928</link>
+            <guid>https://www.maxmovie.com/news/434928</guid>
+            <pubDate>Sun, 01 Oct 2023 06:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434928"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16961300408579P3kx.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434928"><h4>BTS 완전체 못지 않은, 정국의 '글로벌 파워'</h4></a><span>39분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16961300408579P3kx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['밀수' 장기하 → '발레리나' 그레이, 영화 음악감독 맡는 뮤지션]]></title>
             <link>https://www.maxmovie.com/news/434927</link>
             <guid>https://www.maxmovie.com/news/434927</guid>
             <pubDate>Sun, 01 Oct 2023 04:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434927"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696128790126zVBBR.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434927"><h4>'밀수' 장기하 → '발레리나' 그레이, 영화 음악감독 맡는 뮤지션 </h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[여름 500만 흥행작 '밀수' 음악 화제
+'발레리나' 힙합 뮤지션 그레이 감독 맡아]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696128790126zVBBR.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -81,17 +90,8 @@ K팝 걸그룹 최초]]></content:encoded>
             <link>https://www.maxmovie.com/news/434919</link>
             <guid>https://www.maxmovie.com/news/434919</guid>
             <pubDate>Sat, 30 Sep 2023 07:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[내년 2월7일 개봉
-헨리 카빌·샘 록웰 등 출연]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434919"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696054651448Q6i0l.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434919"><h4>매튜 본의 새 스파이 액션 '아가일', 어떤 작품이길래</h4></a><span>23시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696054651448Q6i0l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김순옥 작가 '7인의 탈출', 시청률 큰 폭 하락…무슨 일?]]></title>
-            <link>https://www.maxmovie.com/news/434918</link>
-            <guid>https://www.maxmovie.com/news/434918</guid>
-            <pubDate>Sat, 30 Sep 2023 06:07:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434918"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16960515206856gsLh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/434918"><h4>김순옥 작가 '7인의 탈출', 시청률 큰 폭 하락…무슨 일?</h4></a><span>23시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16960515206856gsLh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
