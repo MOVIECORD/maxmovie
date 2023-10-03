@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 08:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 09:06:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜로 없는 시대, 다시 '접속'이 뜨는 까닭은?]]></title>
+            <link>https://www.maxmovie.com/news/434945</link>
+            <guid>https://www.maxmovie.com/news/434945</guid>
+            <pubDate>Tue, 03 Oct 2023 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[1997년 '접속' 시청자 새로운 눈길
+추석영화 방송 뒤 OTT 인기 영화로]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16963226618981i9D1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 정국 "여자친구 없다. 아미 밖에!"]]></title>
             <link>https://www.maxmovie.com/news/434944</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/434939</link>
             <guid>https://www.maxmovie.com/news/434939</guid>
             <pubDate>Mon, 02 Oct 2023 12:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[1일 밤 복통 호소 2일 응급 수술
-개막식 박은빈 단독 진행으로]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434939"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696244910133KHDpR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434939"><h4>이제훈, 부국제 불참 이유? 허혈성 대장염 응급수술 </h4></a><span>21시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696244910133KHDpR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/434938</link>
             <guid>https://www.maxmovie.com/news/434938</guid>
             <pubDate>Mon, 02 Oct 2023 12:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434938"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696243903576ZGzFM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434938"><h4>박은빈, 부국제 개막식 '최초' 단독 진행 </h4></a><span>21시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[공동 진행자 이제훈 건강상 불참
+부국제 개막식 단독 진행은 처음]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696243903576ZGzFM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/434934</link>
             <guid>https://www.maxmovie.com/news/434934</guid>
             <pubDate>Mon, 02 Oct 2023 04:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 '힙하게' 시청률 9.3% 종영
-한지민과 김석윤 감독의 3번째 호흡]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434934"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696211642896aKXKq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434934"><h4>한지민 "'전원일기'처럼 오래 찍고 싶던 '힙하게'"</h4></a><span>10월 02일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696211642896aKXKq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['무빙' 시즌2 '브릿지'...강풀 웹툰 초능력자들 뭉칠까]]></title>
-            <link>https://www.maxmovie.com/news/434933</link>
-            <guid>https://www.maxmovie.com/news/434933</guid>
-            <pubDate>Mon, 02 Oct 2023 03:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434933"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696206979055XzgER.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434933"><h4>'무빙' 시즌2 '브릿지'...강풀 웹툰 초능력자들 뭉칠까 </h4></a><span>10월 02일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696206979055XzgER.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
