@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 02:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 03:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 조현철이 연출한 두 소녀의 마음 '너와 나']]></title>
+            <link>https://www.maxmovie.com/news/434951</link>
+            <guid>https://www.maxmovie.com/news/434951</guid>
+            <pubDate>Wed, 04 Oct 2023 03:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/434951"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1696387874313PIpWa.jpg" alt=""></span><span class="textBox"><h4>배우 조현철이 연출한 두 소녀의 마음 '너와 나'  </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696387874313PIpWa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하정우·임시완 환희의 순간, 그 비하인드 현장]]></title>
             <link>https://www.maxmovie.com/news/434929</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 12 Jun 2023 08:10:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/433725"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1686554776741CnG6q.jpg" alt=""></span><span class="textBox"><h4>어디서도 본 적 없는 비주얼, 핑크핑크 영화 '바비' 스틸 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686554776741CnG6q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[칸 포토] '거미집' 주역들, 칸에서 빛났다]]></title>
-            <link>https://www.maxmovie.com/news/433615</link>
-            <guid>https://www.maxmovie.com/news/433615</guid>
-            <pubDate>Tue, 30 May 2023 11:04:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/433615"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1685440433099RsX1q.jpg" alt=""></span><span class="textBox"><h4>[칸 포토] '거미집' 주역들, 칸에서 빛났다 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1685440433099RsX1q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
