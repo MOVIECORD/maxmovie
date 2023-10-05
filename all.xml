@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 01:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 02:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696399811054ucNmm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정국, '막강 솔로 파워' MTV 유럽 어워드 韓 신기록 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/434965</link>
+            <guid>https://www.maxmovie.com/news/434965</guid>
+            <pubDate>Thu, 05 Oct 2023 02:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434965"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16964708838867F6ri.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434965"><h4>정국, '막강 솔로 파워' MTV 유럽 어워드 韓 신기록  </h4></a><span>1분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16964708838867F6ri.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뜻밖의 히트작 '데블스 플랜', 넷플릭스 글로벌 성적 살펴보니 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/434957</link>
             <guid>https://www.maxmovie.com/news/434957</guid>
             <pubDate>Wed, 04 Oct 2023 14:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434957"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16964048602095rtIf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434957"><h4>뜻밖의 히트작 '데블스 플랜', 넷플릭스 글로벌 성적 살펴보니</h4></a><span>17시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[넷플릭스 비영어 TV 부문 3위  
+6일 동안 230만 시청 수 기록]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16964048602095rtIf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,17 +88,8 @@
             <link>https://www.maxmovie.com/news/434949</link>
             <guid>https://www.maxmovie.com/news/434949</guid>
             <pubDate>Wed, 04 Oct 2023 14:05:17 GMT</pubDate>
-            <content:encoded><![CDATA['천박사', 3일까지 150만 동원
-OTT, 추석 연휴 겨냥해 신작 선보여]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434949"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696379301023izELx.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434949"><h4>강동원 '천박사'만 웃었다, 추석 극장 작년과 비교해보니...</h4></a><span>10월 04일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696379301023izELx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2만 관객에 멈춘 '치악산', 이제 안방극장에서 본다 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434950</link>
-            <guid>https://www.maxmovie.com/news/434950</guid>
-            <pubDate>Wed, 04 Oct 2023 14:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434950"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696380468982QBmzi.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434950"><h4>2만 관객에 멈춘 '치악산', 이제 안방극장에서 본다 </h4></a><span>10월 04일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696380468982QBmzi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '천박사' 김성식 감독, 애니메이션→극영화 선회한 까닭은 (맥스무비 ─ 인터뷰)]]></title>
@@ -263,10 +263,19 @@ OTT, 추석 연휴 겨냥해 신작 선보여]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694422368498BLq9C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정국, '막강 솔로 파워' MTV 유럽 어워드 韓 신기록 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/434965</link>
+            <guid>https://www.maxmovie.com/news/434965</guid>
+            <pubDate>Thu, 05 Oct 2023 02:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[3개 부문 최다 후보 진출
+11월5일 파리서 시상식]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16964708838867F6ri.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[['무빙' 감독들 코멘터리②]  "무협을 멜로로 바꾼 장주원 가족" (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/434964</link>
             <guid>https://www.maxmovie.com/news/434964</guid>
-            <pubDate>Thu, 05 Oct 2023 01:45:00 GMT</pubDate>
+            <pubDate>Thu, 05 Oct 2023 01:44:33 GMT</pubDate>
             <content:encoded><![CDATA["영하 28도 강추위에 카메라도 고장"
 "누워서도 와이어를 잘 타는 조인성"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16964663537087X68X.jpg" length="0" type="image/jpg"/>
@@ -294,7 +303,7 @@ OTT, 추석 연휴 겨냥해 신작 선보여]]></content:encoded>
             <link>https://www.maxmovie.com/news/434959</link>
             <guid>https://www.maxmovie.com/news/434959</guid>
             <pubDate>Wed, 04 Oct 2023 22:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다.]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434959"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696406780226T4CZQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434959"><h4>[데일리 핫이슈] 화사 공연음란 혐의 결과·수영 스타들 '유퀴즈' 출연·배우 김규철 '효심이네' 합류 </h4></a><span>4시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696406780226T4CZQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -302,7 +311,8 @@ OTT, 추석 연휴 겨냥해 신작 선보여]]></content:encoded>
             <link>https://www.maxmovie.com/news/434957</link>
             <guid>https://www.maxmovie.com/news/434957</guid>
             <pubDate>Wed, 04 Oct 2023 14:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434957"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16964048602095rtIf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434957"><h4>뜻밖의 히트작 '데블스 플랜', 넷플릭스 글로벌 성적 살펴보니</h4></a><span>17시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[넷플릭스 비영어 TV 부문 3위  
+6일 동안 230만 시청 수 기록]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16964048602095rtIf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -335,22 +345,14 @@ OTT, 추석 연휴 겨냥해 신작 선보여]]></content:encoded>
             <link>https://www.maxmovie.com/news/434953</link>
             <guid>https://www.maxmovie.com/news/434953</guid>
             <pubDate>Wed, 04 Oct 2023 14:05:17 GMT</pubDate>
-            <content:encoded><![CDATA['거미집'의 한 장면. 사진제공=바른손이앤에이오늘, 볼만한 작품을 추천합니다.◆ '거미집''거미집'은 1970년대를 배경으로 다 찍은 영화 '거미집'의 결말만 바꾸면 걸작이 될 거라 믿는 김열 감독(송강호)이 벌이는 소동국이다. 당국의 검열과 바뀐 영화의 결말을 이해하지 못하는 배우,&nbsp;제작자가 얽혀 벌어지는 '미치기 일보 직전'의 현장에서 김열 감독이 끝까]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434953"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696397065480H86AY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434953"><h4>[오늘 뭘 볼까] 김지운 감독의 1970년대 영화판, '거미집'</h4></a><span>20시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696397065480H86AY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임시완, 관객을 실망시킨 적 없는 '맑은 눈' (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/434952</link>
-            <guid>https://www.maxmovie.com/news/434952</guid>
-            <pubDate>Wed, 04 Oct 2023 14:05:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434952"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696398501499WlWMv.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434952"><h4>임시완, 관객을 실망시킨 적 없는 '맑은 눈' </h4></a><span>19시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696398501499WlWMv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[['무빙' 감독들 코멘터리②]  "무협을 멜로로 바꾼 장주원 가족" (맥스무비 ─ OTT)]]></title>
             <link>https://www.maxmovie.com/news/434964</link>
             <guid>https://www.maxmovie.com/news/434964</guid>
-            <pubDate>Thu, 05 Oct 2023 01:45:08 GMT</pubDate>
+            <pubDate>Thu, 05 Oct 2023 01:44:33 GMT</pubDate>
             <content:encoded><![CDATA["영하 28도 강추위에 카메라도 고장"
 "누워서도 와이어를 잘 타는 조인성"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16964663537087X68X.jpg" length="0" type="image/jpg"/>
@@ -359,7 +361,7 @@ OTT, 추석 연휴 겨냥해 신작 선보여]]></content:encoded>
             <title><![CDATA[['무빙' 감독들 코멘터리①]  "봉석이가 이렇게 잘 날 줄이야" (맥스무비 ─ OTT)]]></title>
             <link>https://www.maxmovie.com/news/434963</link>
             <guid>https://www.maxmovie.com/news/434963</guid>
-            <pubDate>Thu, 05 Oct 2023 01:45:08 GMT</pubDate>
+            <pubDate>Thu, 05 Oct 2023 01:45:00 GMT</pubDate>
             <content:encoded><![CDATA["귀여움 독차지, 정원고 아이들"
 "온몸에 진흙 고윤정, 희수 그 자체"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696465755293aKZgQ.jpg" length="0" type="image/jpg"/>

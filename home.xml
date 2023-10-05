@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 01:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 02:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696399811054ucNmm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정국, '막강 솔로 파워' MTV 유럽 어워드 韓 신기록]]></title>
+            <link>https://www.maxmovie.com/news/434965</link>
+            <guid>https://www.maxmovie.com/news/434965</guid>
+            <pubDate>Thu, 05 Oct 2023 02:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434965"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16964708838867F6ri.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434965"><h4>정국, '막강 솔로 파워' MTV 유럽 어워드 韓 신기록  </h4></a><span>1분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16964708838867F6ri.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뜻밖의 히트작 '데블스 플랜', 넷플릭스 글로벌 성적 살펴보니]]></title>
             <link>https://www.maxmovie.com/news/434957</link>
             <guid>https://www.maxmovie.com/news/434957</guid>
             <pubDate>Thu, 05 Oct 2023 01:44:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434957"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16964048602095rtIf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434957"><h4>뜻밖의 히트작 '데블스 플랜', 넷플릭스 글로벌 성적 살펴보니</h4></a><span>17시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[넷플릭스 비영어 TV 부문 3위  
+6일 동안 230만 시청 수 기록]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16964048602095rtIf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,17 +88,8 @@
             <link>https://www.maxmovie.com/news/434949</link>
             <guid>https://www.maxmovie.com/news/434949</guid>
             <pubDate>Wed, 04 Oct 2023 09:06:49 GMT</pubDate>
-            <content:encoded><![CDATA['천박사', 3일까지 150만 동원
-OTT, 추석 연휴 겨냥해 신작 선보여]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434949"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696379301023izELx.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434949"><h4>강동원 '천박사'만 웃었다, 추석 극장 작년과 비교해보니...</h4></a><span>10월 04일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696379301023izELx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2만 관객에 멈춘 '치악산', 이제 안방극장에서 본다]]></title>
-            <link>https://www.maxmovie.com/news/434950</link>
-            <guid>https://www.maxmovie.com/news/434950</guid>
-            <pubDate>Wed, 04 Oct 2023 01:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434950"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696380468982QBmzi.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434950"><h4>2만 관객에 멈춘 '치악산', 이제 안방극장에서 본다 </h4></a><span>10월 04일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696380468982QBmzi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
