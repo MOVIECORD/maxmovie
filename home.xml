@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 22:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 23:06:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696489428596CFIK4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[BIFF] 볼드모트가 된 존 조의 '서치'…할리우드 파업이 만든 이색 풍경]]></title>
+            <link>https://www.maxmovie.com/news/434978</link>
+            <guid>https://www.maxmovie.com/news/434978</guid>
+            <pubDate>Thu, 05 Oct 2023 23:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434978"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696516140496H5ZRI.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434978"><h4>[BIFF] 볼드모트가 된 존 조의 '서치'…할리우드 파업이 만든 이색 풍경</h4></a><span>51분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696516140496H5ZRI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[데일리 핫이슈] 제니 유재석과 예능 고정 출연‧최현욱 자필 사과‧유빈 결별]]></title>
             <link>https://www.maxmovie.com/news/434977</link>
             <guid>https://www.maxmovie.com/news/434977</guid>
             <pubDate>Thu, 05 Oct 2023 22:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434977"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696500571948HhM3o.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434977"><h4>[데일리 핫이슈] 제니 유재석과 예능 고정 출연‧최현욱 자필 사과‧유빈 결별 </h4></a><span>5분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다.]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696500571948HhM3o.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +89,8 @@
             <link>https://www.maxmovie.com/news/434964</link>
             <guid>https://www.maxmovie.com/news/434964</guid>
             <pubDate>Thu, 05 Oct 2023 01:44:33 GMT</pubDate>
-            <content:encoded><![CDATA["영하 28도 강추위에 카메라도 고장"
-"누워서도 와이어를 잘 타는 조인성"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434964"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16964663537087X68X.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434964"><h4>['무빙' 감독들 코멘터리②]  "무협을 멜로로 바꾼 장주원 가족" </h4></a><span>21시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16964663537087X68X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰:포테이토 지수 85%]'한국이 싫어서' 떠난 청춘의 치열한 질문]]></title>
-            <link>https://www.maxmovie.com/news/434961</link>
-            <guid>https://www.maxmovie.com/news/434961</guid>
-            <pubDate>Thu, 05 Oct 2023 04:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434961"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696428188558wms2x.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/434961"><h4>[리뷰:포테이토 지수 85%]'한국이 싫어서' 떠난 청춘의 치열한 질문</h4></a><span>10월 04일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696428188558wms2x.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
