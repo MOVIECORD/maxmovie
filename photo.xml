@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 02:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 03:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BIFF] 박은빈, 개막식 최초 단독 진행 "떨리지 않아요"]]></title>
+            <link>https://www.maxmovie.com/news/434966</link>
+            <guid>https://www.maxmovie.com/news/434966</guid>
+            <pubDate>Thu, 05 Oct 2023 03:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/434966"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1696472753023YrhbZ.jpg" alt=""></span><span class="textBox"><h4>[BIFF] 박은빈, 개막식 최초 단독 진행 "떨리지 않아요"</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696472753023YrhbZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 조현철이 연출한 두 소녀의 마음 '너와 나']]></title>
             <link>https://www.maxmovie.com/news/434951</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 15 Jun 2023 02:08:37 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/433762"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1686791797278biLse.jpg" alt=""></span><span class="textBox"><h4>'조춘자' 김혜수부터 '갈매기 눈썹' 고민시까지... '밀수' 반전 스틸 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686791797278biLse.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어디서도 본 적 없는 비주얼, 핑크핑크 영화 '바비' 스틸]]></title>
-            <link>https://www.maxmovie.com/news/433725</link>
-            <guid>https://www.maxmovie.com/news/433725</guid>
-            <pubDate>Mon, 12 Jun 2023 08:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/433725"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1686554776741CnG6q.jpg" alt=""></span><span class="textBox"><h4>어디서도 본 적 없는 비주얼, 핑크핑크 영화 '바비' 스틸 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686554776741CnG6q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
