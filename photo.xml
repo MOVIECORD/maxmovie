@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 06:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 07:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BIFF 화보] 임영웅과 만난 영화 '소풍'의 주인공들]]></title>
+            <link>https://www.maxmovie.com/news/434971</link>
+            <guid>https://www.maxmovie.com/news/434971</guid>
+            <pubDate>Thu, 05 Oct 2023 07:05:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/434971"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1696485547675Tsnkb.jpg" alt=""></span><span class="textBox"><h4>[BIFF 화보] 임영웅과 만난 영화 '소풍'의 주인공들</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696485547675Tsnkb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BIFF 화보] 한효주 무한 변신,  '무빙' 이미현→ '독전2' 큰칼]]></title>
             <link>https://www.maxmovie.com/news/434969</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Jul 2023 02:23:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/434031"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1689127222464UqA1e.jpg" alt=""></span><span class="textBox"><h4>[사진으로 먼저 보는] 유해진·김희선의 '달짝지근한' 로맨스</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689127222464UqA1e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사진으로 먼저 보는]  바뀌지 않는 참혹한 현실... 'D.P.' 시즌2]]></title>
-            <link>https://www.maxmovie.com/news/433984</link>
-            <guid>https://www.maxmovie.com/news/433984</guid>
-            <pubDate>Fri, 07 Jul 2023 04:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/433984"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1688701018105YvGv2.jpg" alt=""></span><span class="textBox"><h4>[사진으로 먼저 보는]  바뀌지 않는 참혹한 현실... 'D.P.' 시즌2</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688701018105YvGv2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
