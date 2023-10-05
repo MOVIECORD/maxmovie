@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 03:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 04:09:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BIFF 화보] 송강호·박은빈·송중기…화려한 레드카펫]]></title>
+            <link>https://www.maxmovie.com/news/434967</link>
+            <guid>https://www.maxmovie.com/news/434967</guid>
+            <pubDate>Thu, 05 Oct 2023 04:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/434967"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1696476086299S5uaL.jpg" alt=""></span><span class="textBox"><h4>[BIFF 화보] 송강호·박은빈·송중기…화려한 레드카펫</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696476086299S5uaL.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BIFF] 박은빈, 개막식 최초 단독 진행 "떨리지 않아요"]]></title>
             <link>https://www.maxmovie.com/news/434966</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 05 Jul 2023 07:08:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/433968"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1688536841604zyqSo.jpg" alt=""></span><span class="textBox"><h4>이병헌 · 박서준 · 박보영, 황궁 아파트에 모인 까닭은...</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688536841604zyqSo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['조춘자' 김혜수부터 '갈매기 눈썹' 고민시까지... '밀수' 반전 스틸]]></title>
-            <link>https://www.maxmovie.com/news/433762</link>
-            <guid>https://www.maxmovie.com/news/433762</guid>
-            <pubDate>Thu, 15 Jun 2023 02:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/433762"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1686791797278biLse.jpg" alt=""></span><span class="textBox"><h4>'조춘자' 김혜수부터 '갈매기 눈썹' 고민시까지... '밀수' 반전 스틸 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1686791797278biLse.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
