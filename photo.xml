@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 05:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 06:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BIFF 화보] 한효주 무한 변신,  '무빙' 이미현→ '독전2' 큰칼]]></title>
+            <link>https://www.maxmovie.com/news/434969</link>
+            <guid>https://www.maxmovie.com/news/434969</guid>
+            <pubDate>Thu, 05 Oct 2023 06:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/434969"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1696484558655smr67.jpg" alt=""></span><span class="textBox"><h4>[BIFF 화보] 한효주 무한 변신,  '무빙' 이미현→ '독전2' 큰칼</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696484558655smr67.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BIFF 화보] 송강호·박은빈·송중기…화려한 레드카펫]]></title>
             <link>https://www.maxmovie.com/news/434967</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Jul 2023 04:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/433984"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1688701018105YvGv2.jpg" alt=""></span><span class="textBox"><h4>[사진으로 먼저 보는]  바뀌지 않는 참혹한 현실... 'D.P.' 시즌2</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688701018105YvGv2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이병헌 · 박서준 · 박보영, 황궁 아파트에 모인 까닭은...]]></title>
-            <link>https://www.maxmovie.com/news/433968</link>
-            <guid>https://www.maxmovie.com/news/433968</guid>
-            <pubDate>Wed, 05 Jul 2023 07:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/433968"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1688536841604zyqSo.jpg" alt=""></span><span class="textBox"><h4>이병헌 · 박서준 · 박보영, 황궁 아파트에 모인 까닭은...</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1688536841604zyqSo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
