@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 00:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 01:42:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강동원이 '천박사'가 되기까지...비하인드 현장 컷]]></title>
+            <link>https://www.maxmovie.com/news/434981</link>
+            <guid>https://www.maxmovie.com/news/434981</guid>
+            <pubDate>Fri, 06 Oct 2023 01:42:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/434981"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1696554238330FV1oE.jpg" alt=""></span><span class="textBox"><h4>강동원이 '천박사'가 되기까지...비하인드 현장 컷 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696554238330FV1oE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BIFF 화보] 임영웅과 만난 영화 '소풍'의 주인공들]]></title>
             <link>https://www.maxmovie.com/news/434971</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 17 Jul 2023 05:08:07 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/434073"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/168956833889178J45.jpg" alt=""></span><span class="textBox"><h4>[사진으로 먼저 보는] 평범하게 살고 싶었던, '보호자' 정우성 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/168956833889178J45.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사진으로 먼저 보는] 유해진·김희선의 '달짝지근한' 로맨스]]></title>
-            <link>https://www.maxmovie.com/news/434031</link>
-            <guid>https://www.maxmovie.com/news/434031</guid>
-            <pubDate>Wed, 12 Jul 2023 02:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/434031"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1689127222464UqA1e.jpg" alt=""></span><span class="textBox"><h4>[사진으로 먼저 보는] 유해진·김희선의 '달짝지근한' 로맨스</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689127222464UqA1e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
