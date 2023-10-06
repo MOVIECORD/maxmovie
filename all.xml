@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 10:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 11:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696578842258eB6TO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[BIFF] 송중기가 부산에서 상영한 '늑대소년'을 잊을 수 없는 이유 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/434998</link>
+            <guid>https://www.maxmovie.com/news/434998</guid>
+            <pubDate>Fri, 06 Oct 2023 11:04:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434998"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696587531325Oemvn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434998"><h4>[BIFF] 송중기가 부산에서 상영한 '늑대소년'을 잊을 수 없는 이유</h4></a><span>30분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696587531325Oemvn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[BIFF] 황정민, '운수 오진 날' 캐스팅 도운 숨은 조력자 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/434996</link>
             <guid>https://www.maxmovie.com/news/434996</guid>
             <pubDate>Fri, 06 Oct 2023 09:05:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434996"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696579249830GnzVw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434996"><h4>[BIFF] 황정민, '운수 오진 날' 캐스팅 도운 숨은 조력자</h4></a><span>1시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[이성민 유연석에 감독 장점 소개 
+감독과 황정민, 영화 '인질' 파트너]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696579249830GnzVw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,16 +92,8 @@
             <link>https://www.maxmovie.com/news/434979</link>
             <guid>https://www.maxmovie.com/news/434979</guid>
             <pubDate>Fri, 06 Oct 2023 01:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[스포일러가 일부 포함돼 있습니다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434979"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696552690307g8xWN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/434979"><h4>[리뷰:포테이토 지수 80%]   '녹야', 두려움에 맞서는 여성의 연대</h4></a><span>9시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696552690307g8xWN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF] 이병헌 "관객이 극장에 오도록, 영화인 모두 힘을 합쳐요" (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434980</link>
-            <guid>https://www.maxmovie.com/news/434980</guid>
-            <pubDate>Fri, 06 Oct 2023 09:05:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434980"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696552611094KSvUb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434980"><h4>[BIFF] 이병헌 "관객이 극장에 오도록, 영화인 모두 힘을 합쳐요" </h4></a><span>9시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696552611094KSvUb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '천박사' 김성식 감독, 애니메이션→극영화 선회한 까닭은 (맥스무비 ─ 인터뷰)]]></title>
@@ -266,6 +267,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694479932381va0lw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[BIFF] 송중기가 부산에서 상영한 '늑대소년'을 잊을 수 없는 이유 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/434998</link>
+            <guid>https://www.maxmovie.com/news/434998</guid>
+            <pubDate>Fri, 06 Oct 2023 11:04:41 GMT</pubDate>
+            <content:encoded><![CDATA['화란'으로 부산국제영화제 찾은 송중기
+"처음엔 거절한 '늑대소년', 이야기에 매료돼"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696587531325Oemvn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[BIFF] 황정민, '운수 오진 날' 캐스팅 도운 숨은 조력자 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/434996</link>
             <guid>https://www.maxmovie.com/news/434996</guid>
@@ -297,8 +307,7 @@
             <link>https://www.maxmovie.com/news/434992</link>
             <guid>https://www.maxmovie.com/news/434992</guid>
             <pubDate>Fri, 06 Oct 2023 08:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드 파업으로 작품 언급 못해
-"예술가들의 미래 보장 위한 파업"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434992"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696572772008s5FoH.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434992"><h4>[BIFF] 스티븐 연·존 조가 밝힌 '할리우드 파업'의 목적</h4></a><span>3시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696572772008s5FoH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +315,8 @@
             <link>https://www.maxmovie.com/news/434990</link>
             <guid>https://www.maxmovie.com/news/434990</guid>
             <pubDate>Fri, 06 Oct 2023 06:09:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434990"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696569659338g6u6Q.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434990"><h4>[BIFF] 전종서, 연인 이충현 감독이 '미쳤다'고 말한 이유</h4></a><span>4시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[제28회 부산국제영화제
+'발레리나' 오픈토크]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696569659338g6u6Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -341,17 +351,8 @@
             <link>https://www.maxmovie.com/news/434985</link>
             <guid>https://www.maxmovie.com/news/434985</guid>
             <pubDate>Fri, 06 Oct 2023 04:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[부국제 개막작으로 첫 공개
-"한국을 좋아하고 싶어  만든 영화"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434985"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696559255972ixkc2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434985"><h4>[BIFF 화보] '한국이 싫어서'는 영화 제목일 뿐... </h4></a><span>6시간 전<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696559255972ixkc2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF  화보] 김다미와 전소니의 '다정한' 눈길 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/434984</link>
-            <guid>https://www.maxmovie.com/news/434984</guid>
-            <pubDate>Fri, 06 Oct 2023 03:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434984"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696558276352UXvUQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434984"><h4>[BIFF  화보] 김다미와 전소니의 '다정한' 눈길 </h4></a><span>7시간 전<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696558276352UXvUQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[BIFF] 황정민, '운수 오진 날' 캐스팅 도운 숨은 조력자 (맥스무비 ─ OTT)]]></title>
