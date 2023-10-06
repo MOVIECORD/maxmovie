@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 03:07:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 04:08:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BIFF 화보] '한국이 싫어서'는 영화 제목일 뿐...]]></title>
+            <link>https://www.maxmovie.com/news/434985</link>
+            <guid>https://www.maxmovie.com/news/434985</guid>
+            <pubDate>Fri, 06 Oct 2023 04:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/434985"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1696559255972ixkc2.jpg" alt=""></span><span class="textBox"><h4>[BIFF 화보] '한국이 싫어서'는 영화 제목일 뿐... </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696559255972ixkc2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BIFF  화보] 김다미와 전소니의 '다정한' 눈길]]></title>
             <link>https://www.maxmovie.com/news/434984</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 24 Jul 2023 09:08:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/434166"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1690187507522w862E.jpg" alt=""></span><span class="textBox"><h4>죄수복 입은 고현정, 이런 모습 처음이야... </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690187507522w862E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['감독' 정우성 VS '배우' 정우성, 당신의 선택은?]]></title>
-            <link>https://www.maxmovie.com/news/434138</link>
-            <guid>https://www.maxmovie.com/news/434138</guid>
-            <pubDate>Fri, 21 Jul 2023 07:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/434138"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1689920680013fdEKc.jpg" alt=""></span><span class="textBox"><h4>'감독' 정우성 VS '배우' 정우성, 당신의 선택은?</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689920680013fdEKc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
