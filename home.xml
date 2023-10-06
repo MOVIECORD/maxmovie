@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 02:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 03:07:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696463988673ae2mS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이유, 촬영 중 '살해 협박' 받아 경찰 출동]]></title>
+            <link>https://www.maxmovie.com/news/434986</link>
+            <guid>https://www.maxmovie.com/news/434986</guid>
+            <pubDate>Fri, 06 Oct 2023 03:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434986"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696559691014rn70H.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434986"><h4>아이유, 촬영 중 '살해 협박' 받아 경찰 출동 </h4></a><span>15분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696559691014rn70H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[현빈과 탕웨이의 아픈 사랑,  '만추' 12년만에 재개봉]]></title>
             <link>https://www.maxmovie.com/news/434982</link>
             <guid>https://www.maxmovie.com/news/434982</guid>
             <pubDate>Fri, 06 Oct 2023 02:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434982"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696556292881xPCw3.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434982"><h4>현빈과 탕웨이의 아픈 사랑,  '만추' 12년만에 재개봉 </h4></a><span>12분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[11월8일 공개, 4K 리마스터링 버전 
+탕웨이와 김태용 감독의 사랑 싹튼 작품]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696556292881xPCw3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/434973</link>
             <guid>https://www.maxmovie.com/news/434973</guid>
             <pubDate>Thu, 05 Oct 2023 08:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[윤정희, 한국영화공로상 수상
-딸 백진희씨 개막식 무대에]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434973"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169648837220741aTA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434973"><h4>[BIFF]  고 윤정희 추억한 이창동 감독 "가장 아름다운 별"</h4></a><span>20시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/169648837220741aTA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF] 실종설 있었던 판빙빙,  "공백이 길어진 이유는…"]]></title>
-            <link>https://www.maxmovie.com/news/434972</link>
-            <guid>https://www.maxmovie.com/news/434972</guid>
-            <pubDate>Thu, 05 Oct 2023 07:05:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434972"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696489428596CFIK4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434972"><h4>[BIFF] 실종설 있었던 판빙빙,  "공백이 길어진 이유는…"</h4></a><span>19시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696489428596CFIK4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 02:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 03:07:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696463988673ae2mS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이유, 촬영 중 '살해 협박' 받아 경찰 출동 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/434986</link>
+            <guid>https://www.maxmovie.com/news/434986</guid>
+            <pubDate>Fri, 06 Oct 2023 03:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434986"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696559691014rn70H.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434986"><h4>아이유, 촬영 중 '살해 협박' 받아 경찰 출동 </h4></a><span>15분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696559691014rn70H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[현빈과 탕웨이의 아픈 사랑,  '만추' 12년만에 재개봉 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/434982</link>
             <guid>https://www.maxmovie.com/news/434982</guid>
             <pubDate>Fri, 06 Oct 2023 02:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434982"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696556292881xPCw3.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434982"><h4>현빈과 탕웨이의 아픈 사랑,  '만추' 12년만에 재개봉 </h4></a><span>12분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[11월8일 공개, 4K 리마스터링 버전 
+탕웨이와 김태용 감독의 사랑 싹튼 작품]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696556292881xPCw3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/434973</link>
             <guid>https://www.maxmovie.com/news/434973</guid>
             <pubDate>Thu, 05 Oct 2023 08:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[윤정희, 한국영화공로상 수상
-딸 백진희씨 개막식 무대에]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434973"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169648837220741aTA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434973"><h4>[BIFF]  고 윤정희 추억한 이창동 감독 "가장 아름다운 별"</h4></a><span>20시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/169648837220741aTA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF] 실종설 있었던 판빙빙,  "공백이 길어진 이유는…" (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434972</link>
-            <guid>https://www.maxmovie.com/news/434972</guid>
-            <pubDate>Thu, 05 Oct 2023 07:05:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434972"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696489428596CFIK4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434972"><h4>[BIFF] 실종설 있었던 판빙빙,  "공백이 길어진 이유는…"</h4></a><span>19시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696489428596CFIK4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '천박사' 김성식 감독, 애니메이션→극영화 선회한 까닭은 (맥스무비 ─ 인터뷰)]]></title>
@@ -264,10 +264,28 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694479932381va0lw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이유, 촬영 중 '살해 협박' 받아 경찰 출동 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/434986</link>
+            <guid>https://www.maxmovie.com/news/434986</guid>
+            <pubDate>Fri, 06 Oct 2023 03:07:27 GMT</pubDate>
+            <content:encoded><![CDATA[아이유 집, 소속사 사옥 경찰 확인
+협박에 "선처 없는 강경 대응"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696559691014rn70H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[BIFF  화보] 김다미와 전소니의 '다정한' 눈길 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/434984</link>
+            <guid>https://www.maxmovie.com/news/434984</guid>
+            <pubDate>Fri, 06 Oct 2023 03:07:27 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '소울메이트' 야외 무대인사
+민용근 감독과 작업한 두 친구의 삶]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696558276352UXvUQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[현빈과 탕웨이의 아픈 사랑,  '만추' 12년만에 재개봉 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/434982</link>
             <guid>https://www.maxmovie.com/news/434982</guid>
-            <pubDate>Fri, 06 Oct 2023 02:15:46 GMT</pubDate>
+            <pubDate>Fri, 06 Oct 2023 02:15:24 GMT</pubDate>
             <content:encoded><![CDATA[11월8일 공개, 4K 리마스터링 버전 
 탕웨이와 김태용 감독의 사랑 싹튼 작품]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696556292881xPCw3.jpg" length="0" type="image/jpg"/>
@@ -286,8 +304,7 @@
             <link>https://www.maxmovie.com/news/434980</link>
             <guid>https://www.maxmovie.com/news/434980</guid>
             <pubDate>Fri, 06 Oct 2023 01:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[부일영화상 남우주연상 수상
-'콘크리트 유토피아' 4관왕]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434980"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696552611094KSvUb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434980"><h4>[BIFF] 이병헌 "관객이 극장에 오도록, 영화인 모두 힘을 합쳐요" </h4></a><span>2시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696552611094KSvUb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -297,14 +314,14 @@
             <pubDate>Thu, 05 Oct 2023 23:05:41 GMT</pubDate>
             <content:encoded><![CDATA[미국영화배우조합 파업으로 작품 거론 못해
 한국계 미국인의 삶·출간서적 위주 이야기]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696516140496H5ZRI.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696561227273MAtRw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[데일리 핫이슈] 제니 유재석과 예능 고정 출연‧최현욱 자필 사과‧유빈 결별 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/434977</link>
             <guid>https://www.maxmovie.com/news/434977</guid>
             <pubDate>Thu, 05 Oct 2023 22:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434977"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696500571948HhM3o.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434977"><h4>[데일리 핫이슈] 제니 유재석과 예능 고정 출연‧최현욱 자필 사과‧유빈 결별 </h4></a><span>4시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다.]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696500571948HhM3o.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -329,26 +346,8 @@
             <link>https://www.maxmovie.com/news/434974</link>
             <guid>https://www.maxmovie.com/news/434974</guid>
             <pubDate>Thu, 05 Oct 2023 09:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[BIFF 특별기획 '코리안 디아스포라' 오픈토크
-'미나리' 정이삭 감독 "이창동 감독은 내 영웅"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434974"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16964976012991EWuy.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434974"><h4>[BIFF] '파친코' 저스틴 전 감독 "굳이 '코리안 아메리칸' 묶어야 하나?"</h4></a><span>18시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16964976012991EWuy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF]  고 윤정희 추억한 이창동 감독 "가장 아름다운 별" (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/434973</link>
-            <guid>https://www.maxmovie.com/news/434973</guid>
-            <pubDate>Thu, 05 Oct 2023 08:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[윤정희, 한국영화공로상 수상
-딸 백진희씨 개막식 무대에]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/169648837220741aTA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF] 실종설 있었던 판빙빙,  "공백이 길어진 이유는…" (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/434972</link>
-            <guid>https://www.maxmovie.com/news/434972</guid>
-            <pubDate>Thu, 05 Oct 2023 07:05:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434972"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696489428596CFIK4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434972"><h4>[BIFF] 실종설 있었던 판빙빙,  "공백이 길어진 이유는…"</h4></a><span>19시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696489428596CFIK4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[['무빙' 감독들 코멘터리②]  "무협을 멜로로 바꾼 장주원 가족" (맥스무비 ─ OTT)]]></title>
@@ -437,6 +436,14 @@
             <pubDate>Wed, 04 Oct 2023 14:05:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434916"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16960426248911MCA3.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/434916"><h4>몽골로 무빙 차태현, 편지 받고 오열한 까닭은?</h4></a><span>09월 30일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16960426248911MCA3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[BIFF  화보] 김다미와 전소니의 '다정한' 눈길 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/434984</link>
+            <guid>https://www.maxmovie.com/news/434984</guid>
+            <pubDate>Fri, 06 Oct 2023 03:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/434984"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1696558276352UXvUQ.jpg" alt=""></span><span class="textBox"><h4>[BIFF  화보] 김다미와 전소니의 '다정한' 눈길 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696558276352UXvUQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강동원이 '천박사'가 되기까지...비하인드 현장 컷 (맥스무비 ─ 포토)]]></title>
@@ -669,14 +676,6 @@
             <pubDate>Wed, 04 Oct 2023 14:05:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/434138"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1689920680013fdEKc.jpg" alt=""></span><span class="textBox"><h4>'감독' 정우성 VS '배우' 정우성, 당신의 선택은?</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1689920680013fdEKc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사진으로 먼저 보는] 평범하게 살고 싶었던, '보호자' 정우성 (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/434073</link>
-            <guid>https://www.maxmovie.com/news/434073</guid>
-            <pubDate>Wed, 04 Oct 2023 14:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/434073"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/168956833889178J45.jpg" alt=""></span><span class="textBox"><h4>[사진으로 먼저 보는] 평범하게 살고 싶었던, '보호자' 정우성 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/168956833889178J45.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
