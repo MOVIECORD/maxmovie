@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 22:04:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 23:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696582179771GS5Jq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[BIFF] "여러분 날 존경하지 마세요" 윤여정의 당부 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435006</link>
+            <guid>https://www.maxmovie.com/news/435006</guid>
+            <pubDate>Sat, 07 Oct 2023 23:04:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435006"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696682514201kIRRo.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435006"><h4>[BIFF] "여러분 날 존경하지 마세요" 윤여정의 당부</h4></a><span>35분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696682514201kIRRo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[BIFF] 왜 지금 설리 이야기냐고요? '진리에게' 감독이 답하다 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/435004</link>
             <guid>https://www.maxmovie.com/news/435004</guid>
             <pubDate>Sat, 07 Oct 2023 22:04:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435004"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696676828767OgrLw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435004"><h4>[BIFF] 왜 지금 설리 이야기냐고요? '진리에게' 감독이 답하다</h4></a><span>5분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['진리에게', 부산국제영화제 통해 첫 상영
+정윤석 감독 "법률 자문·정신과상담의와 논의"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696676828767OgrLw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434998</link>
             <guid>https://www.maxmovie.com/news/434998</guid>
             <pubDate>Fri, 06 Oct 2023 11:04:15 GMT</pubDate>
-            <content:encoded><![CDATA['화란'으로 부산국제영화제 찾은 송중기
-"처음엔 거절한 '늑대소년', 이야기에 매료돼"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434998"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696658777098V7JEz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434998"><h4>[BIFF] 송중기가 부산에서 상영한 '늑대소년'을 잊을 수 없는 이유</h4></a><span>10월 06일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696658777098V7JEz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF] 황정민, '운수 오진 날' 캐스팅 도운 숨은 조력자 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/434996</link>
-            <guid>https://www.maxmovie.com/news/434996</guid>
-            <pubDate>Fri, 06 Oct 2023 09:05:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434996"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696658832890JJyJQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434996"><h4>[BIFF] 황정민, '운수 오진 날' 캐스팅 도운 숨은 조력자</h4></a><span>10월 06일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696658832890JJyJQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '천박사' 김성식 감독, 애니메이션→극영화 선회한 까닭은 (맥스무비 ─ 인터뷰)]]></title>
@@ -265,6 +265,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694479932381va0lw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[BIFF] "여러분 날 존경하지 마세요" 윤여정의 당부 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/435006</link>
+            <guid>https://www.maxmovie.com/news/435006</guid>
+            <pubDate>Sat, 07 Oct 2023 23:04:29 GMT</pubDate>
+            <content:encoded><![CDATA[액터스 하우스, 윤여정
+달콤살벌한 말말말]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696682514201kIRRo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[BIFF] 한효주 "'무빙' 이미현, 헌신하는 '내 엄마' 떠올리며 연기" (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/435005</link>
             <guid>https://www.maxmovie.com/news/435005</guid>
@@ -277,7 +286,7 @@
             <title><![CDATA[[BIFF] 왜 지금 설리 이야기냐고요? '진리에게' 감독이 답하다 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/435004</link>
             <guid>https://www.maxmovie.com/news/435004</guid>
-            <pubDate>Sat, 07 Oct 2023 22:04:27 GMT</pubDate>
+            <pubDate>Sat, 07 Oct 2023 22:04:04 GMT</pubDate>
             <content:encoded><![CDATA['진리에게', 부산국제영화제 통해 첫 상영
 정윤석 감독 "법률 자문·정신과상담의와 논의"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696676828767OgrLw.jpg" length="0" type="image/jpg"/>
@@ -296,7 +305,7 @@
             <link>https://www.maxmovie.com/news/435002</link>
             <guid>https://www.maxmovie.com/news/435002</guid>
             <pubDate>Sat, 07 Oct 2023 07:03:53 GMT</pubDate>
-            <content:encoded><![CDATA['화란' 오픈토크 참여중인 송중기. 사진제공=네이버TV"며칠 전에 개런티 받았어요."영화 '화란'에 출연료를 받지 않고 출연해&nbsp;화제를 모은&nbsp;송중기가 뒤늦게 "개런티를 받았다"고 밝해 눈길을 끌었다.송중기는 7일 오후 부산 해운대구 영화의전당 야외무대에서 열린 제28회 부산국제영화제 '한국영화의 오늘:스페셜 프리미어'에 초청된 주연작&nbsp;'화란'(감독 김창훈)]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435002"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696659189716BlxCu.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435002"><h4>[BIFF] '노 개런티' 송중기,  노란 손목시계 자랑한 까닭은</h4></a><span>16시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696659189716BlxCu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -304,7 +313,8 @@
             <link>https://www.maxmovie.com/news/435001</link>
             <guid>https://www.maxmovie.com/news/435001</guid>
             <pubDate>Sat, 07 Oct 2023 06:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435001"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696656724292yCvst.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435001"><h4>[BIFF] "80대의 힘을 보여줘"...나문희·김영옥·박근형이 뭉친 '소풍'</h4></a><span>16시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[나문희 "고전 배우 셋이서 간들간들 호흡 맞춰"
+김영옥, 감독 향해 "늙은이들 데리고 애썼어~"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696656724292yCvst.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -339,16 +349,8 @@
             <link>https://www.maxmovie.com/news/434997</link>
             <guid>https://www.maxmovie.com/news/434997</guid>
             <pubDate>Fri, 06 Oct 2023 22:03:54 GMT</pubDate>
-            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434997"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696582179771GS5Jq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434997"><h4>[맥스무비레터 #21번째 편지]  부국제에서 띄우는 편지 💌  </h4></a><span>10월 06일<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696582179771GS5Jq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF] 황정민, '운수 오진 날' 캐스팅 도운 숨은 조력자 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/434996</link>
-            <guid>https://www.maxmovie.com/news/434996</guid>
-            <pubDate>Fri, 06 Oct 2023 09:05:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434996"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696658832890JJyJQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434996"><h4>[BIFF] 황정민, '운수 오진 날' 캐스팅 도운 숨은 조력자</h4></a><span>10월 06일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696658832890JJyJQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[BIFF] 황정민, '운수 오진 날' 캐스팅 도운 숨은 조력자 (맥스무비 ─ OTT)]]></title>
