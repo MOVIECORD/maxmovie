@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 05:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 06:08:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696603170054oszEj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[BIFF] "80대의 힘을 보여줘"...나문희·김영옥·박근형이 뭉친 '소풍']]></title>
+            <link>https://www.maxmovie.com/news/435001</link>
+            <guid>https://www.maxmovie.com/news/435001</guid>
+            <pubDate>Sat, 07 Oct 2023 06:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435001"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696656724292yCvst.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435001"><h4>[BIFF] "80대의 힘을 보여줘"...나문희·김영옥·박근형이 뭉친 '소풍'</h4></a><span>8분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696656724292yCvst.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[BIFF] 구창근 대표 "CJ 영화 투자 안 접는다"]]></title>
             <link>https://www.maxmovie.com/news/435000</link>
             <guid>https://www.maxmovie.com/news/435000</guid>
             <pubDate>Sat, 07 Oct 2023 04:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435000"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696649730864XjBKP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435000"><h4>[BIFF] 구창근 대표 "CJ 영화 투자 안 접는다"</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['CJ 밤'서 취임 1년 포부
+"해외 시장 공략해 활로 개척"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696649730864XjBKP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/434993</link>
             <guid>https://www.maxmovie.com/news/434993</guid>
             <pubDate>Fri, 06 Oct 2023 08:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[‘발레리나’서 최프로 역
-전종서의 복수 상대]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434993"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696577234925WNRbE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434993"><h4>[BIFF] 악역에 또 도전한 김지훈, 소속사도 말렸다는데</h4></a><span>22시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696577234925WNRbE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF] 전종서, 연인 이충현 감독이 '미쳤다'고 말한 이유]]></title>
-            <link>https://www.maxmovie.com/news/434990</link>
-            <guid>https://www.maxmovie.com/news/434990</guid>
-            <pubDate>Sat, 07 Oct 2023 01:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434990"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696569659338g6u6Q.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/434990"><h4>[BIFF] 전종서, 연인 이충현 감독이 '미쳤다'고 말한 이유</h4></a><span>23시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696569659338g6u6Q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
