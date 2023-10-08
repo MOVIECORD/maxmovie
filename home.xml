@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 22:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 23:04:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696682514201kIRRo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[BIFF] '6관왕' 휩쓴 '무빙' 류승룡→이정하, 부산에서 날아올랐다]]></title>
+            <link>https://www.maxmovie.com/news/435018</link>
+            <guid>https://www.maxmovie.com/news/435018</guid>
+            <pubDate>Sun, 08 Oct 2023 23:04:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435018"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696784696644EtwDh.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435018"><h4>[BIFF] '6관왕' 휩쓴 '무빙' 류승룡→이정하, 부산에서 날아올랐다</h4></a><span>12분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696784696644EtwDh.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[대체불가 '더 글로리' 임지연=조연상…"부산의 밤 아름다워"]]></title>
             <link>https://www.maxmovie.com/news/435017</link>
             <guid>https://www.maxmovie.com/news/435017</guid>
             <pubDate>Sun, 08 Oct 2023 12:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435017"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696766392493w6A78.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435017"><h4>대체불가 '더 글로리' 임지연=조연상…"부산의 밤 아름다워"</h4></a><span>10시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['더 글로리'에서 악역 박연진 역
+"좋은 작품에서 좋은 연기 보여드리겠다"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696766392493w6A78.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435007</link>
             <guid>https://www.maxmovie.com/news/435007</guid>
             <pubDate>Sun, 08 Oct 2023 02:17:25 GMT</pubDate>
-            <content:encoded><![CDATA['내 사람들' 챙기는 황정민 모습 '눈길'
-홍사빈은 소속 배우, 필감성 감독은 '인질'로 호흡]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435007"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696725188164zeZNm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435007"><h4>[BIFF] "OOO을 부탁해"…황정민이 송중기·이성민에게 전화한 이유는?</h4></a><span>21시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696725188164zeZNm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF] 왜 지금 설리 이야기냐고요? '진리에게' 감독이 답하다]]></title>
-            <link>https://www.maxmovie.com/news/435004</link>
-            <guid>https://www.maxmovie.com/news/435004</guid>
-            <pubDate>Sun, 08 Oct 2023 10:05:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435004"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696676828767OgrLw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435004"><h4>[BIFF] 왜 지금 설리 이야기냐고요? '진리에게' 감독이 답하다</h4></a><span>10월 07일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696676828767OgrLw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
