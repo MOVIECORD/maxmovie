@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 21:04:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 22:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연진과 봉석의  "아름다운 부산의 밤!"]]></title>
+            <link>https://www.maxmovie.com/news/435028</link>
+            <guid>https://www.maxmovie.com/news/435028</guid>
+            <pubDate>Mon, 09 Oct 2023 22:04:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435028"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1696839855035M3QmK.jpg" alt=""></span><span class="textBox"><h4>연진과 봉석의  "아름다운 부산의 밤!" </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696839855035M3QmK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BIFF 화보] '한국이 싫어서'는 영화 제목일 뿐...]]></title>
             <link>https://www.maxmovie.com/news/434985</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 24 Jul 2023 10:07:26 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/434167"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1690191824854UE3WS.jpg" alt=""></span><span class="textBox"><h4>이병헌·박서준·박보영이 마주한, '폐허의 현장'  </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690191824854UE3WS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[죄수복 입은 고현정, 이런 모습 처음이야...]]></title>
-            <link>https://www.maxmovie.com/news/434166</link>
-            <guid>https://www.maxmovie.com/news/434166</guid>
-            <pubDate>Mon, 24 Jul 2023 09:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/434166"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1690187507522w862E.jpg" alt=""></span><span class="textBox"><h4>죄수복 입은 고현정, 이런 모습 처음이야... </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690187507522w862E.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
