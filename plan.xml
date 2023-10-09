@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 01:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 02:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송혜교가 또! 한글날 맞아 美미술관에 '한글 지도' 제공]]></title>
+            <link>https://www.maxmovie.com/news/435021</link>
+            <guid>https://www.maxmovie.com/news/435021</guid>
+            <pubDate>Mon, 09 Oct 2023 02:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[라크마, 미국 서부 최대 규모의 미술관
+송혜교, 서경덕 교수와 꾸준히 한국어 안내서 기증]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696815243783oClUi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['힘쎈여자 강남순', 심상치 않다...2회 만에 시청률 6% 돌파]]></title>
             <link>https://www.maxmovie.com/news/435020</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/435014</link>
             <guid>https://www.maxmovie.com/news/435014</guid>
             <pubDate>Sun, 08 Oct 2023 10:05:37 GMT</pubDate>
-            <content:encoded><![CDATA[7일 외조모상
-'장화, 홍련' GV 불참]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435014"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696758865195kpnSB.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435014"><h4>외조모상 문근영, 조문객 맞으며 빈소 지켜</h4></a><span>16시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696758865195kpnSB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/435011</link>
             <guid>https://www.maxmovie.com/news/435011</guid>
             <pubDate>Sun, 08 Oct 2023 07:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435011"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696746967892mmmC0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435011"><h4>[BIFF]'누구 말이 더 재치 있나' 한효주→주윤발 말말말</h4></a><span>19시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[부산국제영화제서 만난 스타
+한효주·차승원·전종서·주윤발]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696746967892mmmC0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435005</link>
             <guid>https://www.maxmovie.com/news/435005</guid>
             <pubDate>Sat, 07 Oct 2023 13:05:56 GMT</pubDate>
-            <content:encoded><![CDATA["고3 엄마 역할, 자신 없었다"
-"'무빙' 본 엄마, '잘했다' 한 마디 해줘"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435005"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16967403947683fGVA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435005"><h4>[BIFF] 한효주 "'무빙' 이미현, 헌신하는 '내 엄마' 떠올리며 연기"</h4></a><span>10월 07일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16967403947683fGVA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF] 왜 지금 설리 이야기냐고요? '진리에게' 감독이 답하다]]></title>
-            <link>https://www.maxmovie.com/news/435004</link>
-            <guid>https://www.maxmovie.com/news/435004</guid>
-            <pubDate>Sat, 07 Oct 2023 22:04:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435004"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696676828767OgrLw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435004"><h4>[BIFF] 왜 지금 설리 이야기냐고요? '진리에게' 감독이 답하다</h4></a><span>10월 07일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696676828767OgrLw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
