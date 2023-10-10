@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 05:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 06:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696837586907WmPl3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['지브리 애니의 완전체', 하야오 신작 작화 엿보기]]></title>
+            <link>https://www.maxmovie.com/news/435034</link>
+            <guid>https://www.maxmovie.com/news/435034</guid>
+            <pubDate>Tue, 10 Oct 2023 06:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435034"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696914503878t53Nc.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435034"><h4>'지브리 애니의 완전체', 하야오 신작 작화 엿보기 </h4></a><span>43분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696914503878t53Nc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박혜수의 입에 쏠린 눈…'너와 나'로 첫 공식석상]]></title>
             <link>https://www.maxmovie.com/news/435032</link>
             <guid>https://www.maxmovie.com/news/435032</guid>
             <pubDate>Tue, 10 Oct 2023 02:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435032"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16969024476358lCBk.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435032"><h4>박혜수의 입에 쏠린 눈…'너와 나'로 첫 공식석상</h4></a><span>3시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[학교폭력 의혹 이후 2년 반만
+시사회 하루 전날 수사 진행 사항 알려]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16969024476358lCBk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435022</link>
             <guid>https://www.maxmovie.com/news/435022</guid>
             <pubDate>Mon, 09 Oct 2023 03:07:20 GMT</pubDate>
-            <content:encoded><![CDATA[임영웅, '미운 우리 새끼' 스페셜 MC 출격
-서장훈 母에게 "얼른 쾌차하시길"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435022"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696817999594PsiR9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435022"><h4>임영웅, 서장훈 母에 "콘서트장에 모시고파" 영상편지 보낸 이유는</h4></a><span>10월 09일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696817999594PsiR9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송혜교가 또! 한글날 맞아 美미술관에 '한글 지도' 제공]]></title>
-            <link>https://www.maxmovie.com/news/435021</link>
-            <guid>https://www.maxmovie.com/news/435021</guid>
-            <pubDate>Tue, 10 Oct 2023 03:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435021"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696815243783oClUi.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435021"><h4>송혜교가 또! 한글날 맞아 美미술관에 '한글 지도' 제공</h4></a><span>10월 09일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696815243783oClUi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
