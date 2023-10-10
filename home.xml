@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 10:08:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 11:04:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,8 +48,17 @@
             <link>https://www.maxmovie.com/news/435042</link>
             <guid>https://www.maxmovie.com/news/435042</guid>
             <pubDate>Tue, 10 Oct 2023 10:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435042"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696928860991pgqF0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435042"><h4>불과 2.3%P 차…'화사한 그녀' vs '화란' 접전 예고!</h4></a><span>54분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435042"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696928860991pgqF0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435042"><h4>불과 2.3%P 차…'화사한 그녀' vs '화란' 접전 예고!</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696928860991pgqF0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['발레리나' 액션 화룡점정, 80대 총포사 부부의 정체는?]]></title>
+            <link>https://www.maxmovie.com/news/435036</link>
+            <guid>https://www.maxmovie.com/news/435036</guid>
+            <pubDate>Tue, 10 Oct 2023 11:03:55 GMT</pubDate>
+            <content:encoded><![CDATA[배우 주현, 김영옥의 반전 매력
+스타일리시한 액션의 극대화]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696916377018mRZql.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['지브리 애니의 완전체', 하야오 신작 작화 엿보기]]></title>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435027</link>
             <guid>https://www.maxmovie.com/news/435027</guid>
             <pubDate>Tue, 10 Oct 2023 03:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[日 가수 겸 배우 나카지마 켄토
-영화의전당 돌아다니며 촬영해]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435027"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696837586907WmPl3.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435027"><h4>[BIFF] 부산에 뜬 日 아이돌 나카지마 켄토...초청작 없이 무슨 일?</h4></a><span>10월 09일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696837586907WmPl3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['간니발' 시즌2로 찾아온다...야기라 유야 "현재 촬영 중"]]></title>
-            <link>https://www.maxmovie.com/news/435025</link>
-            <guid>https://www.maxmovie.com/news/435025</guid>
-            <pubDate>Mon, 09 Oct 2023 07:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435025"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696833989334iqQb5.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435025"><h4>'간니발' 시즌2로 찾아온다...야기라 유야 "현재 촬영 중"</h4></a><span>10월 09일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696833989334iqQb5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
