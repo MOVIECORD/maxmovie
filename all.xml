@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 14:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 15:04:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/435056</link>
             <guid>https://www.maxmovie.com/news/435056</guid>
             <pubDate>Wed, 11 Oct 2023 10:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435056"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697015565650XmCPH.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435056"><h4>남지현‧최현욱‧김무열‧정다빈의 욕망에 관한 이야기 '하이쿠키'</h4></a><span>4시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435056"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697015565650XmCPH.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435056"><h4>남지현‧최현욱‧김무열‧정다빈의 욕망에 관한 이야기 '하이쿠키'</h4></a><span>5시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697015565650XmCPH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,30 +70,29 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697000932048cULaJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[박정민, 실패 없는 신스틸러! (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435048</link>
-            <guid>https://www.maxmovie.com/news/435048</guid>
-            <pubDate>Wed, 11 Oct 2023 03:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[밀수→천박사→너와 나
-조현철 감독과 고교 동창]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696991105948lCNyu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['발레리나'의 '힙 스타일' 통하나? 넷플릭스 글로벌 3위 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435046</link>
-            <guid>https://www.maxmovie.com/news/435046</guid>
-            <pubDate>Wed, 11 Oct 2023 01:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[비영어 부문 3위로 진입 
-프랑스 등 62개국 '톱10']]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16969836938069traq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[불과 2.3%P 차…'화사한 그녀' vs '화란' 접전 예고! (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/435042</link>
             <guid>https://www.maxmovie.com/news/435042</guid>
             <pubDate>Tue, 10 Oct 2023 10:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435042"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696928860991pgqF0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435042"><h4>불과 2.3%P 차…'화사한 그녀' vs '화란' 접전 예고!</h4></a><span>10월 10일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[10월11일 나란히 개봉
+'30일' 제치고 1위 할까]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696928860991pgqF0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데일리 핫이슈] 류준열 마라톤 완주·임영웅 차트 석권·'힘쎈여자 강남순' 스핀오프 웹툰 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435035</link>
+            <guid>https://www.maxmovie.com/news/435035</guid>
+            <pubDate>Wed, 11 Oct 2023 15:03:54 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다.]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/169691537112895Lj2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 지옥 끝까지 쫓아간다! 영화 '발레리나' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435037</link>
+            <guid>https://www.maxmovie.com/news/435037</guid>
+            <pubDate>Tue, 10 Oct 2023 22:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435037"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696917055608K8YwO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435037"><h4>[오늘 뭘 볼까] 지옥 끝까지 쫓아간다! 영화 '발레리나'</h4></a><span>17시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696917055608K8YwO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '천박사' 김성식 감독, 애니메이션→극영화 선회한 까닭은 (맥스무비 ─ 인터뷰)]]></title>
@@ -306,7 +305,7 @@
             <link>https://www.maxmovie.com/news/435050</link>
             <guid>https://www.maxmovie.com/news/435050</guid>
             <pubDate>Wed, 11 Oct 2023 06:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435050"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697002051948zLGJn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435050"><h4>[힘쎈여자②] '강남순' 이유미, '도봉순' 박보영 만난다</h4></a><span>8시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435050"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697002051948zLGJn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435050"><h4>[힘쎈여자②] '강남순' 이유미, '도봉순' 박보영 만난다</h4></a><span>9시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697002051948zLGJn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -350,7 +349,7 @@
             <link>https://www.maxmovie.com/news/435043</link>
             <guid>https://www.maxmovie.com/news/435043</guid>
             <pubDate>Wed, 11 Oct 2023 00:29:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435043"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696981322499zHEFu.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435043"><h4>송중기 쇼타임…흥행 보증수표 또 통할까</h4></a><span>14시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435043"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696981322499zHEFu.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435043"><h4>송중기 쇼타임…흥행 보증수표 또 통할까</h4></a><span>15시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696981322499zHEFu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
