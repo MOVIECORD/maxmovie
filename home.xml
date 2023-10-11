@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 09:07:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 10:08:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696981322499zHEFu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[남지현‧최현욱‧김무열‧정다빈의 욕망에 관한 이야기 '하이쿠키']]></title>
+            <link>https://www.maxmovie.com/news/435056</link>
+            <guid>https://www.maxmovie.com/news/435056</guid>
+            <pubDate>Wed, 11 Oct 2023 10:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435056"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697015565650XmCPH.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435056"><h4>남지현‧최현욱‧김무열‧정다빈의 욕망에 관한 이야기 '하이쿠키'</h4></a><span>55분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697015565650XmCPH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['데블스 플랜' 최종 우승자는? '문제적 남자' 하석진]]></title>
             <link>https://www.maxmovie.com/news/435053</link>
             <guid>https://www.maxmovie.com/news/435053</guid>
             <pubDate>Wed, 11 Oct 2023 07:06:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435053"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697003998386PxE7J.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435053"><h4>'데블스 플랜' 최종 우승자는? '문제적 남자' 하석진</h4></a><span>2시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[하석진과 궤도, '데블스 플랜' 최종 2인
+브레인으로 유명한 하석진 우승 거머져]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697003998386PxE7J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435042</link>
             <guid>https://www.maxmovie.com/news/435042</guid>
             <pubDate>Tue, 10 Oct 2023 10:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[10월11일 나란히 개봉
-'30일' 제치고 1위 할까]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435042"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696928860991pgqF0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435042"><h4>불과 2.3%P 차…'화사한 그녀' vs '화란' 접전 예고!</h4></a><span>10월 10일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696928860991pgqF0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[데일리 핫이슈] 류준열 마라톤 완주·임영웅 차트 석권·'힘쎈여자 강남순' 스핀오프 웹툰]]></title>
-            <link>https://www.maxmovie.com/news/435035</link>
-            <guid>https://www.maxmovie.com/news/435035</guid>
-            <pubDate>Tue, 10 Oct 2023 22:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435035"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169691537112895Lj2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435035"><h4>[데일리 핫이슈] 류준열 마라톤 완주·임영웅 차트 석권·'힘쎈여자 강남순' 스핀오프 웹툰 </h4></a><span>11시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/169691537112895Lj2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
