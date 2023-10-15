@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 05:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 06:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,7 +47,7 @@
             <link>https://www.maxmovie.com/news/435084</link>
             <guid>https://www.maxmovie.com/news/435084</guid>
             <pubDate>Sat, 14 Oct 2023 22:04:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435084"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697181282923WcoBT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435084"><h4>[오늘 뭘 볼까] 지옥에서 벗어나려고 지옥이 됐다... 영화 '화란'</h4></a><span>7시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435084"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697181282923WcoBT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435084"><h4>[오늘 뭘 볼까] 지옥에서 벗어나려고 지옥이 됐다... 영화 '화란'</h4></a><span>8시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697181282923WcoBT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,20 +76,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697182077146BDoVF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[칸·부산 찍고 뉴스까지, 송중기 행보가 주목받는 이유 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435083</link>
+            <guid>https://www.maxmovie.com/news/435083</guid>
+            <pubDate>Fri, 13 Oct 2023 08:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[칸·부산 찍고 뉴스까지
+'화란'의 열혈 홍보 요정]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697178217781V5iwF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[BIFF시선]올해도 'OTT축제' 된 부산국제영화제 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/435077</link>
             <guid>https://www.maxmovie.com/news/435077</guid>
             <pubDate>Sun, 15 Oct 2023 04:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[극장·OTT 상생모델 고민했어야]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435077"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697169903467UKeV3.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435077"><h4>[BIFF시선]올해도 'OTT축제' 된 부산국제영화제</h4></a><span>10월 13일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697169903467UKeV3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF 결산①] OTT 대형 광고물·할리우드 파업 여파…목격된 영화계 현실 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435079</link>
-            <guid>https://www.maxmovie.com/news/435079</guid>
-            <pubDate>Fri, 13 Oct 2023 05:05:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435079"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697165035116nV1TX.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435079"><h4>[BIFF 결산①] OTT 대형 광고물·할리우드 파업 여파…목격된 영화계 현실</h4></a><span>10월 13일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697165035116nV1TX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[택배는 몽골몽골②] 김민석 PD "보폭 맞추고 기댈 수 있는 침묵을 내어주는 게 우정" (맥스무비 ─ 인터뷰)]]></title>
