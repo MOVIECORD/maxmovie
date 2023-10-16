@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 14:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 15:07:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/435102</link>
             <guid>https://www.maxmovie.com/news/435102</guid>
             <pubDate>Mon, 16 Oct 2023 06:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435102"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697446813123ypvlB.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435102"><h4>문채원 "힘든 정신적 고통 겪고 있다" 추가 고소</h4></a><span>8시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435102"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697446813123ypvlB.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435102"><h4>문채원 "힘든 정신적 고통 겪고 있다" 추가 고소</h4></a><span>9시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697446813123ypvlB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -59,6 +59,15 @@
             <content:encoded><![CDATA[인디스페이스 '나눔자리' 좌석
 "독립영화 지지와 응원의 뜻"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697423292384qAqi7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코미디의 힘…신작 공세에도 끄덕없는 '30일' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435098</link>
+            <guid>https://www.maxmovie.com/news/435098</guid>
+            <pubDate>Mon, 16 Oct 2023 01:43:47 GMT</pubDate>
+            <content:encoded><![CDATA['화란'·'화사한 그녀' 개봉에도 1위
+누적관객 120만명 돌파]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697418791792qqb5u.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['강남순', 4회 만에 '도봉순' 최고 기록 깼다 (맥스무비)]]></title>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/435095</link>
             <guid>https://www.maxmovie.com/news/435095</guid>
             <pubDate>Mon, 16 Oct 2023 00:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 영화 '발레리나'서 악역
-"최프로에게 서사는 사치"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435095"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697414986927CqjoD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/435095"><h4>[인터뷰]"난 '올인'해야 봐줄만 해" 김지훈의 '느리게 걷기'</h4></a><span>14시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697414986927CqjoD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어 게임' 시즌2,  전편보다 "더 기괴하다" (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435093</link>
-            <guid>https://www.maxmovie.com/news/435093</guid>
-            <pubDate>Sun, 15 Oct 2023 09:04:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435093"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697358826820CcnTp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435093"><h4> '오징어 게임' 시즌2,  전편보다 "더 기괴하다"</h4></a><span>10월 15일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697358826820CcnTp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰]"난 '올인'해야 봐줄만 해" 김지훈의 '느리게 걷기' (맥스무비 ─ 인터뷰)]]></title>
@@ -305,7 +305,7 @@
             <link>https://www.maxmovie.com/news/435101</link>
             <guid>https://www.maxmovie.com/news/435101</guid>
             <pubDate>Mon, 16 Oct 2023 05:07:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435101"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16974298160737YNkw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435101"><h4>하야오 작품 첫 아이맥스 상영, '그대들은 어떻게 살 것인가' 예매율 1위 </h4></a><span>9시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435101"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16974298160737YNkw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435101"><h4>하야오 작품 첫 아이맥스 상영, '그대들은 어떻게 살 것인가' 예매율 1위 </h4></a><span>10시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16974298160737YNkw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -349,7 +349,7 @@
             <link>https://www.maxmovie.com/news/435094</link>
             <guid>https://www.maxmovie.com/news/435094</guid>
             <pubDate>Mon, 16 Oct 2023 01:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435094"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697413311929NdwAv.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435094"><h4>영화제 휩쓴 '괴인'에 쏠리는 기대</h4></a><span>13시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435094"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697413311929NdwAv.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435094"><h4>영화제 휩쓴 '괴인'에 쏠리는 기대</h4></a><span>14시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697413311929NdwAv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
