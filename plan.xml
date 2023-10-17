@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 01:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 02:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계 3대·亞 최고 영화제 선택받은 이 영화]]></title>
+            <link>https://www.maxmovie.com/news/435117</link>
+            <guid>https://www.maxmovie.com/news/435117</guid>
+            <pubDate>Tue, 17 Oct 2023 02:16:58 GMT</pubDate>
+            <content:encoded><![CDATA['녹야' 11월1일 개봉
+판빙빙·이주영 주연]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697506736712uDPTc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[설경구 vs 유준상 '불꽃 튀는 신경전']]></title>
             <link>https://www.maxmovie.com/news/435114</link>
@@ -38,7 +47,7 @@
             <link>https://www.maxmovie.com/news/435110</link>
             <guid>https://www.maxmovie.com/news/435110</guid>
             <pubDate>Mon, 16 Oct 2023 22:05:06 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다.]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435110"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697447206777OMlEs.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435110"><h4>[데일리 핫이슈] 'Mr. 플랑크톤' 민폐 촬영 논란·르세라핌 김채원 활동 중단</h4></a><span>4시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697447206777OMlEs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -46,7 +55,8 @@
             <link>https://www.maxmovie.com/news/435109</link>
             <guid>https://www.maxmovie.com/news/435109</guid>
             <pubDate>Mon, 16 Oct 2023 22:05:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435109"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697443415972i1iKT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435109"><h4>'힘쎈여자 강남순'은 왜 마약 범죄에 맞서나</h4></a><span>3시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['발레리나' '범죄도시3' 등 마약 소재 
+"극적 스토리로 정의구현 욕구" 반영]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697443415972i1iKT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435103</link>
             <guid>https://www.maxmovie.com/news/435103</guid>
             <pubDate>Mon, 16 Oct 2023 06:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[얀 왕자 역…장발에 야성미
-캡틴 마블 지원군…11월8일 개봉]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435103"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697435179842rN28J.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435103"><h4>마블이 공개한 '박서준 단독 포스터' 보니</h4></a><span>20시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697435179842rN28J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문채원 "힘든 정신적 고통 겪고 있다" 추가 고소]]></title>
-            <link>https://www.maxmovie.com/news/435102</link>
-            <guid>https://www.maxmovie.com/news/435102</guid>
-            <pubDate>Mon, 16 Oct 2023 06:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435102"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697446813123ypvlB.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435102"><h4>문채원 "힘든 정신적 고통 겪고 있다" 추가 고소</h4></a><span>20시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697446813123ypvlB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

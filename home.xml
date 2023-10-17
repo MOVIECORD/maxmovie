@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 01:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 02:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697443415972i1iKT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세계 3대·亞 최고 영화제 선택받은 이 영화]]></title>
+            <link>https://www.maxmovie.com/news/435117</link>
+            <guid>https://www.maxmovie.com/news/435117</guid>
+            <pubDate>Tue, 17 Oct 2023 02:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435117"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697506736712uDPTc.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435117"><h4>세계 3대·亞 최고 영화제 선택받은 이 영화</h4></a><span>6분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697506736712uDPTc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더 독해진 전쟁 '독전2' 조진웅·차승원 활약→한효주·오승훈 서사]]></title>
             <link>https://www.maxmovie.com/news/435115</link>
             <guid>https://www.maxmovie.com/news/435115</guid>
             <pubDate>Tue, 17 Oct 2023 01:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435115"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697504506845ls2Bs.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435115"><h4>더 독해진 전쟁 '독전2' 조진웅·차승원 활약→한효주·오승훈 서사 </h4></a><span>17분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[520만 동원 1편 잇는 후속편 
+11월17일 넷플릭스 공개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697504506845ls2Bs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/435102</link>
             <guid>https://www.maxmovie.com/news/435102</guid>
             <pubDate>Mon, 16 Oct 2023 06:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[3월 이어 9월 추가 고소
-"합의나 선처 없다" 무관용 원칙]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435102"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697446813123ypvlB.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435102"><h4>문채원 "힘든 정신적 고통 겪고 있다" 추가 고소</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697446813123ypvlB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스티븐연, 다큐영화 '프리 철수 리'에 동참한 까닭은?]]></title>
-            <link>https://www.maxmovie.com/news/435099</link>
-            <guid>https://www.maxmovie.com/news/435099</guid>
-            <pubDate>Mon, 16 Oct 2023 03:07:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435099"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697424605368Ni4UD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435099"><h4>스티븐연, 다큐영화 '프리 철수 리'에 동참한 까닭은? </h4></a><span>22시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697424605368Ni4UD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
