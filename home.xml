@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 23:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 00:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697424605368Ni4UD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['범죄도시3', 2편 이어 시체스 최우수 관객상 수상]]></title>
+            <link>https://www.maxmovie.com/news/435111</link>
+            <guid>https://www.maxmovie.com/news/435111</guid>
+            <pubDate>Tue, 17 Oct 2023 00:29:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435111"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697499125722u7hHW.gif);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435111"><h4>'범죄도시3', 2편 이어 시체스 최우수 관객상 수상</h4></a><span>53분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697499125722u7hHW.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[[데일리 핫이슈] 'Mr. 플랑크톤' 민폐 촬영 논란·르세라핌 김채원 활동 중단]]></title>
             <link>https://www.maxmovie.com/news/435110</link>
             <guid>https://www.maxmovie.com/news/435110</guid>
             <pubDate>Mon, 16 Oct 2023 22:04:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435110"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697447206777OMlEs.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435110"><h4>[데일리 핫이슈] 'Mr. 플랑크톤' 민폐 촬영 논란·르세라핌 김채원 활동 중단</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다.]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697447206777OMlEs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435100</link>
             <guid>https://www.maxmovie.com/news/435100</guid>
             <pubDate>Mon, 16 Oct 2023 03:07:35 GMT</pubDate>
-            <content:encoded><![CDATA[인디스페이스 '나눔자리' 좌석
-"독립영화 지지와 응원의 뜻"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435100"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697423292384qAqi7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435100"><h4>배우의 이름으로..서인국 팬들, 독립영화전용관 후원 </h4></a><span>21시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697423292384qAqi7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코미디의 힘…신작 공세에도 끄덕없는 '30일']]></title>
-            <link>https://www.maxmovie.com/news/435098</link>
-            <guid>https://www.maxmovie.com/news/435098</guid>
-            <pubDate>Mon, 16 Oct 2023 23:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435098"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697418791792qqb5u.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435098"><h4>코미디의 힘…신작 공세에도 끄덕없는 '30일'</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697418791792qqb5u.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
