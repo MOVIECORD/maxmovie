@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 06:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 07:06:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지창욱·위하준 '최악의 악', 뜨거운 현장 공개]]></title>
+            <link>https://www.maxmovie.com/news/435121</link>
+            <guid>https://www.maxmovie.com/news/435121</guid>
+            <pubDate>Tue, 17 Oct 2023 07:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435121"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1697522206169qXqzi.jpg" alt=""></span><span class="textBox"><h4>지창욱·위하준 '최악의 악', 뜨거운 현장 공개 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697522206169qXqzi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박서준이 할리우드에서 만난 뉴히어로는 누구?]]></title>
             <link>https://www.maxmovie.com/news/435064</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 07 Aug 2023 02:26:07 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/434318"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1691373555703DLab2.jpg" alt=""></span><span class="textBox"><h4>중고 거래로 범죄 표적이 된 신혜선, '숨 막히는 일상' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691373555703DLab2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고현정·나나·안재홍의 '한계 없는' 비주얼 변신]]></title>
-            <link>https://www.maxmovie.com/news/434242</link>
-            <guid>https://www.maxmovie.com/news/434242</guid>
-            <pubDate>Tue, 01 Aug 2023 02:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/434242"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1690852741016Jkwpl.jpg" alt=""></span><span class="textBox"><h4>고현정·나나·안재홍의 '한계 없는' 비주얼 변신 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1690852741016Jkwpl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
