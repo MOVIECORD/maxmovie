@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 01:42:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 02:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697589303200J863K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[진짜 '오징어 게임' 나온다]]></title>
+            <link>https://www.maxmovie.com/news/435133</link>
+            <guid>https://www.maxmovie.com/news/435133</guid>
+            <pubDate>Wed, 18 Oct 2023 02:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435133"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697593583075HmPGM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435133"><h4>진짜 '오징어 게임' 나온다</h4></a><span>27분 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697593583075HmPGM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정국의 유럽 MTV 실황, 파라마운트+ 단독 공개]]></title>
             <link>https://www.maxmovie.com/news/435132</link>
             <guid>https://www.maxmovie.com/news/435132</guid>
             <pubDate>Wed, 18 Oct 2023 01:42:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435132"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16975896965090LeI0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435132"><h4>정국의 유럽 MTV 실황, 파라마운트+ 단독 공개 </h4></a><span>49분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[11월5일 파리 개최, 유럽 최대 음악 시상식
+정국, 시상식 솔로 퍼포먼스 통해 '세븐' 무대]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16975896965090LeI0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,16 +91,8 @@
             <link>https://www.maxmovie.com/news/435106</link>
             <guid>https://www.maxmovie.com/news/435106</guid>
             <pubDate>Tue, 17 Oct 2023 22:04:52 GMT</pubDate>
-            <content:encoded><![CDATA['기억해, 우리가 사랑한 시간'의 한 장면. 사진제공=도키엔터테인먼트오늘, 볼만한 작품을 추천합니다.◆ '기억해, 우리가 사랑한 시간''기억해, 우리가 사랑한 시간'은 갑자기 사라졌던 남자친구로부터 도착한 카세트테이프 한장을 단서로 그를 찾아 나서는 여자친구의 이야기를 그린 로맨스 영화다.배우 허광한이 훈훈한 외모를 지닌 동아리 선배 천샤오밍 역을 맡았다.]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435106"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697439958704N3tH5.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435106"><h4>[오늘 뭘 볼까] 허광한의 애절한 청춘 멜로 '기억해, 우리가 사랑한 시간'</h4></a><span>4시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697439958704N3tH5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 완전체 만난다, 부산 콘서트 실황 쿠팡플레이 공개]]></title>
-            <link>https://www.maxmovie.com/news/435122</link>
-            <guid>https://www.maxmovie.com/news/435122</guid>
-            <pubDate>Tue, 17 Oct 2023 07:05:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435122"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697525559346sneHa.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435122"><h4>방탄소년단 완전체 만난다, 부산 콘서트 실황 쿠팡플레이 공개 </h4></a><span>18시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697525559346sneHa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
