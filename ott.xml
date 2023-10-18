@@ -4,9 +4,18 @@
         <title>맥스무비 ─ OTT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 00:29:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 01:42:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정국의 유럽 MTV 실황, 파라마운트+ 단독 공개]]></title>
+            <link>https://www.maxmovie.com/news/435132</link>
+            <guid>https://www.maxmovie.com/news/435132</guid>
+            <pubDate>Wed, 18 Oct 2023 01:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[11월5일 파리 개최, 유럽 최대 음악 시상식
+정국, 시상식 솔로 퍼포먼스 통해 '세븐' 무대]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16975896965090LeI0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지창욱·위하준 '최악의 악', 뜨거운 현장 공개]]></title>
             <link>https://www.maxmovie.com/news/435121</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/435096</link>
             <guid>https://www.maxmovie.com/news/435096</guid>
             <pubDate>Mon, 16 Oct 2023 01:44:19 GMT</pubDate>
-            <content:encoded><![CDATA['강남순' 4회만에 10% 육박
-'도봉순' 최고 기록 깨]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435096"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697418492958D2g4H.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435096"><h4>'강남순', 4회 만에 '도봉순' 최고 기록 깼다</h4></a><span>10월 16일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697418492958D2g4H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/435093</link>
             <guid>https://www.maxmovie.com/news/435093</guid>
             <pubDate>Sun, 15 Oct 2023 09:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435093"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697358826820CcnTp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435093"><h4> '오징어 게임' 시즌2,  전편보다 "더 기괴하다"</h4></a><span>10월 15일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['오징어 게임' 1편 정재일 음악감독 
+"2편도 음악 맡는다" BBC 인터뷰]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697358826820CcnTp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@ AI, 영화산업의 막강한 화두로 떠올라]]></content:encoded>
             <link>https://www.maxmovie.com/news/435065</link>
             <guid>https://www.maxmovie.com/news/435065</guid>
             <pubDate>Thu, 12 Oct 2023 05:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[기본급 인상, 제작 기간 고용 보장
-"비용 상승" OTT 구독료 ↑ 우려도]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435065"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697079077099LPFUc.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435065"><h4>"스트리밍 재상영료 받는다"美 작가노조 파업 끝 </h4></a><span>10월 12일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697079077099LPFUc.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유승호·김동휘·유수빈의 100억 납치극 '거래']]></title>
-            <link>https://www.maxmovie.com/news/435062</link>
-            <guid>https://www.maxmovie.com/news/435062</guid>
-            <pubDate>Thu, 12 Oct 2023 03:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435062"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16970751942180p4YK.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435062"><h4>유승호·김동휘·유수빈의 100억 납치극 '거래'</h4></a><span>10월 12일<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16970751942180p4YK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
