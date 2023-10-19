@@ -4,9 +4,18 @@
         <title>맥스무비 ─ OTT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 04:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 05:07:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['발레리나' 전종서, 한국의 '존 윅'.."멋지고 충격적"]]></title>
+            <link>https://www.maxmovie.com/news/435150</link>
+            <guid>https://www.maxmovie.com/news/435150</guid>
+            <pubDate>Thu, 19 Oct 2023 05:06:56 GMT</pubDate>
+            <content:encoded><![CDATA[미 버라이어티 '존 윅'에 비견
+"추진력 유지하면 관객 설득"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16976896423318bTMs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김남길의 '도적', 시즌2 안 가면 이상해]]></title>
             <link>https://www.maxmovie.com/news/435149</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/435133</link>
             <guid>https://www.maxmovie.com/news/435133</guid>
             <pubDate>Wed, 18 Oct 2023 02:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[올해 말 미국서 체험 이벤트
-내년 공개 시즌2 관심 환기]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435133"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697593583075HmPGM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435133"><h4>진짜 '오징어 게임' 나온다</h4></a><span>10월 18일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697593583075HmPGM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/435132</link>
             <guid>https://www.maxmovie.com/news/435132</guid>
             <pubDate>Wed, 18 Oct 2023 01:42:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435132"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16975896965090LeI0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435132"><h4>정국의 유럽 MTV 실황, 파라마운트+ 단독 공개 </h4></a><span>10월 18일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[11월5일 파리 개최, 유럽 최대 음악 시상식
+정국, 시상식 솔로 퍼포먼스 통해 '세븐' 무대]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16975896965090LeI0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435096</link>
             <guid>https://www.maxmovie.com/news/435096</guid>
             <pubDate>Mon, 16 Oct 2023 01:44:19 GMT</pubDate>
-            <content:encoded><![CDATA['강남순' 4회만에 10% 육박
-'도봉순' 최고 기록 깨]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435096"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697418492958D2g4H.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435096"><h4>'강남순', 4회 만에 '도봉순' 최고 기록 깼다</h4></a><span>10월 16일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697418492958D2g4H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어 게임' 시즌2,  전편보다 "더 기괴하다"]]></title>
-            <link>https://www.maxmovie.com/news/435093</link>
-            <guid>https://www.maxmovie.com/news/435093</guid>
-            <pubDate>Sun, 15 Oct 2023 09:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435093"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697358826820CcnTp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435093"><h4> '오징어 게임' 시즌2,  전편보다 "더 기괴하다"</h4></a><span>10월 15일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697358826820CcnTp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
