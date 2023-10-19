@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 00:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 01:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 독하게 돌아온 '독전 2'의 살아 숨 쉬는 '캐릭터' 열전]]></title>
+            <link>https://www.maxmovie.com/news/435147</link>
+            <guid>https://www.maxmovie.com/news/435147</guid>
+            <pubDate>Thu, 19 Oct 2023 01:43:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435147"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1697679207705vcPUl.jpg" alt=""></span><span class="textBox"><h4>더 독하게 돌아온 '독전 2'의 살아 숨 쉬는 '캐릭터' 열전</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697679207705vcPUl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지창욱·위하준 '최악의 악', 뜨거운 현장 공개]]></title>
             <link>https://www.maxmovie.com/news/435121</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Aug 2023 07:05:53 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/434490"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1692598101324yKQnd.jpg" alt=""></span><span class="textBox"><h4>송강호·임수정·오정세·전여빈·정수정 '거미집', 포스터만 무려 10장! </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1692598101324yKQnd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중고 거래로 범죄 표적이 된 신혜선, '숨 막히는 일상']]></title>
-            <link>https://www.maxmovie.com/news/434318</link>
-            <guid>https://www.maxmovie.com/news/434318</guid>
-            <pubDate>Mon, 07 Aug 2023 02:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/434318"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1691373555703DLab2.jpg" alt=""></span><span class="textBox"><h4>중고 거래로 범죄 표적이 된 신혜선, '숨 막히는 일상' </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1691373555703DLab2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
