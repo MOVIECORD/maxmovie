@@ -4,9 +4,18 @@
         <title>맥스무비 ─ OTT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 06:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 07:05:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박은빈 "또 어려운 선택을 했구나…"]]></title>
+            <link>https://www.maxmovie.com/news/435153</link>
+            <guid>https://www.maxmovie.com/news/435153</guid>
+            <pubDate>Thu, 19 Oct 2023 07:05:21 GMT</pubDate>
+            <content:encoded><![CDATA[tvN '무인도의 디바'로 복귀
+"새로운 도전"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697695768918R87DH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['발레리나' 전종서, 한국의 '존 윅'.."멋지고 충격적"]]></title>
             <link>https://www.maxmovie.com/news/435150</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/435144</link>
             <guid>https://www.maxmovie.com/news/435144</guid>
             <pubDate>Thu, 19 Oct 2023 01:42:53 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 톱10 글로벌 5→3위 상승
-내 주변 살피는 '생활밀착 히어로']]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435144"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697675800235wKg4F.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435144"><h4>글로벌도 슬슬 주목…'강남순', 마블히어로와 달라</h4></a><span>5시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697675800235wKg4F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/435133</link>
             <guid>https://www.maxmovie.com/news/435133</guid>
             <pubDate>Wed, 18 Oct 2023 02:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435133"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697593583075HmPGM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435133"><h4>진짜 '오징어 게임' 나온다</h4></a><span>10월 18일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[올해 말 미국서 체험 이벤트
+내년 공개 시즌2 관심 환기]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697593583075HmPGM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435109</link>
             <guid>https://www.maxmovie.com/news/435109</guid>
             <pubDate>Mon, 16 Oct 2023 22:05:14 GMT</pubDate>
-            <content:encoded><![CDATA['발레리나' '범죄도시3' 등 마약 소재 
-"극적 스토리로 정의구현 욕구" 반영]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435109"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697443415972i1iKT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435109"><h4>'힘쎈여자 강남순'은 왜 마약 범죄에 맞서나</h4></a><span>10월 16일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697443415972i1iKT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['강남순', 4회 만에 '도봉순' 최고 기록 깼다]]></title>
-            <link>https://www.maxmovie.com/news/435096</link>
-            <guid>https://www.maxmovie.com/news/435096</guid>
-            <pubDate>Mon, 16 Oct 2023 01:44:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435096"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697418492958D2g4H.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435096"><h4>'강남순', 4회 만에 '도봉순' 최고 기록 깼다</h4></a><span>10월 16일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697418492958D2g4H.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
