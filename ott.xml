@@ -4,9 +4,18 @@
         <title>맥스무비 ─ OTT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 07:05:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 08:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이두나!', 수지가 선사할 은퇴 아이돌의 사랑이야기]]></title>
+            <link>https://www.maxmovie.com/news/435156</link>
+            <guid>https://www.maxmovie.com/news/435156</guid>
+            <pubDate>Thu, 19 Oct 2023 08:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 '이두나!'로 복귀
+양세종과 호흡…10월20일 공개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16977016710592IZHO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박은빈 "또 어려운 선택을 했구나…"]]></title>
             <link>https://www.maxmovie.com/news/435153</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/435147</link>
             <guid>https://www.maxmovie.com/news/435147</guid>
             <pubDate>Thu, 19 Oct 2023 01:42:53 GMT</pubDate>
-            <content:encoded><![CDATA[이선생 둘러싼 폭발적인 시너지 예고
-조진웅, 차승원부터 한효주, 오승훈까지]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435147"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697679207705vcPUl.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435147"><h4>더 독하게 돌아온 '독전 2'의 살아 숨 쉬는 '캐릭터' 열전</h4></a><span>6시간 전<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697679207705vcPUl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/435144</link>
             <guid>https://www.maxmovie.com/news/435144</guid>
             <pubDate>Thu, 19 Oct 2023 01:42:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435144"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697675800235wKg4F.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435144"><h4>글로벌도 슬슬 주목…'강남순', 마블히어로와 달라</h4></a><span>5시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[넷플릭스 톱10 글로벌 5→3위 상승
+내 주변 살피는 '생활밀착 히어로']]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697675800235wKg4F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435115</link>
             <guid>https://www.maxmovie.com/news/435115</guid>
             <pubDate>Tue, 17 Oct 2023 01:43:05 GMT</pubDate>
-            <content:encoded><![CDATA[520만 동원 1편 잇는 후속편 
-11월17일 넷플릭스 공개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435115"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697504506845ls2Bs.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435115"><h4>더 독해진 전쟁 '독전2' 조진웅·차승원 활약→한효주·오승훈 서사 </h4></a><span>10월 17일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697504506845ls2Bs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['힘쎈여자 강남순'은 왜 마약 범죄에 맞서나]]></title>
-            <link>https://www.maxmovie.com/news/435109</link>
-            <guid>https://www.maxmovie.com/news/435109</guid>
-            <pubDate>Mon, 16 Oct 2023 22:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435109"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697443415972i1iKT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435109"><h4>'힘쎈여자 강남순'은 왜 마약 범죄에 맞서나</h4></a><span>10월 16일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697443415972i1iKT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

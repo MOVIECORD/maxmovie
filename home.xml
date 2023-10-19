@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 07:05:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 08:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697681246858Cfaot.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['이두나!', 수지가 선사할 은퇴 아이돌의 사랑이야기]]></title>
+            <link>https://www.maxmovie.com/news/435156</link>
+            <guid>https://www.maxmovie.com/news/435156</guid>
+            <pubDate>Thu, 19 Oct 2023 08:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435156"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16977016710592IZHO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435156"><h4>'이두나!', 수지가 선사할 은퇴 아이돌의 사랑이야기</h4></a><span>13분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16977016710592IZHO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[인터뷰] 이준영, 손숙의 "힘들지?"라는 말에 울컥한 사연]]></title>
             <link>https://www.maxmovie.com/news/435152</link>
             <guid>https://www.maxmovie.com/news/435152</guid>
             <pubDate>Thu, 19 Oct 2023 07:04:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435152"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697694624975oM2v8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/435152"><h4>[인터뷰] 이준영, 손숙의 "힘들지?"라는 말에 울컥한 사연</h4></a><span>22분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[10월25일 개봉 '용감한 시민'에서 한수강 역할
+'D.P.' '마스크걸'에 이어 또다시 악역 도전]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697694624975oM2v8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435141</link>
             <guid>https://www.maxmovie.com/news/435141</guid>
             <pubDate>Wed, 18 Oct 2023 09:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[주연영화 '용감한 시민', 10월25일 개봉
-이준영과 맞대결, 시원한 액션 한 판]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435141"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16976167104010kKOo.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435141"><h4>'용감한 시민' 신혜선, 선 넘는 악당에 참교육 "대리만족 하세요"</h4></a><span>23시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16976167104010kKOo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4년 만의 '빛과 소리의 향연'..김동률이 해냈다]]></title>
-            <link>https://www.maxmovie.com/news/435142</link>
-            <guid>https://www.maxmovie.com/news/435142</guid>
-            <pubDate>Wed, 18 Oct 2023 09:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435142"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697617602907ApdXJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435142"><h4>4년 만의 '빛과 소리의 향연'..김동률이 해냈다</h4></a><span>22시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697617602907ApdXJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
