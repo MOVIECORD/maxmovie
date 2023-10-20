@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 10:08:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 11:04:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,14 +51,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16977888262897YiWs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다니엘 헤니 비밀리 결혼…상대는 일본계 루 쿠마가이]]></title>
-            <link>https://www.maxmovie.com/news/435167</link>
-            <guid>https://www.maxmovie.com/news/435167</guid>
-            <pubDate>Fri, 20 Oct 2023 10:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[다니엘 헤니다니엘 헤니가 '품절남'이 됐다. 상대는 미국에서 활동 중인 아시안계 모델 겸 배우 루 쿠마가이다.다니엘 헤니 소속사 에코글로벌그룹은 20일 "다니엘 헤니가 평생을 함께 하고픈 소중한 인연을 만나 결혼이라는 아름다운 결실을 맺게 됐다"고 다니엘 헤니의 결혼 소식을 밝혔다.소속사에 따르면, 결혼 상대는 미국에서 활동 중인 아시안 계 모델 겸 배우]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697779817153Rl7bj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[유명 배우  A, 이틀 연속 "정리 중"...마약주의보에 연예계 초비상]]></title>
             <link>https://www.maxmovie.com/news/435164</link>
             <guid>https://www.maxmovie.com/news/435164</guid>
@@ -90,8 +82,16 @@
             <link>https://www.maxmovie.com/news/435159</link>
             <guid>https://www.maxmovie.com/news/435159</guid>
             <pubDate>Fri, 20 Oct 2023 09:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435159"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169772265097992qtT.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435159"><h4>[데일리 핫이슈] 남태현, 마약 혐의 인정·오정세 탑승 승합차, 경운기 추돌·이보영, 차기작 확정</h4></a><span>12시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다.]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/169772265097992qtT.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[또 터진 마약 사건…유명배우 A씨 측 "확인 중"]]></title>
+            <link>https://www.maxmovie.com/news/435161</link>
+            <guid>https://www.maxmovie.com/news/435161</guid>
+            <pubDate>Fri, 20 Oct 2023 11:04:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435161"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697721901963gNoyf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435161"><h4>또 터진 마약 사건…유명배우 A씨 측 "확인 중"</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697721901963gNoyf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
