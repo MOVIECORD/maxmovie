@@ -4,9 +4,18 @@
         <title>맥스무비 ─ OTT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 06:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 07:05:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수지, 걸그룹 센터 출신답네…'이두나!' 현장 비하인드 스틸]]></title>
+            <link>https://www.maxmovie.com/news/435169</link>
+            <guid>https://www.maxmovie.com/news/435169</guid>
+            <pubDate>Fri, 20 Oct 2023 07:05:19 GMT</pubDate>
+            <content:encoded><![CDATA[수지, 양세종 주연의 넷플릭스 시리즈
+셰어하우스 친구들 함께한 현장 비하인드]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16977821021595yKsp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['봉순아! 정숙아!  복순아! 영자야! 그리고, 남순아!']]></title>
             <link>https://www.maxmovie.com/news/435158</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/435150</link>
             <guid>https://www.maxmovie.com/news/435150</guid>
             <pubDate>Thu, 19 Oct 2023 05:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[미 버라이어티 '존 윅'에 비견
-"추진력 유지하면 관객 설득"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435150"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16976896423318bTMs.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435150"><h4>'발레리나' 전종서, 한국의 '존 윅'.."멋지고 충격적"</h4></a><span>10월 19일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16976896423318bTMs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/435149</link>
             <guid>https://www.maxmovie.com/news/435149</guid>
             <pubDate>Thu, 19 Oct 2023 04:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435149"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697684226869EjFTX.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435149"><h4>김남길의 '도적', 시즌2 안 가면 이상해</h4></a><span>10월 19일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[마지막 9회 시즌2 암시
+원래 20부작으로 기획]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697684226869EjFTX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435132</link>
             <guid>https://www.maxmovie.com/news/435132</guid>
             <pubDate>Wed, 18 Oct 2023 01:42:51 GMT</pubDate>
-            <content:encoded><![CDATA[11월5일 파리 개최, 유럽 최대 음악 시상식
-정국, 시상식 솔로 퍼포먼스 통해 '세븐' 무대]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435132"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16975896965090LeI0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435132"><h4>정국의 유럽 MTV 실황, 파라마운트+ 단독 공개 </h4></a><span>10월 18일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16975896965090LeI0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지창욱·위하준 '최악의 악', 뜨거운 현장 공개]]></title>
-            <link>https://www.maxmovie.com/news/435121</link>
-            <guid>https://www.maxmovie.com/news/435121</guid>
-            <pubDate>Tue, 17 Oct 2023 07:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435121"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697522206169qXqzi.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435121"><h4>지창욱·위하준 '최악의 악', 뜨거운 현장 공개 </h4></a><span>10월 17일<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697522206169qXqzi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
