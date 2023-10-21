@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 21:03:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 22:04:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,6 +51,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697784783354Uvhr1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 설렘과 끌림, 치유에 대한 이야기 '이두나!']]></title>
+            <link>https://www.maxmovie.com/news/435172</link>
+            <guid>https://www.maxmovie.com/news/435172</guid>
+            <pubDate>Sat, 21 Oct 2023 22:04:14 GMT</pubDate>
+            <content:encoded><![CDATA['이두나!'의 한 장면. 사진제공=넷플릭스오늘, 볼만한 작품을 추천합니다.◆ '이두나!'넷플릭스 오리지널 시리즈 '이두나!'는 세상으로부터 숨어버린 전직 인기 아이돌 두나와 현실에 치여 로맨스는 꿈도 못 꾸는 대학생 원준이 셰어하우스에서 만나 느끼게 되는 설렘과 끌림, 치유에 대한 이야기다.&nbsp;K팝&nbsp;아이돌 드림스윗의 멤버인 두나는 최정상 인기를 구가하던 중]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697785387761s3WYP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오정세 측 "유족 위로가 먼저…공식입장은 추후"]]></title>
             <link>https://www.maxmovie.com/news/435171</link>
             <guid>https://www.maxmovie.com/news/435171</guid>
@@ -79,16 +87,8 @@
             <link>https://www.maxmovie.com/news/435166</link>
             <guid>https://www.maxmovie.com/news/435166</guid>
             <pubDate>Fri, 20 Oct 2023 22:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[일주일 동안 엔터테인먼트 전반에서 일어난 다양한 이슈를 소개합니다.]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435166"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697794371578K7M8y.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435166"><h4>[위클리 이슈 모음zip]'독립' 도경수·'복귀' 키나·'기부' 이효리·'입대' 형원</h4></a><span>10월 20일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697794371578K7M8y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호아킨 피닉스의 신들린 연기 '조커'가 돌아온다]]></title>
-            <link>https://www.maxmovie.com/news/435165</link>
-            <guid>https://www.maxmovie.com/news/435165</guid>
-            <pubDate>Fri, 20 Oct 2023 05:05:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435165"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16977755191876ZGaf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435165"><h4>호아킨 피닉스의 신들린 연기 '조커'가 돌아온다</h4></a><span>10월 20일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16977755191876ZGaf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
