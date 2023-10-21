@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 01:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 02:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,7 +46,7 @@
             <link>https://www.maxmovie.com/news/435170</link>
             <guid>https://www.maxmovie.com/news/435170</guid>
             <pubDate>Fri, 20 Oct 2023 22:04:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435170"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697784706910UuRID.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435170"><h4>[오늘 뭘 볼까] 어두운 과거 품은 마을의 비밀은? '버닝걸스'</h4></a><span>3시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435170"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697784706910UuRID.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435170"><h4>[오늘 뭘 볼까] 어두운 과거 품은 마을의 비밀은? '버닝걸스'</h4></a><span>4시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697784706910UuRID.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -57,6 +57,15 @@
             <content:encoded><![CDATA[마약 수사 선상에 오른 A씨는 이선균
 '탈출' '노 웨이 아웃' 등 차기작 비상]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16977888262897YiWs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['마약 혐의 내사' 이선균 측 "수사에 진실한 자세로 임하겠다"]]></title>
+            <link>https://www.maxmovie.com/news/435173</link>
+            <guid>https://www.maxmovie.com/news/435173</guid>
+            <pubDate>Sat, 21 Oct 2023 02:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[유명배우 A는 이선균으로 드러나
+"진실한 자세로 수사에 성실히 임할 것"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697784783354Uvhr1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미야자키 하야오 신작에 들썩이는 예매율…'20대·女' 관객이 열광하는 이유는?]]></title>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/435164</link>
             <guid>https://www.maxmovie.com/news/435164</guid>
             <pubDate>Fri, 20 Oct 2023 09:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[톱스타 A, 마약 투약 혐의 내사
-출연작 올 스톱..연예계 비상등]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435164"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697764960265Up90F.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435164"><h4>유명 배우  A, 이틀 연속 "정리 중"...마약주의보에 연예계 초비상</h4></a><span>10월 20일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697764960265Up90F.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하야오 신작 '그대들은…' 10만장 돌파…韓도 신비주의 전략 통할까]]></title>
-            <link>https://www.maxmovie.com/news/435163</link>
-            <guid>https://www.maxmovie.com/news/435163</guid>
-            <pubDate>Fri, 20 Oct 2023 09:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435163"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697764921100Yll8b.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435163"><h4>하야오 신작 '그대들은…' 10만장 돌파…韓도 신비주의 전략 통할까</h4></a><span>23시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697764921100Yll8b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
