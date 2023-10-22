@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 09:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 10:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하야오 신작 '그대들은' 북미판 더빙 공개 '호화 캐스트']]></title>
+            <link>https://www.maxmovie.com/news/435186</link>
+            <guid>https://www.maxmovie.com/news/435186</guid>
+            <pubDate>Sun, 22 Oct 2023 10:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[북미판 캐스트 라인업 공개
+국내서 예매량 16만장 넘기며 '돌풍 예고']]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697965225323r43Uw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['30일' 손익분기점 달성 카운트다운…150만명 동원]]></title>
             <link>https://www.maxmovie.com/news/435184</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/435179</link>
             <guid>https://www.maxmovie.com/news/435179</guid>
             <pubDate>Sun, 22 Oct 2023 00:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[다큐 영화 '삼각형의 마음' 첫 제작
-울주세계산악영화제 등 관객 만남]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435179"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697931446197dBZZ0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435179"><h4>손병호 "영화 제작자로 관객 만나고 싶다"</h4></a><span>10시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697931446197dBZZ0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/435178</link>
             <guid>https://www.maxmovie.com/news/435178</guid>
             <pubDate>Sat, 21 Oct 2023 02:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435178"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697852533728SGClz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435178"><h4>'마약 의혹' 이선균, 경찰 수사 방향 그리고 행보는?</h4></a><span>10월 21일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[경찰, 이선균 마약 의혹 포착
+다음 주 본격 수사 착수 전망]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697852533728SGClz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/435173</link>
             <guid>https://www.maxmovie.com/news/435173</guid>
             <pubDate>Fri, 20 Oct 2023 08:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[유명배우 A는 이선균으로 드러나
-"진실한 자세로 수사에 성실히 임할 것"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435173"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697784783354Uvhr1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435173"><h4>'마약 혐의 내사' 이선균 측 "수사에 진실한 자세로 임하겠다"</h4></a><span>10월 20일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697784783354Uvhr1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 설렘과 끌림, 치유에 대한 이야기 '이두나!']]></title>
-            <link>https://www.maxmovie.com/news/435172</link>
-            <guid>https://www.maxmovie.com/news/435172</guid>
-            <pubDate>Sat, 21 Oct 2023 22:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435172"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697785387761s3WYP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435172"><h4>[오늘 뭘 볼까] 설렘과 끌림, 치유에 대한 이야기 '이두나!'</h4></a><span>11시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697785387761s3WYP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
