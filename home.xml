@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 21:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 22:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16979361452301Exvy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[섬뜩한 지우히메…복귀작으로 스릴러 택했다]]></title>
+            <link>https://www.maxmovie.com/news/435187</link>
+            <guid>https://www.maxmovie.com/news/435187</guid>
+            <pubDate>Sun, 22 Oct 2023 22:04:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435187"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697973788048rBamG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435187"><h4>섬뜩한 지우히메…복귀작으로 스릴러 택했다</h4></a><span>5분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697973788048rBamG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하야오 신작 '그대들은' 북미판 더빙 공개 '호화 캐스트']]></title>
             <link>https://www.maxmovie.com/news/435186</link>
             <guid>https://www.maxmovie.com/news/435186</guid>
             <pubDate>Sun, 22 Oct 2023 13:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435186"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697965225323r43Uw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435186"><h4>하야오 신작 '그대들은' 북미판 더빙 공개 '호화 캐스트'</h4></a><span>11시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[북미판 캐스트 라인업 공개
+국내서 예매량 16만장 넘기며 '돌풍 예고']]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697965225323r43Uw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,16 +91,8 @@
             <link>https://www.maxmovie.com/news/435166</link>
             <guid>https://www.maxmovie.com/news/435166</guid>
             <pubDate>Fri, 20 Oct 2023 22:04:48 GMT</pubDate>
-            <content:encoded><![CDATA[일주일 동안 엔터테인먼트 전반에서 일어난 다양한 이슈를 소개합니다.]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435166"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697794371578K7M8y.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435166"><h4>[위클리 이슈 모음zip]'독립' 도경수·'복귀' 키나·'기부' 이효리·'입대' 형원</h4></a><span>10월 20일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697794371578K7M8y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['다니엘 헤니의 신부'...루 쿠마가이는 누구? 일본계 미국 배우]]></title>
-            <link>https://www.maxmovie.com/news/435176</link>
-            <guid>https://www.maxmovie.com/news/435176</guid>
-            <pubDate>Sun, 22 Oct 2023 19:04:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435176"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697792697126UEWbp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435176"><h4>'다니엘 헤니의 신부'...루 쿠마가이는 누구? 일본계 미국 배우</h4></a><span>10월 20일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697792697126UEWbp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
