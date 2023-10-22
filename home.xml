@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 05:05:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 06:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,11 +45,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697792697126UEWbp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['30일' 손익분기점 달성 카운트다운…150만명 동원]]></title>
+            <link>https://www.maxmovie.com/news/435184</link>
+            <guid>https://www.maxmovie.com/news/435184</guid>
+            <pubDate>Sun, 22 Oct 2023 06:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435184"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16979522256580WeLK.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435184"><h4>'30일' 손익분기점 달성 카운트다운…150만명 동원</h4></a><span>43분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16979522256580WeLK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['마약 의혹' 이선균, 경찰 수사 방향 그리고 행보는?]]></title>
             <link>https://www.maxmovie.com/news/435178</link>
             <guid>https://www.maxmovie.com/news/435178</guid>
             <pubDate>Sun, 22 Oct 2023 04:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435178"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697852533728SGClz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435178"><h4>'마약 의혹' 이선균, 경찰 수사 방향 그리고 행보는?</h4></a><span>10월 21일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[경찰, 이선균 마약 의혹 포착
+다음 주 본격 수사 착수 전망]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697852533728SGClz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435175</link>
             <guid>https://www.maxmovie.com/news/435175</guid>
             <pubDate>Fri, 20 Oct 2023 08:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[마약 수사 선상에 오른 A씨는 이선균
-'탈출' '노 웨이 아웃' 등 차기작 비상]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435175"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16977888262897YiWs.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435175"><h4>'마약 의혹' 이선균 차기작 비상…"수사 상황 지켜볼 것"</h4></a><span>10월 20일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16977888262897YiWs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['마약 혐의 내사' 이선균 측 "수사에 진실한 자세로 임하겠다"]]></title>
-            <link>https://www.maxmovie.com/news/435173</link>
-            <guid>https://www.maxmovie.com/news/435173</guid>
-            <pubDate>Sat, 21 Oct 2023 02:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435173"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697784783354Uvhr1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435173"><h4>'마약 혐의 내사' 이선균 측 "수사에 진실한 자세로 임하겠다"</h4></a><span>10월 20일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697784783354Uvhr1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
