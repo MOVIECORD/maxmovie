@@ -4,51 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 09:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 10:08:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA["미국 외 공개 논의 無"…이태원 참사 다큐 '크러시' (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435182</link>
-            <guid>https://www.maxmovie.com/news/435182</guid>
-            <pubDate>Sun, 22 Oct 2023 04:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[이태원 핼러윈 참사 1주기 앞두고
-미국만 공개, 그 외 지역 논의 無]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697941649226srmR3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '30일'. 160만명 웃기면서 '손익분기점 돌파' (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435189</link>
-            <guid>https://www.maxmovie.com/news/435189</guid>
-            <pubDate>Mon, 23 Oct 2023 01:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[10월3일 개봉 20일째 박스오피스 1위 
-웃음 원한 관객과 통한 코미디 영화]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698020499513AHxt5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노무현·문재인 잇는 김대중 전 대통령 다큐 영화 나온다 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435190</link>
-            <guid>https://www.maxmovie.com/news/435190</guid>
-            <pubDate>Mon, 23 Oct 2023 01:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[탄생 100주년 기념 영화 
-내년 1월 개봉 목표 제작]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698020368972Wgevm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 감성의 연출자 이와이 슌지 '또' 한국 온다 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435188</link>
-            <guid>https://www.maxmovie.com/news/435188</guid>
-            <pubDate>Mon, 23 Oct 2023 00:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[신작 '키리에의 노래' 韓 관객에 소개
-GV 참여 등 영화 홍보 및 가깝게 소통]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698019136686GXylx.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA['소년들' 정지영 감독, 삼례나라슈퍼 사건 영화화한 이유 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/435201</link>
             <guid>https://www.maxmovie.com/news/435201</guid>
             <pubDate>Mon, 23 Oct 2023 09:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435201"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698048989211vZ2Ry.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435201"><h4>'소년들' 정지영 감독, 삼례나라슈퍼 사건 영화화한 이유</h4></a><span>40분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA["실화가 주는 강렬함"
+설경구 주연…11월1일 개봉]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698048989211vZ2Ry.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -61,13 +26,39 @@ GV 참여 등 영화 홍보 및 가깝게 소통]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698027144642ei9WX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[노무현·문재인 잇는 김대중 전 대통령 다큐 영화 나온다 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435190</link>
+            <guid>https://www.maxmovie.com/news/435190</guid>
+            <pubDate>Mon, 23 Oct 2023 01:42:49 GMT</pubDate>
+            <content:encoded><![CDATA[탄생 100주년 기념 영화 
+내년 1월 개봉 목표 제작]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698020368972Wgevm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 '30일'. 160만명 웃기면서 '손익분기점 돌파' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435189</link>
+            <guid>https://www.maxmovie.com/news/435189</guid>
+            <pubDate>Mon, 23 Oct 2023 01:42:49 GMT</pubDate>
+            <content:encoded><![CDATA[10월3일 개봉 20일째 박스오피스 1위 
+웃음 원한 관객과 통한 코미디 영화]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698020499513AHxt5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이제 미야자키 하야오 차례? '슬램덩크' →'스즈메' 잇는 돌풍 예약 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/435196</link>
             <guid>https://www.maxmovie.com/news/435196</guid>
             <pubDate>Mon, 23 Oct 2023 06:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[신작 '그대들은 어떻게 살것인가' 25일 개봉
-사전 예매량 20만장 육박, 日 애니 열풍 계속]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435196"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698037467427nKls1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435196"><h4>이제 미야자키 하야오 차례? '슬램덩크' →'스즈메' 잇는 돌풍 예약 </h4></a><span>4시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698037467427nKls1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['소년들' 관객 기대평... "영화로나마 속시원하게 파헤쳐 주세요!" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435192</link>
+            <guid>https://www.maxmovie.com/news/435192</guid>
+            <pubDate>Mon, 23 Oct 2023 02:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[실화 소재에 대한 관객의 궁금증 증폭 
+정지영 감독의 신작 향한 기대감 고조]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698025577384EY0Qc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동생이 사라졌다…'노이즈', 캐스팅 확정짓고 크랭크인 (맥스무비)]]></title>
@@ -88,12 +79,30 @@ GV 참여 등 영화 홍보 및 가깝게 소통]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698021188125kHBXn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[日 감성의 연출자 이와이 슌지 '또' 한국 온다 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435188</link>
+            <guid>https://www.maxmovie.com/news/435188</guid>
+            <pubDate>Mon, 23 Oct 2023 00:30:13 GMT</pubDate>
+            <content:encoded><![CDATA[신작 '키리에의 노래' 韓 관객에 소개
+GV 참여 등 영화 홍보 및 가깝게 소통]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698019136686GXylx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[섬뜩한 지우히메…복귀작으로 스릴러 택했다 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/435187</link>
             <guid>https://www.maxmovie.com/news/435187</guid>
             <pubDate>Sun, 22 Oct 2023 22:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435187"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697973788048rBamG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435187"><h4>섬뜩한 지우히메…복귀작으로 스릴러 택했다</h4></a><span>11시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435187"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697973788048rBamG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435187"><h4>섬뜩한 지우히메…복귀작으로 스릴러 택했다</h4></a><span>12시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697973788048rBamG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] '미친 섹시' '미스터리 섹시' 잇는 위하준의 '최악의 섹시' (맥스무비 ─ 인터뷰)]]></title>
+            <link>https://www.maxmovie.com/news/435202</link>
+            <guid>https://www.maxmovie.com/news/435202</guid>
+            <pubDate>Mon, 23 Oct 2023 10:07:58 GMT</pubDate>
+            <content:encoded><![CDATA['최악의 악'에서 강남연합 보스 정기철 역
+차기작 줄줄이...'졸업' '오징어 게임2' 촬영 중]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698052934947idZ46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 이준영, 손숙의 "힘들지?"라는 말에 울컥한 사연 (맥스무비 ─ 인터뷰)]]></title>
@@ -127,8 +136,7 @@ GV 참여 등 영화 홍보 및 가깝게 소통]]></content:encoded>
             <link>https://www.maxmovie.com/news/435057</link>
             <guid>https://www.maxmovie.com/news/435057</guid>
             <pubDate>Thu, 12 Oct 2023 12:11:39 GMT</pubDate>
-            <content:encoded><![CDATA['발레리나'로 돌아온 이충현 감독
-'콜' 이어 연인 전종서와 두번째]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435057"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697015117239TvWAI.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/435057"><h4>[인터뷰] 이충현 감독, "전종서 외에는 없었다"고 말한 까닭</h4></a><span>10월 11일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697015117239TvWAI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -136,7 +144,8 @@ GV 참여 등 영화 홍보 및 가깝게 소통]]></content:encoded>
             <link>https://www.maxmovie.com/news/434914</link>
             <guid>https://www.maxmovie.com/news/434914</guid>
             <pubDate>Thu, 12 Oct 2023 12:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434914"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1696035509699USA3y.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/434914"><h4>[인터뷰] '천박사' 김성식 감독, 애니메이션→극영화 선회한 까닭은</h4></a><span>09월 30일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['기생충'·'헤어질 결심' 연출부 출신
+애니 전공 덕에 판타지 '천박사' 데뷔]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696035509699USA3y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -171,17 +180,8 @@ GV 참여 등 영화 홍보 및 가깝게 소통]]></content:encoded>
             <link>https://www.maxmovie.com/news/434875</link>
             <guid>https://www.maxmovie.com/news/434875</guid>
             <pubDate>Thu, 12 Oct 2023 12:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[히어로 장주원 활약, 시리즈 성공 견인 
-"처음부터 성공을 기대할 수 없었지만..."]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434875"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1695678136895VmZqj.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/434875"><h4>[인터뷰] '무빙' 류승룡 "날 붙잡아준 한 마디 '늦게 피는 꽃'이라는 말"</h4></a><span>09월 26일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695678136895VmZqj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰]임시완 "식욕 때문에 괴로울 땐 '나는 국가대표다'" (맥스무비 ─ 인터뷰)]]></title>
-            <link>https://www.maxmovie.com/news/434833</link>
-            <guid>https://www.maxmovie.com/news/434833</guid>
-            <pubDate>Thu, 12 Oct 2023 12:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/434833"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16953343248304owpS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/434833"><h4>[인터뷰]임시완 "식욕 때문에 괴로울 땐 '나는 국가대표다'"</h4></a><span>09월 21일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16953343248304owpS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리뷰:포테이토 지수 82%] '용감한 시민', 판타지라도…지금 필요한 통쾌함 (맥스무비 ─ 리뷰)]]></title>
@@ -270,7 +270,7 @@ GV 참여 등 영화 홍보 및 가깝게 소통]]></content:encoded>
             <title><![CDATA['소년들' 정지영 감독, 삼례나라슈퍼 사건 영화화한 이유 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/435201</link>
             <guid>https://www.maxmovie.com/news/435201</guid>
-            <pubDate>Mon, 23 Oct 2023 09:08:08 GMT</pubDate>
+            <pubDate>Mon, 23 Oct 2023 09:07:42 GMT</pubDate>
             <content:encoded><![CDATA["실화가 주는 강렬함"
 설경구 주연…11월1일 개봉]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698048989211vZ2Ry.jpg" length="0" type="image/jpg"/>
@@ -307,7 +307,7 @@ GV 참여 등 영화 홍보 및 가깝게 소통]]></content:encoded>
             <link>https://www.maxmovie.com/news/435193</link>
             <guid>https://www.maxmovie.com/news/435193</guid>
             <pubDate>Mon, 23 Oct 2023 01:42:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435193"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698024524798V3lUo.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435193"><h4>동생이 사라졌다…'노이즈', 캐스팅 확정짓고 크랭크인</h4></a><span>7시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435193"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698024524798V3lUo.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435193"><h4>동생이 사라졌다…'노이즈', 캐스팅 확정짓고 크랭크인</h4></a><span>8시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698024524798V3lUo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -351,7 +351,7 @@ GV 참여 등 영화 홍보 및 가깝게 소통]]></content:encoded>
             <link>https://www.maxmovie.com/news/435187</link>
             <guid>https://www.maxmovie.com/news/435187</guid>
             <pubDate>Sun, 22 Oct 2023 22:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435187"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697973788048rBamG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435187"><h4>섬뜩한 지우히메…복귀작으로 스릴러 택했다</h4></a><span>11시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435187"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697973788048rBamG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435187"><h4>섬뜩한 지우히메…복귀작으로 스릴러 택했다</h4></a><span>12시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697973788048rBamG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
