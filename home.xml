@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 05:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 06:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698099658369mHxn4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["서사는 사치" 이준영·김지훈, 작품 살리는 악역들]]></title>
+            <link>https://www.maxmovie.com/news/435211</link>
+            <guid>https://www.maxmovie.com/news/435211</guid>
+            <pubDate>Tue, 24 Oct 2023 06:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435211"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698126859016kuNi2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435211"><h4>"서사는 사치" 이준영·김지훈, 작품 살리는 악역들</h4></a><span>1분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698126859016kuNi2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['화란' 칸→취리히 관객까지 홀렸다]]></title>
             <link>https://www.maxmovie.com/news/435209</link>
             <guid>https://www.maxmovie.com/news/435209</guid>
             <pubDate>Tue, 24 Oct 2023 03:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435209"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16981136030074lmtE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435209"><h4> '화란' 칸→취리히 관객까지 홀렸다</h4></a><span>2시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[제19회 취리히영화제 '뉴 월드 뷰' 초청
+"날 것의 날카로움 가진 영화"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16981136030074lmtE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435201</link>
             <guid>https://www.maxmovie.com/news/435201</guid>
             <pubDate>Mon, 23 Oct 2023 09:07:42 GMT</pubDate>
-            <content:encoded><![CDATA["실화가 주는 강렬함"
-설경구 주연…11월1일 개봉]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435201"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698048989211vZ2Ry.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435201"><h4>'소년들' 정지영 감독, 삼례나라슈퍼 사건 영화화한 이유</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698048989211vZ2Ry.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스코세이지 VS 하야오…美·日 거장의 스크린 격돌]]></title>
-            <link>https://www.maxmovie.com/news/435194</link>
-            <guid>https://www.maxmovie.com/news/435194</guid>
-            <pubDate>Tue, 24 Oct 2023 03:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435194"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698027144642ei9WX.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435194"><h4>스코세이지 VS 하야오…美·日 거장의 스크린 격돌</h4></a><span>22시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698027144642ei9WX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

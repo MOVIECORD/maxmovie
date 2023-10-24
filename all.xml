@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 05:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 06:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698099658369mHxn4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["서사는 사치" 이준영·김지훈, 작품 살리는 악역들 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435211</link>
+            <guid>https://www.maxmovie.com/news/435211</guid>
+            <pubDate>Tue, 24 Oct 2023 06:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435211"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698126859016kuNi2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435211"><h4>"서사는 사치" 이준영·김지훈, 작품 살리는 악역들</h4></a><span>1분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698126859016kuNi2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['화란' 칸→취리히 관객까지 홀렸다 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/435209</link>
             <guid>https://www.maxmovie.com/news/435209</guid>
             <pubDate>Tue, 24 Oct 2023 03:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435209"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16981136030074lmtE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435209"><h4> '화란' 칸→취리히 관객까지 홀렸다</h4></a><span>2시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[제19회 취리히영화제 '뉴 월드 뷰' 초청
+"날 것의 날카로움 가진 영화"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16981136030074lmtE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435201</link>
             <guid>https://www.maxmovie.com/news/435201</guid>
             <pubDate>Mon, 23 Oct 2023 09:07:42 GMT</pubDate>
-            <content:encoded><![CDATA["실화가 주는 강렬함"
-설경구 주연…11월1일 개봉]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435201"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698048989211vZ2Ry.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435201"><h4>'소년들' 정지영 감독, 삼례나라슈퍼 사건 영화화한 이유</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698048989211vZ2Ry.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스코세이지 VS 하야오…美·日 거장의 스크린 격돌 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435194</link>
-            <guid>https://www.maxmovie.com/news/435194</guid>
-            <pubDate>Mon, 23 Oct 2023 07:06:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435194"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698027144642ei9WX.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435194"><h4>스코세이지 VS 하야오…美·日 거장의 스크린 격돌</h4></a><span>22시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698027144642ei9WX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰]'너와 나'로 감독 데뷔 조현철 "연기와 연출 다 욕심 나" (맥스무비 ─ 인터뷰)]]></title>
@@ -266,6 +266,16 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695160955465o4TBT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["서사는 사치" 이준영·김지훈, 작품 살리는 악역들 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/435211</link>
+            <guid>https://www.maxmovie.com/news/435211</guid>
+            <pubDate>Tue, 24 Oct 2023 06:09:47 GMT</pubDate>
+            <content:encoded><![CDATA['용감한 시민'·'발레리나'서 女주인공과 대립
+'용감한 시민' 예매율 2위
+'발레리나' 글로벌 톱10 영화(비영어) 1위]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698126859016kuNi2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['오징어 게임' 시즌2, '우리가 보고 싶은 10가지' (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/435210</link>
             <guid>https://www.maxmovie.com/news/435210</guid>
@@ -296,8 +306,7 @@
             <link>https://www.maxmovie.com/news/435205</link>
             <guid>https://www.maxmovie.com/news/435205</guid>
             <pubDate>Tue, 24 Oct 2023 03:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[66% 넘는 예매율로 1위
-7년의 시간 거쳐 탄생]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435205"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698107026562mQquV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435205"><h4>미야자키 하야오의 판타지 초대...압도적 예매율로 흥행 예열</h4></a><span>3시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698107026562mQquV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +314,8 @@
             <link>https://www.maxmovie.com/news/435203</link>
             <guid>https://www.maxmovie.com/news/435203</guid>
             <pubDate>Mon, 23 Oct 2023 23:05:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435203"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698099658369mHxn4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435203"><h4>'무빙'의  초능력 진짜였나...한효주 트라이애슬론 출전 </h4></a><span>6시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['2023 통영 월드 트라이애슬론컵' 도전
+'무빙' 및 공개 앞둔 '독전2' 액션...리얼?]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698099658369mHxn4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -339,16 +349,8 @@
             <link>https://www.maxmovie.com/news/435197</link>
             <guid>https://www.maxmovie.com/news/435197</guid>
             <pubDate>Mon, 23 Oct 2023 22:04:55 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다.]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435197"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698041832621N3XjA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435197"><h4>[데일리 핫이슈] 세븐틴 선주문 신기록, 최현욱 담배꽁초 논란 재차 사과, 뷔 솔로곡 리믹스 공개 </h4></a><span>8시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698041832621N3XjA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 미야자키 하야오 차례? '슬램덩크' →'스즈메' 잇는 돌풍 예약 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/435196</link>
-            <guid>https://www.maxmovie.com/news/435196</guid>
-            <pubDate>Mon, 23 Oct 2023 06:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435196"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698037467427nKls1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435196"><h4>이제 미야자키 하야오 차례? '슬램덩크' →'스즈메' 잇는 돌풍 예약 </h4></a><span>23시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698037467427nKls1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['오징어 게임' 시즌2, '우리가 보고 싶은 10가지' (맥스무비 ─ OTT)]]></title>
