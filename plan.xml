@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 09:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 10:07:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김한민의 '극락도 살인사건'부터 '한산'까지 본다]]></title>
+            <link>https://www.maxmovie.com/news/435230</link>
+            <guid>https://www.maxmovie.com/news/435230</guid>
+            <pubDate>Wed, 25 Oct 2023 10:07:30 GMT</pubDate>
+            <content:encoded><![CDATA[김한민 감독 특별전
+29일엔 박해일과 GV도]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698225219037cRdXh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화인들 "원주 아카데미극장 철거 중단하라"]]></title>
             <link>https://www.maxmovie.com/news/435229</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/435222</link>
             <guid>https://www.maxmovie.com/news/435222</guid>
             <pubDate>Wed, 25 Oct 2023 04:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[280개 출처에서 확보한 1500시간 기록 바탕
-미국 제외한 국가들 공개 계획 아직 없어]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435222"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698204462453EHD63.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435222"><h4>볼 수 없어 더 궁금한... 이태원 참사 다큐 '크러시'</h4></a><span>6시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698204462453EHD63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/435221</link>
             <guid>https://www.maxmovie.com/news/435221</guid>
             <pubDate>Wed, 25 Oct 2023 01:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435221"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698197154880UAMbb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435221"><h4>'무빙'에서 좋은 세상 꿈꾼 김두식, 실제 조인성의 모습 </h4></a><span>7시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[소아암 환아 돕는 꾸준한 기부와 선행
+"운 좋게 번 돈, 그 안의 독 빼고 싶어 시작"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698197154880UAMbb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435217</link>
             <guid>https://www.maxmovie.com/news/435217</guid>
             <pubDate>Tue, 24 Oct 2023 09:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '전지적 독자시점' 화려한 주연진
-동명 인기 웹소설 원작, 판타지 장르]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435217"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698134984297wbNjB.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435217"><h4>이민호‧안효섭에, 지수‧나나까지... 이 캐스팅 실화? </h4></a><span>10월 24일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698134984297wbNjB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박보검, 영화 '미나리' 배리어프리 음성해설 재능기부]]></title>
-            <link>https://www.maxmovie.com/news/435216</link>
-            <guid>https://www.maxmovie.com/news/435216</guid>
-            <pubDate>Tue, 24 Oct 2023 08:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435216"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698131508645ZDKYR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435216"><h4>박보검, 영화 '미나리' 배리어프리 음성해설 재능기부 </h4></a><span>10월 24일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698131508645ZDKYR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
