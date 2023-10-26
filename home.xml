@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 22:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 23:06:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,11 +45,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698203006283CXLH2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰]박혜수, 조현철 감독과 만남은 "뷰티풀, 원더풀, 미라클"]]></title>
+            <link>https://www.maxmovie.com/news/435246</link>
+            <guid>https://www.maxmovie.com/news/435246</guid>
+            <pubDate>Thu, 26 Oct 2023 23:05:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435246"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698353199360zFvnb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/435246"><h4>[인터뷰]박혜수, 조현철 감독과 만남은 "뷰티풀, 원더풀, 미라클"</h4></a><span>6분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698353199360zFvnb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[인터뷰]설경구, '소년들' 출연한 이유 "세상을 바꿀 순 없지만…"]]></title>
             <link>https://www.maxmovie.com/news/435245</link>
             <guid>https://www.maxmovie.com/news/435245</guid>
             <pubDate>Thu, 26 Oct 2023 10:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435245"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698310357147MvoyM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/435245"><h4>[인터뷰]설경구, '소년들' 출연한 이유 "세상을 바꿀 순 없지만…"</h4></a><span>12시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[삼례나라슈퍼사건 소재로 한 '소년들'
+뚝심 있게 재수사 나서는 황반장 역]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698310357147MvoyM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/435238</link>
             <guid>https://www.maxmovie.com/news/435238</guid>
             <pubDate>Thu, 26 Oct 2023 02:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[BIFF 초청작 '페르소나:설리' 11월13일 공개
-단편 극영화+장편 다큐멘터리 영화 구성]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435238"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698285459168fhwXb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435238"><h4>故 설리 영화 2편, 안방에서 본다..넷플릭스 공개</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698285459168fhwXb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최동훈 '외계+인 2부' 마침내 본다…내년 1월]]></title>
-            <link>https://www.maxmovie.com/news/435236</link>
-            <guid>https://www.maxmovie.com/news/435236</guid>
-            <pubDate>Thu, 26 Oct 2023 01:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435236"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698280677017ckqIL.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435236"><h4>최동훈 '외계+인 2부' 마침내 본다…내년 1월</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698280677017ckqIL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
