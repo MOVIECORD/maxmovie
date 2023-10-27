@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 22:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 23:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,8 +48,16 @@
             <link>https://www.maxmovie.com/news/435255</link>
             <guid>https://www.maxmovie.com/news/435255</guid>
             <pubDate>Fri, 27 Oct 2023 22:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435255"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698385440162iwSaA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435255"><h4>[오늘 뭘 볼까] 대학생 봉준호의 영화광 시절, '노란문: 세기말 시네필 다이어리'</h4></a><span>4분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435255"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698385440162iwSaA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435255"><h4>[오늘 뭘 볼까] 대학생 봉준호의 영화광 시절, '노란문: 세기말 시네필 다이어리'</h4></a><span>1시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698385440162iwSaA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스무비레터 #24번째 편지] 수지가 이두나와 16살 자신에게 보내는 편지💌]]></title>
+            <link>https://www.maxmovie.com/news/435259</link>
+            <guid>https://www.maxmovie.com/news/435259</guid>
+            <pubDate>Fri, 27 Oct 2023 23:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16983977776832nOVj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[위클리 이슈 모음zip] 지드래곤·이선균, 출국금지·뷔, '스토킹 혐의 20대女' 검거·'학폭 의혹' 수진 솔로 데뷔]]></title>
@@ -82,17 +90,8 @@ BL과는 차별화 확실한 수위 높은 베드신 시선]]></content:encoded>
             <link>https://www.maxmovie.com/news/435251</link>
             <guid>https://www.maxmovie.com/news/435251</guid>
             <pubDate>Fri, 27 Oct 2023 01:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[27일~29일 '아임 히어로' 서울 공연
-스펙터클 우주 콘셉트로 전국투어 시작]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435251"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698369550348i3fcS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435251"><h4>광활한 우주로 안내하는 '임영웅의 시간', 대망의 전국 투어 출발 </h4></a><span>21시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698369550348i3fcS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지드래곤 "마약 투약한 사실 없다" 전면 부인]]></title>
-            <link>https://www.maxmovie.com/news/435248</link>
-            <guid>https://www.maxmovie.com/news/435248</guid>
-            <pubDate>Fri, 27 Oct 2023 22:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435248"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698362466345lsJgC.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435248"><h4>지드래곤 "마약 투약한 사실 없다" 전면 부인</h4></a><span>22시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698362466345lsJgC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
