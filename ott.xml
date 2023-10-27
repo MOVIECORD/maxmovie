@@ -4,9 +4,18 @@
         <title>맥스무비 ─ OTT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 00:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 01:40:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대학생 봉준호가 만든 첫 단편영화, 마침내 공개]]></title>
+            <link>https://www.maxmovie.com/news/435250</link>
+            <guid>https://www.maxmovie.com/news/435250</guid>
+            <pubDate>Fri, 27 Oct 2023 01:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 오리지널 다큐 '노란문'에 담겨 
+30년만에 떠올리는 영화광 시대의 이야기]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/169836795417042ZKi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[故 설리 영화 2편, 안방에서 본다..넷플릭스 공개]]></title>
             <link>https://www.maxmovie.com/news/435238</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/435223</link>
             <guid>https://www.maxmovie.com/news/435223</guid>
             <pubDate>Wed, 25 Oct 2023 04:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[사극 멜로 vs 코믹 수사
-확대 편성하며 경쟁 격화…승자는?]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435223"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698203006283CXLH2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435223"><h4>경쟁 불붙는 남궁민 '연인' vs 이유미 '강남순'</h4></a><span>10월 25일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698203006283CXLH2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/435222</link>
             <guid>https://www.maxmovie.com/news/435222</guid>
             <pubDate>Wed, 25 Oct 2023 04:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435222"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698204462453EHD63.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435222"><h4>볼 수 없어 더 궁금한... 이태원 참사 다큐 '크러시'</h4></a><span>10월 25일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[280개 출처에서 확보한 1500시간 기록 바탕
+미국 제외한 국가들 공개 계획 아직 없어]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698204462453EHD63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/435185</link>
             <guid>https://www.maxmovie.com/news/435185</guid>
             <pubDate>Sun, 22 Oct 2023 08:08:09 GMT</pubDate>
-            <content:encoded><![CDATA[방송 재개 후 꾸준한 상승세
-또 하나의 대표작 탄생 예감]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435185"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697959644881WnFhU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435185"><h4>남궁민이 또…상승세 탄 '연인'</h4></a><span>10월 22일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697959644881WnFhU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["미국 외 공개 논의 無"…이태원 참사 다큐 '크러시']]></title>
-            <link>https://www.maxmovie.com/news/435182</link>
-            <guid>https://www.maxmovie.com/news/435182</guid>
-            <pubDate>Sun, 22 Oct 2023 04:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435182"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1697941649226srmR3.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435182"><h4>"미국 외 공개 논의 無"…이태원 참사 다큐 '크러시'</h4></a><span>10월 22일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697941649226srmR3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
