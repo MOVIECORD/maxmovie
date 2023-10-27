@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 05:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 06:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698365378878862WD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[티저부터 예사롭지 않은 '서울의 봄', 황정민과 정우성의 '놀란 눈']]></title>
+            <link>https://www.maxmovie.com/news/435254</link>
+            <guid>https://www.maxmovie.com/news/435254</guid>
+            <pubDate>Fri, 27 Oct 2023 06:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435254"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698383206164yrMK0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435254"><h4>티저부터 예사롭지 않은 '서울의 봄', 황정민과 정우성의 '놀란 눈' </h4></a><span>39분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698383206164yrMK0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[인터뷰] 거침없는 참교육! '용감한 시민' 감독이 통쾌함을 주는 방법]]></title>
             <link>https://www.maxmovie.com/news/435247</link>
             <guid>https://www.maxmovie.com/news/435247</guid>
             <pubDate>Fri, 27 Oct 2023 02:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435247"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698358004064g98AG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/435247"><h4>[인터뷰] 거침없는 참교육! '용감한 시민' 감독이 통쾌함을 주는 방법</h4></a><span>3시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['그놈 목소리' 박진표 감독, 첫 액션 영화 연출
+"'너의 잘못 아니야', 피해자에게 해주고 싶은 말"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698358004064g98AG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,16 +90,8 @@
             <link>https://www.maxmovie.com/news/435240</link>
             <guid>https://www.maxmovie.com/news/435240</guid>
             <pubDate>Thu, 26 Oct 2023 22:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다.]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435240"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16982946909540xAAt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435240"><h4>[데일리 핫이슈]  지드래곤 마약, 전청조 사칭, 방탄소년단 공연 실황 공개 </h4></a><span>8시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16982946909540xAAt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰:포테이토 지수 65%]  '그대들은 어떻게 살 것인가'... 풀기 어려운 질문]]></title>
-            <link>https://www.maxmovie.com/news/435239</link>
-            <guid>https://www.maxmovie.com/news/435239</guid>
-            <pubDate>Fri, 27 Oct 2023 00:28:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435239"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698285864313KPu9p.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/435239"><h4>[리뷰:포테이토 지수 65%]  '그대들은 어떻게 살 것인가'... 풀기 어려운 질문 </h4></a><span>10월 26일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698285864313KPu9p.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
