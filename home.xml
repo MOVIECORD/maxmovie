@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 03:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 04:08:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16983977776832nOVj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[올해 극장 관객 1억명 돌파..'영화의 날'에 읽는 씁쓸함]]></title>
+            <link>https://www.maxmovie.com/news/435261</link>
+            <guid>https://www.maxmovie.com/news/435261</guid>
+            <pubDate>Sun, 29 Oct 2023 04:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435261"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698486350860f6mkf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435261"><h4>올해 극장 관객 1억명 돌파..'영화의 날'에 읽는 씁쓸함</h4></a><span>18시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698486350860f6mkf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['마약 혐의' 이선균 "많은 분께 진심으로 사과"..경찰 출석]]></title>
             <link>https://www.maxmovie.com/news/435260</link>
             <guid>https://www.maxmovie.com/news/435260</guid>
             <pubDate>Sun, 29 Oct 2023 01:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435260"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698483078597zgEuy.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435260"><h4>'마약 혐의' 이선균 "많은 분께 진심으로 사과"..경찰 출석</h4></a><span>18시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[28일 경찰서 출두해 조사 중
+"가족들에게 미안한 마음"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698483078597zgEuy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,17 +88,8 @@
             <link>https://www.maxmovie.com/news/435252</link>
             <guid>https://www.maxmovie.com/news/435252</guid>
             <pubDate>Sat, 28 Oct 2023 09:04:17 GMT</pubDate>
-            <content:encoded><![CDATA[실제 커밍아웃한 조나단 베일리, 맷 보머 주연
-BL과는 차별화 확실한 수위 높은 베드신 시선]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435252"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698372296715XtGCL.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435252"><h4>영·미 투톱 LGBT 배우가 완성한 동성의 사랑, 섹시하고 슬픈 '파격 베드신'</h4></a><span>10월 27일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698372296715XtGCL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티저부터 예사롭지 않은 '서울의 봄', 황정민과 정우성의 '놀란 눈']]></title>
-            <link>https://www.maxmovie.com/news/435254</link>
-            <guid>https://www.maxmovie.com/news/435254</guid>
-            <pubDate>Fri, 27 Oct 2023 06:09:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435254"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698383206164yrMK0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435254"><h4>티저부터 예사롭지 않은 '서울의 봄', 황정민과 정우성의 '놀란 눈' </h4></a><span>10월 27일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698383206164yrMK0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
