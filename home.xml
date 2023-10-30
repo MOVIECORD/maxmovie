@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 03:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 04:08:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698565231230dGVTM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["'괴물'은 누구인가?" 고레에다 히로카즈 신작 11월29일 개봉]]></title>
+            <link>https://www.maxmovie.com/news/435275</link>
+            <guid>https://www.maxmovie.com/news/435275</guid>
+            <pubDate>Mon, 30 Oct 2023 04:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435275"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698633826619ObR7P.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435275"><h4>"'괴물'은 누구인가?" 고레에다 히로카즈 신작 11월29일 개봉</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698633826619ObR7P.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이태원 참사 1주기 故 이지한 모친, "절망과 싸우고 있다"  고백]]></title>
             <link>https://www.maxmovie.com/news/435267</link>
             <guid>https://www.maxmovie.com/news/435267</guid>
             <pubDate>Sun, 29 Oct 2023 07:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435267"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698560432866fXlsw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435267"><h4>이태원 참사 1주기 故 이지한 모친, "절망과 싸우고 있다"  고백 </h4></a><span>20시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[1년 전 오늘 하늘로 간 연기자 이지한
+모친 직접 쓴 편지에서 아들 향한 그리움]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698560432866fXlsw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/435263</link>
             <guid>https://www.maxmovie.com/news/435263</guid>
             <pubDate>Sun, 29 Oct 2023 01:44:35 GMT</pubDate>
-            <content:encoded><![CDATA['우영우' 이후 선보이는 주연작 
-같은 시간 '연인'과 시청률 대결]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435263"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698543203491KoYYR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435263"><h4>박은빈 '무인도의 디바' 3.2% 출발, 남궁민의 '연인' 막강 파워  </h4></a><span>10월 29일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698543203491KoYYR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이선균, 마약 혐의 진술 거부..간이검사는 음성]]></title>
-            <link>https://www.maxmovie.com/news/435262</link>
-            <guid>https://www.maxmovie.com/news/435262</guid>
-            <pubDate>Mon, 30 Oct 2023 00:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435262"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698488494515oWfkB.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435262"><h4>이선균, 마약 혐의 진술 거부..간이검사는 음성</h4></a><span>10월 28일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698488494515oWfkB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
