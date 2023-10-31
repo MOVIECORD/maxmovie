@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 00:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 01:43:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강하늘♥정소민의 유쾌한 '30일' 현장 비하인드]]></title>
+            <link>https://www.maxmovie.com/news/435289</link>
+            <guid>https://www.maxmovie.com/news/435289</guid>
+            <pubDate>Tue, 31 Oct 2023 01:42:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435289"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1698713046029ZQwnB.jpg" alt=""></span><span class="textBox"><h4>강하늘♥정소민의 유쾌한 '30일' 현장 비하인드</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698713046029ZQwnB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수지, 걸그룹 센터 출신답네…'이두나!' 현장 비하인드 스틸]]></title>
             <link>https://www.maxmovie.com/news/435169</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 04 Sep 2023 03:07:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/434623"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1693796165740w84yn.jpg" alt=""></span><span class="textBox"><h4>무법천지의 땅, 1920년대 간도... 액션 활극 '도적: 칼의 소리' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693796165740w84yn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김남길이 달린, 1920년 간도 황무지... '도적: 칼의 소리']]></title>
-            <link>https://www.maxmovie.com/news/434561</link>
-            <guid>https://www.maxmovie.com/news/434561</guid>
-            <pubDate>Tue, 29 Aug 2023 02:44:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/434561"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1693274326714rCeet.jpg" alt=""></span><span class="textBox"><h4>김남길이 달린, 1920년 간도 황무지... '도적: 칼의 소리'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693274326714rCeet.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
