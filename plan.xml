@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 05:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 06:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방송인 박지윤·최동석, 결혼 14년 만에 파경]]></title>
+            <link>https://www.maxmovie.com/news/435294</link>
+            <guid>https://www.maxmovie.com/news/435294</guid>
+            <pubDate>Tue, 31 Oct 2023 06:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[30일 이혼 조정 접수
+"오랜 고민 끝에 내린 결정"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16987301828799w5fq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['마약 의혹' 이선균·지드래곤, 11월초 경찰 조사 받는다]]></title>
             <link>https://www.maxmovie.com/news/435292</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/435288</link>
             <guid>https://www.maxmovie.com/news/435288</guid>
             <pubDate>Tue, 31 Oct 2023 01:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 6일 만에 100만 관객 성과
-다양한 관객 반응 속 뜨거운 인기]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435288"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698711780152maLgb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435288"><h4>'그대들은 어떻게 살 것인가' 100만 돌파, 지브리 사상 최단기간</h4></a><span>5시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698711780152maLgb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/435287</link>
             <guid>https://www.maxmovie.com/news/435287</guid>
             <pubDate>Tue, 31 Oct 2023 01:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435287"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16987115913967p1jL.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435287"><h4>신혜선의 참교육 글로벌로 향한다, '용감한 시민' 15개국 판매 </h4></a><span>4시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[11월 베트남 대만 등 순차 개봉
+통쾌한 응징, 해외 관객에 소개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16987115913967p1jL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,16 +91,8 @@
             <link>https://www.maxmovie.com/news/435283</link>
             <guid>https://www.maxmovie.com/news/435283</guid>
             <pubDate>Mon, 30 Oct 2023 22:05:08 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435283"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16986636527764fF4v.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435283"><h4>[데일리 핫이슈]이선균·지디 마약 의혹, 전청조 논란, 오유진 스토커</h4></a><span>8시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16986636527764fF4v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지드래곤 "자진출석 일정 조율 중" 마약 혐의 재차 부인]]></title>
-            <link>https://www.maxmovie.com/news/435282</link>
-            <guid>https://www.maxmovie.com/news/435282</guid>
-            <pubDate>Mon, 30 Oct 2023 08:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435282"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698651207782Pvvql.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435282"><h4>지드래곤 "자진출석 일정 조율 중" 마약 혐의 재차 부인 </h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698651207782Pvvql.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
