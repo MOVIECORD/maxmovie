@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 08:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 09:07:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,11 +45,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698741814056lowBJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['동일인 맞아?' 김성균, '무빙' 슈퍼맨 아빠 지우고 군인으로]]></title>
+            <link>https://www.maxmovie.com/news/435316</link>
+            <guid>https://www.maxmovie.com/news/435316</guid>
+            <pubDate>Wed, 01 Nov 2023 09:06:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435316"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698826565755tuSRb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435316"><h4>'동일인 맞아?' 김성균, '무빙' 슈퍼맨 아빠 지우고 군인으로</h4></a><span>45분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698826565755tuSRb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['어른 김장하'를 아시나요?]]></title>
             <link>https://www.maxmovie.com/news/435315</link>
             <guid>https://www.maxmovie.com/news/435315</guid>
             <pubDate>Wed, 01 Nov 2023 08:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435315"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16988215630922ZrlE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435315"><h4>'어른 김장하'를 아시나요?</h4></a><span>33분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[TV로 먼저 공개된 휴먼 다큐멘터리
+11월15일 극장 개봉, 극장에서 한번 더]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16988215630922ZrlE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435302</link>
             <guid>https://www.maxmovie.com/news/435302</guid>
             <pubDate>Wed, 01 Nov 2023 07:04:46 GMT</pubDate>
-            <content:encoded><![CDATA[1947년 보스톤 마라톤 도전 실화
-가족과 같이 보는 뭉클한 감동]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435302"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698796192680f6TOY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435302"><h4>하정우‧임시완 '1947 보스톤', 안방에서 본다 VOD 공개 </h4></a><span>9시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698796192680f6TOY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이혼 최동석 아나, "귀책사유 아내인 것처럼 왜곡 조작... 강경대응"]]></title>
-            <link>https://www.maxmovie.com/news/435301</link>
-            <guid>https://www.maxmovie.com/news/435301</guid>
-            <pubDate>Wed, 01 Nov 2023 07:04:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435301"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698792818948qfylH.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435301"><h4>이혼 최동석 아나, "귀책사유 아내인 것처럼 왜곡 조작... 강경대응" </h4></a><span>9시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698792818948qfylH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
