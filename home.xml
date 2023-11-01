@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 00:31:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 01:46:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16987115913967p1jL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["본격적인 아포칼립스" 세계관 확장 '스위트홈2', 12월1일 공개]]></title>
+            <link>https://www.maxmovie.com/news/435304</link>
+            <guid>https://www.maxmovie.com/news/435304</guid>
+            <pubDate>Wed, 01 Nov 2023 01:46:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435304"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698797335037eTmCJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435304"><h4>"본격적인 아포칼립스" 세계관 확장 '스위트홈2', 12월1일 공개</h4></a><span>40분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698797335037eTmCJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하정우‧임시완 '1947 보스톤', 안방에서 본다 VOD 공개]]></title>
             <link>https://www.maxmovie.com/news/435302</link>
             <guid>https://www.maxmovie.com/news/435302</guid>
             <pubDate>Wed, 01 Nov 2023 00:31:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435302"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698796192680f6TOY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435302"><h4>하정우‧임시완 '1947 보스톤', 안방에서 본다 VOD 공개 </h4></a><span>30분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[1947년 보스톤 마라톤 도전 실화
+가족과 같이 보는 뭉클한 감동]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698796192680f6TOY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/435296</link>
             <guid>https://www.maxmovie.com/news/435296</guid>
             <pubDate>Tue, 31 Oct 2023 07:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[11월22일 개봉 '서울의 봄' 실화 도전 
-황정민 정우성과 만나 불꽃 연기 대결]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435296"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698735156930evMFJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435296"><h4>박해준의 변신... 전두광을 지지하는 '노태건'의 존재는? </h4></a><span>18시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698735156930evMFJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 누가 이 무고한 소년들을 내몰았나? 영화 '소년들']]></title>
-            <link>https://www.maxmovie.com/news/435295</link>
-            <guid>https://www.maxmovie.com/news/435295</guid>
-            <pubDate>Tue, 31 Oct 2023 22:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435295"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698734022181zCxYk.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435295"><h4>[오늘 뭘 볼까] 누가 이 무고한 소년들을 내몰았나? 영화 '소년들'</h4></a><span>2시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698734022181zCxYk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

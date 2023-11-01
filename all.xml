@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 00:31:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 01:46:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16987115913967p1jL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["본격적인 아포칼립스" 세계관 확장 '스위트홈2', 12월1일 공개 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435304</link>
+            <guid>https://www.maxmovie.com/news/435304</guid>
+            <pubDate>Wed, 01 Nov 2023 01:46:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435304"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698797335037eTmCJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435304"><h4>"본격적인 아포칼립스" 세계관 확장 '스위트홈2', 12월1일 공개</h4></a><span>40분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698797335037eTmCJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하정우‧임시완 '1947 보스톤', 안방에서 본다 VOD 공개 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/435302</link>
             <guid>https://www.maxmovie.com/news/435302</guid>
             <pubDate>Wed, 01 Nov 2023 00:31:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435302"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698796192680f6TOY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435302"><h4>하정우‧임시완 '1947 보스톤', 안방에서 본다 VOD 공개 </h4></a><span>30분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[1947년 보스톤 마라톤 도전 실화
+가족과 같이 보는 뭉클한 감동]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698796192680f6TOY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/435296</link>
             <guid>https://www.maxmovie.com/news/435296</guid>
             <pubDate>Tue, 31 Oct 2023 07:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[11월22일 개봉 '서울의 봄' 실화 도전 
-황정민 정우성과 만나 불꽃 연기 대결]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435296"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698735156930evMFJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435296"><h4>박해준의 변신... 전두광을 지지하는 '노태건'의 존재는? </h4></a><span>18시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698735156930evMFJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 누가 이 무고한 소년들을 내몰았나? 영화 '소년들' (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435295</link>
-            <guid>https://www.maxmovie.com/news/435295</guid>
-            <pubDate>Tue, 31 Oct 2023 22:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435295"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698734022181zCxYk.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435295"><h4>[오늘 뭘 볼까] 누가 이 무고한 소년들을 내몰았나? 영화 '소년들'</h4></a><span>2시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698734022181zCxYk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 거침없는 참교육! '용감한 시민' 감독이 통쾌함을 주는 방법 (맥스무비 ─ 인터뷰)]]></title>
@@ -270,7 +270,7 @@
             <title><![CDATA[하정우‧임시완 '1947 보스톤', 안방에서 본다 VOD 공개 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/435302</link>
             <guid>https://www.maxmovie.com/news/435302</guid>
-            <pubDate>Wed, 01 Nov 2023 00:31:34 GMT</pubDate>
+            <pubDate>Wed, 01 Nov 2023 00:31:08 GMT</pubDate>
             <content:encoded><![CDATA[1947년 보스톤 마라톤 도전 실화
 가족과 같이 보는 뭉클한 감동]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698796192680f6TOY.jpg" length="0" type="image/jpg"/>
@@ -279,7 +279,7 @@
             <title><![CDATA[이혼 최동석 아나, "귀책사유 아내인 것처럼 왜곡 조작... 강경대응" (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/435301</link>
             <guid>https://www.maxmovie.com/news/435301</guid>
-            <pubDate>Wed, 01 Nov 2023 00:31:34 GMT</pubDate>
+            <pubDate>Wed, 01 Nov 2023 00:31:08 GMT</pubDate>
             <content:encoded><![CDATA[KBS 아나운서 동기 박지윤과 이혼 발표 
 과거 올린 영상에 따른 억측과 추측 경계]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698792818948qfylH.jpg" length="0" type="image/jpg"/>
@@ -306,7 +306,7 @@
             <link>https://www.maxmovie.com/news/435298</link>
             <guid>https://www.maxmovie.com/news/435298</guid>
             <pubDate>Tue, 31 Oct 2023 09:07:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435298"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698738467336fQrnq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435298"><h4>주종혁, '권모술수' 벗고 '검도인'으로..."'만분의 일초' 신선했다"</h4></a><span>15시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435298"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698738467336fQrnq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435298"><h4>주종혁, '권모술수' 벗고 '검도인'으로..."'만분의 일초' 신선했다"</h4></a><span>17시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698738467336fQrnq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -348,8 +348,17 @@
             <link>https://www.maxmovie.com/news/435293</link>
             <guid>https://www.maxmovie.com/news/435293</guid>
             <pubDate>Tue, 31 Oct 2023 22:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435293"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698741814056lowBJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435293"><h4>日 3대장 감독 온다, 미야자키 하야오→이와이 슌지→고레에다 히로카즈</h4></a><span>2시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435293"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698741814056lowBJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435293"><h4>日 3대장 감독 온다, 미야자키 하야오→이와이 슌지→고레에다 히로카즈</h4></a><span>3시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698741814056lowBJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["본격적인 아포칼립스" 세계관 확장 '스위트홈2', 12월1일 공개 (맥스무비 ─ OTT)]]></title>
+            <link>https://www.maxmovie.com/news/435304</link>
+            <guid>https://www.maxmovie.com/news/435304</guid>
+            <pubDate>Wed, 01 Nov 2023 01:46:50 GMT</pubDate>
+            <content:encoded><![CDATA[웹툰 원작과 다른 흐름, 넓어진 세계관
+"새로운 인물과 괴물 대거 등장" 예고]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698797335037eTmCJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['연인'만 없으면…'힘쎈여자 강남순' 또 상승 (맥스무비 ─ OTT)]]></title>
@@ -382,8 +391,7 @@
             <link>https://www.maxmovie.com/news/435256</link>
             <guid>https://www.maxmovie.com/news/435256</guid>
             <pubDate>Fri, 27 Oct 2023 22:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[탁월한 비주얼의 맷 보머, 조나단 베일리 주연
-40년에 걸친 두 남자의 절절한 러브스토리]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435256"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698385264146JTIDM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435256"><h4>미국 미남과 영국 미남이 만나 40년간 겪은 일... '길 위의 연인들'</h4></a><span>10월 27일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698385264146JTIDM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -391,7 +399,7 @@
             <link>https://www.maxmovie.com/news/435255</link>
             <guid>https://www.maxmovie.com/news/435255</guid>
             <pubDate>Fri, 27 Oct 2023 22:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435255"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698385440162iwSaA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435255"><h4>[오늘 뭘 볼까] 대학생 봉준호의 영화광 시절, '노란문: 세기말 시네필 다이어리'</h4></a><span>10월 27일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['노란문: 세기말 시네필 다이어리'의 한 장면. 사진제공=넷플릭스오늘, 볼만한 작품을 추천합니다.◆ '노란문: 세기말 시네필 다이어리''노란문: 세기말 시네필 다이어리'는 1990년대 초반&nbsp;시네필들의 공동체였던 '노란문 영화 연구소'의 회원들이 30년 만에 떠올리는 영화광 시대와 청년 봉준호의 첫 번째 단편영화를 둘러싼 기억을 따라가는 넷플릭스 다큐멘터리]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698385440162iwSaA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -425,17 +433,16 @@ BL과는 차별화 확실한 수위 높은 베드신 시선]]></content:encoded>
             <link>https://www.maxmovie.com/news/435238</link>
             <guid>https://www.maxmovie.com/news/435238</guid>
             <pubDate>Thu, 26 Oct 2023 02:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[BIFF 초청작 '페르소나:설리' 11월13일 공개
-단편 극영화+장편 다큐멘터리 영화 구성]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435238"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698285459168fhwXb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435238"><h4>故 설리 영화 2편, 안방에서 본다..넷플릭스 공개</h4></a><span>10월 26일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698285459168fhwXb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배우 김하늘, 8년만에 KBS로…특종기자 변신 (맥스무비 ─ OTT)]]></title>
-            <link>https://www.maxmovie.com/news/435232</link>
-            <guid>https://www.maxmovie.com/news/435232</guid>
-            <pubDate>Wed, 25 Oct 2023 10:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435232"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698226387062kDsVp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435232"><h4>배우 김하늘, 8년만에 KBS로…특종기자 변신</h4></a><span>10월 25일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698226387062kDsVp.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[고레에다 히로카즈가 완성한 '순수한 순간'... 영화 '괴물' 엿보기 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/435305</link>
+            <guid>https://www.maxmovie.com/news/435305</guid>
+            <pubDate>Wed, 01 Nov 2023 01:46:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435305"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1698799649429fjhs4.jpg" alt=""></span><span class="textBox"><h4>고레에다 히로카즈가 완성한 '순수한 순간'... 영화 '괴물' 엿보기 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698799649429fjhs4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강하늘♥정소민의 유쾌한 '30일' 현장 비하인드 (맥스무비 ─ 포토)]]></title>
@@ -668,14 +675,6 @@ BL과는 차별화 확실한 수위 높은 베드신 시선]]></content:encoded>
             <pubDate>Wed, 04 Oct 2023 14:05:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/434627"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1693806116770qYAFn.jpg" alt=""></span><span class="textBox"><h4>순정 만화 속으로 들어간, '너의 시간 속으로' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693806116770qYAFn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무법천지의 땅, 1920년대 간도... 액션 활극 '도적: 칼의 소리' (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/434623</link>
-            <guid>https://www.maxmovie.com/news/434623</guid>
-            <pubDate>Wed, 04 Oct 2023 14:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/434623"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1693796165740w84yn.jpg" alt=""></span><span class="textBox"><h4>무법천지의 땅, 1920년대 간도... 액션 활극 '도적: 칼의 소리' </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693796165740w84yn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
