@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 07:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 08:09:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,11 +45,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698741814056lowBJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['어른 김장하'를 아시나요?]]></title>
+            <link>https://www.maxmovie.com/news/435315</link>
+            <guid>https://www.maxmovie.com/news/435315</guid>
+            <pubDate>Wed, 01 Nov 2023 08:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435315"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16988215630922ZrlE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435315"><h4>'어른 김장하'를 아시나요?</h4></a><span>33분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16988215630922ZrlE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장현과 길채의 사랑... 더 오래 본다, 드라마 '연인' 연장 논의]]></title>
             <link>https://www.maxmovie.com/news/435314</link>
             <guid>https://www.maxmovie.com/news/435314</guid>
             <pubDate>Wed, 01 Nov 2023 07:04:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435314"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698820520752M4ftR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435314"><h4>장현과 길채의 사랑... 더 오래 본다, 드라마 '연인' 연장 논의 </h4></a><span>15분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA["후반부 이야기 완성도 위한 연장"
+당초 20부작에서 더 늘어날 전망]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698820520752M4ftR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435301</link>
             <guid>https://www.maxmovie.com/news/435301</guid>
             <pubDate>Wed, 01 Nov 2023 07:04:46 GMT</pubDate>
-            <content:encoded><![CDATA[KBS 아나운서 동기 박지윤과 이혼 발표 
-과거 올린 영상에 따른 억측과 추측 경계]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435301"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698792818948qfylH.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435301"><h4>이혼 최동석 아나, "귀책사유 아내인 것처럼 왜곡 조작... 강경대응" </h4></a><span>9시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698792818948qfylH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[데일리 핫이슈]  정국 신기록, 조정석‧신세경 첫 호흡, 이선빈 공포영화 주연]]></title>
-            <link>https://www.maxmovie.com/news/435299</link>
-            <guid>https://www.maxmovie.com/news/435299</guid>
-            <pubDate>Wed, 01 Nov 2023 07:04:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435299"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698743341354nSVLW.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435299"><h4>[데일리 핫이슈]  정국 신기록, 조정석‧신세경 첫 호흡, 이선빈 공포영화 주연</h4></a><span>9시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698743341354nSVLW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
