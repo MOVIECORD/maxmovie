@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 02:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 03:08:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16987115913967p1jL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신세경, 쉼없이 활동 이어간다…내년 1월 복귀]]></title>
+            <link>https://www.maxmovie.com/news/435307</link>
+            <guid>https://www.maxmovie.com/news/435307</guid>
+            <pubDate>Wed, 01 Nov 2023 03:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435307"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698805928371mQjwo.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435307"><h4>신세경, 쉼없이 활동 이어간다…내년 1월 복귀</h4></a><span>9분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698805928371mQjwo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['더 마블스', 침체 빠진 마블영화 해결사 될까]]></title>
             <link>https://www.maxmovie.com/news/435306</link>
             <guid>https://www.maxmovie.com/news/435306</guid>
             <pubDate>Wed, 01 Nov 2023 02:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435306"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698803686431kECKd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435306"><h4>'더 마블스', 침체 빠진 마블영화 해결사 될까</h4></a><span>8분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[올해 마지막 마블영화
+마블영화 침체, 美배우 파업 여파
+첫 주말 1억2100만~1억8900만 달러 전망]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698803686431kECKd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,16 +91,8 @@
             <link>https://www.maxmovie.com/news/435299</link>
             <guid>https://www.maxmovie.com/news/435299</guid>
             <pubDate>Tue, 31 Oct 2023 22:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435299"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698743341354nSVLW.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435299"><h4>[데일리 핫이슈]  정국 신기록, 조정석‧신세경 첫 호흡, 이선빈 공포영화 주연</h4></a><span>5시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698743341354nSVLW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['김호중 영화' 4만명 눈앞…전작들 넘어설까]]></title>
-            <link>https://www.maxmovie.com/news/435300</link>
-            <guid>https://www.maxmovie.com/news/435300</guid>
-            <pubDate>Tue, 31 Oct 2023 09:07:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435300"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698740201917WvFDZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435300"><h4>'김호중 영화' 4만명 눈앞…전작들 넘어설까</h4></a><span>17시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698740201917WvFDZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
