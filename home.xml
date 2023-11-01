@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 01:46:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 02:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16987115913967p1jL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['더 마블스', 침체 빠진 마블영화 해결사 될까]]></title>
+            <link>https://www.maxmovie.com/news/435306</link>
+            <guid>https://www.maxmovie.com/news/435306</guid>
+            <pubDate>Wed, 01 Nov 2023 02:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435306"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698803686431kECKd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435306"><h4>'더 마블스', 침체 빠진 마블영화 해결사 될까</h4></a><span>8분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698803686431kECKd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["본격적인 아포칼립스" 세계관 확장 '스위트홈2', 12월1일 공개]]></title>
             <link>https://www.maxmovie.com/news/435304</link>
             <guid>https://www.maxmovie.com/news/435304</guid>
             <pubDate>Wed, 01 Nov 2023 01:46:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435304"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698797335037eTmCJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435304"><h4>"본격적인 아포칼립스" 세계관 확장 '스위트홈2', 12월1일 공개</h4></a><span>40분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[웹툰 원작과 다른 흐름, 넓어진 세계관
+"새로운 인물과 괴물 대거 등장" 예고]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698797335037eTmCJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/435300</link>
             <guid>https://www.maxmovie.com/news/435300</guid>
             <pubDate>Tue, 31 Oct 2023 09:07:01 GMT</pubDate>
-            <content:encoded><![CDATA[세번째 음악 영화 4만명 돌파 목전
-내달 1~3일 싱어롱 상영회 개최]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435300"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698740201917WvFDZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435300"><h4>'김호중 영화' 4만명 눈앞…전작들 넘어설까</h4></a><span>17시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698740201917WvFDZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박해준의 변신... 전두광을 지지하는 '노태건'의 존재는?]]></title>
-            <link>https://www.maxmovie.com/news/435296</link>
-            <guid>https://www.maxmovie.com/news/435296</guid>
-            <pubDate>Tue, 31 Oct 2023 07:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435296"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698735156930evMFJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435296"><h4>박해준의 변신... 전두광을 지지하는 '노태건'의 존재는? </h4></a><span>18시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698735156930evMFJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,19 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 01:46:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 02:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['더 마블스', 침체 빠진 마블영화 해결사 될까]]></title>
+            <link>https://www.maxmovie.com/news/435306</link>
+            <guid>https://www.maxmovie.com/news/435306</guid>
+            <pubDate>Wed, 01 Nov 2023 02:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[올해 마지막 마블영화
+마블영화 침체, 美배우 파업 여파
+첫 주말 1억2100만~1억8900만 달러 전망]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698803686431kECKd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하정우‧임시완 '1947 보스톤', 안방에서 본다 VOD 공개]]></title>
             <link>https://www.maxmovie.com/news/435302</link>
@@ -39,7 +49,7 @@
             <link>https://www.maxmovie.com/news/435299</link>
             <guid>https://www.maxmovie.com/news/435299</guid>
             <pubDate>Tue, 31 Oct 2023 22:05:32 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435299"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698743341354nSVLW.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435299"><h4>[데일리 핫이슈]  정국 신기록, 조정석‧신세경 첫 호흡, 이선빈 공포영화 주연</h4></a><span>4시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698743341354nSVLW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -47,7 +57,8 @@
             <link>https://www.maxmovie.com/news/435298</link>
             <guid>https://www.maxmovie.com/news/435298</guid>
             <pubDate>Tue, 31 Oct 2023 09:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435298"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698738467336fQrnq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435298"><h4>주종혁, '권모술수' 벗고 '검도인'으로..."'만분의 일초' 신선했다"</h4></a><span>17시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[영화 첫 주연작 11월15일 개봉
+감독도 주연 배우들도 모두 '첫 발']]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698738467336fQrnq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +91,8 @@
             <link>https://www.maxmovie.com/news/435294</link>
             <guid>https://www.maxmovie.com/news/435294</guid>
             <pubDate>Tue, 31 Oct 2023 06:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[30일 이혼 조정 접수
-"오랜 고민 끝에 내린 결정"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435294"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16987301828799w5fq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435294"><h4>방송인 박지윤·최동석, 결혼 14년 만에 파경</h4></a><span>20시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16987301828799w5fq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 3대장 감독 온다, 미야자키 하야오→이와이 슌지→고레에다 히로카즈]]></title>
-            <link>https://www.maxmovie.com/news/435293</link>
-            <guid>https://www.maxmovie.com/news/435293</guid>
-            <pubDate>Tue, 31 Oct 2023 22:05:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435293"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698741814056lowBJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435293"><h4>日 3대장 감독 온다, 미야자키 하야오→이와이 슌지→고레에다 히로카즈</h4></a><span>3시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698741814056lowBJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
