@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 06:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 07:05:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,11 +45,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698888994614kcwho.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[남궁민의 '연인'은 연장 가도 살아남을까]]></title>
+            <link>https://www.maxmovie.com/news/435329</link>
+            <guid>https://www.maxmovie.com/news/435329</guid>
+            <pubDate>Thu, 02 Nov 2023 07:04:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435329"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698895775221OawNZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435329"><h4>남궁민의 '연인'은 연장 가도 살아남을까</h4></a><span>28분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698895775221OawNZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["멋쟁이 희극인' 故 박지선, 동료들과 팬들...3주기 추모]]></title>
             <link>https://www.maxmovie.com/news/435324</link>
             <guid>https://www.maxmovie.com/news/435324</guid>
             <pubDate>Thu, 02 Nov 2023 04:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435324"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698888265744XxlHy.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435324"><h4>"멋쟁이 희극인' 故 박지선, 동료들과 팬들...3주기 추모 </h4></a><span>4시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[2020년 11월1일 하늘 나라로 떠나 
+고인을 그리워하는 동료들 추모 발길]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698888265744XxlHy.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435318</link>
             <guid>https://www.maxmovie.com/news/435318</guid>
             <pubDate>Thu, 02 Nov 2023 06:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[마틴 스코세이지 감독, 리어나도 디캐프리오 주연 
-1920년대 원주민 오세이지족 비극 다룬 대서사]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435318"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698828344039mkNri.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435318"><h4>러닝타임 206분에도 N차 유발하는 '플라워 킬링 문'... 그 힘은? </h4></a><span>21시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698828344039mkNri.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['어른 김장하'를 아시나요?]]></title>
-            <link>https://www.maxmovie.com/news/435315</link>
-            <guid>https://www.maxmovie.com/news/435315</guid>
-            <pubDate>Wed, 01 Nov 2023 08:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435315"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16988215630922ZrlE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435315"><h4>'어른 김장하'를 아시나요?</h4></a><span>22시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16988215630922ZrlE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
