@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 01:41:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 02:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도파민 폭발! 하이틴 범죄 액션물 '사채소년'의 순간들]]></title>
+            <link>https://www.maxmovie.com/news/435326</link>
+            <guid>https://www.maxmovie.com/news/435326</guid>
+            <pubDate>Thu, 02 Nov 2023 02:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435326"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1698890219266DCL6S.jpg" alt=""></span><span class="textBox"><h4>도파민 폭발! 하이틴 범죄 액션물 '사채소년'의 순간들</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698890219266DCL6S.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고레에다 히로카즈가 완성한 '순수한 순간'... 영화 '괴물' 엿보기]]></title>
             <link>https://www.maxmovie.com/news/435305</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Sep 2023 01:41:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/434669"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1694134543488lzbhP.jpg" alt=""></span><span class="textBox"><h4>'상친자'까지 사로잡을까... 마침내 공개  '너의 시간 속으로'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1694134543488lzbhP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[순정 만화 속으로 들어간, '너의 시간 속으로']]></title>
-            <link>https://www.maxmovie.com/news/434627</link>
-            <guid>https://www.maxmovie.com/news/434627</guid>
-            <pubDate>Mon, 04 Sep 2023 06:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/434627"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1693806116770qYAFn.jpg" alt=""></span><span class="textBox"><h4>순정 만화 속으로 들어간, '너의 시간 속으로' </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1693806116770qYAFn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
