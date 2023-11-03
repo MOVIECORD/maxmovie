@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 22:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 23:05:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/435339</link>
             <guid>https://www.maxmovie.com/news/435339</guid>
             <pubDate>Fri, 03 Nov 2023 22:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435339"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699017117770dlMF0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435339"><h4>[위클리 이슈 모음zip]이선균 재소환·피프티 키나 중심 재편·스칼릿 조핸슨 법적 대응 외</h4></a><span>5분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435339"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699017117770dlMF0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435339"><h4>[위클리 이슈 모음zip]이선균 재소환·피프티 키나 중심 재편·스칼릿 조핸슨 법적 대응 외</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699017117770dlMF0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,6 +68,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698999120211sgmhF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[맥스무비레터 #25번째 편지] '연인' VS '힘쎈여자 강남순', 흥미로운 이야기들]]></title>
+            <link>https://www.maxmovie.com/news/435351</link>
+            <guid>https://www.maxmovie.com/news/435351</guid>
+            <pubDate>Fri, 03 Nov 2023 23:05:18 GMT</pubDate>
+            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699012539585sikbq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오늘 뭘 볼까] 마음에 빛을 밝혀줄 이야기 '우리가 볼 수 없는 모든 빛']]></title>
             <link>https://www.maxmovie.com/news/435344</link>
             <guid>https://www.maxmovie.com/news/435344</guid>
@@ -80,17 +88,8 @@
             <link>https://www.maxmovie.com/news/435341</link>
             <guid>https://www.maxmovie.com/news/435341</guid>
             <pubDate>Fri, 03 Nov 2023 03:07:34 GMT</pubDate>
-            <content:encoded><![CDATA['혹성탈출:새로운 시대' 내년 개봉
-'메이즈 러너' 웨스 볼 감독 연출]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435341"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16989783250750UElN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435341"><h4>끝나지 않았다…'혹성탈출', '새로운 시대'로 7년만에 돌아온다</h4></a><span>20시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16989783250750UElN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['뉴스룸' 만나는 설경구, 어떤 말 할까]]></title>
-            <link>https://www.maxmovie.com/news/435338</link>
-            <guid>https://www.maxmovie.com/news/435338</guid>
-            <pubDate>Fri, 03 Nov 2023 01:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435338"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16989713703211r5Ha.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435338"><h4>'뉴스룸' 만나는 설경구, 어떤 말 할까</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16989713703211r5Ha.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
