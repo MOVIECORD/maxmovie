@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 05:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 06:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698967367559vkpg4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이동욱·임수정 "혼자인 게, 혼자여도 좋아"]]></title>
+            <link>https://www.maxmovie.com/news/435343</link>
+            <guid>https://www.maxmovie.com/news/435343</guid>
+            <pubDate>Fri, 03 Nov 2023 06:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435343"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698986956554Lp8z8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435343"><h4>이동욱·임수정 "혼자인 게, 혼자여도 좋아"</h4></a><span>25분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698986956554Lp8z8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['뉴스룸' 만나는 설경구, 어떤 말 할까]]></title>
             <link>https://www.maxmovie.com/news/435338</link>
             <guid>https://www.maxmovie.com/news/435338</guid>
             <pubDate>Fri, 03 Nov 2023 01:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435338"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16989713703211r5Ha.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435338"><h4>'뉴스룸' 만나는 설경구, 어떤 말 할까</h4></a><span>4시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[실화 소재 '소년들' 개봉
+재수사 나서는 베테랑 형사]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16989713703211r5Ha.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435322</link>
             <guid>https://www.maxmovie.com/news/435322</guid>
             <pubDate>Fri, 03 Nov 2023 05:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[검도 소재로 주인공 트라우마 극복 과정 다뤄
-김성환 감독 장편 영화 데뷔작, 11월15일 개봉]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435322"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698906178699OO7N0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/435322"><h4>[리뷰:포테이토 지수 83%] '만분의 일초', 힘을 빼니 비로소 찾아온 것</h4></a><span>22시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698906178699OO7N0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마동석·허명행 영화 '황야', 극장 아닌 넷플릭스 공개]]></title>
-            <link>https://www.maxmovie.com/news/435331</link>
-            <guid>https://www.maxmovie.com/news/435331</guid>
-            <pubDate>Fri, 03 Nov 2023 05:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435331"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698910788747V6FaD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435331"><h4>마동석·허명행 영화 '황야', 극장 아닌 넷플릭스 공개</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698910788747V6FaD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
