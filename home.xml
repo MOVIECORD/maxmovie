@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 22:04:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 23:05:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699147531472Q0JQV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[리뷰] '시뮬런트', AI 외피 안에 담긴 절절한 사랑의 이야기]]></title>
+            <link>https://www.maxmovie.com/news/435360</link>
+            <guid>https://www.maxmovie.com/news/435360</guid>
+            <pubDate>Sun, 05 Nov 2023 23:04:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435360"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699191713300ezNzd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435360"><h4>[리뷰] '시뮬런트', AI 외피 안에 담긴 절절한 사랑의 이야기 </h4></a><span>2분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699191713300ezNzd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['임영웅 파워',  마침내 내년 5월 서울월드컵경기장 단콘 개최]]></title>
             <link>https://www.maxmovie.com/news/435359</link>
             <guid>https://www.maxmovie.com/news/435359</guid>
             <pubDate>Sun, 05 Nov 2023 14:03:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435359"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699190165269g2aJP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435359"><h4>'임영웅 파워',  마침내 내년 5월 서울월드컵경기장 단콘 개최 </h4></a><span>8시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[5일 전국투어 서울 공연 도중 계획 깜짝 발표
+내년 5월25~26일 서울월드컵경기장 선다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699190165269g2aJP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,17 +87,8 @@
             <link>https://www.maxmovie.com/news/435349</link>
             <guid>https://www.maxmovie.com/news/435349</guid>
             <pubDate>Sun, 05 Nov 2023 06:07:47 GMT</pubDate>
-            <content:encoded><![CDATA['연인' 3일 결방
-'7인의 탈출' 반사이익 볼까]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435349"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698995888370I8lMN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435349"><h4>남궁민·안은진 없는 사이 엄기준·황정음 반등 꾀할까</h4></a><span>11월 03일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698995888370I8lMN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 역사상 첫 흑인 보안관의 이야기, '서부의 보안관: 배스 리브스']]></title>
-            <link>https://www.maxmovie.com/news/435345</link>
-            <guid>https://www.maxmovie.com/news/435345</guid>
-            <pubDate>Sat, 04 Nov 2023 22:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435345"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698991986722dc7vn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435345"><h4>[오늘 뭘 볼까] 역사상 첫 흑인 보안관의 이야기, '서부의 보안관: 배스 리브스'</h4></a><span>11월 04일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698991986722dc7vn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
