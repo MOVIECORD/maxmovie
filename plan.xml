@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 02:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 03:07:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박서준, 수현·마동석 이어 마블영화 출격]]></title>
+            <link>https://www.maxmovie.com/news/435364</link>
+            <guid>https://www.maxmovie.com/news/435364</guid>
+            <pubDate>Mon, 06 Nov 2023 03:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[11월8일 개봉 '더 마블스'
+박서준, 할리우드 데뷔 신고식 어떨까]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699235709963vtf9m.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호아킨 피닉스·리들리 스콧이 일군 장대한 서사 '나폴레옹' 12월6일 개봉]]></title>
             <link>https://www.maxmovie.com/news/435363</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/435359</link>
             <guid>https://www.maxmovie.com/news/435359</guid>
             <pubDate>Sun, 05 Nov 2023 14:03:41 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전국투어 서울 공연 도중 계획 깜짝 발표
-내년 5월25~26일 서울월드컵경기장 선다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435359"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699190165269g2aJP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435359"><h4>'임영웅 파워',  마침내 내년 5월 서울월드컵경기장 단콘 개최 </h4></a><span>13시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699190165269g2aJP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/435357</link>
             <guid>https://www.maxmovie.com/news/435357</guid>
             <pubDate>Sun, 05 Nov 2023 08:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435357"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16991709607301OrfO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435357"><h4>'30일' 200만 관객 돌파..가을 로맨스물 흥행 터질까</h4></a><span>18시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['싱글 인 서울' 등 로맨스 멜로 개봉
+기대작 드문 극장가 메울지 주목]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16991709607301OrfO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435353</link>
             <guid>https://www.maxmovie.com/news/435353</guid>
             <pubDate>Sun, 05 Nov 2023 01:47:03 GMT</pubDate>
-            <content:encoded><![CDATA[1950년 12월 피난민 도운 선장 이야기
-바딤 피얼먼 감독, 내년 '마리너스' 연출]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435353"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699147531472Q0JQV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435353"><h4>한국전쟁 '흥남철수' 그리는 할리우드 영화 나온다</h4></a><span>11월 05일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699147531472Q0JQV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마약 혐의 이선균, 국과수 모발 검사도 음성]]></title>
-            <link>https://www.maxmovie.com/news/435352</link>
-            <guid>https://www.maxmovie.com/news/435352</guid>
-            <pubDate>Fri, 03 Nov 2023 13:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435352"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699014334884ZWDIW.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435352"><h4>마약 혐의 이선균, 국과수 모발 검사도 음성</h4></a><span>11월 03일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699014334884ZWDIW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
