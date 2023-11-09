@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 01:44:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 02:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,7 +47,7 @@
             <link>https://www.maxmovie.com/news/435397</link>
             <guid>https://www.maxmovie.com/news/435397</guid>
             <pubDate>Thu, 09 Nov 2023 01:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435397"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16994941664129qjDM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435397"><h4>'더 마블스', 첫날 9만명에 그쳐…올해 마블영화와 비교해보니</h4></a><span>7분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435397"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16994941664129qjDM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435397"><h4>'더 마블스', 첫날 9만명에 그쳐…올해 마블영화와 비교해보니</h4></a><span>40분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16994941664129qjDM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -77,21 +77,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699420869183bDGA4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[리뷰:포테이토 지수 82%] '괴인', 평범한 일상이 영화가 되는 마법]]></title>
+            <link>https://www.maxmovie.com/news/435385</link>
+            <guid>https://www.maxmovie.com/news/435385</guid>
+            <pubDate>Thu, 09 Nov 2023 02:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제영화제, 서울독립영화제 등에서 수상
+연기를 해보지 않은 '비전문 배우'로 이뤄져]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16993925539928aU2z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[1979년 12월12일의 밤, 압도적 사운드로 체험! '서울의 봄' 돌비애트모스 상영]]></title>
             <link>https://www.maxmovie.com/news/435389</link>
             <guid>https://www.maxmovie.com/news/435389</guid>
             <pubDate>Wed, 08 Nov 2023 01:43:11 GMT</pubDate>
-            <content:encoded><![CDATA[최적의 사운드로 '그날의 밤'으로 관객 초대
-신군부의 권력 찬탈 9시간의 긴박한 이야기]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435389"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169940635907412LuZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435389"><h4>1979년 12월12일의 밤, 압도적 사운드로 체험! '서울의 봄' 돌비애트모스 상영 </h4></a><span>11월 08일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/169940635907412LuZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달리고 또 달린 '1947 보스톤', 100만 돌파]]></title>
-            <link>https://www.maxmovie.com/news/435387</link>
-            <guid>https://www.maxmovie.com/news/435387</guid>
-            <pubDate>Wed, 08 Nov 2023 05:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435387"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699404109340U2I8L.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435387"><h4>달리고 또 달린 '1947 보스톤', 100만 돌파 </h4></a><span>11월 08일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699404109340U2I8L.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
