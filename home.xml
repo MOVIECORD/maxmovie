@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 22:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 23:05:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,8 +49,16 @@
             <link>https://www.maxmovie.com/news/435411</link>
             <guid>https://www.maxmovie.com/news/435411</guid>
             <pubDate>Fri, 10 Nov 2023 22:04:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435411"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699577416463atzPZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435411"><h4>[위클리 이슈 모음zip]지디 제모 의혹 반박·탑 달여행 연기·정국 '골든' 초동 243만장 외</h4></a><span>5분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435411"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699577416463atzPZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435411"><h4>[위클리 이슈 모음zip]지디 제모 의혹 반박·탑 달여행 연기·정국 '골든' 초동 243만장 외</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699577416463atzPZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스무비레터 #26번째 편지] 베일 벗은 '서울의 봄', A to Z]]></title>
+            <link>https://www.maxmovie.com/news/435422</link>
+            <guid>https://www.maxmovie.com/news/435422</guid>
+            <pubDate>Fri, 10 Nov 2023 23:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699608994636kpi1n.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다큐 '길위에 김대중' 펀딩 121% 넘어…진행중]]></title>
@@ -82,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435410</link>
             <guid>https://www.maxmovie.com/news/435410</guid>
             <pubDate>Fri, 10 Nov 2023 05:05:25 GMT</pubDate>
-            <content:encoded><![CDATA[8일 개봉 마블 새로운 시리즈 
-뮤지컬 형식으로 등장 눈길]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435410"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16995767971142wYIG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435410"><h4>'더 마블스' 할리우드 입성 박서준이 꺼낸 말 "잠깐일 수 있지만..."</h4></a><span>22시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16995767971142wYIG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['서울의 봄'서 파격 변신 황정민 "더한 것도 할 수 있다"]]></title>
-            <link>https://www.maxmovie.com/news/435408</link>
-            <guid>https://www.maxmovie.com/news/435408</guid>
-            <pubDate>Fri, 10 Nov 2023 05:05:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435408"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699522503180PELSt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435408"><h4>'서울의 봄'서 파격 변신 황정민 "더한 것도 할 수 있다"</h4></a><span>11월 09일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699522503180PELSt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
