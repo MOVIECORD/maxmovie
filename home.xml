@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 06:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 07:06:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,11 +45,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16995085917668beJL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[기쁨·슬픔·버럭 돌아온다…'인사이드 아웃2' 내년 여름 개봉]]></title>
+            <link>https://www.maxmovie.com/news/435419</link>
+            <guid>https://www.maxmovie.com/news/435419</guid>
+            <pubDate>Fri, 10 Nov 2023 07:05:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435419"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699596726920tm2pf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435419"><h4>기쁨·슬픔·버럭 돌아온다…'인사이드 아웃2' 내년 여름 개봉</h4></a><span>49분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699596726920tm2pf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['더 마블스' 할리우드 입성 박서준이 꺼낸 말 "잠깐일 수 있지만..."]]></title>
             <link>https://www.maxmovie.com/news/435410</link>
             <guid>https://www.maxmovie.com/news/435410</guid>
             <pubDate>Fri, 10 Nov 2023 05:05:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435410"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16995767971142wYIG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435410"><h4>'더 마블스' 할리우드 입성 박서준이 꺼낸 말 "잠깐일 수 있지만..."</h4></a><span>5시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[8일 개봉 마블 새로운 시리즈 
+뮤지컬 형식으로 등장 눈길]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16995767971142wYIG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435402</link>
             <guid>https://www.maxmovie.com/news/435402</guid>
             <pubDate>Thu, 09 Nov 2023 05:05:34 GMT</pubDate>
-            <content:encoded><![CDATA[美 배우조합, 9일부터 파업 공식 종료
-AI 활용에 관한 새로운 규칙도 확립해]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435402"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169950138090352bhN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435402"><h4>할리우드 다시 움직인다...美 배우노조 파업 118일 만에 종료</h4></a><span>11월 09일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/169950138090352bhN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남궁민의 절절한 사랑 '연인' 1회 더 본다, 21회로 종영]]></title>
-            <link>https://www.maxmovie.com/news/435401</link>
-            <guid>https://www.maxmovie.com/news/435401</guid>
-            <pubDate>Thu, 09 Nov 2023 04:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435401"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16994998062843O6It.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435401"><h4>남궁민의 절절한 사랑 '연인' 1회 더 본다, 21회로 종영 </h4></a><span>11월 09일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16994998062843O6It.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
