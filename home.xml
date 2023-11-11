@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 21:03:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 22:04:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,6 +50,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699602227712Hf6fz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 주윤발이 전하는 웃음과 감동, 영화 '원 모어 찬스']]></title>
+            <link>https://www.maxmovie.com/news/435418</link>
+            <guid>https://www.maxmovie.com/news/435418</guid>
+            <pubDate>Sat, 11 Nov 2023 22:03:49 GMT</pubDate>
+            <content:encoded><![CDATA['원 모어 찬스'의 한 장면. 사진제공=팝엔터테인먼트오늘, 볼만한 작품을 추천합니다.◆ '원 모어 찬스''원 모어 찬스'는 왕년의 도신 광휘와 어느 날 갑자기 그의 앞에 뚝 떨어진 자폐증을 앓고 있는 아들 아양이 함께 살며 벌어지는 이야기를 담은 영화다.&nbsp;빚에 허덕이며 매일 카지노에 출근 도장을 찍는 왕년의 도신 광휘에게 오래전 곁을 떠난 여자친구가 찾아와]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699595228071gx7Up.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[서울의 봄] 황정민의 '전두광'...전두환 실명 영화에서 못쓰나? 안쓰나?]]></title>
             <link>https://www.maxmovie.com/news/435415</link>
             <guid>https://www.maxmovie.com/news/435415</guid>
@@ -82,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435410</link>
             <guid>https://www.maxmovie.com/news/435410</guid>
             <pubDate>Fri, 10 Nov 2023 05:05:25 GMT</pubDate>
-            <content:encoded><![CDATA[8일 개봉 마블 새로운 시리즈 
-뮤지컬 형식으로 등장 눈길]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435410"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16995767971142wYIG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435410"><h4>'더 마블스' 할리우드 입성 박서준이 꺼낸 말 "잠깐일 수 있지만..."</h4></a><span>11월 10일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16995767971142wYIG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['서울의 봄'서 파격 변신 황정민 "더한 것도 할 수 있다"]]></title>
-            <link>https://www.maxmovie.com/news/435408</link>
-            <guid>https://www.maxmovie.com/news/435408</guid>
-            <pubDate>Sat, 11 Nov 2023 00:28:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435408"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699522503180PELSt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435408"><h4>'서울의 봄'서 파격 변신 황정민 "더한 것도 할 수 있다"</h4></a><span>11월 09일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699522503180PELSt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
