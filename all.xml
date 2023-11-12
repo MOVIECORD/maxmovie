@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 22:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 23:05:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,17 +47,8 @@
             <link>https://www.maxmovie.com/news/435431</link>
             <guid>https://www.maxmovie.com/news/435431</guid>
             <pubDate>Sun, 12 Nov 2023 22:03:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435431"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699780895585woojm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435431"><h4>강감찬 '고려 거란 전쟁'→이순신 '노량:죽음의 바다'...구국 영웅 온다</h4></a><span>4분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435431"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699780895585woojm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435431"><h4>강감찬 '고려 거란 전쟁'→이순신 '노량:죽음의 바다'...구국 영웅 온다</h4></a><span>1시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699780895585woojm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소현세자·강빈 죽음 그린 '연인', 남은 2회 동안 풀 내용은? (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435424</link>
-            <guid>https://www.maxmovie.com/news/435424</guid>
-            <pubDate>Sun, 12 Nov 2023 01:48:20 GMT</pubDate>
-            <content:encoded><![CDATA[기억 잃고 찾은 남궁민, 안은진과 사랑 확인
-1회 연장한 '연인', 종영까지 2회 남겨]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699751135479EAJmu.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[돌아온 사극왕...'고려 거란 전쟁'에 '무인도의 디바' 시청률 하락 (맥스무비)]]></title>
@@ -89,8 +80,17 @@
             <link>https://www.maxmovie.com/news/435421</link>
             <guid>https://www.maxmovie.com/news/435421</guid>
             <pubDate>Fri, 10 Nov 2023 08:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435421"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699602227712Hf6fz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435421"><h4>다큐 '길위에 김대중' 펀딩 121% 넘어…진행중</h4></a><span>11월 10일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[30일까지 진행
+'길위에 김대중' 내년 1월 개봉]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699602227712Hf6fz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 버텨내고 존재하는 모두를 위해, 영화 '버텨내고 존재하기' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435420</link>
+            <guid>https://www.maxmovie.com/news/435420</guid>
+            <pubDate>Sun, 12 Nov 2023 23:05:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435420"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699596768918zUo73.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435420"><h4>[오늘 뭘 볼까] 버텨내고 존재하는 모두를 위해, 영화 '버텨내고 존재하기'</h4></a><span>1시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699596768918zUo73.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] "힘 빼기·내 안에서 정답 찾기"...주종혁 '만분의 일초'로 배운 자세 (맥스무비 ─ 인터뷰)]]></title>
@@ -271,7 +271,7 @@
             <title><![CDATA[강감찬 '고려 거란 전쟁'→이순신 '노량:죽음의 바다'...구국 영웅 온다 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/435431</link>
             <guid>https://www.maxmovie.com/news/435431</guid>
-            <pubDate>Sun, 12 Nov 2023 22:03:55 GMT</pubDate>
+            <pubDate>Sun, 12 Nov 2023 22:03:36 GMT</pubDate>
             <content:encoded><![CDATA[KBS, 새 대하드라마 통해 강감찬 다뤄
 이순신 3부작의 마지막 작품 '노량']]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699780895585woojm.jpg" length="0" type="image/jpg"/>
@@ -308,7 +308,7 @@
             <link>https://www.maxmovie.com/news/435427</link>
             <guid>https://www.maxmovie.com/news/435427</guid>
             <pubDate>Sun, 12 Nov 2023 05:04:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435427"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699764188548OlcCc.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435427"><h4>개봉 D-10 '서울의 봄', 심상치 않은 분위기</h4></a><span>17시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435427"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699764188548OlcCc.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435427"><h4>개봉 D-10 '서울의 봄', 심상치 않은 분위기</h4></a><span>18시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699764188548OlcCc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
