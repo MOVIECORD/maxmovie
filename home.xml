@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 02:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 03:07:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,11 +41,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699608994636kpi1n.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[굿바이 전소민! '런닝맨' 마지막 녹화에서 눈물]]></title>
+            <link>https://www.maxmovie.com/news/435426</link>
+            <guid>https://www.maxmovie.com/news/435426</guid>
+            <pubDate>Sun, 12 Nov 2023 03:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435426"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699757419455Nycmw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435426"><h4>굿바이 전소민! '런닝맨' 마지막 녹화에서 눈물</h4></a><span>10분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699757419455Nycmw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[위클리 이슈 모음zip]지디 제모 의혹 반박·탑 달여행 연기·정국 '골든' 초동 243만장 외]]></title>
             <link>https://www.maxmovie.com/news/435411</link>
             <guid>https://www.maxmovie.com/news/435411</guid>
             <pubDate>Sun, 12 Nov 2023 02:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435411"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699577416463atzPZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435411"><h4>[위클리 이슈 모음zip]지디 제모 의혹 반박·탑 달여행 연기·정국 '골든' 초동 243만장 외</h4></a><span>11월 10일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[일주일 동안 엔터테인먼트 전반에서 일어난 다양한 이슈를 소개합니다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699577416463atzPZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,18 +87,8 @@
             <link>https://www.maxmovie.com/news/435415</link>
             <guid>https://www.maxmovie.com/news/435415</guid>
             <pubDate>Fri, 10 Nov 2023 05:05:25 GMT</pubDate>
-            <content:encoded><![CDATA['26년' '남산의 부장들' '서울의 봄' 까지
-실명 아닌 가상의 이름으로 캐릭터 설정 
-드라마 '제5공화국'만 유일하게 실명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435415"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699584101347bVf08.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435415"><h4>[서울의 봄] 황정민의 '전두광'...전두환 실명 영화에서 못쓰나? 안쓰나? </h4></a><span>11월 10일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699584101347bVf08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰:포테이토 지수 94%] '서울의 봄', 기어이 성공한 '그들만의 혁명'은 어떻게 무참했나]]></title>
-            <link>https://www.maxmovie.com/news/435414</link>
-            <guid>https://www.maxmovie.com/news/435414</guid>
-            <pubDate>Sat, 11 Nov 2023 00:28:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435414"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699581545056aWHtQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/435414"><h4>[리뷰:포테이토 지수 94%] '서울의 봄', 기어이 성공한 '그들만의 혁명'은 어떻게 무참했나</h4></a><span>11월 10일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699581545056aWHtQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
