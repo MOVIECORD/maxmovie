@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 04:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 05:05:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,11 +41,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699608994636kpi1n.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[개봉 D-10 '서울의 봄', 심상치 않은 분위기]]></title>
+            <link>https://www.maxmovie.com/news/435427</link>
+            <guid>https://www.maxmovie.com/news/435427</guid>
+            <pubDate>Sun, 12 Nov 2023 05:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435427"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699764188548OlcCc.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435427"><h4>개봉 D-10 '서울의 봄', 심상치 않은 분위기</h4></a><span>10분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699764188548OlcCc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[굿바이 전소민! '런닝맨' 마지막 녹화에서 눈물]]></title>
             <link>https://www.maxmovie.com/news/435426</link>
             <guid>https://www.maxmovie.com/news/435426</guid>
             <pubDate>Sun, 12 Nov 2023 03:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435426"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699757419455Nycmw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435426"><h4>굿바이 전소민! '런닝맨' 마지막 녹화에서 눈물</h4></a><span>1시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[전소민, '런닝맨' 하차하며 눈물 보여
+멤버들 전소민 주제로 시 쓰기 도전]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699757419455Nycmw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,17 +87,8 @@
             <link>https://www.maxmovie.com/news/435413</link>
             <guid>https://www.maxmovie.com/news/435413</guid>
             <pubDate>Sat, 11 Nov 2023 00:28:38 GMT</pubDate>
-            <content:encoded><![CDATA[청춘의 방황부터 지옥같은 세상까지
-감독의 응축된 마스터피스 '서울의 봄']]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435413"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16995791784233X3ID.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435413"><h4>[서울의 봄] 용광로처럼 들끊는 김성수 감독의 세계, '비트'부터 '아수라'까지 </h4></a><span>11월 10일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16995791784233X3ID.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울의 봄] 황정민의 '전두광'...전두환 실명 영화에서 못쓰나? 안쓰나?]]></title>
-            <link>https://www.maxmovie.com/news/435415</link>
-            <guid>https://www.maxmovie.com/news/435415</guid>
-            <pubDate>Fri, 10 Nov 2023 05:05:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435415"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699584101347bVf08.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435415"><h4>[서울의 봄] 황정민의 '전두광'...전두환 실명 영화에서 못쓰나? 안쓰나? </h4></a><span>11월 10일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699584101347bVf08.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
