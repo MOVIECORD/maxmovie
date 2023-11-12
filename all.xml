@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 03:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 04:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <link>https://www.maxmovie.com/news/435426</link>
             <guid>https://www.maxmovie.com/news/435426</guid>
             <pubDate>Sun, 12 Nov 2023 03:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435426"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699757419455Nycmw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435426"><h4>굿바이 전소민! '런닝맨' 마지막 녹화에서 눈물</h4></a><span>10분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435426"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699757419455Nycmw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435426"><h4>굿바이 전소민! '런닝맨' 마지막 녹화에서 눈물</h4></a><span>1시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699757419455Nycmw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -269,7 +269,7 @@
             <title><![CDATA[굿바이 전소민! '런닝맨' 마지막 녹화에서 눈물 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/435426</link>
             <guid>https://www.maxmovie.com/news/435426</guid>
-            <pubDate>Sun, 12 Nov 2023 03:06:47 GMT</pubDate>
+            <pubDate>Sun, 12 Nov 2023 03:06:27 GMT</pubDate>
             <content:encoded><![CDATA[전소민, '런닝맨' 하차하며 눈물 보여
 멤버들 전소민 주제로 시 쓰기 도전]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699757419455Nycmw.jpg" length="0" type="image/jpg"/>
