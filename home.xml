@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 04:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 05:06:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16997673844295iW0Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['호러 명가' 블룸하우스 대표 "비전 없어, 영화 그 자체로 차별화"]]></title>
+            <link>https://www.maxmovie.com/news/435436</link>
+            <guid>https://www.maxmovie.com/news/435436</guid>
+            <pubDate>Mon, 13 Nov 2023 05:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435436"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699841706164i8Ikq.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435436"><h4>'호러 명가' 블룸하우스 대표 "비전 없어, 영화 그 자체로 차별화"</h4></a><span>1분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699841706164i8Ikq.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA['더 마블스', 美 개봉일 매출  살펴보니..."개봉 첫 주, 마블 사상 최저 예상"]]></title>
             <link>https://www.maxmovie.com/news/435429</link>
             <guid>https://www.maxmovie.com/news/435429</guid>
             <pubDate>Mon, 13 Nov 2023 00:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435429"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699772835470or85e.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435429"><h4>'더 마블스', 美 개봉일 매출  살펴보니..."개봉 첫 주, 마블 사상 최저 예상"</h4></a><span>20시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[마블 역사상 개봉 첫 주 가장 낮은 흥행 성적 예상
+국내에서는 박스오피스 1위, 평가는 엇갈려]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699772835470or85e.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435424</link>
             <guid>https://www.maxmovie.com/news/435424</guid>
             <pubDate>Mon, 13 Nov 2023 00:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[기억 잃고 찾은 남궁민, 안은진과 사랑 확인
-1회 연장한 '연인', 종영까지 2회 남겨]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435424"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699751135479EAJmu.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435424"><h4>소현세자·강빈 죽음 그린 '연인', 남은 2회 동안 풀 내용은?</h4></a><span>11월 12일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699751135479EAJmu.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아온 사극왕...'고려 거란 전쟁'에 '무인도의 디바' 시청률 하락]]></title>
-            <link>https://www.maxmovie.com/news/435423</link>
-            <guid>https://www.maxmovie.com/news/435423</guid>
-            <pubDate>Mon, 13 Nov 2023 04:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435423"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699749224133HqpxB.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435423"><h4>돌아온 사극왕...'고려 거란 전쟁'에 '무인도의 디바' 시청률 하락</h4></a><span>11월 12일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699749224133HqpxB.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
