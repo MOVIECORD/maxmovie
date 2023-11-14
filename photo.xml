@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 00:31:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 01:44:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임시완 이런 모습 처음이야... 1989년의  '지질한 소년']]></title>
+            <link>https://www.maxmovie.com/news/435449</link>
+            <guid>https://www.maxmovie.com/news/435449</guid>
+            <pubDate>Tue, 14 Nov 2023 01:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435449"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1699924198910XFEk8.jpg" alt=""></span><span class="textBox"><h4>임시완 이런 모습 처음이야... 1989년의  '지질한 소년' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699924198910XFEk8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일도 연애도 쉽지 않은 금새록의 순간들... '사운드트랙#2']]></title>
             <link>https://www.maxmovie.com/news/435406</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Sep 2023 09:06:53 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/434730"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/16945929189467lZ4a.jpg" alt=""></span><span class="textBox"><h4>"이런 송중기 처음이야"...송중기·홍사빈이 그린 느와르 '화란'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16945929189467lZ4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전종서·김지훈·박유림의 '핏빛 복수극']]></title>
-            <link>https://www.maxmovie.com/news/434724</link>
-            <guid>https://www.maxmovie.com/news/434724</guid>
-            <pubDate>Wed, 13 Sep 2023 03:07:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/434724"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/169457274428442lBw.jpg" alt=""></span><span class="textBox"><h4>전종서·김지훈·박유림의 '핏빛 복수극' </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/169457274428442lBw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
