@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 12:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 13:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700030692282oQTQZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이병헌·김서형·최민식·한효주, 대종상 주연상 품에]]></title>
+            <link>https://www.maxmovie.com/news/435465</link>
+            <guid>https://www.maxmovie.com/news/435465</guid>
+            <pubDate>Wed, 15 Nov 2023 13:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435465"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700051797925zmJI2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435465"><h4>이병헌·김서형·최민식·한효주, 대종상 주연상 품에</h4></a><span>27분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700051797925zmJI2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오래 기다렸다…'외계+인' 2부, 재평가 바람 타고 흥할까]]></title>
             <link>https://www.maxmovie.com/news/435457</link>
             <guid>https://www.maxmovie.com/news/435457</guid>
             <pubDate>Wed, 15 Nov 2023 09:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435457"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700031457696yiFmG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435457"><h4>오래 기다렸다…'외계+인' 2부, 재평가 바람 타고 흥할까</h4></a><span>3시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[2024년 1월 극장 개봉 확정
+1부가 남긴 궁금증 모두 해결]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700031457696yiFmG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435447</link>
             <guid>https://www.maxmovie.com/news/435447</guid>
             <pubDate>Tue, 14 Nov 2023 01:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[신곡 '스탠딩 넥스트 투 유'  인기
-'세븐' '3D' 이어 또 한번 빌보드 핫]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435447"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699922863945pkKzu.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435447"><h4>빌보드 점령한 정국의 '솔로 파워', 신곡 또 '핫100' 5위 진입 </h4></a><span>11월 14일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699922863945pkKzu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이클 잭슨의 문워크는 어떻게 탄생했나...영화 '스릴러 40']]></title>
-            <link>https://www.maxmovie.com/news/435446</link>
-            <guid>https://www.maxmovie.com/news/435446</guid>
-            <pubDate>Wed, 15 Nov 2023 12:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435446"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/16999207809979cfOj.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435446"><h4>마이클 잭슨의 문워크는 어떻게 탄생했나...영화 '스릴러 40' </h4></a><span>11월 14일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16999207809979cfOj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
