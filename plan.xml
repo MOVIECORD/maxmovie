@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 07:06:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 08:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수능 끝! 영화 보러 갈까? 취향 저격 신작까지]]></title>
+            <link>https://www.maxmovie.com/news/435456</link>
+            <guid>https://www.maxmovie.com/news/435456</guid>
+            <pubDate>Wed, 15 Nov 2023 08:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[CGV, 롯데시네마 수험생 할인 이벤트
+취향 저격 새 영화도 개봉 잇단 개봉]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700031395210du0n5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이순신 장군 된 김윤석 '동전의 양면' 언급한 까닭은]]></title>
             <link>https://www.maxmovie.com/news/435455</link>
@@ -39,7 +48,7 @@
             <link>https://www.maxmovie.com/news/435450</link>
             <guid>https://www.maxmovie.com/news/435450</guid>
             <pubDate>Tue, 14 Nov 2023 22:05:03 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435450"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/169994739259177LIQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435450"><h4>[데일리 핫이슈] 그룹 원투 멤버 오창훈 사망, 티파니영 활동 중단, 지창욱 '벌크' 주연 </h4></a><span>10시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/169994739259177LIQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -47,7 +56,8 @@
             <link>https://www.maxmovie.com/news/435448</link>
             <guid>https://www.maxmovie.com/news/435448</guid>
             <pubDate>Tue, 14 Nov 2023 01:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435448"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699923840933lvvgS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435448"><h4>아름다운예술인 조인성, 상금 기부 약속 지켰다</h4></a><span>11월 14일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[아름다운예술인상 상금 기부
+탄자니아 '신기다 뉴비전스쿨'에]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699923840933lvvgS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435444</link>
             <guid>https://www.maxmovie.com/news/435444</guid>
             <pubDate>Tue, 14 Nov 2023 00:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월7일부터 내년 1월13일까지 개최
-대표작 14편 전 세계 영화 관객에 소개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435444"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699919318978yzWZv.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435444"><h4>송강호, 한국배우 최초 美 아카데미 뮤지엄 '회고전'</h4></a><span>11월 14일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699919318978yzWZv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['서울의 봄'의 피 끓는 현장, 서울 한복판에서 다시 '경험']]></title>
-            <link>https://www.maxmovie.com/news/435442</link>
-            <guid>https://www.maxmovie.com/news/435442</guid>
-            <pubDate>Tue, 14 Nov 2023 00:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435442"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699918342807noh9i.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435442"><h4>'서울의 봄'의 피 끓는 현장, 서울 한복판에서 다시 '경험' </h4></a><span>11월 13일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699918342807noh9i.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
