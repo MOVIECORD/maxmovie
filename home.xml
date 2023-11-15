@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 15:07:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 16:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/435465</link>
             <guid>https://www.maxmovie.com/news/435465</guid>
             <pubDate>Wed, 15 Nov 2023 13:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435465"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700051797925zmJI2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435465"><h4>이병헌·김서형·최민식·한효주, 대종상 주연상 품에</h4></a><span>2시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435465"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700051797925zmJI2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435465"><h4>이병헌·김서형·최민식·한효주, 대종상 주연상 품에</h4></a><span>3시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700051797925zmJI2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -69,15 +69,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699942258234ZkD0b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[리뷰: 포테이토 지수 80%] '사채소년' 현실에서 한발 나아간 영화의 힘]]></title>
-            <link>https://www.maxmovie.com/news/435452</link>
-            <guid>https://www.maxmovie.com/news/435452</guid>
-            <pubDate>Wed, 15 Nov 2023 14:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[사채에 빠진 10대들의 이야기 
-신인 감독과 신인 배우들의 활약]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699937596916aBuTT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[데일리 핫이슈] 그룹 원투 멤버 오창훈 사망, 티파니영 활동 중단, 지창욱 '벌크' 주연]]></title>
             <link>https://www.maxmovie.com/news/435450</link>
             <guid>https://www.maxmovie.com/news/435450</guid>
@@ -90,8 +81,17 @@
             <link>https://www.maxmovie.com/news/435448</link>
             <guid>https://www.maxmovie.com/news/435448</guid>
             <pubDate>Tue, 14 Nov 2023 01:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435448"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699923840933lvvgS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435448"><h4>아름다운예술인 조인성, 상금 기부 약속 지켰다</h4></a><span>11월 14일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[아름다운예술인상 상금 기부
+탄자니아 '신기다 뉴비전스쿨'에]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699923840933lvvgS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빌보드 점령한 정국의 '솔로 파워', 신곡 또 '핫100' 5위 진입]]></title>
+            <link>https://www.maxmovie.com/news/435447</link>
+            <guid>https://www.maxmovie.com/news/435447</guid>
+            <pubDate>Wed, 15 Nov 2023 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435447"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699922863945pkKzu.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435447"><h4>빌보드 점령한 정국의 '솔로 파워', 신곡 또 '핫100' 5위 진입 </h4></a><span>11월 14일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699922863945pkKzu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
