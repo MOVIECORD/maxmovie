@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 10:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 11:04:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온다! '서울의 봄' 아이맥스 상영... 생생한 그날의 현장 목도]]></title>
+            <link>https://www.maxmovie.com/news/435479</link>
+            <guid>https://www.maxmovie.com/news/435479</guid>
+            <pubDate>Thu, 16 Nov 2023 11:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[돌비 애트모스 이어 아이맥스 특수관 상영
+작품 향한 기대 입소문 확산, 초반 돌풍 예고]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700131616437hOFSJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최지우→정동원 '뉴 노멀' 해외 24개국 판매]]></title>
             <link>https://www.maxmovie.com/news/435476</link>
@@ -37,8 +46,7 @@
             <link>https://www.maxmovie.com/news/435469</link>
             <guid>https://www.maxmovie.com/news/435469</guid>
             <pubDate>Thu, 16 Nov 2023 01:47:47 GMT</pubDate>
-            <content:encoded><![CDATA['사회공헌' 활동 인정받아 특별 강연
-소외 아동· 자립청소년 향한 관심 당부]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435469"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700097228163Sl7Y7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435469"><h4>배우 신애라, 서울대 교수·교직원 상대 특강 나서는 까닭은?</h4></a><span>9시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700097228163Sl7Y7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -46,7 +54,8 @@
             <link>https://www.maxmovie.com/news/435468</link>
             <guid>https://www.maxmovie.com/news/435468</guid>
             <pubDate>Thu, 16 Nov 2023 01:47:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435468"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17000966268491uzWY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435468"><h4>'아쿠아맨2', 제임스 완과 12월 돌아온다…올해 마지막 슈퍼히어로</h4></a><span>8시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[DC영화 최고 흥행 '아쿠아맨' 5년만의 컴백
+제임스 완 감독, 전편 이어 연출]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17000966268491uzWY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/435464</link>
             <guid>https://www.maxmovie.com/news/435464</guid>
             <pubDate>Wed, 15 Nov 2023 11:05:03 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '태양은 없다'의 주연과 연출자
-'서울의 봄' 개봉 맞춰 17일 메가토크]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435464"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17000446650884ydjH.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435464"><h4>드디어 이뤄진 이정재와 김성수 감독의 만남 </h4></a><span>11월 15일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17000446650884ydjH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['포기하지 않는 용기'의 또 다른 이름 '싱어게인3']]></title>
-            <link>https://www.maxmovie.com/news/435463</link>
-            <guid>https://www.maxmovie.com/news/435463</guid>
-            <pubDate>Wed, 15 Nov 2023 11:05:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435463"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700042030235pTNjD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435463"><h4>'포기하지 않는 용기'의 또 다른 이름 '싱어게인3'</h4></a><span>23시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700042030235pTNjD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
