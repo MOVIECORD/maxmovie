@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 22:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 23:06:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,8 +47,16 @@
             <link>https://www.maxmovie.com/news/435484</link>
             <guid>https://www.maxmovie.com/news/435484</guid>
             <pubDate>Fri, 17 Nov 2023 22:05:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435484"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17002280434707eDfs.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435484"><h4>[위클리 이슈 모음zip] '연인' 최종회 100분 편성·정동원 임영웅 이웃사촌·'나혼산' PPL 의혹 부인·안나경 아나운서 결혼 외</h4></a><span>6분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435484"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17002280434707eDfs.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435484"><h4>[위클리 이슈 모음zip] '연인' 최종회 100분 편성·정동원 임영웅 이웃사촌·'나혼산' PPL 의혹 부인·안나경 아나운서 결혼 외</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17002280434707eDfs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스무비레터 #27번째 편지] '외계+인' 1부 복습하고 류준열·김태리 만나볼까요?]]></title>
+            <link>https://www.maxmovie.com/news/435502</link>
+            <guid>https://www.maxmovie.com/news/435502</guid>
+            <pubDate>Fri, 17 Nov 2023 23:05:31 GMT</pubDate>
+            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17002197025831KgTp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['존재 자체가 힐링' 신민아의 12월 선물...영화 '3일의 휴가']]></title>
@@ -81,17 +89,8 @@
             <link>https://www.maxmovie.com/news/435490</link>
             <guid>https://www.maxmovie.com/news/435490</guid>
             <pubDate>Fri, 17 Nov 2023 02:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[OST 콘서트 및 공동 제작 등 협약 
-모스트콘텐츠 日 시장 본격 공략]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435490"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700185217812XAghI.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/435490"><h4>모스트콘텐츠, 덴츠와 손잡고 드라마 OST로 일본 진출 </h4></a><span>21시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700185217812XAghI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신혜선·이준영의 '용감한 시민', 안방에서 본다 IPTV 공개]]></title>
-            <link>https://www.maxmovie.com/news/435480</link>
-            <guid>https://www.maxmovie.com/news/435480</guid>
-            <pubDate>Fri, 17 Nov 2023 06:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435480"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700178824121R6xfb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435480"><h4>신혜선·이준영의 '용감한 시민', 안방에서 본다 IPTV 공개 </h4></a><span>22시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700178824121R6xfb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
