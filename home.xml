@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 09:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 10:07:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/435499</link>
             <guid>https://www.maxmovie.com/news/435499</guid>
             <pubDate>Fri, 17 Nov 2023 09:06:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435499"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700204941049g40GR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435499"><h4>"올해의 영화"로 급부상 '서울의 봄', 예매량 7만장 넘었다</h4></a><span>41분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435499"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700204941049g40GR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435499"><h4>"올해의 영화"로 급부상 '서울의 봄', 예매량 7만장 넘었다</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700204941049g40GR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,21 +79,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700185217812XAghI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['오세이사' 젠지 타기팅 제대로... 수능일 재개봉 '통했다']]></title>
-            <link>https://www.maxmovie.com/news/435482</link>
-            <guid>https://www.maxmovie.com/news/435482</guid>
-            <pubDate>Fri, 17 Nov 2023 01:47:14 GMT</pubDate>
-            <content:encoded><![CDATA['오늘 밤, 세계에서 이 사랑이 사라진다 해도' 
-11월15일부터 일주일간 재상영, 수험생 타깃]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700180068346dBOqg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[신혜선·이준영의 '용감한 시민', 안방에서 본다 IPTV 공개]]></title>
             <link>https://www.maxmovie.com/news/435480</link>
             <guid>https://www.maxmovie.com/news/435480</guid>
             <pubDate>Fri, 17 Nov 2023 06:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435480"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700178824121R6xfb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435480"><h4>신혜선·이준영의 '용감한 시민', 안방에서 본다 IPTV 공개 </h4></a><span>9시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[학교에서 벌어지는 통쾌한 악당 응징 
+박진표 감독 연출, 액션 카타르시스]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700178824121R6xfb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온다! '서울의 봄' 아이맥스 상영... 생생한 그날의 현장 목도]]></title>
+            <link>https://www.maxmovie.com/news/435479</link>
+            <guid>https://www.maxmovie.com/news/435479</guid>
+            <pubDate>Fri, 17 Nov 2023 10:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435479"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700131616437hOFSJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435479"><h4>온다! '서울의 봄' 아이맥스 상영... 생생한 그날의 현장 목도</h4></a><span>23시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700131616437hOFSJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
