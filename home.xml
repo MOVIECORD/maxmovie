@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 01:48:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 02:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700131616437hOFSJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[모스트콘텐츠, 덴츠와 손잡고 드라마 OST로 일본 진출]]></title>
+            <link>https://www.maxmovie.com/news/435490</link>
+            <guid>https://www.maxmovie.com/news/435490</guid>
+            <pubDate>Fri, 17 Nov 2023 02:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435490"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700185217812XAghI.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/435490"><h4>모스트콘텐츠, 덴츠와 손잡고 드라마 OST로 일본 진출 </h4></a><span>30분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700185217812XAghI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['독전' 열린 결말, '독전2'가 닫는다]]></title>
             <link>https://www.maxmovie.com/news/435483</link>
             <guid>https://www.maxmovie.com/news/435483</guid>
             <pubDate>Fri, 17 Nov 2023 01:47:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435483"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700182843572yzW0h.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435483"><h4>'독전' 열린 결말, '독전2'가 닫는다</h4></a><span>16분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[17일 넷플릭스 공개 '독전2'
+전작의 열린 결말과 서사 완성]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700182843572yzW0h.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,16 +91,8 @@
             <link>https://www.maxmovie.com/news/435477</link>
             <guid>https://www.maxmovie.com/news/435477</guid>
             <pubDate>Thu, 16 Nov 2023 22:04:59 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435477"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700122670957IreCX.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435477"><h4>[데일리 핫이슈]  서예지 학폭 논란 '배상 책임 없다', 이혼 박지윤 심경 고백, 조인성 김장 도전 </h4></a><span>4시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700122670957IreCX.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[최지우→정동원 '뉴 노멀' 해외 24개국 판매]]></title>
-            <link>https://www.maxmovie.com/news/435476</link>
-            <guid>https://www.maxmovie.com/news/435476</guid>
-            <pubDate>Thu, 16 Nov 2023 09:06:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435476"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700122457540CLWeS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435476"><h4>최지우→정동원 '뉴 노멀' 해외 24개국 판매</h4></a><span>17시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700122457540CLWeS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
