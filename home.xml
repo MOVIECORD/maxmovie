@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 23:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 00:31:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700131616437hOFSJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신혜선·이준영의 '용감한 시민', 안방에서 본다 IPTV 공개]]></title>
+            <link>https://www.maxmovie.com/news/435480</link>
+            <guid>https://www.maxmovie.com/news/435480</guid>
+            <pubDate>Fri, 17 Nov 2023 00:30:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435480"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700178824121R6xfb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435480"><h4>신혜선·이준영의 '용감한 시민', 안방에서 본다 IPTV 공개 </h4></a><span>28분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700178824121R6xfb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[데일리 핫이슈]  서예지 학폭 논란 '배상 책임 없다', 이혼 박지윤 심경 고백, 조인성 김장 도전]]></title>
             <link>https://www.maxmovie.com/news/435477</link>
             <guid>https://www.maxmovie.com/news/435477</guid>
             <pubDate>Thu, 16 Nov 2023 22:04:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435477"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700122670957IreCX.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435477"><h4>[데일리 핫이슈]  서예지 학폭 논란 '배상 책임 없다', 이혼 박지윤 심경 고백, 조인성 김장 도전 </h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700122670957IreCX.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -80,17 +88,8 @@
             <link>https://www.maxmovie.com/news/435469</link>
             <guid>https://www.maxmovie.com/news/435469</guid>
             <pubDate>Thu, 16 Nov 2023 01:47:28 GMT</pubDate>
-            <content:encoded><![CDATA['사회공헌' 활동 인정받아 특별 강연
-소외 아동· 자립청소년 향한 관심 당부]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435469"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700097228163Sl7Y7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435469"><h4>배우 신애라, 서울대 교수·교직원 상대 특강 나서는 까닭은?</h4></a><span>23시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700097228163Sl7Y7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아쿠아맨2', 제임스 완과 12월 돌아온다…올해 마지막 슈퍼히어로]]></title>
-            <link>https://www.maxmovie.com/news/435468</link>
-            <guid>https://www.maxmovie.com/news/435468</guid>
-            <pubDate>Thu, 16 Nov 2023 01:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435468"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17000966268491uzWY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435468"><h4>'아쿠아맨2', 제임스 완과 12월 돌아온다…올해 마지막 슈퍼히어로</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17000966268491uzWY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
