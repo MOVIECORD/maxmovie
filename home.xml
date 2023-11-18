@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 11:03:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 12:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,6 +51,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700197064989fXkwR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한지민, 유아독존 CEO 변신…상대는 이준혁]]></title>
+            <link>https://www.maxmovie.com/news/435493</link>
+            <guid>https://www.maxmovie.com/news/435493</guid>
+            <pubDate>Sat, 18 Nov 2023 12:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[SBS 새 드라마 '인사하는 사이'
+이준혁과 로맨스 호흡]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/170018866531860WEA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[모스트콘텐츠, 덴츠와 손잡고 드라마 OST로 일본 진출]]></title>
             <link>https://www.maxmovie.com/news/435490</link>
             <guid>https://www.maxmovie.com/news/435490</guid>
@@ -58,6 +67,15 @@
             <content:encoded><![CDATA[OST 콘서트 및 공동 제작 등 협약 
 모스트콘텐츠 日 시장 본격 공략]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700185217812XAghI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조현철 '너와 나' 2만명 눈앞…작지만 의미 있는 성취]]></title>
+            <link>https://www.maxmovie.com/news/435481</link>
+            <guid>https://www.maxmovie.com/news/435481</guid>
+            <pubDate>Sat, 18 Nov 2023 12:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[골든에그지수 96% 등 높은 평점
+곧 2만명 돌파…조현철 첫 장편 연출]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700180844971ZfQM8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신혜선·이준영의 '용감한 시민', 안방에서 본다 IPTV 공개]]></title>
@@ -73,25 +91,8 @@
             <link>https://www.maxmovie.com/news/435479</link>
             <guid>https://www.maxmovie.com/news/435479</guid>
             <pubDate>Sat, 18 Nov 2023 00:30:37 GMT</pubDate>
-            <content:encoded><![CDATA[돌비 애트모스 이어 아이맥스 특수관 상영
-작품 향한 기대 입소문 확산, 초반 돌풍 예고]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435479"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700131616437hOFSJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435479"><h4>온다! '서울의 봄' 아이맥스 상영... 생생한 그날의 현장 목도</h4></a><span>11월 16일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700131616437hOFSJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[데일리 핫이슈]  서예지 학폭 논란 '배상 책임 없다', 이혼 박지윤 심경 고백, 조인성 김장 도전]]></title>
-            <link>https://www.maxmovie.com/news/435477</link>
-            <guid>https://www.maxmovie.com/news/435477</guid>
-            <pubDate>Sat, 18 Nov 2023 11:02:51 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700122670957IreCX.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[최지우→정동원 '뉴 노멀' 해외 24개국 판매]]></title>
-            <link>https://www.maxmovie.com/news/435476</link>
-            <guid>https://www.maxmovie.com/news/435476</guid>
-            <pubDate>Sat, 18 Nov 2023 11:02:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435476"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700122457540CLWeS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435476"><h4>최지우→정동원 '뉴 노멀' 해외 24개국 판매</h4></a><span>11월 16일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700122457540CLWeS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
