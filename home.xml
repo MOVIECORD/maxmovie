@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 02:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Nov 2023 03:07:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,11 +41,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17002280434707eDfs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[테일러 스위프트, 심정지 사망한 20대 관객 '애도']]></title>
+            <link>https://www.maxmovie.com/news/435507</link>
+            <guid>https://www.maxmovie.com/news/435507</guid>
+            <pubDate>Sun, 19 Nov 2023 03:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435507"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700362504414WWggv.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435507"><h4>테일러 스위프트, 심정지 사망한 20대 관객 '애도'</h4></a><span>7분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700362504414WWggv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박소진·이동하 결혼 현장…걸스데이 한 자리에]]></title>
             <link>https://www.maxmovie.com/news/435506</link>
             <guid>https://www.maxmovie.com/news/435506</guid>
             <pubDate>Sun, 19 Nov 2023 02:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435506"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700360224812PYyMd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435506"><h4>박소진·이동하 결혼 현장…걸스데이 한 자리에</h4></a><span>1분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[박소진·이동하 18일 웨딩마치 현장
+혜리 축사…걸스데이 멤버 참석 의리]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700360224812PYyMd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,17 +88,8 @@
             <link>https://www.maxmovie.com/news/435490</link>
             <guid>https://www.maxmovie.com/news/435490</guid>
             <pubDate>Sun, 19 Nov 2023 02:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[OST 콘서트 및 공동 제작 등 협약 
-모스트콘텐츠 日 시장 본격 공략]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435490"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700185217812XAghI.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/435490"><h4>모스트콘텐츠, 덴츠와 손잡고 드라마 OST로 일본 진출 </h4></a><span>11월 17일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700185217812XAghI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조현철 '너와 나' 2만명 눈앞…작지만 의미 있는 성취]]></title>
-            <link>https://www.maxmovie.com/news/435481</link>
-            <guid>https://www.maxmovie.com/news/435481</guid>
-            <pubDate>Sun, 19 Nov 2023 02:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435481"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700180844971ZfQM8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435481"><h4>조현철 '너와 나' 2만명 눈앞…작지만 의미 있는 성취</h4></a><span>11월 17일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700180844971ZfQM8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
