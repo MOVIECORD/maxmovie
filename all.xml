@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 21:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Nov 2023 22:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,11 +41,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17002197025831KgTp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이젠 '서울의 봄' 쇼타임! (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435511</link>
+            <guid>https://www.maxmovie.com/news/435511</guid>
+            <pubDate>Sun, 19 Nov 2023 22:03:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435511"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700392201193qmAEU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435511"><h4>이젠 '서울의 봄' 쇼타임!</h4></a><span>4분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700392201193qmAEU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['연인' 종영, 남궁민이 뽑은 이장현 명대사는? (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/435508</link>
             <guid>https://www.maxmovie.com/news/435508</guid>
             <pubDate>Sun, 19 Nov 2023 06:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435508"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700371642101FwnUR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435508"><h4>'연인' 종영, 남궁민이 뽑은 이장현 명대사는?</h4></a><span>15시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[남궁민, 소속사 통해 종영 소회
+"울컥했고 따뜻했다"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700371642101FwnUR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,17 +87,8 @@
             <link>https://www.maxmovie.com/news/435500</link>
             <guid>https://www.maxmovie.com/news/435500</guid>
             <pubDate>Fri, 17 Nov 2023 22:05:04 GMT</pubDate>
-            <content:encoded><![CDATA['디바' 이후 3년 만에 주연 영화 개봉
-엄마와 딸의 애틋하고 따뜻한 사랑]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435500"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700206660604WvSSC.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435500"><h4>'존재 자체가 힐링' 신민아의 12월 선물...영화 '3일의 휴가' </h4></a><span>11월 17일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700206660604WvSSC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["올해의 영화"로 급부상 '서울의 봄', 예매량 7만장 넘었다 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435499</link>
-            <guid>https://www.maxmovie.com/news/435499</guid>
-            <pubDate>Fri, 17 Nov 2023 09:06:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435499"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700204941049g40GR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435499"><h4>"올해의 영화"로 급부상 '서울의 봄', 예매량 7만장 넘었다</h4></a><span>11월 17일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700204941049g40GR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 허슈밍 감독 "'아줌마', 싱가포르가 한국에 보내는 러브레터" (맥스무비 ─ 인터뷰)]]></title>
@@ -268,6 +268,15 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698906178699OO7N0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이젠 '서울의 봄' 쇼타임! (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/435511</link>
+            <guid>https://www.maxmovie.com/news/435511</guid>
+            <pubDate>Sun, 19 Nov 2023 22:04:04 GMT</pubDate>
+            <content:encoded><![CDATA[12·12 군사반란 다룬 첫 영화
+곧 10만명 돌파…불쏘시개 기대]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700392201193qmAEU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[명장들의 만남…김성수·김한민 GV 개최 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/435509</link>
             <guid>https://www.maxmovie.com/news/435509</guid>
@@ -297,7 +306,7 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <link>https://www.maxmovie.com/news/435505</link>
             <guid>https://www.maxmovie.com/news/435505</guid>
             <pubDate>Sun, 19 Nov 2023 01:53:04 GMT</pubDate>
-            <content:encoded><![CDATA[19일 오전 별세한 고 박동룡(왼쪽). 사진제공=한지일 SNS1970~80년대 한국 액션영화에서 활약했던 원로배우 박동룡이 별세했다. 향년 83세.19일 영화계에 따르면, 박동룡은 이날 오전 4시50분께 서울의 한 요양병원에서 노환으로 눈을 감았다.1940년생인 고인은 편거영 감독의 '돌아온 팔도 사나이'(1969)로 연기를 시작, 1970~80년대 다수의]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435505"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700357430018vc985.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435505"><h4>1970~80년대 액션배우 박동룡 별세</h4></a><span>20시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700357430018vc985.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +314,7 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <link>https://www.maxmovie.com/news/435502</link>
             <guid>https://www.maxmovie.com/news/435502</guid>
             <pubDate>Fri, 17 Nov 2023 23:05:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435502"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17002197025831KgTp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435502"><h4>[맥스무비레터 #27번째 편지] '외계+인' 1부 복습하고 류준열·김태리 만나볼까요?</h4></a><span>11월 17일<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17002197025831KgTp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -327,28 +336,20 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700204941049g40GR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 인생의 정답은 내 안에… 영화 '만분의 일초' (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/435498</link>
+            <guid>https://www.maxmovie.com/news/435498</guid>
+            <pubDate>Sun, 19 Nov 2023 22:04:04 GMT</pubDate>
+            <content:encoded><![CDATA['만분의 일초'의 한 장면. 사진제공=더쿱디스트리뷰션오늘, 볼만한 작품을 추천합니다.◆ '만분의 일초''만분의 일초'는 0%의 확률을 깨뜨릴 0.0001%, 그 찰나를 향해 검을 겨누는 치열한 기록을 담은 영화다.&nbsp;대한민국 검도 국가대표 최종 선발 라인업에 오른 재우(주종혁)는 그의 삶을 송두리째 뒤흔든 황태수(문진승)에게 드디어 검을 겨눌 수 있게 된다.]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700202954885oNhp5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오늘 뭘 볼까] 일찍 찾아온 X-mas 선물, 영화 '베스트 크리스마스 에버!' (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/435496</link>
             <guid>https://www.maxmovie.com/news/435496</guid>
             <pubDate>Sat, 18 Nov 2023 22:04:04 GMT</pubDate>
-            <content:encoded><![CDATA['베스트 크리스마스 에버!'의 한 장면. 사진제공=넷플릭스오늘, 볼만한 작품을 추천합니다.◆ '베스트 크리스마스 에버!''베스트 크리스마스 에버!'는 평범한 삶을 살고 있는 샬럿이 질투의 대상이었던 재키의 가족과 함께 크리스마스를 보내며 벌어지는 이야기를 담은 넷플릭스 오리지널 영화다.&nbsp;매번 크리스마스가 올 때마다 자기 자랑을 가득 실은 연말 소식지를 보내]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435496"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700201319082vv7ys.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435496"><h4>[오늘 뭘 볼까] 일찍 찾아온 X-mas 선물, 영화 '베스트 크리스마스 에버!'</h4></a><span>11월 18일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700201319082vv7ys.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] K-다크 히어로의 등장! '비질란테' (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/435495</link>
-            <guid>https://www.maxmovie.com/news/435495</guid>
-            <pubDate>Fri, 17 Nov 2023 22:05:04 GMT</pubDate>
-            <content:encoded><![CDATA['비질란테'의 한 장면. 사진제공=디즈니+오늘, 볼만한 작품을 추천합니다.◆ '비질란테''비질란테'는 낮에는 법을 수호하는 모범 경찰대생이지만, 밤이면 법망을 피한 범죄자들을 직접 심판하는 비질란테로 살아가는 김지용과 그를 둘러싸고 각기 다른 목적을 가진 사람들이 치열하게 맞서는 액션 스릴러 물이다.&nbsp;글로벌 누적 조회 수 3억7000만 뷰를 기록한 동명의]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700200628652Gk4XR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주연, 고창석·이준영 소속사에 새 둥지 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/435494</link>
-            <guid>https://www.maxmovie.com/news/435494</guid>
-            <pubDate>Fri, 17 Nov 2023 05:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435494"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700197064989fXkwR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435494"><h4>이주연, 고창석·이준영 소속사에 새 둥지</h4></a><span>11월 17일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700197064989fXkwR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['연인' 떠난 자리, 왕좌는 누가 차지?…'마이 데몬' '열녀박씨'도 가세 (맥스무비 ─ OTT)]]></title>
