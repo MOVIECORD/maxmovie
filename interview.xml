@@ -1,8 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.maxmovie.com/interview</id>
-    <title>맥스무비 ─ 인터뷰</title>
-    <updated>2023-11-20T03:12:50.410Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.maxmovie.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>맥스무비 ─ 인터뷰</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 20 Nov 2023 04:09:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 허슈밍 감독 "'아줌마', 싱가포르가 한국에 보내는 러브레터"]]></title>
+            <link>https://www.maxmovie.com/news/435501</link>
+            <guid>https://www.maxmovie.com/news/435501</guid>
+            <pubDate>Mon, 20 Nov 2023 04:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[11월29일 개봉, '아줌마' 연출한 허슈밍 감독
+K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700215855387l1wzG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] '마이네임'·'몸값'의 그 배우, 장률이 그린 "성장하는 사랑"]]></title>
+            <link>https://www.maxmovie.com/news/435472</link>
+            <guid>https://www.maxmovie.com/news/435472</guid>
+            <pubDate>Mon, 20 Nov 2023 04:08:46 GMT</pubDate>
+            <content:encoded><![CDATA['정신병동에도~'에서 일편단심 사랑 보여줘
+'마이네임' 등 강렬한 이미지 덜어내]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700112708515OAgUd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] '서울의 봄' 김성수 감독 "이것은 욕망의 드라마"]]></title>
+            <link>https://www.maxmovie.com/news/435460</link>
+            <guid>https://www.maxmovie.com/news/435460</guid>
+            <pubDate>Mon, 20 Nov 2023 04:08:46 GMT</pubDate>
+            <content:encoded><![CDATA['올해의 한국영화' 급부상
+19살 때 총소리 들은 게 시작
+"12·12 군사반란 제 나름 해석"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700032754066I0UEY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 배우 박보영이 카페에서 아르바이트를 하는 이유]]></title>
+            <link>https://www.maxmovie.com/news/435443</link>
+            <guid>https://www.maxmovie.com/news/435443</guid>
+            <pubDate>Mon, 20 Nov 2023 04:08:46 GMT</pubDate>
+            <content:encoded><![CDATA['정신병동에도...' 우울증 간호사 역
+"기존과 다른 모습, 갈증 해소돼"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699919783578QRIDZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] "힘 빼기·내 안에서 정답 찾기"...주종혁 '만분의 일초'로 배운 자세]]></title>
+            <link>https://www.maxmovie.com/news/435395</link>
+            <guid>https://www.maxmovie.com/news/435395</guid>
+            <pubDate>Mon, 20 Nov 2023 04:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435395"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1699430924909AKHl9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/435395"><h4>[인터뷰] "힘 빼기·내 안에서 정답 찾기"...주종혁 '만분의 일초'로 배운 자세</h4></a><span>11월 08일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699430924909AKHl9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] "아파트 단지에 오디션 공고"…이정홍 감독 '괴인'의 기묘한 탄생기]]></title>
+            <link>https://www.maxmovie.com/news/435384</link>
+            <guid>https://www.maxmovie.com/news/435384</guid>
+            <pubDate>Mon, 20 Nov 2023 04:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[각종 영화제 수상 '괴인', 8일 개봉
+단편으로 주목받은 감독의 장편 데뷔작]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699350475701GUQYO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰]정지영 감독 "한국의 켄 로치? 그냥 대중영화 감독"]]></title>
+            <link>https://www.maxmovie.com/news/435319</link>
+            <guid>https://www.maxmovie.com/news/435319</guid>
+            <pubDate>Mon, 20 Nov 2023 04:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[11월1일 개봉 '소년들' 연출
+삼례나라슈퍼 사건 영화화
+데뷔 40주년 맞은 한국영화 거장]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16988841984266ogKU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 거침없는 참교육! '용감한 시민' 감독이 통쾌함을 주는 방법]]></title>
+            <link>https://www.maxmovie.com/news/435247</link>
+            <guid>https://www.maxmovie.com/news/435247</guid>
+            <pubDate>Mon, 20 Nov 2023 04:08:46 GMT</pubDate>
+            <content:encoded><![CDATA['그놈 목소리' 박진표 감독, 첫 액션 영화 연출
+"'너의 잘못 아니야', 피해자에게 해주고 싶은 말"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698358004064g98AG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰]박혜수, 조현철 감독과 만남은 "뷰티풀, 원더풀, 미라클"]]></title>
+            <link>https://www.maxmovie.com/news/435246</link>
+            <guid>https://www.maxmovie.com/news/435246</guid>
+            <pubDate>Mon, 20 Nov 2023 04:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[조현철의 감독 데뷔작 '너와 나'로 복귀
+좋아하는 마음 숨기지 못하는 여고생 세미 역
+학폭 의혹에 2년간 활동 중단
+"나를 단단하게 만들어준 시간"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698353199360zFvnb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰]설경구, '소년들' 출연한 이유 "세상을 바꿀 순 없지만…"]]></title>
+            <link>https://www.maxmovie.com/news/435245</link>
+            <guid>https://www.maxmovie.com/news/435245</guid>
+            <pubDate>Mon, 20 Nov 2023 04:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435245"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1698310357147MvoyM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/435245"><h4>[인터뷰]설경구, '소년들' 출연한 이유 "세상을 바꿀 순 없지만…"</h4></a><span>10월 26일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698310357147MvoyM.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
