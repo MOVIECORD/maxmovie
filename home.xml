@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 23:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 00:31:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,20 +41,11 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17002197025831KgTp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이젠 '서울의 봄' 쇼타임!]]></title>
-            <link>https://www.maxmovie.com/news/435511</link>
-            <guid>https://www.maxmovie.com/news/435511</guid>
-            <pubDate>Sun, 19 Nov 2023 22:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435511"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700392201193qmAEU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435511"><h4>이젠 '서울의 봄' 쇼타임!</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700392201193qmAEU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['연인' 종영, 남궁민이 뽑은 이장현 명대사는?]]></title>
             <link>https://www.maxmovie.com/news/435508</link>
             <guid>https://www.maxmovie.com/news/435508</guid>
             <pubDate>Sun, 19 Nov 2023 09:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[남궁민, 소속사 통해 종영 소회
-"울컥했고 따뜻했다"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435508"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700371642101FwnUR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435508"><h4>'연인' 종영, 남궁민이 뽑은 이장현 명대사는?</h4></a><span>19시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700371642101FwnUR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -87,8 +78,17 @@
             <link>https://www.maxmovie.com/news/435500</link>
             <guid>https://www.maxmovie.com/news/435500</guid>
             <pubDate>Sun, 19 Nov 2023 05:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435500"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700206660604WvSSC.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435500"><h4>'존재 자체가 힐링' 신민아의 12월 선물...영화 '3일의 휴가' </h4></a><span>11월 17일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['디바' 이후 3년 만에 주연 영화 개봉
+엄마와 딸의 애틋하고 따뜻한 사랑]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700206660604WvSSC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["올해의 영화"로 급부상 '서울의 봄', 예매량 7만장 넘었다]]></title>
+            <link>https://www.maxmovie.com/news/435499</link>
+            <guid>https://www.maxmovie.com/news/435499</guid>
+            <pubDate>Mon, 20 Nov 2023 00:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435499"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700204941049g40GR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435499"><h4>"올해의 영화"로 급부상 '서울의 봄', 예매량 7만장 넘었다</h4></a><span>11월 17일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700204941049g40GR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
