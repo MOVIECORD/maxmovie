@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 09:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 10:08:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 토종 애니메이션 '뽀로로', 할리우드 진출]]></title>
+            <link>https://www.maxmovie.com/news/435525</link>
+            <guid>https://www.maxmovie.com/news/435525</guid>
+            <pubDate>Mon, 20 Nov 2023 10:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[북미 12월8일, 국내 12월13일 개봉 
+순수 국내 자체 제작 한국 애니 최초]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700470993641Tu4Tj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['애니 투톱' 신카이 마코토 · 피터 손, 美 픽사 본사에서 왜 만났나]]></title>
             <link>https://www.maxmovie.com/news/435524</link>
@@ -38,8 +47,7 @@
             <link>https://www.maxmovie.com/news/435517</link>
             <guid>https://www.maxmovie.com/news/435517</guid>
             <pubDate>Mon, 20 Nov 2023 04:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 송은이가 제작한 심리 스릴러 
-10월25일 개봉 누적관객 약 1만9000명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435517"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700446109418lkrLg.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435517"><h4>장항준 감독 '오픈 더 도어' 이제 안방에서 본다 </h4></a><span>7시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700446109418lkrLg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -47,7 +55,8 @@
             <link>https://www.maxmovie.com/news/435516</link>
             <guid>https://www.maxmovie.com/news/435516</guid>
             <pubDate>Mon, 20 Nov 2023 07:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435516"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700456896492u8hQt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435516"><h4>'정신병동에도 아침이 와요'가 발견한 보물... "서완님" 노재원</h4></a><span>2시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[서완 역할 위해 실제 노량진에서 거주
+현재 '오징어 게임2' 촬영 중 활약 예고]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700456896492u8hQt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435512</link>
             <guid>https://www.maxmovie.com/news/435512</guid>
             <pubDate>Mon, 20 Nov 2023 04:08:58 GMT</pubDate>
-            <content:encoded><![CDATA['프레디의 피자가게' 개봉 첫주 1위에도 
-누적 34만명에 그쳐... '더 마블스' 등 시들]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435512"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17004382850172dhP8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435512"><h4>'서울의 봄' 개봉 전야... 주말 박스오피스 '주춤' </h4></a><span>9시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17004382850172dhP8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이젠 '서울의 봄' 쇼타임!]]></title>
-            <link>https://www.maxmovie.com/news/435511</link>
-            <guid>https://www.maxmovie.com/news/435511</guid>
-            <pubDate>Mon, 20 Nov 2023 04:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435511"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700392201193qmAEU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435511"><h4>이젠 '서울의 봄' 쇼타임!</h4></a><span>11시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700392201193qmAEU.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
