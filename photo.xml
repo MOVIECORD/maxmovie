@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 00:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 01:53:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마침내 공개된 '외계+인' 2부의 캐릭터들]]></title>
+            <link>https://www.maxmovie.com/news/435529</link>
+            <guid>https://www.maxmovie.com/news/435529</guid>
+            <pubDate>Tue, 21 Nov 2023 01:53:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435529"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1700529272265QkTII.jpg" alt=""></span><span class="textBox"><h4>마침내 공개된 '외계+인' 2부의 캐릭터들</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700529272265QkTII.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사진으로 먼저 보는 '스위트홈2'의 지독한 인간군상]]></title>
             <link>https://www.maxmovie.com/news/435519</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/434929"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1696130698983KtInj.jpg" alt=""></span><span class="textBox"><h4>하정우·임시완 환희의 순간, 그 비하인드 현장 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696130698983KtInj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석 연휴 시간 순삭할, '도적: 칼의 소리' 비하인드]]></title>
-            <link>https://www.maxmovie.com/news/434892</link>
-            <guid>https://www.maxmovie.com/news/434892</guid>
-            <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/434892"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1695777203856BeaOV.jpg" alt=""></span><span class="textBox"><h4>추석 연휴 시간 순삭할, '도적: 칼의 소리' 비하인드 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1695777203856BeaOV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
