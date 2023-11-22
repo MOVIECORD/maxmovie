@@ -4,9 +4,25 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 01:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 03:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['서울의 봄' 특별출연도 화려하다,  정해인·이준혁·정만식의 모습은?]]></title>
+            <link>https://www.maxmovie.com/news/435542</link>
+            <guid>https://www.maxmovie.com/news/435542</guid>
+            <pubDate>Wed, 22 Nov 2023 03:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435542"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1700618191979oLGkI.jpg" alt=""></span><span class="textBox"><h4>'서울의 봄' 특별출연도 화려하다,  정해인·이준혁·정만식의 모습은? </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700618191979oLGkI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['독전2' 채운 '독한 배우들'의 면면...양익준부터 조한철까지]]></title>
+            <link>https://www.maxmovie.com/news/435540</link>
+            <guid>https://www.maxmovie.com/news/435540</guid>
+            <pubDate>Wed, 22 Nov 2023 03:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435540"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1700617507924dUfM8.jpg" alt=""></span><span class="textBox"><h4>'독전2' 채운 '독한 배우들'의 면면...양익준부터 조한철까지  </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700617507924dUfM8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마침내 공개된 '외계+인' 2부의 캐릭터들]]></title>
             <link>https://www.maxmovie.com/news/435529</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/434966"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1696472753023YrhbZ.jpg" alt=""></span><span class="textBox"><h4>[BIFF] 박은빈, 개막식 최초 단독 진행 "떨리지 않아요"</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696472753023YrhbZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 조현철이 연출한 두 소녀의 마음 '너와 나']]></title>
-            <link>https://www.maxmovie.com/news/434951</link>
-            <guid>https://www.maxmovie.com/news/434951</guid>
-            <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/434951"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1696387874313PIpWa.jpg" alt=""></span><span class="textBox"><h4>배우 조현철이 연출한 두 소녀의 마음 '너와 나'  </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696387874313PIpWa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하정우·임시완 환희의 순간, 그 비하인드 현장]]></title>
-            <link>https://www.maxmovie.com/news/434929</link>
-            <guid>https://www.maxmovie.com/news/434929</guid>
-            <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/434929"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1696130698983KtInj.jpg" alt=""></span><span class="textBox"><h4>하정우·임시완 환희의 순간, 그 비하인드 현장 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696130698983KtInj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
