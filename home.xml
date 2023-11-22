@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 17:05:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 18:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,7 +49,7 @@
             <link>https://www.maxmovie.com/news/435554</link>
             <guid>https://www.maxmovie.com/news/435554</guid>
             <pubDate>Wed, 22 Nov 2023 11:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435554"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700648034715fNGXM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435554"><h4>은빛 거인의 귀환 '신 울트라맨'…日 애니 거장 안노 히데아키 참여</h4></a><span>6시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435554"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700648034715fNGXM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435554"><h4>은빛 거인의 귀환 '신 울트라맨'…日 애니 거장 안노 히데아키 참여</h4></a><span>7시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700648034715fNGXM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -71,6 +71,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17006307674719zdXS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[종영까지 단 2회 뿐... '힘쎈여자 강남순' 통쾌한 결말 선사할까]]></title>
+            <link>https://www.maxmovie.com/news/435541</link>
+            <guid>https://www.maxmovie.com/news/435541</guid>
+            <pubDate>Wed, 22 Nov 2023 18:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[11월25일~26일 최종 15~16회 방송 
+3대 모녀, 마약 범죄·응징 사랑... 과연?]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700617378605ilFLX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지드래곤 "명예훼손·성희롱·모욕에 법적 대응...선처 없다"]]></title>
             <link>https://www.maxmovie.com/news/435539</link>
             <guid>https://www.maxmovie.com/news/435539</guid>
@@ -84,17 +93,8 @@
             <link>https://www.maxmovie.com/news/435537</link>
             <guid>https://www.maxmovie.com/news/435537</guid>
             <pubDate>Wed, 22 Nov 2023 06:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 D-1 오후 5시20분 기준
-예매 관객 15만명 돌파 압도적 1위]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435537"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17005555574734Nl7q.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435537"><h4>'서울의 봄' 들끓는다…개봉 하루 전 예매율 50% 돌파</h4></a><span>11월 21일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17005555574734Nl7q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['타인의 삶', 제1회 한국단편영화상 작품상 수상…배우상은 노재원]]></title>
-            <link>https://www.maxmovie.com/news/435536</link>
-            <guid>https://www.maxmovie.com/news/435536</guid>
-            <pubDate>Wed, 22 Nov 2023 13:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435536"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700551768097wJkkU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435536"><h4>'타인의 삶', 제1회 한국단편영화상 작품상 수상…배우상은 노재원</h4></a><span>11월 21일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700551768097wJkkU.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
