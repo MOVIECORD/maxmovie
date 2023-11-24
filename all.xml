@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 12:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 13:09:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,7 +47,7 @@
             <link>https://www.maxmovie.com/news/435577</link>
             <guid>https://www.maxmovie.com/news/435577</guid>
             <pubDate>Fri, 24 Nov 2023 08:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435577"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700810550619NHdqV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435577"><h4>입소문 본격 '서울의 봄'...예매량도 평점도 개봉 이후 더 상승</h4></a><span>4시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435577"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700810550619NHdqV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435577"><h4>입소문 본격 '서울의 봄'...예매량도 평점도 개봉 이후 더 상승</h4></a><span>5시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700810550619NHdqV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,24 +60,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700810930093nCHtQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['서울의 봄' 이틀간 40만명…'범도3'·'밀수'와 드롭률 비교해보니 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435566</link>
-            <guid>https://www.maxmovie.com/news/435566</guid>
-            <pubDate>Fri, 24 Nov 2023 01:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[10%대 드롭률로 첫날 수준 유지
-'범죄도시3' 36% '밀수' 40%보다 낮아
-입소문 타면서 개봉 첫 주말 성적에 관심]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17007856882650Hga5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[데일리 핫이슈] 日 애니 추천 해명 덱스,37kg까지 감량 박민영, 큐브엔터 떠나는 이창섭 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435563</link>
-            <guid>https://www.maxmovie.com/news/435563</guid>
-            <pubDate>Thu, 23 Nov 2023 22:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700730596544Eb1qv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['외계+인' 2부, 김우빈의 '매력쇼'가 기대되는 이유 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/435565</link>
             <guid>https://www.maxmovie.com/news/435565</guid>
@@ -87,12 +69,30 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700727894926dyAKr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북미서 먼저 공개 '나폴레옹'...  대전투 그리고 러브스토리 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435564</link>
-            <guid>https://www.maxmovie.com/news/435564</guid>
-            <pubDate>Thu, 23 Nov 2023 09:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435564"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700726895435ZlfyF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435564"><h4>북미서 먼저 공개 '나폴레옹'...  대전투 그리고 러브스토리 </h4></a><span>11월 23일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700726895435ZlfyF.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['연인', 마지막회 확장판 편성 확정...종영 아쉬움 달랜다 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435560</link>
+            <guid>https://www.maxmovie.com/news/435560</guid>
+            <pubDate>Fri, 24 Nov 2023 13:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[확장판, 23일 오후 11시55분 편성
+마지막회에 담지 못한 장면 추가]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17007199447022dVlK.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['서울의 봄'에도 이순신 있다... 김성수 · 김한민 감독  "기억해야 할 역사" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435559</link>
+            <guid>https://www.maxmovie.com/news/435559</guid>
+            <pubDate>Fri, 24 Nov 2023 13:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[연말 한국영화의 힘 증명할 감독들 
+역사를 영화로 옮긴 시도, 시선 집중]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17007131952070Ppd7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰:포테이토 지수 85%] '스위트홈' 시즌2, "확장한 세계·깊어진 메시지" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435547</link>
+            <guid>https://www.maxmovie.com/news/435547</guid>
+            <pubDate>Thu, 23 Nov 2023 01:45:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435547"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700628488765G4zUy.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/435547"><h4>[리뷰:포테이토 지수 85%] '스위트홈' 시즌2, "확장한 세계·깊어진 메시지" </h4></a><span>11월 23일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700628488765G4zUy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰]  '독전2' 백 감독이 답했다...바뀐 이선생 설정‧미드퀄 시도‧오승훈 캐스팅 (맥스무비 ─ 인터뷰)]]></title>
@@ -311,7 +311,7 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <link>https://www.maxmovie.com/news/435570</link>
             <guid>https://www.maxmovie.com/news/435570</guid>
             <pubDate>Fri, 24 Nov 2023 05:06:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435570"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700790818607a5B8j.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435570"><h4>'스위트홈' 시즌1→시즌2, 송강의 3년 성장기</h4></a><span>7시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435570"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700790818607a5B8j.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435570"><h4>'스위트홈' 시즌1→시즌2, 송강의 3년 성장기</h4></a><span>8시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700790818607a5B8j.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
