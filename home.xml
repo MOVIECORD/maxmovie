@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 06:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 07:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700722734298nNNB6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[배우 조현철의 '성공적인' 감독 데뷔 '너와 나' 2만 돌파, 장기 상영 돌입]]></title>
+            <link>https://www.maxmovie.com/news/435575</link>
+            <guid>https://www.maxmovie.com/news/435575</guid>
+            <pubDate>Fri, 24 Nov 2023 07:05:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435575"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700807303831jwzqC.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435575"><h4>배우 조현철의 '성공적인' 감독 데뷔 '너와 나' 2만 돌파, 장기 상영 돌입 </h4></a><span>24분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700807303831jwzqC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['공감력 만렙' 이재규 감독의 세계... '정신병동에도 아침이 와요'까지 통했다]]></title>
             <link>https://www.maxmovie.com/news/435569</link>
             <guid>https://www.maxmovie.com/news/435569</guid>
             <pubDate>Fri, 24 Nov 2023 06:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435569"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700789906164s7nTU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435569"><h4>'공감력 만렙' 이재규 감독의 세계... '정신병동에도 아침이 와요'까지 통했다  </h4></a><span>20분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[2003년 '다모'부터 2023년 '정신아'까지 
+20년간 드라마 영화 오가는 활발한 연출]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700789906164s7nTU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435560</link>
             <guid>https://www.maxmovie.com/news/435560</guid>
             <pubDate>Thu, 23 Nov 2023 07:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[확장판, 23일 오후 11시55분 편성
-마지막회에 담지 못한 장면 추가]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435560"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17007199447022dVlK.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435560"><h4>'연인', 마지막회 확장판 편성 확정...종영 아쉬움 달랜다</h4></a><span>11월 23일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17007199447022dVlK.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['서울의 봄'에도 이순신 있다... 김성수 · 김한민 감독  "기억해야 할 역사"]]></title>
-            <link>https://www.maxmovie.com/news/435559</link>
-            <guid>https://www.maxmovie.com/news/435559</guid>
-            <pubDate>Thu, 23 Nov 2023 05:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435559"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17007131952070Ppd7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435559"><h4>'서울의 봄'에도 이순신 있다... 김성수 · 김한민 감독  "기억해야 할 역사"</h4></a><span>11월 23일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17007131952070Ppd7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
