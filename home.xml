@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 04:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 05:07:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700722734298nNNB6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['스위트홈' 시즌1→시즌2, 송강의 3년 성장기]]></title>
+            <link>https://www.maxmovie.com/news/435570</link>
+            <guid>https://www.maxmovie.com/news/435570</guid>
+            <pubDate>Fri, 24 Nov 2023 05:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435570"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700790818607a5B8j.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435570"><h4>'스위트홈' 시즌1→시즌2, 송강의 3년 성장기</h4></a><span>42분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700790818607a5B8j.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["'외계+인' 2부, 김태리 중요해져" 최동훈이 밝힌 관람 포인트]]></title>
             <link>https://www.maxmovie.com/news/435568</link>
             <guid>https://www.maxmovie.com/news/435568</guid>
             <pubDate>Fri, 24 Nov 2023 02:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435568"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700789512593nAusQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435568"><h4>"'외계+인' 2부, 김태리 중요해져" 최동훈이 밝힌 관람 포인트</h4></a><span>2시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['최동훈 감독에게 묻다' 영상 공개
+갑진년 새해 포문 연다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700789512593nAusQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435547</link>
             <guid>https://www.maxmovie.com/news/435547</guid>
             <pubDate>Fri, 24 Nov 2023 01:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[12월1일 공개 '스위트홈' 시즌2
-'괴물보다 더 괴물 같은 인간']]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435547"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700628488765G4zUy.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/435547"><h4>[리뷰:포테이토 지수 85%] '스위트홈' 시즌2, "확장한 세계·깊어진 메시지" </h4></a><span>11월 23일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700628488765G4zUy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정국, 빌보드 찍고 12월 군입대 "1년6개월은 긴 시간"]]></title>
-            <link>https://www.maxmovie.com/news/435557</link>
-            <guid>https://www.maxmovie.com/news/435557</guid>
-            <pubDate>Thu, 23 Nov 2023 01:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435557"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17006994669469VS9v.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435557"><h4>정국, 빌보드 찍고 12월 군입대 "1년6개월은 긴 시간" </h4></a><span>11월 23일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17006994669469VS9v.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
