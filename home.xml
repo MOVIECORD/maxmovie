@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 05:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 06:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700722734298nNNB6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['공감력 만렙' 이재규 감독의 세계... '정신병동에도 아침이 와요'까지 통했다]]></title>
+            <link>https://www.maxmovie.com/news/435569</link>
+            <guid>https://www.maxmovie.com/news/435569</guid>
+            <pubDate>Fri, 24 Nov 2023 06:09:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435569"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700789906164s7nTU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435569"><h4>'공감력 만렙' 이재규 감독의 세계... '정신병동에도 아침이 와요'까지 통했다  </h4></a><span>20분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700789906164s7nTU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['스위트홈' 시즌1→시즌2, 송강의 3년 성장기]]></title>
             <link>https://www.maxmovie.com/news/435570</link>
             <guid>https://www.maxmovie.com/news/435570</guid>
             <pubDate>Fri, 24 Nov 2023 05:06:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435570"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700790818607a5B8j.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435570"><h4>'스위트홈' 시즌1→시즌2, 송강의 3년 성장기</h4></a><span>42분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['스위트홈2' 통해 차현수의 어두운 내면 묘사
+'마이 데몬'에서는 김유정과 달콤 위험 로맨스]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700790818607a5B8j.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435559</link>
             <guid>https://www.maxmovie.com/news/435559</guid>
             <pubDate>Thu, 23 Nov 2023 05:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[연말 한국영화의 힘 증명할 감독들 
-역사를 영화로 옮긴 시도, 시선 집중]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435559"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17007131952070Ppd7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435559"><h4>'서울의 봄'에도 이순신 있다... 김성수 · 김한민 감독  "기억해야 할 역사"</h4></a><span>11월 23일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17007131952070Ppd7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰:포테이토 지수 85%] '스위트홈' 시즌2, "확장한 세계·깊어진 메시지"]]></title>
-            <link>https://www.maxmovie.com/news/435547</link>
-            <guid>https://www.maxmovie.com/news/435547</guid>
-            <pubDate>Fri, 24 Nov 2023 01:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435547"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1700628488765G4zUy.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/435547"><h4>[리뷰:포테이토 지수 85%] '스위트홈' 시즌2, "확장한 세계·깊어진 메시지" </h4></a><span>11월 23일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700628488765G4zUy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
