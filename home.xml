@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 05:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 06:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701022312773te1pN.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[임시완, 마침내 코미디까지 통한다... 진격의 '웃음 폭탄']]></title>
+            <link>https://www.maxmovie.com/news/435619</link>
+            <guid>https://www.maxmovie.com/news/435619</guid>
+            <pubDate>Tue, 28 Nov 2023 06:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435619"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701146711445CZ8W7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435619"><h4>임시완, 마침내 코미디까지 통한다... 진격의 '웃음 폭탄' </h4></a><span>7분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701146711445CZ8W7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정동원, "연습실·자택까지 배회" 사생팬에 칼 빼든다]]></title>
             <link>https://www.maxmovie.com/news/435612</link>
             <guid>https://www.maxmovie.com/news/435612</guid>
             <pubDate>Tue, 28 Nov 2023 00:31:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435612"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701130929247bBESn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435612"><h4>정동원, "연습실·자택까지 배회" 사생팬에 칼 빼든다</h4></a><span>4시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[사생활 침해 심해
+무관용 원칙]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701130929247bBESn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,16 +90,8 @@
             <link>https://www.maxmovie.com/news/435605</link>
             <guid>https://www.maxmovie.com/news/435605</guid>
             <pubDate>Mon, 27 Nov 2023 22:03:16 GMT</pubDate>
-            <content:encoded><![CDATA['러스틴'의 한 장면. 사진제공=넷플릭스오늘, 볼만한 작품을 추천합니다.◆ '러스틴''러스틴'은 인종 차별과 혐오에 맞섰던 베이어드 러스틴의 이야기를 그린 넷플릭스 오리지널 영화다.&nbsp;비폭력 평화주의에 기반한 시민·인권 운동가로 활동한 베이어드 러스틴은 마틴 루터 킹 목사와 함께 미국 사상 최대 규모의 인권 시위이자 인종 차별 반대의 상징으로 통하는 1963]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435605"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701067119477gDiAP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435605"><h4>[오늘 뭘 볼까] 미국 전 대통령 오바마 부부가 참여한 영화 '러스틴'</h4></a><span>8시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701067119477gDiAP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['범죄도시3' 이후 처음, '서울의 봄' 6일 만에 200만 돌파]]></title>
-            <link>https://www.maxmovie.com/news/435608</link>
-            <guid>https://www.maxmovie.com/news/435608</guid>
-            <pubDate>Mon, 27 Nov 2023 23:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435608"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17010693106969KM7V.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435608"><h4>'범죄도시3' 이후 처음, '서울의 봄' 6일 만에 200만 돌파 </h4></a><span>21시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17010693106969KM7V.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
