@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 02:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 03:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최후의 전투 현장 공개한 영화 '노량: 죽음의 바다']]></title>
+            <link>https://www.maxmovie.com/news/435614</link>
+            <guid>https://www.maxmovie.com/news/435614</guid>
+            <pubDate>Tue, 28 Nov 2023 03:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435614"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1701130952210L4glN.jpg" alt=""></span><span class="textBox"><h4>최후의 전투 현장 공개한 영화 '노량: 죽음의 바다'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701130952210L4glN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['서울의 봄' 특별출연도 화려하다,  정해인·이준혁·정만식의 모습은?]]></title>
             <link>https://www.maxmovie.com/news/435542</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/434967"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1696476086299S5uaL.jpg" alt=""></span><span class="textBox"><h4>[BIFF 화보] 송강호·박은빈·송중기…화려한 레드카펫</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696476086299S5uaL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF] 박은빈, 개막식 최초 단독 진행 "떨리지 않아요"]]></title>
-            <link>https://www.maxmovie.com/news/434966</link>
-            <guid>https://www.maxmovie.com/news/434966</guid>
-            <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/434966"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1696472753023YrhbZ.jpg" alt=""></span><span class="textBox"><h4>[BIFF] 박은빈, 개막식 최초 단독 진행 "떨리지 않아요"</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696472753023YrhbZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
