@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 03:08:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 04:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701068835514Jdkda.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유해진 새 둥지 틀었다…박서준과 한 소속사 식구]]></title>
+            <link>https://www.maxmovie.com/news/435617</link>
+            <guid>https://www.maxmovie.com/news/435617</guid>
+            <pubDate>Tue, 28 Nov 2023 04:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435617"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701141193468XjOmN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435617"><h4>유해진 새 둥지 틀었다…박서준과 한 소속사 식구</h4></a><span>46분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701141193468XjOmN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['등장 장인' 이진욱, '스위트홈' 시즌2에선 어떤 모습?]]></title>
             <link>https://www.maxmovie.com/news/435615</link>
             <guid>https://www.maxmovie.com/news/435615</guid>
             <pubDate>Tue, 28 Nov 2023 01:48:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435615"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701131543797ueoLK.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435615"><h4>'등장 장인' 이진욱, '스위트홈' 시즌2에선 어떤 모습?</h4></a><span>2시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['뷰티 인사이드' '이두나!'로 '등장 장인' 등극
+'스위트홈' 시즌2서 몸 뺏긴 편상욱 역]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701131543797ueoLK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435608</link>
             <guid>https://www.maxmovie.com/news/435608</guid>
             <pubDate>Mon, 27 Nov 2023 23:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[27일 오후 누적 200만 관객 넘어 
-연말 극장가 강력한 흥행작 부상]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435608"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17010693106969KM7V.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435608"><h4>'범죄도시3' 이후 처음, '서울의 봄' 6일 만에 200만 돌파 </h4></a><span>20시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17010693106969KM7V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그룹 투포케이플러스(24K+) 활동 엔진 시동]]></title>
-            <link>https://www.maxmovie.com/news/435604</link>
-            <guid>https://www.maxmovie.com/news/435604</guid>
-            <pubDate>Tue, 28 Nov 2023 02:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435604"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701055110349IgZvI.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435604"><h4>그룹 투포케이플러스(24K+) 활동 엔진 시동</h4></a><span>23시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701055110349IgZvI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
