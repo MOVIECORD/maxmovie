@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 00:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 02:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임시완 떠받드는 '소년시대' 부여농고 6인은 누구?]]></title>
+            <link>https://www.maxmovie.com/news/435626</link>
+            <guid>https://www.maxmovie.com/news/435626</guid>
+            <pubDate>Wed, 29 Nov 2023 02:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435626"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1701219208403vPRBI.jpg" alt=""></span><span class="textBox"><h4>임시완 떠받드는 '소년시대' 부여농고 6인은 누구?</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701219208403vPRBI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최후의 전투 현장 공개한 영화 '노량: 죽음의 바다']]></title>
             <link>https://www.maxmovie.com/news/435614</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/434969"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1696484558655smr67.jpg" alt=""></span><span class="textBox"><h4>[BIFF 화보] 한효주 무한 변신,  '무빙' 이미현→ '독전2' 큰칼</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696484558655smr67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF 화보] 송강호·박은빈·송중기…화려한 레드카펫]]></title>
-            <link>https://www.maxmovie.com/news/434967</link>
-            <guid>https://www.maxmovie.com/news/434967</guid>
-            <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/434967"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1696476086299S5uaL.jpg" alt=""></span><span class="textBox"><h4>[BIFF 화보] 송강호·박은빈·송중기…화려한 레드카펫</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696476086299S5uaL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
