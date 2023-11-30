@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 22:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 23:07:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,7 +46,7 @@
             <link>https://www.maxmovie.com/news/435641</link>
             <guid>https://www.maxmovie.com/news/435641</guid>
             <pubDate>Thu, 30 Nov 2023 22:04:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435641"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701311030905sMEUh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435641"><h4>[데일리 핫이슈] "모두가 안 될거라고" 세븐틴 대상·박경득 별세·강성훈 근황</h4></a><span>5분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435641"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701311030905sMEUh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435641"><h4>[데일리 핫이슈] "모두가 안 될거라고" 세븐틴 대상·박경득 별세·강성훈 근황</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701311030905sMEUh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -77,21 +77,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701326045603HPT7m.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['더 글로리' 중국판? 한국 제작사 "판권은 팔지 않아"]]></title>
-            <link>https://www.maxmovie.com/news/435645</link>
-            <guid>https://www.maxmovie.com/news/435645</guid>
-            <pubDate>Thu, 30 Nov 2023 21:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[홍콩 TVB 및 OTT 유쿠 등 협업
-한국 제작사 "모르는 일" 의아]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701313642391f3sw8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[배우 서예지 결국... 소속사와 결별]]></title>
             <link>https://www.maxmovie.com/news/435644</link>
             <guid>https://www.maxmovie.com/news/435644</guid>
             <pubDate>Thu, 30 Nov 2023 02:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435644"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701309837069oldEG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435644"><h4>배우 서예지 결국... 소속사와 결별 </h4></a><span>19시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[4년간 몸담은 소속사에서 독립
+작품 활동 등 향후 행보에 관심]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701309837069oldEG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[216만 관객 사로잡은 로코 '30일' IPTV 공개]]></title>
+            <link>https://www.maxmovie.com/news/435643</link>
+            <guid>https://www.maxmovie.com/news/435643</guid>
+            <pubDate>Thu, 30 Nov 2023 23:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435643"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701309041440i8ehu.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435643"><h4>216만 관객 사로잡은 로코 '30일' IPTV 공개 </h4></a><span>21시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701309041440i8ehu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
