@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 04:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 05:07:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17013183071214pQKa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['서울의 봄' 흥행에 돌아오는 '제5공화국', 어떤 작품?]]></title>
+            <link>https://www.maxmovie.com/news/435662</link>
+            <guid>https://www.maxmovie.com/news/435662</guid>
+            <pubDate>Fri, 01 Dec 2023 05:06:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435662"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17014040974985Vgy4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435662"><h4>'서울의 봄' 흥행에 돌아오는 '제5공화국', 어떤 작품?</h4></a><span>32분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17014040974985Vgy4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[임시완의 청춘 활극 '소년시대', 마침내 시작된 '부여 대전']]></title>
             <link>https://www.maxmovie.com/news/435660</link>
             <guid>https://www.maxmovie.com/news/435660</guid>
             <pubDate>Fri, 01 Dec 2023 03:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435660"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701398073808BirrM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435660"><h4>임시완의 청춘 활극 '소년시대', 마침내 시작된 '부여 대전'</h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[1989년  배경 레트로 하이틴 드라마 
+임시완의 코미디 맹활약 강력한 웃음]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701398073808BirrM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435650</link>
             <guid>https://www.maxmovie.com/news/435650</guid>
             <pubDate>Thu, 30 Nov 2023 07:05:58 GMT</pubDate>
-            <content:encoded><![CDATA[아름다운예술인상 상금 등
-병환 중 선배 영화인 돕기]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435650"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701326045603HPT7m.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435650"><h4>이정재, 영화계 원로 위해 5000만원 기부</h4></a><span>22시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701326045603HPT7m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 글로리' 중국판? 한국 제작사 "판권은 팔지 않아"]]></title>
-            <link>https://www.maxmovie.com/news/435645</link>
-            <guid>https://www.maxmovie.com/news/435645</guid>
-            <pubDate>Fri, 01 Dec 2023 03:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435645"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701313642391f3sw8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435645"><h4>'더 글로리' 중국판? 한국 제작사 "판권은 팔지 않아" </h4></a><span>11월 30일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701313642391f3sw8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
