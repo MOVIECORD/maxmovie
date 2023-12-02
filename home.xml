@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 21:04:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 22:04:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,11 +41,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701419938018i0Xbv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 마이클 잭슨의 '스릴러'에 대한 기록… '스릴러 40']]></title>
+            <link>https://www.maxmovie.com/news/435665</link>
+            <guid>https://www.maxmovie.com/news/435665</guid>
+            <pubDate>Sat, 02 Dec 2023 22:03:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435665"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17014107007236rce5.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435665"><h4>[오늘 뭘 볼까] 마이클 잭슨의 '스릴러'에 대한 기록… '스릴러 40'</h4></a><span>4분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17014107007236rce5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[K드라마 OST 콘서트, 홍콩에서 성황리 진행]]></title>
             <link>https://www.maxmovie.com/news/435663</link>
             <guid>https://www.maxmovie.com/news/435663</guid>
             <pubDate>Fri, 01 Dec 2023 06:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435663"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701408246019J1YP3.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/435663"><h4>K드라마 OST 콘서트, 홍콩에서 성황리 진행 </h4></a><span>12월 01일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[모스트오케스트라의 홍콩 드라마 콘서트 
+'대장금'부터 '킹더랜드'의 주제곡에 박수]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701408246019J1YP3.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -79,18 +88,8 @@
             <link>https://www.maxmovie.com/news/435658</link>
             <guid>https://www.maxmovie.com/news/435658</guid>
             <pubDate>Sat, 02 Dec 2023 04:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 10일차 300만 돌파
-입소문 타고 평일도 관객 수 증가
-내주초 손익분기점 460만명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435658"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701394845477nPhIo.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435658"><h4>300만 돌파 '서울의 봄', 이대로 가면 주말께 400만+α?</h4></a><span>12월 01일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701394845477nPhIo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] '서울의 봄' 박해준 "기 센 배우들에 잘 편승해서 살아남았어요"]]></title>
-            <link>https://www.maxmovie.com/news/435655</link>
-            <guid>https://www.maxmovie.com/news/435655</guid>
-            <pubDate>Sat, 02 Dec 2023 18:07:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435655"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701390550171RT8rz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/435655"><h4>[인터뷰] '서울의 봄' 박해준 "기 센 배우들에 잘 편승해서 살아남았어요"</h4></a><span>12월 01일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701390550171RT8rz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
