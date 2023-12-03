@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 21:03:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 22:04:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,7 +46,7 @@
             <link>https://www.maxmovie.com/news/435673</link>
             <guid>https://www.maxmovie.com/news/435673</guid>
             <pubDate>Sun, 03 Dec 2023 09:04:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435673"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701587127008m1myV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435673"><h4>송강호 "봉준호 감독과 보이지 않는 신뢰 있다"</h4></a><span>13시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435673"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701587127008m1myV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435673"><h4>송강호 "봉준호 감독과 보이지 않는 신뢰 있다"</h4></a><span>14시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701587127008m1myV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -57,6 +57,14 @@
             <content:encoded><![CDATA[평일 일 관객 21만→27만명
 예매율 60%대 유지…주말 400만+α?]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701490904905JQwdj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 그대에게 보내는 응원의 메시지, 영화 '레슬리에게']]></title>
+            <link>https://www.maxmovie.com/news/435666</link>
+            <guid>https://www.maxmovie.com/news/435666</guid>
+            <pubDate>Sun, 03 Dec 2023 22:03:39 GMT</pubDate>
+            <content:encoded><![CDATA['레슬리에게'의 한 장면. 사진제공=영화사 진진오늘, 볼만한 작품을 추천합니다.◆ '레슬리에게'영화 '레슬리에게'는 다시 한번 찾아온 인생의 소중한 만남과 새 출발의 기회를 그린 작품이다.&nbsp;술에 빠져 수억의 복권 당첨금까지 잃은 레슬리는 몇 년 후, 사이가 틀어진 아들 제임스와 재회하지만 달라지지 못한 모습 탓에 그와 다시 멀어진다. 그런 레슬리에게서 과거]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701412579466GWpDU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 마이클 잭슨의 '스릴러'에 대한 기록… '스릴러 40']]></title>
@@ -79,17 +87,8 @@
             <link>https://www.maxmovie.com/news/435667</link>
             <guid>https://www.maxmovie.com/news/435667</guid>
             <pubDate>Sat, 02 Dec 2023 05:04:23 GMT</pubDate>
-            <content:encoded><![CDATA['연인' 종영 이후 5.2→7.8%
-섬세한 고증 뒷받침된 정통사극]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435667"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701413070521QbudR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435667"><h4> '연인' 떠난 주말, 최수종 '고려거란전쟁' 빠르게 상승중 </h4></a><span>12월 01일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701413070521QbudR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K드라마 OST 콘서트, 홍콩에서 성황리 진행]]></title>
-            <link>https://www.maxmovie.com/news/435663</link>
-            <guid>https://www.maxmovie.com/news/435663</guid>
-            <pubDate>Fri, 01 Dec 2023 06:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435663"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701408246019J1YP3.png);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/435663"><h4>K드라마 OST 콘서트, 홍콩에서 성황리 진행 </h4></a><span>12월 01일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701408246019J1YP3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
