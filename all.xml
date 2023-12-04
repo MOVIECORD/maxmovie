@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 04:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 06:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울의 봄, 1000만 간다]  현대사 영화의 '흥행 불패' 잇는다 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435676</link>
+            <guid>https://www.maxmovie.com/news/435676</guid>
+            <pubDate>Sun, 03 Dec 2023 09:05:04 GMT</pubDate>
+            <content:encoded><![CDATA[근현대사 사실 소재 영화 잇단 흥행
+"진실 향한 관객 욕구에 창작 부합"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701591954006y5JHr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서울의 봄, 1000만 간다] 다채로운 연관 콘텐츠와 시너지 낸다 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/435675</link>
@@ -26,15 +35,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701652517692BBiKt.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이순신 3부작 피날레 '노량: 죽음의 바다', 긴박한 마지막 해전의 현장 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435682</link>
-            <guid>https://www.maxmovie.com/news/435682</guid>
-            <pubDate>Mon, 04 Dec 2023 01:49:10 GMT</pubDate>
-            <content:encoded><![CDATA[12월20일 개봉, 이순신 연기한 김윤석
-연말 극장가 강력한 흥행작 관심 집중]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701652452117Fs0Xa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[디즈니 100주년 기념작  '위시', 북미 저조한 출발…한국은 어떨까 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/435678</link>
             <guid>https://www.maxmovie.com/news/435678</guid>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/435673</link>
             <guid>https://www.maxmovie.com/news/435673</guid>
             <pubDate>Sun, 03 Dec 2023 08:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435673"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701587127008m1myV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435673"><h4>송강호 "봉준호 감독과 보이지 않는 신뢰 있다"</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435673"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701587127008m1myV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435673"><h4>송강호 "봉준호 감독과 보이지 않는 신뢰 있다"</h4></a><span>23시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701587127008m1myV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -271,6 +271,15 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/16993925539928aU2z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['서울의 봄' 현충원 챌린지 시작되나... 관객이 앞서간다 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/435686</link>
+            <guid>https://www.maxmovie.com/news/435686</guid>
+            <pubDate>Mon, 04 Dec 2023 06:10:45 GMT</pubDate>
+            <content:encoded><![CDATA['12월12일 단체관람'부터 '욕어롱' 제안까지
+영화에 공감·몰입한 관객의 자발적 움직임]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701656201570D0yWz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박지훈·려운·최민영의 '약한영웅2'... 넷플릭스에서 새출발 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/435683</link>
             <guid>https://www.maxmovie.com/news/435683</guid>
@@ -302,8 +311,7 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <link>https://www.maxmovie.com/news/435678</link>
             <guid>https://www.maxmovie.com/news/435678</guid>
             <pubDate>Mon, 04 Dec 2023 01:48:21 GMT</pubDate>
-            <content:encoded><![CDATA['겨울왕국' 제작진 의기투합
-계속된 부진, 자존심 살릴까]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435678"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701625043396iNRfg.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435678"><h4>디즈니 100주년 기념작  '위시', 북미 저조한 출발…한국은 어떨까</h4></a><span>5시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701625043396iNRfg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -311,7 +319,8 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <link>https://www.maxmovie.com/news/435676</link>
             <guid>https://www.maxmovie.com/news/435676</guid>
             <pubDate>Sun, 03 Dec 2023 09:05:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435676"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701591954006y5JHr.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435676"><h4>[서울의 봄, 1000만 간다]  현대사 영화의 '흥행 불패' 잇는다</h4></a><span>19시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[근현대사 사실 소재 영화 잇단 흥행
+"진실 향한 관객 욕구에 창작 부합"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701591954006y5JHr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -346,17 +355,17 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <link>https://www.maxmovie.com/news/435671</link>
             <guid>https://www.maxmovie.com/news/435671</guid>
             <pubDate>Sun, 03 Dec 2023 06:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[2000년 '무사' 촬영현장의 추억
-김성수 감독의 뜨거운 열정 확인]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435671"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17015768253045DTMr.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435671"><h4>'서울의 봄' 김성수 감독이 기자를 꾸짖은 까닭은?</h4></a><span>12월 03일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17015768253045DTMr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['서울의 봄' 500만 관객 넘는다 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/435670</link>
-            <guid>https://www.maxmovie.com/news/435670</guid>
-            <pubDate>Sun, 03 Dec 2023 04:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435670"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701573862342ueysb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435670"><h4>'서울의 봄' 500만 관객 넘는다</h4></a><span>12월 03일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701573862342ueysb.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[방탄소년단의 놀라운 여정, 10년간의 기록 공개 (맥스무비 ─ OTT)]]></title>
+            <link>https://www.maxmovie.com/news/435685</link>
+            <guid>https://www.maxmovie.com/news/435685</guid>
+            <pubDate>Mon, 04 Dec 2023 06:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[12월20일 디즈니+ 공개 다큐멘터리 
+전 세계를 넘나든 공연과 시상식 현장]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701654892015prz6x.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박지훈·려운·최민영의 '약한영웅2'... 넷플릭스에서 새출발 (맥스무비 ─ OTT)]]></title>
@@ -390,7 +399,7 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <link>https://www.maxmovie.com/news/435665</link>
             <guid>https://www.maxmovie.com/news/435665</guid>
             <pubDate>Sat, 02 Dec 2023 22:03:50 GMT</pubDate>
-            <content:encoded><![CDATA['스릴러 40'의 한 장면. 사진제공=파라마운트+오늘, 볼만한 작품을 추천합니다.◆ '스릴러 40''스릴러 40'은 세기의 아티스트 마이클 잭슨의 기록적인 베스트셀러 앨범 '스릴러'에 초점을 맞춘 생전 기록 영상이다.&nbsp;1983년 마이클 잭슨의 전기를 펴냈던 음악사학자 넬슨 조지가 연출을 맡았다.&nbsp;'스릴러 40'은 전세계적으로 1억 400만장이 판매돼&nbsp;기네스]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435665"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17014107007236rce5.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435665"><h4>[오늘 뭘 볼까] 마이클 잭슨의 '스릴러'에 대한 기록… '스릴러 40'</h4></a><span>12월 02일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17014107007236rce5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -398,7 +407,7 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <link>https://www.maxmovie.com/news/435664</link>
             <guid>https://www.maxmovie.com/news/435664</guid>
             <pubDate>Fri, 01 Dec 2023 22:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435664"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701409248262011sY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435664"><h4>[오늘 뭘 볼까] 괴물 혹은 인간! 더 강력해져 돌아온 '스위트홈' 시즌2</h4></a><span>12월 01일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['스위트홈2'의 한 장면. 사진제공=넷플릭스오늘, 볼만한 작품을 추천합니다.◆ '스위트홈2'넷플릭스 오리지널 시리즈 '스위트홈' 시즌2는 괴물이 덮친 세상을 피해 그린홈에 모여 살던 생존자들이 위협을 받으면서 그 공간을 벗어나 새로운 터전을 찾아가는 과정을 그린다.&nbsp;누가 언제 괴물로 변할지 모르는 두려움과 불신으로 가득한 아비규환의 세상에서도 여전히 삶은]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701409248262011sY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -433,17 +442,16 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <link>https://www.maxmovie.com/news/435654</link>
             <guid>https://www.maxmovie.com/news/435654</guid>
             <pubDate>Thu, 30 Nov 2023 10:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[최근 tvN '유퀴즈' 녹화 마쳐
-넷플릭스 '경성크리처' 12월22일 공개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435654"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17013355459120lIBI.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435654"><h4>박서준, '경성크리처' 공개 앞두고 유재석 만난 사연은</h4></a><span>11월 30일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17013355459120lIBI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[돌아온 '스위트홈2' 송강·고민시·이진욱·진영까지 배우들의 '말말말' (맥스무비 ─ OTT)]]></title>
-            <link>https://www.maxmovie.com/news/435647</link>
-            <guid>https://www.maxmovie.com/news/435647</guid>
-            <pubDate>Fri, 01 Dec 2023 02:27:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435647"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17013204381559WWBq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435647"><h4>돌아온 '스위트홈2' 송강·고민시·이진욱·진영까지 배우들의 '말말말' </h4></a><span>12월 01일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17013204381559WWBq.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[방탄소년단의 놀라운 여정, 10년간의 기록 공개 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/435685</link>
+            <guid>https://www.maxmovie.com/news/435685</guid>
+            <pubDate>Mon, 04 Dec 2023 06:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435685"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1701654892015prz6x.jpg" alt=""></span><span class="textBox"><h4>방탄소년단의 놀라운 여정, 10년간의 기록 공개 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701654892015prz6x.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[충격과 분노, 2019년 빙상계 부조리 사건 다룬 영화 '미끼' (맥스무비 ─ 포토)]]></title>
@@ -676,14 +684,6 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435064"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1697076214639RxxIZ.jpg" alt=""></span><span class="textBox"><h4>박서준이 할리우드에서 만난 뉴히어로는 누구?   </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697076214639RxxIZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유승호·김동휘·유수빈의 100억 납치극 '거래' (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/435062</link>
-            <guid>https://www.maxmovie.com/news/435062</guid>
-            <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435062"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/16970751942180p4YK.jpg" alt=""></span><span class="textBox"><h4>유승호·김동휘·유수빈의 100억 납치극 '거래'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16970751942180p4YK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

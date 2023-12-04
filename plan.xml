@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 04:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 06:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['서울의 봄' 현충원 챌린지 시작되나... 관객이 앞서간다]]></title>
+            <link>https://www.maxmovie.com/news/435686</link>
+            <guid>https://www.maxmovie.com/news/435686</guid>
+            <pubDate>Mon, 04 Dec 2023 06:10:45 GMT</pubDate>
+            <content:encoded><![CDATA['12월12일 단체관람'부터 '욕어롱' 제안까지
+영화에 공감·몰입한 관객의 자발적 움직임]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701656201570D0yWz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박지훈·려운·최민영의 '약한영웅2'... 넷플릭스에서 새출발]]></title>
             <link>https://www.maxmovie.com/news/435683</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/435678</link>
             <guid>https://www.maxmovie.com/news/435678</guid>
             <pubDate>Mon, 04 Dec 2023 01:48:43 GMT</pubDate>
-            <content:encoded><![CDATA['겨울왕국' 제작진 의기투합
-계속된 부진, 자존심 살릴까]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435678"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701625043396iNRfg.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435678"><h4>디즈니 100주년 기념작  '위시', 북미 저조한 출발…한국은 어떨까</h4></a><span>5시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701625043396iNRfg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/435676</link>
             <guid>https://www.maxmovie.com/news/435676</guid>
             <pubDate>Sun, 03 Dec 2023 09:05:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435676"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701591954006y5JHr.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435676"><h4>[서울의 봄, 1000만 간다]  현대사 영화의 '흥행 불패' 잇는다</h4></a><span>19시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[근현대사 사실 소재 영화 잇단 흥행
+"진실 향한 관객 욕구에 창작 부합"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701591954006y5JHr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435671</link>
             <guid>https://www.maxmovie.com/news/435671</guid>
             <pubDate>Sun, 03 Dec 2023 06:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[2000년 '무사' 촬영현장의 추억
-김성수 감독의 뜨거운 열정 확인]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435671"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17015768253045DTMr.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435671"><h4>'서울의 봄' 김성수 감독이 기자를 꾸짖은 까닭은?</h4></a><span>12월 03일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17015768253045DTMr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['서울의 봄' 500만 관객 넘는다]]></title>
-            <link>https://www.maxmovie.com/news/435670</link>
-            <guid>https://www.maxmovie.com/news/435670</guid>
-            <pubDate>Sun, 03 Dec 2023 04:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435670"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701573862342ueysb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435670"><h4>'서울의 봄' 500만 관객 넘는다</h4></a><span>12월 03일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701573862342ueysb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
