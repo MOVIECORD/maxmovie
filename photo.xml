@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 00:31:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 01:49:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이순신 3부작 피날레 '노량: 죽음의 바다', 긴박한 마지막 해전의 현장]]></title>
+            <link>https://www.maxmovie.com/news/435682</link>
+            <guid>https://www.maxmovie.com/news/435682</guid>
+            <pubDate>Mon, 04 Dec 2023 01:49:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435682"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1701652452117Fs0Xa.jpg" alt=""></span><span class="textBox"><h4>이순신 3부작 피날레 '노량: 죽음의 바다', 긴박한 마지막 해전의 현장 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701652452117Fs0Xa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[천재 아티스트 임윤찬의 생생한 기록, 영화 '크레센도' 스틸로 먼저 확인]]></title>
             <link>https://www.maxmovie.com/news/435657</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435028"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1696839855035M3QmK.jpg" alt=""></span><span class="textBox"><h4>연진과 봉석의  "아름다운 부산의 밤!" </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696839855035M3QmK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF 화보] '한국이 싫어서'는 영화 제목일 뿐...]]></title>
-            <link>https://www.maxmovie.com/news/434985</link>
-            <guid>https://www.maxmovie.com/news/434985</guid>
-            <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/434985"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1696559255972ixkc2.jpg" alt=""></span><span class="textBox"><h4>[BIFF 화보] '한국이 싫어서'는 영화 제목일 뿐... </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1696559255972ixkc2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
