@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 01:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 02:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[류이치 사카모토의 마지막 연주 영화로 탄생, 숭고한 장면들]]></title>
+            <link>https://www.maxmovie.com/news/435695</link>
+            <guid>https://www.maxmovie.com/news/435695</guid>
+            <pubDate>Tue, 05 Dec 2023 02:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435695"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17017404103049NoTL.jpg" alt=""></span><span class="textBox"><h4>류이치 사카모토의 마지막 연주 영화로 탄생, 숭고한 장면들 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17017404103049NoTL.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박서준·한소희,  두 청춘이 그린 '경성크리처' 시즌1의 순간들]]></title>
             <link>https://www.maxmovie.com/news/435693</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435147"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1697679207705vcPUl.jpg" alt=""></span><span class="textBox"><h4>더 독하게 돌아온 '독전 2'의 살아 숨 쉬는 '캐릭터' 열전</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697679207705vcPUl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지창욱·위하준 '최악의 악', 뜨거운 현장 공개]]></title>
-            <link>https://www.maxmovie.com/news/435121</link>
-            <guid>https://www.maxmovie.com/news/435121</guid>
-            <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435121"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1697522206169qXqzi.jpg" alt=""></span><span class="textBox"><h4>지창욱·위하준 '최악의 악', 뜨거운 현장 공개 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697522206169qXqzi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
