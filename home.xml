@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 00:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 01:50:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701673506728vngZw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이세영‧사카구치 켄타로, 정통 멜로 '사랑 후에 오는 것들'  주연]]></title>
+            <link>https://www.maxmovie.com/news/435692</link>
+            <guid>https://www.maxmovie.com/news/435692</guid>
+            <pubDate>Tue, 05 Dec 2023 01:50:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435692"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701738189278YhKUs.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435692"><h4>이세영‧사카구치 켄타로, 정통 멜로 '사랑 후에 오는 것들'  주연 </h4></a><span>34분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701738189278YhKUs.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[배두나 '올해의 여성영화인상' 수상, 임순례 감독 '공로상']]></title>
             <link>https://www.maxmovie.com/news/435687</link>
             <guid>https://www.maxmovie.com/news/435687</guid>
             <pubDate>Mon, 04 Dec 2023 07:06:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435687"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17016684833170HqdU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435687"><h4>배두나 '올해의 여성영화인상' 수상, 임순례 감독 '공로상' </h4></a><span>16시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[독립영화까지 아우르는 활동 인정
+임순례 감독, 여성감독 최다 연출]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17016684833170HqdU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -59,15 +68,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701652517692BBiKt.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[디즈니 100주년 기념작  '위시', 북미 저조한 출발…한국은 어떨까]]></title>
-            <link>https://www.maxmovie.com/news/435678</link>
-            <guid>https://www.maxmovie.com/news/435678</guid>
-            <pubDate>Mon, 04 Dec 2023 01:48:21 GMT</pubDate>
-            <content:encoded><![CDATA['겨울왕국' 제작진 의기투합
-계속된 부진, 자존심 살릴까]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701625043396iNRfg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[파죽지세 '서울의 봄', 465만명... 손익분기점 돌파]]></title>
             <link>https://www.maxmovie.com/news/435680</link>
             <guid>https://www.maxmovie.com/news/435680</guid>
@@ -77,13 +77,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17016487261532fS5U.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[서울의 봄, 1000만 간다]  현대사 영화의 '흥행 불패' 잇는다]]></title>
-            <link>https://www.maxmovie.com/news/435676</link>
-            <guid>https://www.maxmovie.com/news/435676</guid>
-            <pubDate>Mon, 04 Dec 2023 06:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[근현대사 사실 소재 영화 잇단 흥행
-"진실 향한 관객 욕구에 창작 부합"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701591954006y5JHr.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[디즈니 100주년 기념작  '위시', 북미 저조한 출발…한국은 어떨까]]></title>
+            <link>https://www.maxmovie.com/news/435678</link>
+            <guid>https://www.maxmovie.com/news/435678</guid>
+            <pubDate>Mon, 04 Dec 2023 01:48:21 GMT</pubDate>
+            <content:encoded><![CDATA['겨울왕국' 제작진 의기투합
+계속된 부진, 자존심 살릴까]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701625043396iNRfg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송강호 "봉준호 감독과 보이지 않는 신뢰 있다"]]></title>
