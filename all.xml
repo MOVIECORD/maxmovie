@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 05:07:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 06:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,8 +48,17 @@
             <link>https://www.maxmovie.com/news/435711</link>
             <guid>https://www.maxmovie.com/news/435711</guid>
             <pubDate>Wed, 06 Dec 2023 05:06:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435711"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701836909317JlzWQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435711"><h4>"나의 이력서 같은 작품" 뤽 베송 신작 '도그맨', 2024년 1월 개봉</h4></a><span>28분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435711"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701836909317JlzWQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435711"><h4>"나의 이력서 같은 작품" 뤽 베송 신작 '도그맨', 2024년 1월 개봉</h4></a><span>1시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701836909317JlzWQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[서울의 봄, 군인들] 정우성 돕는 믿음직한 정형석, 알고보면 '나는 자연인이다' 성우 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435707</link>
+            <guid>https://www.maxmovie.com/news/435707</guid>
+            <pubDate>Wed, 06 Dec 2023 06:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[극중 이태신과 더불어 "갑종" 언급 눈길
+짧은 출연에도 강렬한 인상 남긴 배우]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701826574797dkghm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['서울의 봄' 500만 기념 포스터, 반란군과 진압군이 응시하는 곳은... (맥스무비)]]></title>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435701</link>
             <guid>https://www.maxmovie.com/news/435701</guid>
             <pubDate>Tue, 05 Dec 2023 08:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 14일 만에 누적 500만 동원 
-열풍 넘어 돌풍, 갈수록 관객 증가]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435701"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701760899516f4DN7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435701"><h4>'서울의 봄' 500만 돌파, 이제 '범죄도시3' 넘본다 </h4></a><span>22시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701760899516f4DN7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마틴 스코세이지의 3시간26분 대서사 '플라워 킬링 문' VOD 공개 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435697</link>
-            <guid>https://www.maxmovie.com/news/435697</guid>
-            <pubDate>Tue, 05 Dec 2023 06:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435697"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17017539191557hMOx.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435697"><h4>마틴 스코세이지의 3시간26분 대서사 '플라워 킬링 문' VOD 공개</h4></a><span>23시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17017539191557hMOx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 송강 "'스위트홈' 차현수, 지금의 나를 만들어준 인물" (맥스무비 ─ 인터뷰)]]></title>
@@ -272,7 +272,7 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <title><![CDATA["나의 이력서 같은 작품" 뤽 베송 신작 '도그맨', 2024년 1월 개봉 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/435711</link>
             <guid>https://www.maxmovie.com/news/435711</guid>
-            <pubDate>Wed, 06 Dec 2023 05:07:01 GMT</pubDate>
+            <pubDate>Wed, 06 Dec 2023 05:06:40 GMT</pubDate>
             <content:encoded><![CDATA['안나' 이후 5년만에 선보이는 국내 신작
 케일럽 랜드리 존스, 마틴 맥도나 등 출연]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701836909317JlzWQ.jpg" length="0" type="image/jpg"/>
@@ -296,12 +296,20 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701831557022UEwzt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[서울의 봄, 군인들] 정우성 돕는 믿음직한 정형석, 알고보면 '나는 자연인이다' 성우 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/435707</link>
+            <guid>https://www.maxmovie.com/news/435707</guid>
+            <pubDate>Wed, 06 Dec 2023 06:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[극중 이태신과 더불어 "갑종" 언급 눈길
+짧은 출연에도 강렬한 인상 남긴 배우]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701826574797dkghm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[켄 로치 감독이 전하는 희망, '나의 올드 오크' 어떤 영화? (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/435706</link>
             <guid>https://www.maxmovie.com/news/435706</guid>
             <pubDate>Wed, 06 Dec 2023 01:48:50 GMT</pubDate>
-            <content:encoded><![CDATA[작은 마을에 피어나는 우정과 연대
-감독이 4년 만에 내놓는 신작 관심]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435706"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17018252293584YD3F.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435706"><h4>켄 로치 감독이 전하는 희망, '나의 올드 오크' 어떤 영화?</h4></a><span>4시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17018252293584YD3F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -309,7 +317,8 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <link>https://www.maxmovie.com/news/435705</link>
             <guid>https://www.maxmovie.com/news/435705</guid>
             <pubDate>Wed, 06 Dec 2023 01:48:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435705"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17018248762404HfXX.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435705"><h4>블랙핑크는 계속된다...  '완전체 재계약' YG와 동행  </h4></a><span>3시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[2016년 데뷔 때부터 함께한 YG와 재계약
+신규 앨범 및 월드투어 등 글로벌 활동 예고]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17018248762404HfXX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,16 +353,8 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <link>https://www.maxmovie.com/news/435700</link>
             <guid>https://www.maxmovie.com/news/435700</guid>
             <pubDate>Tue, 05 Dec 2023 22:05:23 GMT</pubDate>
-            <content:encoded><![CDATA['밤이 되었습니다'의 한 장면. 사진제공=U+모바일tv오늘, 볼만한 작품을 추천합니다.◆ '밤이 되었습니다'U+모바일tv 오리지널 시리즈 '밤이 되었습니다'는 종료가 불가능한 의문의 마피아 게임에 강제로 참여하게 된 유일고 2학년 3반의 하이틴 미스터리 스릴러다.&nbsp;배우 이재인과 김우석 최예빈 차우민 안지호 정소리가 주연을 맡은 '밤이 되었습니다'는&nbsp;저주받은]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435700"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701757304744imIr2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435700"><h4>[오늘 뭘 볼까] 죽음의 마피아 게임이 시작됐다! '밤이 되었습니다'</h4></a><span>8시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701757304744imIr2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[데일리핫이슈] 10억 기부 JYP 박진영, 난민 문제 소신 밝힌 정우성, BTS 지민·정국 동반 입대 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/435699</link>
-            <guid>https://www.maxmovie.com/news/435699</guid>
-            <pubDate>Tue, 05 Dec 2023 22:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435699"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701752075536O4nLV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435699"><h4>[데일리핫이슈] 10억 기부 JYP 박진영, 난민 문제 소신 밝힌 정우성, BTS 지민·정국 동반 입대</h4></a><span>7시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701752075536O4nLV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 송강 "'스위트홈' 차현수, 지금의 나를 만들어준 인물" (맥스무비 ─ OTT)]]></title>
