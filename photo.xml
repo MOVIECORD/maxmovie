@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 00:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 01:49:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[켄 로치 감독이 전하는 희망, '나의 올드 오크' 어떤 영화?]]></title>
+            <link>https://www.maxmovie.com/news/435706</link>
+            <guid>https://www.maxmovie.com/news/435706</guid>
+            <pubDate>Wed, 06 Dec 2023 01:49:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435706"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17018252293584YD3F.jpg" alt=""></span><span class="textBox"><h4>켄 로치 감독이 전하는 희망, '나의 올드 오크' 어떤 영화?</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17018252293584YD3F.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[류이치 사카모토의 마지막 연주 영화로 탄생, 숭고한 장면들]]></title>
             <link>https://www.maxmovie.com/news/435695</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435168"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1697781064621C0Ss4.jpg" alt=""></span><span class="textBox"><h4>강동원부터 블랙핑크 지수까지... 화기애애한 '천박사'의 현장</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697781064621C0Ss4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 독하게 돌아온 '독전 2'의 살아 숨 쉬는 '캐릭터' 열전]]></title>
-            <link>https://www.maxmovie.com/news/435147</link>
-            <guid>https://www.maxmovie.com/news/435147</guid>
-            <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435147"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1697679207705vcPUl.jpg" alt=""></span><span class="textBox"><h4>더 독하게 돌아온 '독전 2'의 살아 숨 쉬는 '캐릭터' 열전</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1697679207705vcPUl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
