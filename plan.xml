@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 01:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 02:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,8 +48,17 @@
             <link>https://www.maxmovie.com/news/435714</link>
             <guid>https://www.maxmovie.com/news/435714</guid>
             <pubDate>Wed, 06 Dec 2023 22:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435714"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17018457750512wxgm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435714"><h4>[오늘 뭘 볼까] 세상을 정복했지만 아무것도 갖지 못했던… 영화 '나폴레옹'</h4></a><span>3시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435714"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17018457750512wxgm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435714"><h4>[오늘 뭘 볼까] 세상을 정복했지만 아무것도 갖지 못했던… 영화 '나폴레옹'</h4></a><span>4시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17018457750512wxgm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['서울의 봄' 관람 후 꼭 챙겨봐야 할 '현대사 영화' 연대기]]></title>
+            <link>https://www.maxmovie.com/news/435713</link>
+            <guid>https://www.maxmovie.com/news/435713</guid>
+            <pubDate>Thu, 07 Dec 2023 02:22:15 GMT</pubDate>
+            <content:encoded><![CDATA['서울의 봄' 흥행으로 한국 현대사 영화들 주목
+'남산의 부장들'→'택시운전사'→'1987' 이어져]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701843912385sMpo8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["나의 이력서 같은 작품" 뤽 베송 신작 '도그맨', 2024년 1월 개봉]]></title>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/435708</link>
             <guid>https://www.maxmovie.com/news/435708</guid>
             <pubDate>Wed, 06 Dec 2023 04:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[황정민 정우성 박해준 이성민 김성균 등장
-3주째 주말인 8일~10일 관객 스코어 관심]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435708"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701831557022UEwzt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435708"><h4>'서울의 봄' 500만 기념 포스터, 반란군과 진압군이 응시하는 곳은...</h4></a><span>22시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701831557022UEwzt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울의 봄, 군인들] 정우성 돕는 믿음직한 정형석, 알고보면 '나는 자연인이다' 성우]]></title>
-            <link>https://www.maxmovie.com/news/435707</link>
-            <guid>https://www.maxmovie.com/news/435707</guid>
-            <pubDate>Wed, 06 Dec 2023 06:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435707"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701826574797dkghm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435707"><h4>[서울의 봄, 군인들] 정우성 돕는 믿음직한 정형석, 알고보면 '나는 자연인이다' 성우 </h4></a><span>19시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701826574797dkghm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
