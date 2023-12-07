@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 03:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 04:09:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남주혁·유지태·이준혁 몰두한 '비질란테' 촬영 현장 모습]]></title>
+            <link>https://www.maxmovie.com/news/435721</link>
+            <guid>https://www.maxmovie.com/news/435721</guid>
+            <pubDate>Thu, 07 Dec 2023 04:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435721"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1701918034277UZ06b.jpg" alt=""></span><span class="textBox"><h4>남주혁·유지태·이준혁 몰두한 '비질란테' 촬영 현장 모습 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701918034277UZ06b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화만큼 따뜻했던 '싱글 인 서울'의 촬영 현장]]></title>
             <link>https://www.maxmovie.com/news/435719</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435289"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1698713046029ZQwnB.jpg" alt=""></span><span class="textBox"><h4>강하늘♥정소민의 유쾌한 '30일' 현장 비하인드</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1698713046029ZQwnB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수지, 걸그룹 센터 출신답네…'이두나!' 현장 비하인드 스틸]]></title>
-            <link>https://www.maxmovie.com/news/435169</link>
-            <guid>https://www.maxmovie.com/news/435169</guid>
-            <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435169"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/16977821021595yKsp.jpg" alt=""></span><span class="textBox"><h4>수지, 걸그룹 센터 출신답네…'이두나!' 현장 비하인드 스틸</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/16977821021595yKsp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
