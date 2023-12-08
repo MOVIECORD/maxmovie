@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 05:07:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 06:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701931818972DRv5J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['운수 오진 날' 이성민... 반격의 서막]]></title>
+            <link>https://www.maxmovie.com/news/435734</link>
+            <guid>https://www.maxmovie.com/news/435734</guid>
+            <pubDate>Fri, 08 Dec 2023 06:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435734"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702011980200phUeo.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435734"><h4>'운수 오진 날' 이성민... 반격의 서막 </h4></a><span>47분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702011980200phUeo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['노량' 이순신 로드 따라, 해군 장병 대상 시사회 개최]]></title>
             <link>https://www.maxmovie.com/news/435728</link>
             <guid>https://www.maxmovie.com/news/435728</guid>
             <pubDate>Thu, 07 Dec 2023 09:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435728"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/170193740032556yKy.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435728"><h4>'노량' 이순신 로드 따라, 해군 장병 대상 시사회 개최</h4></a><span>20시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[15일, 평택 해군 제2함대 시사회
+16일부터 부산, 여수 등 무대인사]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/170193740032556yKy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435718</link>
             <guid>https://www.maxmovie.com/news/435718</guid>
             <pubDate>Thu, 07 Dec 2023 09:07:04 GMT</pubDate>
-            <content:encoded><![CDATA['감기' '아수라' 등 함께 작업한 베테랑 스태프
-1979년의 그 날, 생생하게 담은 치열한 과정]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435718"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701910864909Pwxbf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435718"><h4>'서울의 봄' 만든, 촬영·조명·미술감독이 밝힌 비하인드 스토리 </h4></a><span>12월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701910864909Pwxbf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 정유미·강하늘, 한국영화제작가협회상 주연상]]></title>
-            <link>https://www.maxmovie.com/news/435717</link>
-            <guid>https://www.maxmovie.com/news/435717</guid>
-            <pubDate>Fri, 08 Dec 2023 01:48:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435717"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701909760061KyLnI.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435717"><h4>배우 정유미·강하늘, 한국영화제작가협회상 주연상 </h4></a><span>12월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701909760061KyLnI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
