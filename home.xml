@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 21:04:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 22:04:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,11 +41,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702014856759kRp87.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 50년간 감춘 엄마의 비밀, 영화 '교토에서 온 편지']]></title>
+            <link>https://www.maxmovie.com/news/435737</link>
+            <guid>https://www.maxmovie.com/news/435737</guid>
+            <pubDate>Sat, 09 Dec 2023 22:03:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435737"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702015054964CR0R1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435737"><h4>[오늘 뭘 볼까] 50년간 감춘 엄마의 비밀, 영화 '교토에서 온 편지'</h4></a><span>4분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702015054964CR0R1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['명량'·'한산'·'노량' 3부작 몰아보는 특별 상영회 개최]]></title>
             <link>https://www.maxmovie.com/news/435733</link>
             <guid>https://www.maxmovie.com/news/435733</guid>
             <pubDate>Fri, 08 Dec 2023 08:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435733"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701995983741M5fab.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435733"><h4>'명량'·'한산'·'노량' 3부작 몰아보는 특별 상영회 개최 </h4></a><span>12월 08일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[김한민 감독의 이순신 3부작 동시 관람 
+16일 롯데 월드타워, 관객에 목베개 선물]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701995983741M5fab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/435725</link>
             <guid>https://www.maxmovie.com/news/435725</guid>
             <pubDate>Fri, 08 Dec 2023 01:48:40 GMT</pubDate>
-            <content:encoded><![CDATA[악에 맞선 다크히어로의 매력
-전편 공개 뒤 몰아보기 움직임]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435725"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701933793455tDLrp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435725"><h4>남주혁의 '비질란테' 아‧태 8개국 '11월 최다 시청 시리즈' 기록 </h4></a><span>12월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701933793455tDLrp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['서울의 봄' 반란군에 맞서다 숨진 고 정선엽 병장에 명예졸업장 수여]]></title>
-            <link>https://www.maxmovie.com/news/435724</link>
-            <guid>https://www.maxmovie.com/news/435724</guid>
-            <pubDate>Fri, 08 Dec 2023 01:48:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435724"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701931818972DRv5J.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435724"><h4>'서울의 봄' 반란군에 맞서다 숨진 고 정선엽 병장에 명예졸업장 수여 </h4></a><span>12월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701931818972DRv5J.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

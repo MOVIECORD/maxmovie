@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 21:04:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 22:04:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,11 +41,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702014856759kRp87.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 50년간 감춘 엄마의 비밀, 영화 '교토에서 온 편지' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435737</link>
+            <guid>https://www.maxmovie.com/news/435737</guid>
+            <pubDate>Sat, 09 Dec 2023 22:03:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435737"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702015054964CR0R1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435737"><h4>[오늘 뭘 볼까] 50년간 감춘 엄마의 비밀, 영화 '교토에서 온 편지'</h4></a><span>4분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702015054964CR0R1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['명량'·'한산'·'노량' 3부작 몰아보는 특별 상영회 개최 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/435733</link>
             <guid>https://www.maxmovie.com/news/435733</guid>
             <pubDate>Fri, 08 Dec 2023 01:48:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435733"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701995983741M5fab.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435733"><h4>'명량'·'한산'·'노량' 3부작 몰아보는 특별 상영회 개최 </h4></a><span>12월 08일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[김한민 감독의 이순신 3부작 동시 관람 
+16일 롯데 월드타워, 관객에 목베개 선물]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701995983741M5fab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/435725</link>
             <guid>https://www.maxmovie.com/news/435725</guid>
             <pubDate>Thu, 07 Dec 2023 08:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[악에 맞선 다크히어로의 매력
-전편 공개 뒤 몰아보기 움직임]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435725"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701933793455tDLrp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435725"><h4>남주혁의 '비질란테' 아‧태 8개국 '11월 최다 시청 시리즈' 기록 </h4></a><span>12월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701933793455tDLrp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['서울의 봄' 반란군에 맞서다 숨진 고 정선엽 병장에 명예졸업장 수여 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435724</link>
-            <guid>https://www.maxmovie.com/news/435724</guid>
-            <pubDate>Thu, 07 Dec 2023 07:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435724"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701931818972DRv5J.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435724"><h4>'서울의 봄' 반란군에 맞서다 숨진 고 정선엽 병장에 명예졸업장 수여 </h4></a><span>12월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701931818972DRv5J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독 인터뷰] '장포스' 김기현 "'서울의 봄' 흥행에 연락 많이 받아" (맥스무비 ─ 인터뷰)]]></title>
@@ -285,6 +285,14 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17020211501549Bc1K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 50년간 감춘 엄마의 비밀, 영화 '교토에서 온 편지' (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/435737</link>
+            <guid>https://www.maxmovie.com/news/435737</guid>
+            <pubDate>Sat, 09 Dec 2023 22:04:16 GMT</pubDate>
+            <content:encoded><![CDATA['교토에서 온 편지'의 한 장면. 사진제공=판씨네마오늘, 볼만한 작품을 추천합니다.◆ '교토에서 온 편지''교토에서 온 편지'는 우연히 발견한 오래된 일본어 편지에서 50년간 가슴에만 묻어왔던 엄마의 소중한 비밀을 알게 된 세자매 이야기를 담은 가족 드라마다.책임감 때문에 집을 떠날 수 없었던 첫째 혜진(한채아), 작가를 꿈꿨지만 빈 손으로 돌아온 둘째 혜]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702015054964CR0R1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오늘 뭘 볼까] 당신이 알던 세상은 무너졌다! 영화 '리브 더 월드 비하인드' (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/435736</link>
             <guid>https://www.maxmovie.com/news/435736</guid>
@@ -297,7 +305,7 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <link>https://www.maxmovie.com/news/435735</link>
             <guid>https://www.maxmovie.com/news/435735</guid>
             <pubDate>Fri, 08 Dec 2023 22:05:11 GMT</pubDate>
-            <content:encoded><![CDATA[일주일 동안 엔터테인먼트 전반에서 일어난 다양한 이슈를 소개합니다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435735"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17020143682324bXeh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435735"><h4>[위클리 이슈 모음zip]  뷔·제니 결별, 이소라·신동엽 재회, 최민환·율희 이혼 후폭풍....   </h4></a><span>12월 08일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17020143682324bXeh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -305,7 +313,8 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <link>https://www.maxmovie.com/news/435734</link>
             <guid>https://www.maxmovie.com/news/435734</guid>
             <pubDate>Fri, 08 Dec 2023 06:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435734"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702011980200phUeo.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435734"><h4>'운수 오진 날' 이성민... 반격의 서막 </h4></a><span>12월 08일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[8일 파트2 티빙에서 전체 공개
+살인마에 맞선 이성민의 분투]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702011980200phUeo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -340,17 +349,8 @@ K드라마 팬, 싱가포르 아줌마의 좌충우돌 성장기]]></content:enc
             <link>https://www.maxmovie.com/news/435730</link>
             <guid>https://www.maxmovie.com/news/435730</guid>
             <pubDate>Fri, 08 Dec 2023 08:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[충정도  세트 7일 국내외 취재진에 공개
-잇단 엠바고, 보안 서약에 휴대폰 밀봉까지]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435730"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701981905292dfjkH.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435730"><h4>'오징어 게임2' 세트 공개, 보안에 또 보안, 글로벌 공룡의 '일방통행'</h4></a><span>12월 08일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701981905292dfjkH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['노량' 이순신 로드 따라, 해군 장병 대상 시사회 개최 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/435728</link>
-            <guid>https://www.maxmovie.com/news/435728</guid>
-            <pubDate>Thu, 07 Dec 2023 09:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435728"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/170193740032556yKy.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435728"><h4>'노량' 이순신 로드 따라, 해군 장병 대상 시사회 개최</h4></a><span>12월 07일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/170193740032556yKy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[맥스무비레터 #30번째 편지] 넷플릭스가 왜 그랬을까🤨 (맥스무비 ─ OTT)]]></title>
