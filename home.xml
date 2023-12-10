@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 02:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 03:07:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702011980200phUeo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["사랑은 미안하다 말할 필요 없어"...'러브 스토리' 라이언 오닐, 별세]]></title>
+            <link>https://www.maxmovie.com/news/435746</link>
+            <guid>https://www.maxmovie.com/news/435746</guid>
+            <pubDate>Sun, 10 Dec 2023 03:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435746"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702174627680SiBCT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435746"><h4>"사랑은 미안하다 말할 필요 없어"...'러브 스토리' 라이언 오닐, 별세 </h4></a><span>20분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702174627680SiBCT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['오징어 게임2' 세트 공개, 보안에 또 보안, 글로벌 공룡의 '일방통행']]></title>
             <link>https://www.maxmovie.com/news/435730</link>
             <guid>https://www.maxmovie.com/news/435730</guid>
             <pubDate>Sun, 10 Dec 2023 00:33:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435730"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701981905292dfjkH.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435730"><h4>'오징어 게임2' 세트 공개, 보안에 또 보안, 글로벌 공룡의 '일방통행'</h4></a><span>12월 08일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[충정도  세트 7일 국내외 취재진에 공개
+잇단 엠바고, 보안 서약에 휴대폰 밀봉까지]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701981905292dfjkH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/435731</link>
             <guid>https://www.maxmovie.com/news/435731</guid>
             <pubDate>Fri, 08 Dec 2023 08:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[최우수감독상 '거미집' 김지운 감독  
-남우주연상 '올빼미' 활약 류준열]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435731"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701991178090LkRAH.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435731"><h4>김혜수, 춘사영화제 여우주연상 "짝꿍 염정아와 사랑에 빠졌다"</h4></a><span>12월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701991178090LkRAH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['노량' 이순신 로드 따라, 해군 장병 대상 시사회 개최]]></title>
-            <link>https://www.maxmovie.com/news/435728</link>
-            <guid>https://www.maxmovie.com/news/435728</guid>
-            <pubDate>Thu, 07 Dec 2023 09:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435728"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/170193740032556yKy.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435728"><h4>'노량' 이순신 로드 따라, 해군 장병 대상 시사회 개최</h4></a><span>12월 07일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/170193740032556yKy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
