@@ -4,7 +4,7 @@
         <title>맥스무비 ─ OTT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 09:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 10:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,6 +59,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701981905292dfjkH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스케일 확장 VS 산만한 전개...'스위트홈2', 엇갈리는 평가]]></title>
+            <link>https://www.maxmovie.com/news/435729</link>
+            <guid>https://www.maxmovie.com/news/435729</guid>
+            <pubDate>Mon, 11 Dec 2023 10:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[12월1일 공개된 '스위트홈' 시즌2
+볼거리 늘었지만, 늘어진다는 지적 잇따라]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17019384638204MXZz.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[시청자는 몰랐던 '스위트홈' 시즌2의 순간들]]></title>
             <link>https://www.maxmovie.com/news/435726</link>
             <guid>https://www.maxmovie.com/news/435726</guid>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/435721</link>
             <guid>https://www.maxmovie.com/news/435721</guid>
             <pubDate>Thu, 07 Dec 2023 04:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니+ 시리즈 11월29일 종영
-법망 뚫은 악당들 통쾌한 응징]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435721"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701918034277UZ06b.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435721"><h4>남주혁·유지태·이준혁 몰두한 '비질란테' 촬영 현장 모습 </h4></a><span>12월 07일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701918034277UZ06b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임시완의 분노 "감히 아산 백호의 여자를 넘보는 겨?"]]></title>
-            <link>https://www.maxmovie.com/news/435720</link>
-            <guid>https://www.maxmovie.com/news/435720</guid>
-            <pubDate>Thu, 07 Dec 2023 07:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435720"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1701916007765RcH5Y.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435720"><h4>임시완의 분노 "감히 아산 백호의 여자를 넘보는 겨?" </h4></a><span>12월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701916007765RcH5Y.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
