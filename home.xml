@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 06:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 07:07:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702015296281sJmYR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["'노량:죽음의 바다', 겨울 전투지만 용광로처럼 뜨거울 것"]]></title>
+            <link>https://www.maxmovie.com/news/435760</link>
+            <guid>https://www.maxmovie.com/news/435760</guid>
+            <pubDate>Mon, 11 Dec 2023 07:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435760"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702271978702hdTAk.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435760"><h4>"'노량:죽음의 바다', 겨울 전투지만 용광로처럼 뜨거울 것"</h4></a><span>23분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702271978702hdTAk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한지민 "어르신들 무사히 겨울 날 수 있도록" 5000만원 기부]]></title>
             <link>https://www.maxmovie.com/news/435754</link>
             <guid>https://www.maxmovie.com/news/435754</guid>
             <pubDate>Mon, 11 Dec 2023 01:49:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435754"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17022571780643FfYi.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435754"><h4>한지민 "어르신들 무사히 겨울 날 수 있도록" 5000만원 기부</h4></a><span>4시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[한지민. 사진제공=BH엔터테인먼트배우 한지민이 쪽방촌 주민과 독거노인들을 위해 희망브리지 전국재해구호협회에 5000만원을 기부했다.소속사 BH엔터테인먼트 관계자는 11일 "추워지는 날씨에 어르신들에게 조금이라도 도움이 되고자 지원하게 됐다"고 밝혔다.한지민은 개인고액기부클럽인 '희망브리지 아너스클럽' 회원으로 특히 지난해 연말에도 독거노인들의 난방비 지원을]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17022571780643FfYi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435748</link>
             <guid>https://www.maxmovie.com/news/435748</guid>
             <pubDate>Mon, 11 Dec 2023 04:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[이세영과 박인영의 '자각 엔딩' 그려져
-6회에서 자체 최고 시청률 경신]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435748"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702180459636OUZlQ.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435748"><h4>'열녀박씨 계약결혼뎐', 웃기고 애틋하다...9.6%로 자체 최고 기록</h4></a><span>12월 10일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702180459636OUZlQ.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['미우새' 이동건, 딸 로아와 보낸 마법 같은 하루]]></title>
-            <link>https://www.maxmovie.com/news/435747</link>
-            <guid>https://www.maxmovie.com/news/435747</guid>
-            <pubDate>Mon, 11 Dec 2023 04:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435747"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702176889632HITTh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/435747"><h4>'미우새' 이동건, 딸 로아와 보낸 마법 같은 하루</h4></a><span>12월 10일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702176889632HITTh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
