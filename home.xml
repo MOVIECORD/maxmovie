@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 07:07:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 08:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702275616630jH3Ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['신차원! 짱구는 못말려', 3D CG로 구현된 짱구의 모습은?]]></title>
+            <link>https://www.maxmovie.com/news/435774</link>
+            <guid>https://www.maxmovie.com/news/435774</guid>
+            <pubDate>Tue, 12 Dec 2023 08:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435774"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702363212803gkOvy.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435774"><h4>'신차원! 짱구는 못말려', 3D CG로 구현된 짱구의 모습은?</h4></a><span>1시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702363212803gkOvy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['듄' 드니 빌뇌브 감독, '노량' 김한민 감독 만났다...무슨 얘기 나눴나]]></title>
             <link>https://www.maxmovie.com/news/435772</link>
             <guid>https://www.maxmovie.com/news/435772</guid>
             <pubDate>Tue, 12 Dec 2023 07:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435772"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702360163272Bjh2W.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435772"><h4>'듄' 드니 빌뇌브 감독, '노량' 김한민 감독 만났다...무슨 얘기 나눴나</h4></a><span>41분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[개봉 두 달 앞두고 내한한 드니 빌뇌브 감독
+'노량' 김한민 감독과 마스터 토크 예고]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702360163272Bjh2W.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435729</link>
             <guid>https://www.maxmovie.com/news/435729</guid>
             <pubDate>Tue, 12 Dec 2023 04:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[12월1일 공개된 '스위트홈' 시즌2
-볼거리 늘었지만, 늘어진다는 지적 잇따라]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435729"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17019384638204MXZz.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435729"><h4>스케일 확장 VS 산만한 전개...'스위트홈2', 엇갈리는 평가</h4></a><span>22시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17019384638204MXZz.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["'노량:죽음의 바다', 겨울 전투지만 용광로처럼 뜨거울 것"]]></title>
-            <link>https://www.maxmovie.com/news/435760</link>
-            <guid>https://www.maxmovie.com/news/435760</guid>
-            <pubDate>Tue, 12 Dec 2023 02:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435760"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702271978702hdTAk.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435760"><h4>"'노량:죽음의 바다', 겨울 전투지만 용광로처럼 뜨거울 것"</h4></a><span>12월 11일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702271978702hdTAk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
