@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 05:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 06:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702275616630jH3Ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['D-Day' 12·12, '서울의 봄' MZ 관객들 "대한민국 사람으로..."]]></title>
+            <link>https://www.maxmovie.com/news/435769</link>
+            <guid>https://www.maxmovie.com/news/435769</guid>
+            <pubDate>Tue, 12 Dec 2023 06:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435769"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702351122759PZxCn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435769"><h4>'D-Day' 12·12, '서울의 봄' MZ 관객들 "대한민국 사람으로..."</h4></a><span>30분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702351122759PZxCn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 지민·정국 육군 동반입대…7인 멤버 전원 군복무]]></title>
             <link>https://www.maxmovie.com/news/435765</link>
             <guid>https://www.maxmovie.com/news/435765</guid>
             <pubDate>Tue, 12 Dec 2023 00:31:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435765"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702337107388LH3z7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435765"><h4>BTS 지민·정국 육군 동반입대…7인 멤버 전원 군복무</h4></a><span>5시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[지민·정국, 팀 내 마지막 주자로 입대
+2025년 완전체 팀 활동 재개 희망]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702337107388LH3z7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435758</link>
             <guid>https://www.maxmovie.com/news/435758</guid>
             <pubDate>Mon, 11 Dec 2023 04:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[20만 돌파 '괴물'의 두 주역 한국 방문
-12월20일~21일 이틀간 관객과 만남]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435758"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702262863669hucOA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435758"><h4>고레에다 히로카즈 '괴물'의 미나토·요리가 한국 온다</h4></a><span>12월 11일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702262863669hucOA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역시 사극킹 최수종…'고려 거란 전쟁' 10% 돌파]]></title>
-            <link>https://www.maxmovie.com/news/435756</link>
-            <guid>https://www.maxmovie.com/news/435756</guid>
-            <pubDate>Mon, 11 Dec 2023 03:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435756"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702261092485Dcukb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435756"><h4>역시 사극킹 최수종…'고려 거란 전쟁' 10% 돌파</h4></a><span>12월 11일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702261092485Dcukb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
