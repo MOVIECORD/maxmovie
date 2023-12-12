@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 11:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 12:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/435776</link>
             <guid>https://www.maxmovie.com/news/435776</guid>
             <pubDate>Tue, 12 Dec 2023 09:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435776"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17023700363990GdIB.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435776"><h4>달콤 위험한 게임 '더 에이트 쇼'에 참가하는 8인은?</h4></a><span>2시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435776"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17023700363990GdIB.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435776"><h4>달콤 위험한 게임 '더 에이트 쇼'에 참가하는 8인은?</h4></a><span>3시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17023700363990GdIB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -59,6 +59,15 @@
             <content:encoded><![CDATA[볼록한 입체감으로 더욱 커진 짱구의 모습
 어둠의 세력과 초능력 대결전 펼치는 짱구]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702363212803gkOvy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['D-Day' 12·12, '서울의 봄' MZ 관객들 "대한민국 사람으로..."]]></title>
+            <link>https://www.maxmovie.com/news/435769</link>
+            <guid>https://www.maxmovie.com/news/435769</guid>
+            <pubDate>Tue, 12 Dec 2023 12:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[1979년 12월12일  군사반란 다룬 '서울의 봄'
+10대 관객, 영화 본 뒤 "이해하기 쉬웠다"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702351122759PZxCn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['마약 투약 혐의' 유아인, 첫 재판 출석 "실망·피해 죄송하다"]]></title>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435765</link>
             <guid>https://www.maxmovie.com/news/435765</guid>
             <pubDate>Tue, 12 Dec 2023 00:31:10 GMT</pubDate>
-            <content:encoded><![CDATA[지민·정국, 팀 내 마지막 주자로 입대
-2025년 완전체 팀 활동 재개 희망]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435765"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702337107388LH3z7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435765"><h4>BTS 지민·정국 육군 동반입대…7인 멤버 전원 군복무</h4></a><span>12시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702337107388LH3z7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀린 송·유태오 '패스트 라이브즈', 골든글로브 5개 부문 노미네이트]]></title>
-            <link>https://www.maxmovie.com/news/435764</link>
-            <guid>https://www.maxmovie.com/news/435764</guid>
-            <pubDate>Tue, 12 Dec 2023 04:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435764"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702309198461fH7Dl.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435764"><h4>셀린 송·유태오 '패스트 라이브즈', 골든글로브 5개 부문 노미네이트</h4></a><span>7시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702309198461fH7Dl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
