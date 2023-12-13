@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 21:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 22:05:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴욕에 불시착한 말러드 가족의 모험 그린 '인투 더 월드']]></title>
+            <link>https://www.maxmovie.com/news/435788</link>
+            <guid>https://www.maxmovie.com/news/435788</guid>
+            <pubDate>Wed, 13 Dec 2023 22:05:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435788"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1702446974259V1O9Y.jpg" alt=""></span><span class="textBox"><h4>뉴욕에 불시착한 말러드 가족의 모험 그린 '인투 더 월드'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702446974259V1O9Y.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2024년 새해에 찾아오는 '외계+인' 2부의 강력한 캐릭터 군단]]></title>
             <link>https://www.maxmovie.com/news/435787</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435458"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1700032378061kJQZe.jpg" alt=""></span><span class="textBox"><h4>사진으로 먼저 만나는 이성민‧유연석‧이정은의 '운수 오진 날'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700032378061kJQZe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임시완 이런 모습 처음이야... 1989년의  '지질한 소년']]></title>
-            <link>https://www.maxmovie.com/news/435449</link>
-            <guid>https://www.maxmovie.com/news/435449</guid>
-            <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435449"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1699924198910XFEk8.jpg" alt=""></span><span class="textBox"><h4>임시완 이런 모습 처음이야... 1989년의  '지질한 소년' </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1699924198910XFEk8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
