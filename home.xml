@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 06:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 07:06:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702346281402TsQK6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["드라마틱한 삶"...'길위에 김대중', 내년 1월10일 관객 만난다]]></title>
+            <link>https://www.maxmovie.com/news/435789</link>
+            <guid>https://www.maxmovie.com/news/435789</guid>
+            <pubDate>Wed, 13 Dec 2023 07:06:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435789"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702446856397ROcvl.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435789"><h4>"드라마틱한 삶"...'길위에 김대중', 내년 1월10일 관객 만난다</h4></a><span>34분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702446856397ROcvl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사과 반복 황정민·청혼 거절 정우성…'서울의 봄' 무대인사도 재밌다]]></title>
             <link>https://www.maxmovie.com/news/435780</link>
             <guid>https://www.maxmovie.com/news/435780</guid>
             <pubDate>Wed, 13 Dec 2023 06:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435780"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702434413732vFjRK.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435780"><h4>사과 반복 황정민·청혼 거절 정우성…'서울의 봄' 무대인사도 재밌다</h4></a><span>4분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[12월12일까지 153차례 무대인사 진행해
+정우성, 단 한차례도 빠지지 않고 참석]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702434413732vFjRK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +89,8 @@
             <link>https://www.maxmovie.com/news/435778</link>
             <guid>https://www.maxmovie.com/news/435778</guid>
             <pubDate>Wed, 13 Dec 2023 00:31:05 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 전체 박스오피스 흥행 '톱2' 등극
-12월12일, 진압군 연기한 배우들 무대인사]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435778"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17024261331543DjeB.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435778"><h4>'서울의 봄', 12월12일 19만명 관람...올해 박스오피스 2위 등극</h4></a><span>6시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17024261331543DjeB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달콤 위험한 게임 '더 에이트 쇼'에 참가하는 8인은?]]></title>
-            <link>https://www.maxmovie.com/news/435776</link>
-            <guid>https://www.maxmovie.com/news/435776</guid>
-            <pubDate>Tue, 12 Dec 2023 09:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435776"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17023700363990GdIB.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435776"><h4>달콤 위험한 게임 '더 에이트 쇼'에 참가하는 8인은?</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17023700363990GdIB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
