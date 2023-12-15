@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 08:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 09:07:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702532574375t7o1p.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유연석, 닭발라면 혹평에 "억울하다"고 항변한 사연]]></title>
+            <link>https://www.maxmovie.com/news/435818</link>
+            <guid>https://www.maxmovie.com/news/435818</guid>
+            <pubDate>Fri, 15 Dec 2023 09:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435818"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702627216774JJnK7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435818"><h4>유연석, 닭발라면 혹평에 "억울하다"고 항변한 사연</h4></a><span>18분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702627216774JJnK7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['레옹' '루시' 뤽 베송, 1월 개봉 '도그맨'으로 5년만에 복귀]]></title>
             <link>https://www.maxmovie.com/news/435820</link>
             <guid>https://www.maxmovie.com/news/435820</guid>
             <pubDate>Fri, 15 Dec 2023 08:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435820"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702627354017B3abc.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435820"><h4>'레옹' '루시' 뤽 베송, 1월 개봉 '도그맨'으로 5년만에 복귀</h4></a><span>1분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['도그맨' 내년 1월24일 개봉
+베니스·부산영화제 초청작]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702627354017B3abc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,16 +88,8 @@
             <link>https://www.maxmovie.com/news/435801</link>
             <guid>https://www.maxmovie.com/news/435801</guid>
             <pubDate>Thu, 14 Dec 2023 22:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435801"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702543445367dvnSb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435801"><h4>[데일리 핫이슈] 지드래곤 마약 무혐의에 경찰 해명, 조병규 현역 입대 의지, 박유천 억대 체납</h4></a><span>11시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702543445367dvnSb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이제야 눈빛에 독이 올랐구먼"…'소년시대' 병태의 반격 시작]]></title>
-            <link>https://www.maxmovie.com/news/435799</link>
-            <guid>https://www.maxmovie.com/news/435799</guid>
-            <pubDate>Thu, 14 Dec 2023 08:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435799"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702522313650H2NNH.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435799"><h4>"이제야 눈빛에 독이 올랐구먼"…'소년시대' 병태의 반격 시작</h4></a><span>12월 14일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702522313650H2NNH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
