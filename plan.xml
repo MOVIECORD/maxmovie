@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 21:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 22:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -58,6 +58,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702616316557y6dgV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 토가시 요시히로의 전설적 만화를 원작으로 한 '유유백서']]></title>
+            <link>https://www.maxmovie.com/news/435811</link>
+            <guid>https://www.maxmovie.com/news/435811</guid>
+            <pubDate>Sat, 16 Dec 2023 22:04:32 GMT</pubDate>
+            <content:encoded><![CDATA['유유백서'의 한 장면. 사진제공=넷플릭스오늘, 볼만한 작품을 추천합니다.◆ '유유백서'넷플릭스 오리지널 시리즈 '유유백서'는 토가시 요시히로의 인기&nbsp;만화를 원작으로 한 작품으로 어린아이를 구하다 목숨을 잃은 우라메시 유스케가 영계 탐정으로 발탁돼 요괴 범죄자가 연루된 사건들을 수사하는 이야기다.&nbsp;사고로 인해 정해진 수명보다 빠르게 생을 마감하게 된 우라메]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702609560191fWgFu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오늘 뭘 볼까] 삶과 죽음 넘나드는 세계관 그린 '이재, 곧 죽습니다']]></title>
             <link>https://www.maxmovie.com/news/435810</link>
             <guid>https://www.maxmovie.com/news/435810</guid>
@@ -79,17 +87,8 @@
             <link>https://www.maxmovie.com/news/435808</link>
             <guid>https://www.maxmovie.com/news/435808</guid>
             <pubDate>Fri, 15 Dec 2023 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[12월20일 개봉하는 '이순신 3부작'의 피날레
-이순신 장군 마지막 전투인 노량 해전 그려]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435808"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702605207534VFE90.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435808"><h4>"벌써부터 애국심 불타오르네"...'노량:죽음의 바다', 폭발적인 관객 기대평</h4></a><span>12월 15일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702605207534VFE90.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천만 향해 가는 '서울의 봄', 개봉 4주차 주말엔 800만+α]]></title>
-            <link>https://www.maxmovie.com/news/435807</link>
-            <guid>https://www.maxmovie.com/news/435807</guid>
-            <pubDate>Fri, 15 Dec 2023 01:49:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435807"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702602535949PzRw4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435807"><h4>천만 향해 가는 '서울의 봄', 개봉 4주차 주말엔 800만+α</h4></a><span>12월 15일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702602535949PzRw4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

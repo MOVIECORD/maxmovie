@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 21:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 22:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,6 +59,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702627354017B3abc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 토가시 요시히로의 전설적 만화를 원작으로 한 '유유백서']]></title>
+            <link>https://www.maxmovie.com/news/435811</link>
+            <guid>https://www.maxmovie.com/news/435811</guid>
+            <pubDate>Sat, 16 Dec 2023 22:04:12 GMT</pubDate>
+            <content:encoded><![CDATA['유유백서'의 한 장면. 사진제공=넷플릭스오늘, 볼만한 작품을 추천합니다.◆ '유유백서'넷플릭스 오리지널 시리즈 '유유백서'는 토가시 요시히로의 인기&nbsp;만화를 원작으로 한 작품으로 어린아이를 구하다 목숨을 잃은 우라메시 유스케가 영계 탐정으로 발탁돼 요괴 범죄자가 연루된 사건들을 수사하는 이야기다.&nbsp;사고로 인해 정해진 수명보다 빠르게 생을 마감하게 된 우라메]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702609560191fWgFu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이선정 밴드, 신대철 등과 손잡고 매달 신곡 프로젝트]]></title>
             <link>https://www.maxmovie.com/news/435813</link>
             <guid>https://www.maxmovie.com/news/435813</guid>
@@ -80,16 +88,8 @@
             <link>https://www.maxmovie.com/news/435801</link>
             <guid>https://www.maxmovie.com/news/435801</guid>
             <pubDate>Thu, 14 Dec 2023 22:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435801"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702543445367dvnSb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435801"><h4>[데일리 핫이슈] 지드래곤 마약 무혐의에 경찰 해명, 조병규 현역 입대 의지, 박유천 억대 체납</h4></a><span>12월 14일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702543445367dvnSb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["아이시테루!" 안재홍의 2024년이 더욱 기대되는 이유]]></title>
-            <link>https://www.maxmovie.com/news/435804</link>
-            <guid>https://www.maxmovie.com/news/435804</guid>
-            <pubDate>Sat, 16 Dec 2023 01:44:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435804"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17025361529801lofZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435804"><h4>"아이시테루!" 안재홍의 2024년이 더욱 기대되는 이유</h4></a><span>12월 14일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17025361529801lofZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
