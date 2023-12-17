@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 12:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 13:07:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,7 +47,7 @@
             <link>https://www.maxmovie.com/news/435830</link>
             <guid>https://www.maxmovie.com/news/435830</guid>
             <pubDate>Sun, 17 Dec 2023 09:04:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435830"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702802151501igiar.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435830"><h4>'서울의 봄' 단체관람 방해에 교사단체 "교육권·학습권 침해" 규탄 성명</h4></a><span>3시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435830"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702802151501igiar.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435830"><h4>'서울의 봄' 단체관람 방해에 교사단체 "교육권·학습권 침해" 규탄 성명</h4></a><span>4시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702802151501igiar.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,20 +76,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702626017991NI4xl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[맥스무비레터 #31번째 편지] 이태신·이순신 장군이 이끄는 '극장의 봄']]></title>
-            <link>https://www.maxmovie.com/news/435821</link>
-            <guid>https://www.maxmovie.com/news/435821</guid>
-            <pubDate>Sun, 17 Dec 2023 04:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702629788583xVjjI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[유연석, 닭발라면 혹평에 "억울하다"고 항변한 사연]]></title>
             <link>https://www.maxmovie.com/news/435818</link>
             <guid>https://www.maxmovie.com/news/435818</guid>
             <pubDate>Sun, 17 Dec 2023 09:04:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435818"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702627216774JJnK7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435818"><h4>유연석, 닭발라면 혹평에 "억울하다"고 항변한 사연</h4></a><span>12월 15일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[이성민, 유연석표 닭발라면 먹고 "별로 안 좋네"
+'뜬뜬' 속 닭발라면에 대해 "내 레시피 아니야"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702627216774JJnK7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['레옹' '루시' 뤽 베송, 1월 개봉 '도그맨'으로 5년만에 복귀]]></title>
+            <link>https://www.maxmovie.com/news/435820</link>
+            <guid>https://www.maxmovie.com/news/435820</guid>
+            <pubDate>Sun, 17 Dec 2023 13:07:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435820"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702627354017B3abc.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435820"><h4>'레옹' '루시' 뤽 베송, 1월 개봉 '도그맨'으로 5년만에 복귀</h4></a><span>12월 15일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702627354017B3abc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
