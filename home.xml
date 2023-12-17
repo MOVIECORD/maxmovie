@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 23:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 00:34:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702607833317GQp48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뒷심 제대로 '서울의 봄', 50만명 모으면 900만명 돌파]]></title>
+            <link>https://www.maxmovie.com/news/435822</link>
+            <guid>https://www.maxmovie.com/news/435822</guid>
+            <pubDate>Sun, 17 Dec 2023 00:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435822"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702772651328QzTL0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435822"><h4>뒷심 제대로 '서울의 봄', 50만명 모으면 900만명 돌파</h4></a><span>3분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702772651328QzTL0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유연석, 닭발라면 혹평에 "억울하다"고 항변한 사연]]></title>
             <link>https://www.maxmovie.com/news/435818</link>
             <guid>https://www.maxmovie.com/news/435818</guid>
             <pubDate>Fri, 15 Dec 2023 09:07:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435818"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702627216774JJnK7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435818"><h4>유연석, 닭발라면 혹평에 "억울하다"고 항변한 사연</h4></a><span>12월 15일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[이성민, 유연석표 닭발라면 먹고 "별로 안 좋네"
+'뜬뜬' 속 닭발라면에 대해 "내 레시피 아니야"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702627216774JJnK7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,17 +88,8 @@
             <link>https://www.maxmovie.com/news/435806</link>
             <guid>https://www.maxmovie.com/news/435806</guid>
             <pubDate>Fri, 15 Dec 2023 01:48:56 GMT</pubDate>
-            <content:encoded><![CDATA['매드맥스:분노의 도로' 프리퀄
-안야 테일러 조이가 퓨리오사 역]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435806"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702600039268RiAg1.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435806"><h4>퓨리오사 과거 밝혀진다...'퓨리오사:매드맥스 사가', 2024년 개봉</h4></a><span>12월 15일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702600039268RiAg1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[데일리 핫이슈] 지드래곤 마약 무혐의에 경찰 해명, 조병규 현역 입대 의지, 박유천 억대 체납]]></title>
-            <link>https://www.maxmovie.com/news/435801</link>
-            <guid>https://www.maxmovie.com/news/435801</guid>
-            <pubDate>Thu, 14 Dec 2023 22:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435801"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702543445367dvnSb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435801"><h4>[데일리 핫이슈] 지드래곤 마약 무혐의에 경찰 해명, 조병규 현역 입대 의지, 박유천 억대 체납</h4></a><span>12월 14일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702543445367dvnSb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
