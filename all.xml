@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 04:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 06:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,7 +46,7 @@
             <link>https://www.maxmovie.com/news/435863</link>
             <guid>https://www.maxmovie.com/news/435863</guid>
             <pubDate>Tue, 19 Dec 2023 04:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435863"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702950223548uFaJZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435863"><h4>'괴물' 같은 '괴물', 고레에다 감독에 '30만' 최고 기록 선사 </h4></a><span>51분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435863"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702950223548uFaJZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435863"><h4>'괴물' 같은 '괴물', 고레에다 감독에 '30만' 최고 기록 선사 </h4></a><span>2시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702950223548uFaJZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -90,7 +90,7 @@
             <link>https://www.maxmovie.com/news/435844</link>
             <guid>https://www.maxmovie.com/news/435844</guid>
             <pubDate>Mon, 18 Dec 2023 09:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435844"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702884115768nt2zR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435844"><h4>이영애의 새 얼굴, 클래식의 탈을 쓴 '치정'과 '욕망'의 이야기 </h4></a><span>19시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435844"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702884115768nt2zR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435844"><h4>이영애의 새 얼굴, 클래식의 탈을 쓴 '치정'과 '욕망'의 이야기 </h4></a><span>21시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702884115768nt2zR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -271,10 +271,19 @@
             <title><![CDATA['괴물' 같은 '괴물', 고레에다 감독에 '30만' 최고 기록 선사 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/435863</link>
             <guid>https://www.maxmovie.com/news/435863</guid>
-            <pubDate>Tue, 19 Dec 2023 04:08:48 GMT</pubDate>
+            <pubDate>Tue, 19 Dec 2023 04:08:29 GMT</pubDate>
             <content:encoded><![CDATA[사카모토 유지의 섬세한 각본의 힘 
 '서울의 봄' '노량'과 연말 극장 3대장]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702950223548uFaJZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['오세이사' 잇는 '말하고 싶은 비밀'... 청량한 첫사랑 로맨스 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/435859</link>
+            <guid>https://www.maxmovie.com/news/435859</guid>
+            <pubDate>Tue, 19 Dec 2023 06:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[12월13일 개봉 일본 하이틴 로맨스
+꾸준한 관객 선택으로 5만명 동원]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702947872635yxs4l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['서울의 봄' 올해 한국영화 최장 1위 기록 (맥스무비 ─ 기획)]]></title>
@@ -299,8 +308,7 @@
             <link>https://www.maxmovie.com/news/435856</link>
             <guid>https://www.maxmovie.com/news/435856</guid>
             <pubDate>Tue, 19 Dec 2023 00:31:37 GMT</pubDate>
-            <content:encoded><![CDATA['화란' 일정 마무리 뒤 현역병 입영 신청 
-"지금 이 시기에 가야한다고 생각했다"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435856"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702945199667OrVlM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435856"><h4>'화란' 홍사빈, 19일 육군 현역 입대 </h4></a><span>5시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702945199667OrVlM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +316,8 @@
             <link>https://www.maxmovie.com/news/435855</link>
             <guid>https://www.maxmovie.com/news/435855</guid>
             <pubDate>Tue, 19 Dec 2023 00:31:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435855"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702944148186pHQzt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435855"><h4>'노량' 미국 동시 개봉, LA 시작으로 지역 확대 </h4></a><span>4시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[12월22일 LA 지역 4개 극장 개봉
+사극으로는 이례적 동시기 공개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702944148186pHQzt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -343,17 +352,8 @@
             <link>https://www.maxmovie.com/news/435843</link>
             <guid>https://www.maxmovie.com/news/435843</guid>
             <pubDate>Mon, 18 Dec 2023 09:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[한국갤럽 조사..'범죄도시3' 맹활약
-'서울의 봄' 황정민 정우성도 순위]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435843"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702885135617Ib8Ho.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435843"><h4>'범죄도시3', 마동석 "올해를 빛낸 영화배우"</h4></a><span>22시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702885135617Ib8Ho.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 뽀로로의 특별한 모험 영화 '뽀로로 극장판 슈퍼스타 대모험' (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/435842</link>
-            <guid>https://www.maxmovie.com/news/435842</guid>
-            <pubDate>Mon, 18 Dec 2023 22:05:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435842"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702878658098VwkJT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435842"><h4>[오늘 뭘 볼까] 뽀로로의 특별한 모험 영화 '뽀로로 극장판 슈퍼스타 대모험'</h4></a><span>6시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702878658098VwkJT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금지된 두 남자의 사랑 '길 위의 연인들', 내년 골든글로브까지 넘본다 (맥스무비 ─ OTT)]]></title>
@@ -440,6 +440,14 @@
             <pubDate>Thu, 14 Dec 2023 03:07:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435799"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702522313650H2NNH.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435799"><h4>"이제야 눈빛에 독이 올랐구먼"…'소년시대' 병태의 반격 시작</h4></a><span>12월 14일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702522313650H2NNH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['오세이사' 잇는 '말하고 싶은 비밀'... 청량한 첫사랑 로맨스 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/435859</link>
+            <guid>https://www.maxmovie.com/news/435859</guid>
+            <pubDate>Tue, 19 Dec 2023 06:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435859"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1702947872635yxs4l.jpg" alt=""></span><span class="textBox"><h4>'오세이사' 잇는 '말하고 싶은 비밀'... 청량한 첫사랑 로맨스 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702947872635yxs4l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뤽 베송 감독 신작 '도그맨', 한 남자의 파란만장한 삶 (맥스무비 ─ 포토)]]></title>
@@ -672,14 +680,6 @@
             <pubDate>Mon, 20 Nov 2023 04:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435491"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1700186391793tEYGv.jpg" alt=""></span><span class="textBox"><h4>영화 만큼이나 지독했던 '독전2' 촬영 현장 비하인드  </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700186391793tEYGv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 日 로맨스 온다... '말하고 싶은 비밀' 설렘 가득  첫사랑 (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/435489</link>
-            <guid>https://www.maxmovie.com/news/435489</guid>
-            <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435489"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/170018417203467t8B.jpg" alt=""></span><span class="textBox"><h4>겨울 日 로맨스 온다... '말하고 싶은 비밀' 설렘 가득  첫사랑 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/170018417203467t8B.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

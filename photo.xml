@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 04:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 06:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['오세이사' 잇는 '말하고 싶은 비밀'... 청량한 첫사랑 로맨스]]></title>
+            <link>https://www.maxmovie.com/news/435859</link>
+            <guid>https://www.maxmovie.com/news/435859</guid>
+            <pubDate>Tue, 19 Dec 2023 06:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435859"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1702947872635yxs4l.jpg" alt=""></span><span class="textBox"><h4>'오세이사' 잇는 '말하고 싶은 비밀'... 청량한 첫사랑 로맨스 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702947872635yxs4l.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뤽 베송 감독 신작 '도그맨', 한 남자의 파란만장한 삶]]></title>
             <link>https://www.maxmovie.com/news/435835</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435491"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1700186391793tEYGv.jpg" alt=""></span><span class="textBox"><h4>영화 만큼이나 지독했던 '독전2' 촬영 현장 비하인드  </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700186391793tEYGv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 日 로맨스 온다... '말하고 싶은 비밀' 설렘 가득  첫사랑]]></title>
-            <link>https://www.maxmovie.com/news/435489</link>
-            <guid>https://www.maxmovie.com/news/435489</guid>
-            <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435489"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/170018417203467t8B.jpg" alt=""></span><span class="textBox"><h4>겨울 日 로맨스 온다... '말하고 싶은 비밀' 설렘 가득  첫사랑 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/170018417203467t8B.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
