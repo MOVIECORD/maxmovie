@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 09:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 10:07:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['길위에 김대중' 안에 녹아든 '서울의 봄'... 함께 보면 울림이 더 큰 이유]]></title>
+            <link>https://www.maxmovie.com/news/435865</link>
+            <guid>https://www.maxmovie.com/news/435865</guid>
+            <pubDate>Tue, 19 Dec 2023 10:07:37 GMT</pubDate>
+            <content:encoded><![CDATA[1950년 6·25 전쟁부터 1987년 6·29선언까지
+12·12군사반란 다뤄...장태완 장군 목소리 등장]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17029697192945XIRv.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['핑크퐁' 대항마가 나타났다... 치명적인 매력의 애니 '씰룩']]></title>
             <link>https://www.maxmovie.com/news/435864</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/435859</link>
             <guid>https://www.maxmovie.com/news/435859</guid>
             <pubDate>Tue, 19 Dec 2023 06:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[12월13일 개봉 일본 하이틴 로맨스
-꾸준한 관객 선택으로 5만명 동원]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435859"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702947872635yxs4l.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435859"><h4>'오세이사' 잇는 '말하고 싶은 비밀'... 청량한 첫사랑 로맨스 </h4></a><span>4시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702947872635yxs4l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/435858</link>
             <guid>https://www.maxmovie.com/news/435858</guid>
             <pubDate>Tue, 19 Dec 2023 01:47:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435858"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702945976760VJFZA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435858"><h4>'서울의 봄' 올해 한국영화 최장 1위 기록</h4></a><span>8시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[27일간 정상 지켜
+누적관객 908만명]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702945976760VJFZA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435847</link>
             <guid>https://www.maxmovie.com/news/435847</guid>
             <pubDate>Mon, 18 Dec 2023 09:07:44 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드서 리메이크
-조병규, 아톰 역 더빙 맡아]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435847"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702889492654J9cWk.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435847"><h4>소년 로봇 아톰의 귀환…'아톰 새로운 시작' 내년 1월 개봉</h4></a><span>12월 18일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702889492654J9cWk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다크웹 소재 영화 '커미션', 김현수·김용지·김진우 주연]]></title>
-            <link>https://www.maxmovie.com/news/435846</link>
-            <guid>https://www.maxmovie.com/news/435846</guid>
-            <pubDate>Mon, 18 Dec 2023 09:07:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435846"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702888762468yJ5kP.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435846"><h4>다크웹 소재 영화 '커미션', 김현수·김용지·김진우 주연</h4></a><span>12월 18일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702888762468yJ5kP.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
