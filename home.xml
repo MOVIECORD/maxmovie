@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 08:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 09:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702950223548uFaJZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[리뷰:포테이토 지수 49%]  '리브 더 월드 비하인드'... 테슬라 의문의 1패]]></title>
+            <link>https://www.maxmovie.com/news/435866</link>
+            <guid>https://www.maxmovie.com/news/435866</guid>
+            <pubDate>Tue, 19 Dec 2023 09:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435866"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702972853308MWq2U.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/435866"><h4>[리뷰:포테이토 지수 49%]  '리브 더 월드 비하인드'... 테슬라 의문의 1패 </h4></a><span>44분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702972853308MWq2U.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['핑크퐁' 대항마가 나타났다... 치명적인 매력의 애니 '씰룩']]></title>
             <link>https://www.maxmovie.com/news/435864</link>
             <guid>https://www.maxmovie.com/news/435864</guid>
             <pubDate>Tue, 19 Dec 2023 07:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435864"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702963379073wci53.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435864"><h4>'핑크퐁' 대항마가 나타났다... 치명적인 매력의 애니 '씰룩' </h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[사랑스럽고 웃긴 물범들 이야기
+공개 1년 만에 구독자 675만명]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702963379073wci53.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,16 +92,8 @@
             <link>https://www.maxmovie.com/news/435838</link>
             <guid>https://www.maxmovie.com/news/435838</guid>
             <pubDate>Mon, 18 Dec 2023 22:05:08 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435838"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702869155396jk4q8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435838"><h4>[데일리 핫이슈] 지석진 '런닝맨' 출연 중단, 이효리 음악프로그램 MC, 샤이니 멤버들 故 종현 추모 </h4></a><span>11시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702869155396jk4q8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 뽀로로의 특별한 모험 영화 '뽀로로 극장판 슈퍼스타 대모험']]></title>
-            <link>https://www.maxmovie.com/news/435842</link>
-            <guid>https://www.maxmovie.com/news/435842</guid>
-            <pubDate>Mon, 18 Dec 2023 22:05:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435842"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702878658098VwkJT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435842"><h4>[오늘 뭘 볼까] 뽀로로의 특별한 모험 영화 '뽀로로 극장판 슈퍼스타 대모험'</h4></a><span>10시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702878658098VwkJT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
