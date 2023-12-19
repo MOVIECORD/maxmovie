@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 06:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 07:06:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고레에다 히로카즈 감독 '괴물' 속 아이와 어른의 '엇갈린 시선']]></title>
+            <link>https://www.maxmovie.com/news/435862</link>
+            <guid>https://www.maxmovie.com/news/435862</guid>
+            <pubDate>Tue, 19 Dec 2023 07:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435862"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1702949489025mEDs5.jpg" alt=""></span><span class="textBox"><h4>고레에다 히로카즈 감독 '괴물' 속 아이와 어른의 '엇갈린 시선'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702949489025mEDs5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['오세이사' 잇는 '말하고 싶은 비밀'... 청량한 첫사랑 로맨스]]></title>
             <link>https://www.maxmovie.com/news/435859</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435519"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1700448124197eistS.jpg" alt=""></span><span class="textBox"><h4>사진으로 먼저 보는 '스위트홈2'의 지독한 인간군상 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700448124197eistS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 만큼이나 지독했던 '독전2' 촬영 현장 비하인드]]></title>
-            <link>https://www.maxmovie.com/news/435491</link>
-            <guid>https://www.maxmovie.com/news/435491</guid>
-            <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435491"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1700186391793tEYGv.jpg" alt=""></span><span class="textBox"><h4>영화 만큼이나 지독했던 '독전2' 촬영 현장 비하인드  </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700186391793tEYGv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
