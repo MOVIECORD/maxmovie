@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 03:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 04:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702878658098VwkJT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['괴물' 같은 '괴물', 고레에다 감독에 '30만' 최고 기록 선사]]></title>
+            <link>https://www.maxmovie.com/news/435863</link>
+            <guid>https://www.maxmovie.com/news/435863</guid>
+            <pubDate>Tue, 19 Dec 2023 04:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435863"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702950223548uFaJZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435863"><h4>'괴물' 같은 '괴물', 고레에다 감독에 '30만' 최고 기록 선사 </h4></a><span>51분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702950223548uFaJZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['서울의 봄' 올해 한국영화 최장 1위 기록]]></title>
             <link>https://www.maxmovie.com/news/435858</link>
             <guid>https://www.maxmovie.com/news/435858</guid>
             <pubDate>Tue, 19 Dec 2023 01:46:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435858"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702945976760VJFZA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435858"><h4>'서울의 봄' 올해 한국영화 최장 1위 기록</h4></a><span>2시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[27일간 정상 지켜
+누적관객 908만명]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702945976760VJFZA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435844</link>
             <guid>https://www.maxmovie.com/news/435844</guid>
             <pubDate>Mon, 18 Dec 2023 09:07:24 GMT</pubDate>
-            <content:encoded><![CDATA['마에스트라' 시청률 수직 상승 
-이영애의 카리스마 시선 집중]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435844"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702884115768nt2zR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435844"><h4>이영애의 새 얼굴, 클래식의 탈을 쓴 '치정'과 '욕망'의 이야기 </h4></a><span>19시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702884115768nt2zR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['범죄도시3', 마동석 "올해를 빛낸 영화배우"]]></title>
-            <link>https://www.maxmovie.com/news/435843</link>
-            <guid>https://www.maxmovie.com/news/435843</guid>
-            <pubDate>Mon, 18 Dec 2023 09:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435843"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702885135617Ib8Ho.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435843"><h4>'범죄도시3', 마동석 "올해를 빛낸 영화배우"</h4></a><span>19시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702885135617Ib8Ho.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
