@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 23:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 00:31:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,11 +45,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702866025313VTw51.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['노량' 미국 동시 개봉, LA 시작으로 지역 확대]]></title>
+            <link>https://www.maxmovie.com/news/435855</link>
+            <guid>https://www.maxmovie.com/news/435855</guid>
+            <pubDate>Tue, 19 Dec 2023 00:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435855"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702944148186pHQzt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435855"><h4>'노량' 미국 동시 개봉, LA 시작으로 지역 확대 </h4></a><span>28분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702944148186pHQzt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[데일리 핫이슈] 지석진 '런닝맨' 출연 중단, 이효리 음악프로그램 MC, 샤이니 멤버들 故 종현 추모]]></title>
             <link>https://www.maxmovie.com/news/435838</link>
             <guid>https://www.maxmovie.com/news/435838</guid>
             <pubDate>Mon, 18 Dec 2023 22:05:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435838"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702869155396jk4q8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435838"><h4>[데일리 핫이슈] 지석진 '런닝맨' 출연 중단, 이효리 음악프로그램 MC, 샤이니 멤버들 故 종현 추모 </h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702869155396jk4q8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +91,8 @@
             <link>https://www.maxmovie.com/news/435839</link>
             <guid>https://www.maxmovie.com/news/435839</guid>
             <pubDate>Mon, 18 Dec 2023 09:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[작품상, 남우주연상 노미네이트 
-맷 보머와 조나단 베일리의 사랑]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435839"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702870772016qknpW.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435839"><h4>금지된 두 남자의 사랑 '길 위의 연인들', 내년 골든글로브까지 넘본다 </h4></a><span>17시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702870772016qknpW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀린 송 감독의 '패스트 라이브즈' 내년 오스카 입성 기대]]></title>
-            <link>https://www.maxmovie.com/news/435836</link>
-            <guid>https://www.maxmovie.com/news/435836</guid>
-            <pubDate>Mon, 18 Dec 2023 03:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435836"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702867363933rArXL.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435836"><h4>셀린 송 감독의 '패스트 라이브즈' 내년 오스카 입성 기대</h4></a><span>20시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702867363933rArXL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
