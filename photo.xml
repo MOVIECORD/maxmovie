@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 23:04:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 00:25:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 19 Dec 2023 07:06:27 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435862"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1702949489025mEDs5.jpg" alt=""></span><span class="textBox"><h4>고레에다 히로카즈 감독 '괴물' 속 아이와 어른의 '엇갈린 시선'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702949489025mEDs5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 '괴물' 속 학교를 바라보는 고레에다 감독의 시선]]></title>
+            <link>https://www.maxmovie.com/news/435860</link>
+            <guid>https://www.maxmovie.com/news/435860</guid>
+            <pubDate>Wed, 20 Dec 2023 00:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435860"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17029489574630NOGZ.jpg" alt=""></span><span class="textBox"><h4>영화 '괴물' 속 학교를 바라보는 고레에다 감독의 시선 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17029489574630NOGZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['오세이사' 잇는 '말하고 싶은 비밀'... 청량한 첫사랑 로맨스]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Nov 2023 01:53:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435529"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1700529272265QkTII.jpg" alt=""></span><span class="textBox"><h4>마침내 공개된 '외계+인' 2부의 캐릭터들</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700529272265QkTII.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사진으로 먼저 보는 '스위트홈2'의 지독한 인간군상]]></title>
-            <link>https://www.maxmovie.com/news/435519</link>
-            <guid>https://www.maxmovie.com/news/435519</guid>
-            <pubDate>Mon, 20 Nov 2023 04:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435519"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1700448124197eistS.jpg" alt=""></span><span class="textBox"><h4>사진으로 먼저 보는 '스위트홈2'의 지독한 인간군상 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700448124197eistS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
