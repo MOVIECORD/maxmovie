@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 04:08:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 05:07:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703035682378mnnno.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한파 뚫고 내한 '괴물'의 두 배우...어떤 어른이 되고 싶은지 답하다]]></title>
+            <link>https://www.maxmovie.com/news/435885</link>
+            <guid>https://www.maxmovie.com/news/435885</guid>
+            <pubDate>Thu, 21 Dec 2023 05:06:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435885"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703130703044TVw84.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435885"><h4>한파 뚫고 내한 '괴물'의 두 배우...어떤 어른이 되고 싶은지 답하다</h4></a><span>2분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703130703044TVw84.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['화란' 사우디 관객 홀렸다…홍해영화제 관객상 수상]]></title>
             <link>https://www.maxmovie.com/news/435882</link>
             <guid>https://www.maxmovie.com/news/435882</guid>
             <pubDate>Thu, 21 Dec 2023 01:44:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435882"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703121361730gmGuG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435882"><h4>'화란' 사우디 관객 홀렸다…홍해영화제 관객상 수상</h4></a><span>2시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[3회 홍해국제영화제 필름 알울라 관객상
+김창훈 감독 데뷔작…홍사빈·송중기 출연]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703121361730gmGuG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435875</link>
             <guid>https://www.maxmovie.com/news/435875</guid>
             <pubDate>Thu, 21 Dec 2023 01:44:55 GMT</pubDate>
-            <content:encoded><![CDATA['지질한' 병태의 반격, 복수의 서막
-코미디 장르까지 섭렵한 임시완 힘]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435875"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703051092177VMfgs.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435875"><h4>종영까지 단 2회... 임시완 '소년시대' 마침내 반격 시작 </h4></a><span>23시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703051092177VMfgs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전두광에서 베테랑 주부로...황정민·염정아 주연 '크로스', 내년 2월 개봉]]></title>
-            <link>https://www.maxmovie.com/news/435877</link>
-            <guid>https://www.maxmovie.com/news/435877</guid>
-            <pubDate>Thu, 21 Dec 2023 01:44:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435877"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703050200550WQmBa.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435877"><h4>전두광에서 베테랑 주부로...황정민·염정아 주연 '크로스', 내년 2월 개봉</h4></a><span>22시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703050200550WQmBa.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
