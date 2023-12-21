@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 07:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 08:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703035682378mnnno.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마침내 공개한 '소년시대' 촬영 현장 비하인드]]></title>
+            <link>https://www.maxmovie.com/news/435890</link>
+            <guid>https://www.maxmovie.com/news/435890</guid>
+            <pubDate>Thu, 21 Dec 2023 08:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435890"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703142762859fbrUZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435890"><h4>마침내 공개한 '소년시대' 촬영 현장 비하인드 </h4></a><span>31분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703142762859fbrUZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['새 출발' 지드래곤, 마약 퇴치 재단 설립]]></title>
             <link>https://www.maxmovie.com/news/435888</link>
             <guid>https://www.maxmovie.com/news/435888</guid>
             <pubDate>Thu, 21 Dec 2023 07:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435888"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17031382883796OLrP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435888"><h4>'새 출발' 지드래곤, 마약 퇴치 재단 설립 </h4></a><span>55분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[YG 떠나 새로운 소속사 이적 
+새 앨범 발표 및 마약퇴치 운동]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17031382883796OLrP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/435879</link>
             <guid>https://www.maxmovie.com/news/435879</guid>
             <pubDate>Thu, 21 Dec 2023 07:06:00 GMT</pubDate>
-            <content:encoded><![CDATA['프리퀄'로 돌아오는 윌리 웡카와 퓨리오사
-'콰이어트 플레이스'의 시작 점 그릴 '데이 원']]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435879"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703057773420XXgqd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435879"><h4>'웡카' '퓨리오사' '콰이어트 플레이스:데이 원'...3편의 공통점은?</h4></a><span>6시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703057773420XXgqd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 황후와 시녀의 담대한 여정, 영화 '엘리자벳과 나']]></title>
-            <link>https://www.maxmovie.com/news/435849</link>
-            <guid>https://www.maxmovie.com/news/435849</guid>
-            <pubDate>Thu, 21 Dec 2023 00:30:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435849"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702904117094Dma4d.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435849"><h4> [오늘 뭘 볼까] 황후와 시녀의 담대한 여정, 영화 '엘리자벳과 나'</h4></a><span>9시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702904117094Dma4d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
