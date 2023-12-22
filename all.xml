@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 04:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 05:07:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,7 +47,7 @@
             <link>https://www.maxmovie.com/news/435899</link>
             <guid>https://www.maxmovie.com/news/435899</guid>
             <pubDate>Fri, 22 Dec 2023 04:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435899"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703214744066UPkGw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435899"><h4>'콘크리트 유토피아' 美 아카데미 국제장편 후보 불발 </h4></a><span>41분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435899"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703214744066UPkGw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435899"><h4>'콘크리트 유토피아' 美 아카데미 국제장편 후보 불발 </h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703214744066UPkGw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -69,15 +69,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703149286798L3d1Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마침내 공개한 '소년시대' 촬영 현장 비하인드 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435890</link>
-            <guid>https://www.maxmovie.com/news/435890</guid>
-            <pubDate>Thu, 21 Dec 2023 08:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[1989년 충청도 배경 레트로 청춘 활극 
-임시완 맹활약 힘입어 인기 시리즈 등극]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703142762859fbrUZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['새 출발' 지드래곤, 마약 퇴치 재단 설립 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/435888</link>
             <guid>https://www.maxmovie.com/news/435888</guid>
@@ -91,8 +82,16 @@
             <link>https://www.maxmovie.com/news/435850</link>
             <guid>https://www.maxmovie.com/news/435850</guid>
             <pubDate>Fri, 22 Dec 2023 01:43:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435850"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702904771146CTNH1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435850"><h4>[오늘 뭘 볼까] 이순신 3부작의 마지막을 장식하는 영화 '노량:죽음의 바다'</h4></a><span>6시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['노량:죽음의 바다'의 한 장면. 사진제공=롯데엔터테인먼트오늘, 볼만한 작품을 추천합니다.◆ '노량:죽음의 바다'영화 '노량:죽음의 바다'는 임진왜란 발발 후 7년, 조선에서 퇴각하려는 왜군을 완벽하게 섬멸하기 위한 이순신 장군의 최후의 전투를 그린다.&nbsp;1761만 관객을 동원하며 대한민국 최고 흥행의 역사를 기록한 영화 '명량'(2014년), 2022년 여]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702904771146CTNH1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유태오, 美 넷플릭스 시리즈 '더 리크루트2' 주연 발탁 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435886</link>
+            <guid>https://www.maxmovie.com/news/435886</guid>
+            <pubDate>Fri, 22 Dec 2023 05:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435886"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17031352156216MIMA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435886"><h4>유태오, 美 넷플릭스 시리즈 '더 리크루트2' 주연 발탁</h4></a><span>23시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17031352156216MIMA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰]이순신 된 김윤석 "몸 떨려서 대사 안 나와. 이런 경험 처음" (맥스무비 ─ 인터뷰)]]></title>
@@ -273,7 +272,7 @@
             <title><![CDATA['콘크리트 유토피아' 美 아카데미 국제장편 후보 불발 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/435899</link>
             <guid>https://www.maxmovie.com/news/435899</guid>
-            <pubDate>Fri, 22 Dec 2023 04:08:42 GMT</pubDate>
+            <pubDate>Fri, 22 Dec 2023 04:08:20 GMT</pubDate>
             <content:encoded><![CDATA[22일 예비 후보 명단 발표 
 최종 후보는 1월23일 공개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703214744066UPkGw.jpg" length="0" type="image/jpg"/>
@@ -310,7 +309,7 @@
             <link>https://www.maxmovie.com/news/435894</link>
             <guid>https://www.maxmovie.com/news/435894</guid>
             <pubDate>Fri, 22 Dec 2023 00:30:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435894"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703200794197HQWTP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435894"><h4>배우 강성연‧피아니스트 김가온, 이혼 뒤늦게 발표 </h4></a><span>4시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435894"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703200794197HQWTP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435894"><h4>배우 강성연‧피아니스트 김가온, 이혼 뒤늦게 발표 </h4></a><span>5시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703200794197HQWTP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -353,7 +352,7 @@
             <link>https://www.maxmovie.com/news/435888</link>
             <guid>https://www.maxmovie.com/news/435888</guid>
             <pubDate>Thu, 21 Dec 2023 07:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435888"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17031382883796OLrP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435888"><h4>'새 출발' 지드래곤, 마약 퇴치 재단 설립 </h4></a><span>21시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435888"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17031382883796OLrP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435888"><h4>'새 출발' 지드래곤, 마약 퇴치 재단 설립 </h4></a><span>22시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17031382883796OLrP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
