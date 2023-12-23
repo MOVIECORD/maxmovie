@@ -4,7 +4,7 @@
         <title>맥스무비 ─ OTT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Dec 2023 21:04:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 22:04:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17030346829589K09e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 영국 엘리자베스 2세 여왕의 삶 '더 크라운6' 파트2]]></title>
+            <link>https://www.maxmovie.com/news/435852</link>
+            <guid>https://www.maxmovie.com/news/435852</guid>
+            <pubDate>Sat, 23 Dec 2023 22:04:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435852"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702905540837AiBf8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435852"><h4>[오늘 뭘 볼까] 영국 엘리자베스 2세 여왕의 삶 '더 크라운6' 파트2</h4></a><span>5분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702905540837AiBf8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[금지된 두 남자의 사랑 '길 위의 연인들', 내년 골든글로브까지 넘본다]]></title>
             <link>https://www.maxmovie.com/news/435839</link>
             <guid>https://www.maxmovie.com/news/435839</guid>
             <pubDate>Mon, 18 Dec 2023 09:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435839"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702870772016qknpW.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435839"><h4>금지된 두 남자의 사랑 '길 위의 연인들', 내년 골든글로브까지 넘본다 </h4></a><span>12월 18일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[작품상, 남우주연상 노미네이트 
+맷 보머와 조나단 베일리의 사랑]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702870772016qknpW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435823</link>
             <guid>https://www.maxmovie.com/news/435823</guid>
             <pubDate>Sun, 17 Dec 2023 01:53:30 GMT</pubDate>
-            <content:encoded><![CDATA[이세영·배인혁 주연 사극멜로
-태국·말레이시아·홍콩 등 톱5에]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435823"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702774389691Fgmvf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435823"><h4>이세영·배인혁 '열녀박씨 계약결혼뎐', 해외도 주목…5개국 톱5</h4></a><span>12월 17일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702774389691Fgmvf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 토가시 요시히로의 전설적 만화를 원작으로 한 '유유백서']]></title>
-            <link>https://www.maxmovie.com/news/435811</link>
-            <guid>https://www.maxmovie.com/news/435811</guid>
-            <pubDate>Sat, 16 Dec 2023 22:04:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435811"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702609560191fWgFu.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435811"><h4>[오늘 뭘 볼까] 토가시 요시히로의 전설적 만화를 원작으로 한 '유유백서'</h4></a><span>12월 16일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702609560191fWgFu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
