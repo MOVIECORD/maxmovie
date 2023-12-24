@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Dec 2023 23:05:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Dec 2023 00:33:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17032288573303oijK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['노량' 100만 돌파, 크리스마스 스코어 관심 집중]]></title>
+            <link>https://www.maxmovie.com/news/435912</link>
+            <guid>https://www.maxmovie.com/news/435912</guid>
+            <pubDate>Sun, 24 Dec 2023 00:33:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435912"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703375794557FOPWn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435912"><h4>'노량' 100만 돌파, 크리스마스 스코어 관심 집중  </h4></a><span>25분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703375794557FOPWn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[위클리 이슈 모음zip]빈 디젤 피소·송지은 열애·'홍김동전' 트럭시위 외]]></title>
             <link>https://www.maxmovie.com/news/435908</link>
             <guid>https://www.maxmovie.com/news/435908</guid>
             <pubDate>Fri, 22 Dec 2023 22:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435908"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703232802929Hegol.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435908"><h4>[위클리 이슈 모음zip]빈 디젤 피소·송지은 열애·'홍김동전' 트럭시위 외</h4></a><span>12월 22일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[일주일 동안 엔터테인먼트 전반에서 일어난 다양한 이슈를 소개합니다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703232802929Hegol.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,17 +88,8 @@
             <link>https://www.maxmovie.com/news/435906</link>
             <guid>https://www.maxmovie.com/news/435906</guid>
             <pubDate>Fri, 22 Dec 2023 07:04:55 GMT</pubDate>
-            <content:encoded><![CDATA['서울의 봄' 흥행 감사 무대인사
-12월21일까지 942만명 동원]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435906"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703227438432YZC1v.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435906"><h4>천만 초읽기 들어간 '서울의 봄' 무대인사 한번 더…정우성 총 232회</h4></a><span>12월 22일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703227438432YZC1v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#Shorts] 금혁수는 잠깐 잊어주세요, 다정다감한 유연석의 연말 인사]]></title>
-            <link>https://www.maxmovie.com/news/435904</link>
-            <guid>https://www.maxmovie.com/news/435904</guid>
-            <pubDate>Fri, 22 Dec 2023 07:04:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435904"><span class="imgBox" style="background-image:url(https://i.ytimg.com/vi/cg99gHWpd7s/0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435904"><h4>[#Shorts] 금혁수는 잠깐 잊어주세요, 다정다감한 유연석의 연말 인사</h4></a><span>12월 22일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/cg99gHWpd7s/0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
