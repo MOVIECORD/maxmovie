@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Dec 2023 20:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 21:05:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/435853</link>
             <guid>https://www.maxmovie.com/news/435853</guid>
             <pubDate>Sun, 24 Dec 2023 22:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435853"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702905881130jIERr.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435853"><h4>[오늘 뭘 볼까] 영국 프로 축구팀 구단주가 된 배우들 '웰컴 투 렉섬' 시즌2</h4></a><span>22시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435853"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702905881130jIERr.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435853"><h4>[오늘 뭘 볼까] 영국 프로 축구팀 구단주가 된 배우들 '웰컴 투 렉섬' 시즌2</h4></a><span>23시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702905881130jIERr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,15 +70,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703405753340JCpMQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['1박2일' 팀, KBS 연예대상 영광 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435917</link>
-            <guid>https://www.maxmovie.com/news/435917</guid>
-            <pubDate>Sun, 24 Dec 2023 06:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[내달 폐지 '홍김동전' 3관왕
-'골든걸스' 팀 신인상 공동수상]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703392825272ygcCr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이선균, 19시간 밤샘 조사... 진술 토대 검찰 송치 결정 방침 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/435915</link>
             <guid>https://www.maxmovie.com/news/435915</guid>
@@ -92,8 +83,17 @@
             <link>https://www.maxmovie.com/news/435914</link>
             <guid>https://www.maxmovie.com/news/435914</guid>
             <pubDate>Sun, 24 Dec 2023 02:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435914"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703380821212OGQiD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435914"><h4>정우성 드디어 첫 1000만, 황정민은 3번째 대기록 </h4></a><span>12월 24일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[도전 멈추지 않은 배우들 값진 성과
+크리스마스 이브에 1000만 축보]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703380821212OGQiD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['서울의 봄' 마침내 1000만 돌파, 오직 영화의 힘으로 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435913</link>
+            <guid>https://www.maxmovie.com/news/435913</guid>
+            <pubDate>Mon, 25 Dec 2023 21:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435913"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17033796365996QL45.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435913"><h4>'서울의 봄' 마침내 1000만 돌파, 오직 영화의 힘으로 </h4></a><span>12월 24일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17033796365996QL45.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰]이순신 된 김윤석 "몸 떨려서 대사 안 나와. 이런 경험 처음" (맥스무비 ─ 인터뷰)]]></title>
@@ -399,7 +399,7 @@
             <link>https://www.maxmovie.com/news/435853</link>
             <guid>https://www.maxmovie.com/news/435853</guid>
             <pubDate>Sun, 24 Dec 2023 22:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435853"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702905881130jIERr.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435853"><h4>[오늘 뭘 볼까] 영국 프로 축구팀 구단주가 된 배우들 '웰컴 투 렉섬' 시즌2</h4></a><span>22시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435853"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1702905881130jIERr.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435853"><h4>[오늘 뭘 볼까] 영국 프로 축구팀 구단주가 된 배우들 '웰컴 투 렉섬' 시즌2</h4></a><span>23시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702905881130jIERr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
