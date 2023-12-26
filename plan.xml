@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Dec 2023 23:06:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 00:30:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['서울의 봄', '범죄도시3' 제치고 올해 전체 박스오피스 1위]]></title>
+            <link>https://www.maxmovie.com/news/435926</link>
+            <guid>https://www.maxmovie.com/news/435926</guid>
+            <pubDate>Tue, 26 Dec 2023 00:30:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 가장 많은 관객의 선택
+연일 기록 경신 극장가에 활력]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703548452346qdE3O.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['패스트 라이브즈' "2023 최고의 영화" 선정]]></title>
             <link>https://www.maxmovie.com/news/435925</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/435922</link>
             <guid>https://www.maxmovie.com/news/435922</guid>
             <pubDate>Mon, 25 Dec 2023 07:07:06 GMT</pubDate>
-            <content:encoded><![CDATA['실미도'·'태극기 휘날리며'의 2003년 1000만 관객
-'서울의 봄'·'노량: 죽음의 바다'가 잇는 이야기의 힘]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435922"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703471720595qwVH9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435922"><h4>20년 세월의 기시감, '실미도'에서 '서울의 봄'으로</h4></a><span>21시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703471720595qwVH9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/435921</link>
             <guid>https://www.maxmovie.com/news/435921</guid>
             <pubDate>Sun, 24 Dec 2023 09:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435921"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703407151617jLdil.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435921"><h4>이태신, 전두광 아내도... '서울의 봄' 1000만 감사 인사 </h4></a><span>12월 24일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[1000만 기념 출연배우 55명 감사 인사 ③
+배우 전수지, 김옥주 밟은 미소로 기쁨]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703407151617jLdil.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435917</link>
             <guid>https://www.maxmovie.com/news/435917</guid>
             <pubDate>Sun, 24 Dec 2023 06:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[내달 폐지 '홍김동전' 3관왕
-'골든걸스' 팀 신인상 공동수상]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435917"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703392825272ygcCr.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435917"><h4>'1박2일' 팀, KBS 연예대상 영광 </h4></a><span>12월 24일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703392825272ygcCr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]  '첫 1000만' 정우성 "김성수 감독과 함께해 더 기뻐"]]></title>
-            <link>https://www.maxmovie.com/news/435916</link>
-            <guid>https://www.maxmovie.com/news/435916</guid>
-            <pubDate>Sun, 24 Dec 2023 04:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435916"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703387670819nOpMY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435916"><h4>[단독]  '첫 1000만' 정우성 "김성수 감독과 함께해 더 기뻐"</h4></a><span>12월 24일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703387670819nOpMY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
