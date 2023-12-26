@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 04:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 05:06:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['선산', 연상호 감독이 빚은 선산에 얽힌 기이한 사건들]]></title>
+            <link>https://www.maxmovie.com/news/435933</link>
+            <guid>https://www.maxmovie.com/news/435933</guid>
+            <pubDate>Tue, 26 Dec 2023 05:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435933"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1703563433380zqbVz.jpg" alt=""></span><span class="textBox"><h4>'선산', 연상호 감독이 빚은 선산에 얽힌 기이한 사건들 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703563433380zqbVz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고레에다 히로카즈 감독 '괴물' 속 아이와 어른의 '엇갈린 시선']]></title>
             <link>https://www.maxmovie.com/news/435862</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Nov 2023 03:08:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435540"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1700617507924dUfM8.jpg" alt=""></span><span class="textBox"><h4>'독전2' 채운 '독한 배우들'의 면면...양익준부터 조한철까지  </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700617507924dUfM8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마침내 공개된 '외계+인' 2부의 캐릭터들]]></title>
-            <link>https://www.maxmovie.com/news/435529</link>
-            <guid>https://www.maxmovie.com/news/435529</guid>
-            <pubDate>Tue, 21 Nov 2023 01:53:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435529"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1700529272265QkTII.jpg" alt=""></span><span class="textBox"><h4>마침내 공개된 '외계+인' 2부의 캐릭터들</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1700529272265QkTII.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
