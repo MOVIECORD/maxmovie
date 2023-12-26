@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 06:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 07:06:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김태리의 액션 활약, '외계+인' 2부 향한 기대]]></title>
+            <link>https://www.maxmovie.com/news/435935</link>
+            <guid>https://www.maxmovie.com/news/435935</guid>
+            <pubDate>Tue, 26 Dec 2023 07:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[1월10일 개봉 '외계+인' 2부 주역
+1부에서 확장한 캐릭터와 액션]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703564675578HHX0B.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['외계+인' 2부 이건 꼭 알아야 해…하바·신검은 무엇?]]></title>
             <link>https://www.maxmovie.com/news/435931</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/435927</link>
             <guid>https://www.maxmovie.com/news/435927</guid>
             <pubDate>Tue, 26 Dec 2023 01:42:46 GMT</pubDate>
-            <content:encoded><![CDATA[10부작 시즌1 호평 속 마무리
-감독과 배우들도 '시즌2' 원해]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435927"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703551107667iXF8U.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435927"><h4>'소년시대' 시즌2, 안 할 이유가 없는 '몇 가지 근거' </h4></a><span>6시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703551107667iXF8U.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/435926</link>
             <guid>https://www.maxmovie.com/news/435926</guid>
             <pubDate>Tue, 26 Dec 2023 00:30:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435926"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703548452346qdE3O.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435926"><h4>'서울의 봄', '범죄도시3' 제치고 올해 전체 박스오피스 1위</h4></a><span>5시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[2023년 가장 많은 관객의 선택
+연일 기록 경신 극장가에 활력]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703548452346qdE3O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/435922</link>
             <guid>https://www.maxmovie.com/news/435922</guid>
             <pubDate>Mon, 25 Dec 2023 07:07:06 GMT</pubDate>
-            <content:encoded><![CDATA['실미도'·'태극기 휘날리며'의 2003년 1000만 관객
-'서울의 봄'·'노량: 죽음의 바다'가 잇는 이야기의 힘]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435922"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703471720595qwVH9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435922"><h4>20년 세월의 기시감, '실미도'에서 '서울의 봄'으로</h4></a><span>12월 25일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703471720595qwVH9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태신, 전두광 아내도... '서울의 봄' 1000만 감사 인사]]></title>
-            <link>https://www.maxmovie.com/news/435921</link>
-            <guid>https://www.maxmovie.com/news/435921</guid>
-            <pubDate>Sun, 24 Dec 2023 09:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435921"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703407151617jLdil.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435921"><h4>이태신, 전두광 아내도... '서울의 봄' 1000만 감사 인사 </h4></a><span>12월 24일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703407151617jLdil.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
