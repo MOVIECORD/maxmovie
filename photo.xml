@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 00:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 01:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김태리·류준열 화려한 액션 현장 '외계+인' 2부 촬영장 엿보니...]]></title>
+            <link>https://www.maxmovie.com/news/435944</link>
+            <guid>https://www.maxmovie.com/news/435944</guid>
+            <pubDate>Wed, 27 Dec 2023 01:43:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/435944"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1703639463543QXUm5.jpg" alt=""></span><span class="textBox"><h4>김태리·류준열 화려한 액션 현장 '외계+인' 2부 촬영장 엿보니...</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703639463543QXUm5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 이유영이 그린 1999년 12월31일 '세기말의 사랑']]></title>
             <link>https://www.maxmovie.com/news/435936</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Nov 2023 02:21:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435626"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1701219208403vPRBI.jpg" alt=""></span><span class="textBox"><h4>임시완 떠받드는 '소년시대' 부여농고 6인은 누구?</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701219208403vPRBI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최후의 전투 현장 공개한 영화 '노량: 죽음의 바다']]></title>
-            <link>https://www.maxmovie.com/news/435614</link>
-            <guid>https://www.maxmovie.com/news/435614</guid>
-            <pubDate>Tue, 28 Nov 2023 03:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435614"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1701130952210L4glN.jpg" alt=""></span><span class="textBox"><h4>최후의 전투 현장 공개한 영화 '노량: 죽음의 바다'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701130952210L4glN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
