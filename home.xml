@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 05:08:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 06:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703741342490SisML.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이선균, 가족·동료들 마지막 배웅 속 영면에 들다]]></title>
+            <link>https://www.maxmovie.com/news/435989</link>
+            <guid>https://www.maxmovie.com/news/435989</guid>
+            <pubDate>Fri, 29 Dec 2023 06:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435989"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703824608448wVLGT.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435989"><h4>이선균, 가족·동료들 마지막 배웅 속 영면에 들다</h4></a><span>58분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703824608448wVLGT.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA["되풀이돼선 안돼" 이선균 사망에 비통한 영화계]]></title>
             <link>https://www.maxmovie.com/news/435971</link>
             <guid>https://www.maxmovie.com/news/435971</guid>
             <pubDate>Thu, 28 Dec 2023 09:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435971"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703751908078fHpPW.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435971"><h4>"되풀이돼선 안돼" 이선균 사망에 비통한 영화계</h4></a><span>20시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA["시대를 비춘 배우를 떠나보냈다"
+"영화계가 좋은 배우를 잃었다"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703751908078fHpPW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435966</link>
             <guid>https://www.maxmovie.com/news/435966</guid>
             <pubDate>Thu, 28 Dec 2023 06:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[일부 언론·유튜버의 기습 방문 취재 피해 
-"감당하기 어려울 만큼 잔혹한 상황" 호소]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435966"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703742256040vMZuh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435966"><h4>이선균 소속사 "기습방문 등 과도한 취재 자제" 요청</h4></a><span>12월 28일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703742256040vMZuh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 총 관객수, '1억2500만~1억2600만여명'..감염병 확산 이후 최대]]></title>
-            <link>https://www.maxmovie.com/news/435964</link>
-            <guid>https://www.maxmovie.com/news/435964</guid>
-            <pubDate>Thu, 28 Dec 2023 06:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435964"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703732372768W3vPb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435964"><h4>올해 총 관객수, '1억2500만~1억2600만여명'..감염병 확산 이후 최대 </h4></a><span>12월 28일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703732372768W3vPb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
