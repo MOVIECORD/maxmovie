@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 23:06:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 00:29:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703830189041vqRYC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[기안84, MBC 연예대상의 주인공...꾸밈없는 매력 통했다]]></title>
+            <link>https://www.maxmovie.com/news/435999</link>
+            <guid>https://www.maxmovie.com/news/435999</guid>
+            <pubDate>Sat, 30 Dec 2023 00:29:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435999"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703892485709aIFfZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435999"><h4>기안84, MBC 연예대상의 주인공...꾸밈없는 매력 통했다</h4></a><span>7분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703892485709aIFfZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[위클리 이슈 모음zip] 하이브 악플러+스토커 강경 대응·송가인 콘서트 무대설치 사고로 연기 외]]></title>
             <link>https://www.maxmovie.com/news/435997</link>
             <guid>https://www.maxmovie.com/news/435997</guid>
             <pubDate>Fri, 29 Dec 2023 22:05:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435997"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17038396259187J8Os.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435997"><h4>[위클리 이슈 모음zip] 하이브 악플러+스토커 강경 대응·송가인 콘서트 무대설치 사고로 연기 외</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[일주일 동안 엔터테인먼트 전반에서 일어난 다양한 이슈를 소개합니다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17038396259187J8Os.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +90,8 @@
             <link>https://www.maxmovie.com/news/435982</link>
             <guid>https://www.maxmovie.com/news/435982</guid>
             <pubDate>Fri, 29 Dec 2023 09:06:06 GMT</pubDate>
-            <content:encoded><![CDATA[29일 비공개 발인식 엄수
-48년 짧은 생 마감과 이별]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435982"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703813789109lRawm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435982"><h4>'평안에 이르기를'..이선균, 영원히 이별하다</h4></a><span>22시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703813789109lRawm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['노량', 300만 돌파하고 400만 넘본다…'서울의 봄' 흥행은 어디까지]]></title>
-            <link>https://www.maxmovie.com/news/435980</link>
-            <guid>https://www.maxmovie.com/news/435980</guid>
-            <pubDate>Fri, 29 Dec 2023 09:06:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435980"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703811112945lCcrm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435980"><h4>'노량', 300만 돌파하고 400만 넘본다…'서울의 봄' 흥행은 어디까지</h4></a><span>22시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703811112945lCcrm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
