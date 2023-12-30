@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 00:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 01:42:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/435999</link>
             <guid>https://www.maxmovie.com/news/435999</guid>
             <pubDate>Sat, 30 Dec 2023 00:29:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435999"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703892485709aIFfZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435999"><h4>기안84, MBC 연예대상의 주인공...꾸밈없는 매력 통했다</h4></a><span>7분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435999"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703892485709aIFfZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435999"><h4>기안84, MBC 연예대상의 주인공...꾸밈없는 매력 통했다</h4></a><span>1시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703892485709aIFfZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -58,6 +58,14 @@
             <pubDate>Fri, 29 Dec 2023 22:05:06 GMT</pubDate>
             <content:encoded><![CDATA[일주일 동안 엔터테인먼트 전반에서 일어난 다양한 이슈를 소개합니다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17038396259187J8Os.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스무비레터 #33번째 편지] 맥스무비 선정 2023년 최고의 영화는? (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/435998</link>
+            <guid>https://www.maxmovie.com/news/435998</guid>
+            <pubDate>Sat, 30 Dec 2023 01:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703840262112C2ECt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금융맨서 세상 바꾼 게임체인저로…'아마존: 더 비기닝' 1월11일 개봉 (맥스무비)]]></title>
@@ -81,17 +89,8 @@
             <link>https://www.maxmovie.com/news/435983</link>
             <guid>https://www.maxmovie.com/news/435983</guid>
             <pubDate>Fri, 29 Dec 2023 02:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[버락 오바마, 매년 좋아하는 영화 등 발표
-'오펜하이머' '괴물' 등과 함께 목록 포함]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435983"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17038155440315g4rG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/435983"><h4>'패스트 라이브즈' , 오바마 전 대통령이 꼽은 '올해의 영화' </h4></a><span>23시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17038155440315g4rG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['평안에 이르기를'..이선균, 영원히 이별하다 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/435982</link>
-            <guid>https://www.maxmovie.com/news/435982</guid>
-            <pubDate>Fri, 29 Dec 2023 01:36:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435982"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703813789109lRawm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435982"><h4>'평안에 이르기를'..이선균, 영원히 이별하다</h4></a><span>22시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703813789109lRawm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰]  '소년시대' 성공의 히든카드 이상진, '용기의 아이콘' (맥스무비 ─ 인터뷰)]]></title>
@@ -272,10 +271,18 @@
             <title><![CDATA[기안84, MBC 연예대상의 주인공...꾸밈없는 매력 통했다 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/435999</link>
             <guid>https://www.maxmovie.com/news/435999</guid>
-            <pubDate>Sat, 30 Dec 2023 00:29:40 GMT</pubDate>
+            <pubDate>Sat, 30 Dec 2023 00:29:21 GMT</pubDate>
             <content:encoded><![CDATA['태어난 김에 세계일주' '나 혼자 산다'에서 맹활약
 돌아가신 아버지 떠올리며 수상소감]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703892485709aIFfZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스무비레터 #33번째 편지] 맥스무비 선정 2023년 최고의 영화는? (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/435998</link>
+            <guid>https://www.maxmovie.com/news/435998</guid>
+            <pubDate>Sat, 30 Dec 2023 01:41:54 GMT</pubDate>
+            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703840262112C2ECt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[위클리 이슈 모음zip] 하이브 악플러+스토커 강경 대응·송가인 콘서트 무대설치 사고로 연기 외 (맥스무비 ─ 기획)]]></title>
@@ -299,8 +306,7 @@
             <link>https://www.maxmovie.com/news/435995</link>
             <guid>https://www.maxmovie.com/news/435995</guid>
             <pubDate>Fri, 29 Dec 2023 07:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 10일째 3만명 돌파
-반 클라이번 콩쿠르 담은 음악 다큐]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435995"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703830836480hjMdb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435995"><h4>임윤찬 우승 순간 담은 '크레센도' 3만명 돌파</h4></a><span>19시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703830836480hjMdb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +314,8 @@
             <link>https://www.maxmovie.com/news/435994</link>
             <guid>https://www.maxmovie.com/news/435994</guid>
             <pubDate>Fri, 29 Dec 2023 07:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435994"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703830189041vqRYC.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435994"><h4>제니·지수·리사·로제 떠난다…YG서 그룹 활동만</h4></a><span>18시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[YG "개별 활동 추가 계약 없다"
+제니, 최근 개인 레이블 설립…다른 멤버들도 준비중]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703830189041vqRYC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -342,17 +349,16 @@
             <link>https://www.maxmovie.com/news/435982</link>
             <guid>https://www.maxmovie.com/news/435982</guid>
             <pubDate>Fri, 29 Dec 2023 01:36:13 GMT</pubDate>
-            <content:encoded><![CDATA[29일 비공개 발인식 엄수
-48년 짧은 생 마감과 이별]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435982"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703813789109lRawm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435982"><h4>'평안에 이르기를'..이선균, 영원히 이별하다</h4></a><span>12월 29일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703813789109lRawm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[2023년 리뷰 결산] '포테이토 지수' 최고점 톱5 작품은? (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/435981</link>
-            <guid>https://www.maxmovie.com/news/435981</guid>
-            <pubDate>Fri, 29 Dec 2023 09:06:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435981"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703812332595SMdqF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/435981"><h4>[2023년 리뷰 결산] '포테이토 지수' 최고점 톱5 작품은? </h4></a><span>16시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703812332595SMdqF.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[맥스무비레터 #33번째 편지] 맥스무비 선정 2023년 최고의 영화는? (맥스무비 ─ OTT)]]></title>
+            <link>https://www.maxmovie.com/news/435998</link>
+            <guid>https://www.maxmovie.com/news/435998</guid>
+            <pubDate>Sat, 30 Dec 2023 01:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703840262112C2ECt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 괴물과 맞서는 두 청춘의 이야기 '경성크리처' (맥스무비 ─ OTT)]]></title>
@@ -385,8 +391,7 @@
             <link>https://www.maxmovie.com/news/435946</link>
             <guid>https://www.maxmovie.com/news/435946</guid>
             <pubDate>Wed, 27 Dec 2023 02:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[10부작 시즌1 성공적으로 마무리
-"시즌2가 있을 거라 생각하기에..."]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435946"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703642051336XLOZ4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435946"><h4>임시완, '소년시대' 종영이 "전혀 아쉽지 않은" 이유 </h4></a><span>12월 27일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703642051336XLOZ4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -394,7 +399,8 @@
             <link>https://www.maxmovie.com/news/435942</link>
             <guid>https://www.maxmovie.com/news/435942</guid>
             <pubDate>Wed, 27 Dec 2023 01:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435942"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/170363774398788ynM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435942"><h4>끝나지 않은 '소년시대'... 부여 뒤집어 놓은 11인의 친필 인사 </h4></a><span>12월 27일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[웃음 더한 카타르시스  완벽한 피날레
+첫주 대비 시청량 2914% 상승 화제작]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/170363774398788ynM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -429,17 +435,8 @@
             <link>https://www.maxmovie.com/news/435930</link>
             <guid>https://www.maxmovie.com/news/435930</guid>
             <pubDate>Tue, 26 Dec 2023 06:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[임시완의 친구 호석 역할 맡아 활약
-올해 영화 '30일' 흥행 등 배우로 성장]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435930"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17035573864652DTY8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/435930"><h4>[인터뷰]  '소년시대' 성공의 히든카드 이상진, '용기의 아이콘'</h4></a><span>12월 26일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17035573864652DTY8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['소년시대' 시즌2, 안 할 이유가 없는 '몇 가지 근거' (맥스무비 ─ OTT)]]></title>
-            <link>https://www.maxmovie.com/news/435927</link>
-            <guid>https://www.maxmovie.com/news/435927</guid>
-            <pubDate>Tue, 26 Dec 2023 01:42:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435927"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1703551107667iXF8U.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435927"><h4>'소년시대' 시즌2, 안 할 이유가 없는 '몇 가지 근거' </h4></a><span>12월 26일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703551107667iXF8U.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['슬픔의 삼각형' 제작사의 신작 '클럽 제로'... 과연 어떤 이야기? (맥스무비 ─ 포토)]]></title>
