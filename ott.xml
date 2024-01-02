@@ -4,7 +4,7 @@
         <title>맥스무비 ─ OTT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 23:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 00:30:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,6 +49,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703820941794WmnPv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[2024년 뭘 볼까] '오징어 게임2'부터 '파친코2' '우씨왕후'까지...OTT 시리즈]]></title>
+            <link>https://www.maxmovie.com/news/435987</link>
+            <guid>https://www.maxmovie.com/news/435987</guid>
+            <pubDate>Tue, 02 Jan 2024 00:30:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024년&nbsp;다양한 장르의 OTT(온라인동영상서비스) 시리즈가 찾아온다.넷플릭스의 '오징어 게임2'와 애플TV+의 '파친코2'는 전 세계 시청자들이 기다리는 시리즈. 현재 촬영 및 후반작업이&nbsp;진행 중으로 연내 공개를 준비하고 있다.&nbsp;티빙도 공격적인 태세를 갖췄다. 디즈니+는 '킬러들이 쇼핑몰'로 새해를 시작하고,&nbsp;쿠팡플레이 역시 '소년시대'의 열기를 이어갈]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704063002859GyitQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[2023 맥스어워드:시리즈]  무적의 히어로 고윤정·이정하, 해트트릭 성공 임시완]]></title>
             <link>https://www.maxmovie.com/news/435975</link>
             <guid>https://www.maxmovie.com/news/435975</guid>
@@ -80,17 +88,8 @@
             <link>https://www.maxmovie.com/news/435942</link>
             <guid>https://www.maxmovie.com/news/435942</guid>
             <pubDate>Wed, 27 Dec 2023 01:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[웃음 더한 카타르시스  완벽한 피날레
-첫주 대비 시청량 2914% 상승 화제작]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435942"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/170363774398788ynM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/435942"><h4>끝나지 않은 '소년시대'... 부여 뒤집어 놓은 11인의 친필 인사 </h4></a><span>12월 27일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/170363774398788ynM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호불호 극명 '경성크리처' '레벨 문'... 파트2로 반전 노린다]]></title>
-            <link>https://www.maxmovie.com/news/435938</link>
-            <guid>https://www.maxmovie.com/news/435938</guid>
-            <pubDate>Tue, 26 Dec 2023 09:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/435938"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/170357529579141SWu.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/435938"><h4>호불호 극명 '경성크리처' '레벨 문'... 파트2로 반전 노린다</h4></a><span>12월 26일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/170357529579141SWu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
