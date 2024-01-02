@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 04:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 05:07:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신현빈, 2024년에도 '사랑한다고 말해줘']]></title>
+            <link>https://www.maxmovie.com/news/436025</link>
+            <guid>https://www.maxmovie.com/news/436025</guid>
+            <pubDate>Tue, 02 Jan 2024 05:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436025"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17041605206283CUcZ.jpg" alt=""></span><span class="textBox"><h4>신현빈, 2024년에도 '사랑한다고 말해줘'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17041605206283CUcZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['슬픔의 삼각형' 제작사의 신작 '클럽 제로'... 과연 어떤 이야기?]]></title>
             <link>https://www.maxmovie.com/news/435979</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Dec 2023 01:56:43 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435656"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1701392168618q1lDZ.jpg" alt=""></span><span class="textBox"><h4>'밤이 되었습니다' 의문의 마피아 게임이 만든 참혹한 현장</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701392168618q1lDZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지독하게 '운수 오진 날', 이성민·유연석·이정은의 '악연' 공개]]></title>
-            <link>https://www.maxmovie.com/news/435639</link>
-            <guid>https://www.maxmovie.com/news/435639</guid>
-            <pubDate>Thu, 30 Nov 2023 01:47:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435639"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1701306317027OMNS8.jpg" alt=""></span><span class="textBox"><h4>지독하게 '운수 오진 날', 이성민·유연석·이정은의 '악연' 공개 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701306317027OMNS8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
