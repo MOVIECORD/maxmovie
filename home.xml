@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 22:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 23:07:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17042442589508GpzZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['서울의 봄'... '악의 탄생 화장실' 장면 비하인드 마침내 공개]]></title>
+            <link>https://www.maxmovie.com/news/436047</link>
+            <guid>https://www.maxmovie.com/news/436047</guid>
+            <pubDate>Wed, 03 Jan 2024 23:06:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436047"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704321465552f90bu.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436047"><h4>'서울의 봄'... '악의 탄생 화장실' 장면 비하인드 마침내 공개</h4></a><span>5분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704321465552f90bu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[데일리 핫이슈] 제니, 이효리 만남·트와이스 컴백·정소민, 정해인과 로맨스 호흡]]></title>
             <link>https://www.maxmovie.com/news/436046</link>
             <guid>https://www.maxmovie.com/news/436046</guid>
             <pubDate>Wed, 03 Jan 2024 22:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436046"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704274855314dZWLA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436046"><h4>[데일리 핫이슈] 제니, 이효리 만남·트와이스 컴백·정소민, 정해인과 로맨스 호흡</h4></a><span>6분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704274855314dZWLA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,18 +90,8 @@
             <link>https://www.maxmovie.com/news/436035</link>
             <guid>https://www.maxmovie.com/news/436035</guid>
             <pubDate>Wed, 03 Jan 2024 10:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 D-7 한국영화 예매율 1위
-활약 커지는 김태리·이하늬
-3일 언론에 첫 공개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436035"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704242213165SU7ZQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436035"><h4>韓영화 예매율 1위로 올라선 '외계+인' 2부, 마침내 첫 공개된다</h4></a><span>22시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704242213165SU7ZQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송강호의 첫 드라마 도전 '삼식이 삼촌'은 어떤 작품?]]></title>
-            <link>https://www.maxmovie.com/news/436033</link>
-            <guid>https://www.maxmovie.com/news/436033</guid>
-            <pubDate>Wed, 03 Jan 2024 10:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436033"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704240817599PMBli.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/436033"><h4>송강호의 첫 드라마 도전 '삼식이 삼촌'은 어떤 작품? </h4></a><span>21시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704240817599PMBli.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
