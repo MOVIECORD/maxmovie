@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 00:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 01:45:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파트2 공개 앞둔 '경성크리처'의 신스틸러들]]></title>
+            <link>https://www.maxmovie.com/news/436036</link>
+            <guid>https://www.maxmovie.com/news/436036</guid>
+            <pubDate>Wed, 03 Jan 2024 01:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436036"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17042442589508GpzZ.jpg" alt=""></span><span class="textBox"><h4>파트2 공개 앞둔 '경성크리처'의 신스틸러들 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17042442589508GpzZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김현주‧박희순‧박병은‧류경수이 그린 '선산' 미스터리]]></title>
             <link>https://www.maxmovie.com/news/436031</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 04 Dec 2023 01:49:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435682"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1701652452117Fs0Xa.jpg" alt=""></span><span class="textBox"><h4>이순신 3부작 피날레 '노량: 죽음의 바다', 긴박한 마지막 해전의 현장 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701652452117Fs0Xa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천재 아티스트 임윤찬의 생생한 기록, 영화 '크레센도' 스틸로 먼저 확인]]></title>
-            <link>https://www.maxmovie.com/news/435657</link>
-            <guid>https://www.maxmovie.com/news/435657</guid>
-            <pubDate>Fri, 01 Dec 2023 01:56:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435657"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1701393407002bfyqS.jpg" alt=""></span><span class="textBox"><h4>천재 아티스트 임윤찬의 생생한 기록, 영화 '크레센도' 스틸로 먼저 확인  </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701393407002bfyqS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
