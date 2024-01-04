@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 05:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 06:10:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704335409539imGwN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[설마... 또? '더 퍼스트 슬램덩크' 재개봉 팬덤 다시 움직인다]]></title>
+            <link>https://www.maxmovie.com/news/436056</link>
+            <guid>https://www.maxmovie.com/news/436056</guid>
+            <pubDate>Thu, 04 Jan 2024 06:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436056"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704343359000ogDBD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436056"><h4>설마... 또? '더 퍼스트 슬램덩크' 재개봉 팬덤 다시 움직인다 </h4></a><span>55분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704343359000ogDBD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[D-1 베일 벗는 '경성크리처' 파트2, 박서준과 한소희의 운명은...]]></title>
             <link>https://www.maxmovie.com/news/436054</link>
             <guid>https://www.maxmovie.com/news/436054</guid>
             <pubDate>Thu, 04 Jan 2024 05:06:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436054"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704335960018tOJmc.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436054"><h4>D-1 베일 벗는 '경성크리처' 파트2, 박서준과 한소희의 운명은...</h4></a><span>45분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[1월5일 파트2 공개 3부작 구성
+옹성병원 두고 엇갈린 주인공들]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704335960018tOJmc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/436045</link>
             <guid>https://www.maxmovie.com/news/436045</guid>
             <pubDate>Thu, 04 Jan 2024 04:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[3일 언론배급 시사회 통해 작품 공개
-"1년 반 동안 2부 작업에 매달려왔다"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436045"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704269865573HG2L9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436045"><h4>'외계+인' 2부 공개한 최동훈 감독 "감성에 바탕을 둔 액션드라마" </h4></a><span>21시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704269865573HG2L9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬욱 韓영화 응원은 계속…'외계+인' 2부 GV 참여]]></title>
-            <link>https://www.maxmovie.com/news/436043</link>
-            <guid>https://www.maxmovie.com/news/436043</guid>
-            <pubDate>Wed, 03 Jan 2024 08:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436043"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17042675049117XZAF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436043"><h4>박찬욱 韓영화 응원은 계속…'외계+인' 2부 GV 참여</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17042675049117XZAF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

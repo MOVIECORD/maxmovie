@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 05:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 06:10:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[군 제대 공명, 영화 '시민덕희'에선 보이스피싱 조직원 파격 변신]]></title>
+            <link>https://www.maxmovie.com/news/436053</link>
+            <guid>https://www.maxmovie.com/news/436053</guid>
+            <pubDate>Thu, 04 Jan 2024 06:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436053"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704335684145BhZXN.jpg" alt=""></span><span class="textBox"><h4>군 제대 공명, 영화 '시민덕희'에선 보이스피싱 조직원 파격 변신 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704335684145BhZXN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파트2 공개 앞둔 '경성크리처'의 신스틸러들]]></title>
             <link>https://www.maxmovie.com/news/436036</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 04 Dec 2023 02:22:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435684"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/170165376784314XNM.jpg" alt=""></span><span class="textBox"><h4>충격과 분노, 2019년 빙상계 부조리 사건 다룬 영화 '미끼' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/170165376784314XNM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이순신 3부작 피날레 '노량: 죽음의 바다', 긴박한 마지막 해전의 현장]]></title>
-            <link>https://www.maxmovie.com/news/435682</link>
-            <guid>https://www.maxmovie.com/news/435682</guid>
-            <pubDate>Mon, 04 Dec 2023 01:49:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435682"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1701652452117Fs0Xa.jpg" alt=""></span><span class="textBox"><h4>이순신 3부작 피날레 '노량: 죽음의 바다', 긴박한 마지막 해전의 현장 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701652452117Fs0Xa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
