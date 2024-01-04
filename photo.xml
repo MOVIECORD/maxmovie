@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 09:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 10:07:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 '서치3'에 담긴 10대들의 위험천만한 SNS 세상]]></title>
+            <link>https://www.maxmovie.com/news/436055</link>
+            <guid>https://www.maxmovie.com/news/436055</guid>
+            <pubDate>Thu, 04 Jan 2024 10:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436055"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704338382439yK2br.jpg" alt=""></span><span class="textBox"><h4>영화 '서치3'에 담긴 10대들의 위험천만한 SNS 세상</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704338382439yK2br.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[군 제대 공명, 영화 '시민덕희'에선 보이스피싱 조직원 파격 변신]]></title>
             <link>https://www.maxmovie.com/news/436053</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 04 Dec 2023 06:10:58 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435685"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1701654892015prz6x.jpg" alt=""></span><span class="textBox"><h4>방탄소년단의 놀라운 여정, 10년간의 기록 공개 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701654892015prz6x.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충격과 분노, 2019년 빙상계 부조리 사건 다룬 영화 '미끼']]></title>
-            <link>https://www.maxmovie.com/news/435684</link>
-            <guid>https://www.maxmovie.com/news/435684</guid>
-            <pubDate>Mon, 04 Dec 2023 02:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435684"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/170165376784314XNM.jpg" alt=""></span><span class="textBox"><h4>충격과 분노, 2019년 빙상계 부조리 사건 다룬 영화 '미끼' </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/170165376784314XNM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
