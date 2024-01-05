@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 02:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 03:07:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/436066</link>
             <guid>https://www.maxmovie.com/news/436066</guid>
             <pubDate>Fri, 05 Jan 2024 02:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436066"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704415640291TenUz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436066"><h4>불안한 디즈니 100주년作 '위시', 턱밑까지 추격한 '서봄' '노량'</h4></a><span>19분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436066"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704415640291TenUz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436066"><h4>불안한 디즈니 100주년作 '위시', 턱밑까지 추격한 '서봄' '노량'</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704415640291TenUz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,6 +68,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704359387752Rhz3m.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[D-1 베일 벗는 '경성크리처' 파트2, 박서준과 한소희의 운명은...]]></title>
+            <link>https://www.maxmovie.com/news/436054</link>
+            <guid>https://www.maxmovie.com/news/436054</guid>
+            <pubDate>Fri, 05 Jan 2024 03:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[1월5일 파트2 공개 3부작 구성
+옹성병원 두고 엇갈린 주인공들]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704335960018tOJmc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤여정이 '미나리'·'파친코' 이후 선택한 작품은]]></title>
             <link>https://www.maxmovie.com/news/436052</link>
             <guid>https://www.maxmovie.com/news/436052</guid>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/436051</link>
             <guid>https://www.maxmovie.com/news/436051</guid>
             <pubDate>Fri, 05 Jan 2024 00:31:16 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕타임스 등 주요 외신 예측
-한국계 셀린 송 감독 연출 호평]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436051"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704335409539imGwN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/436051"><h4>'패스트 라이브즈', 진짜 아카데미상 가나?</h4></a><span>01월 04일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704335409539imGwN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#Shorts] 팀외계인 어셈블! 한 자리에 모인 '외계+인' 2부 주역들]]></title>
-            <link>https://www.maxmovie.com/news/436049</link>
-            <guid>https://www.maxmovie.com/news/436049</guid>
-            <pubDate>Thu, 04 Jan 2024 00:31:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436049"><span class="imgBox" style="background-image:url(https://i.ytimg.com/vi/U3qhrKTxyL8/0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436049"><h4>[#Shorts] 팀외계인 어셈블! 한 자리에 모인 '외계+인' 2부 주역들</h4></a><span>01월 04일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/U3qhrKTxyL8/0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
