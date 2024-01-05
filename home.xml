@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 06:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 07:05:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/436073</link>
             <guid>https://www.maxmovie.com/news/436073</guid>
             <pubDate>Fri, 05 Jan 2024 06:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436073"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704432071756fThLO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436073"><h4>역사 전문가들의 만남…김한민·서경덕 대담</h4></a><span>4분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436073"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704432071756fThLO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436073"><h4>역사 전문가들의 만남…김한민·서경덕 대담</h4></a><span>58분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704432071756fThLO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -59,6 +59,15 @@
             <content:encoded><![CDATA[옹성병원에서 벌어진 그 일...
 1월5일 파트2 공개, 시즌1 끝]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704422101991UdxiS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#Shorts] 얼치기 도사의 컴백! 류준열이 전하는 새해 인사]]></title>
+            <link>https://www.maxmovie.com/news/436067</link>
+            <guid>https://www.maxmovie.com/news/436067</guid>
+            <pubDate>Fri, 05 Jan 2024 07:04:57 GMT</pubDate>
+            <content:encoded><![CDATA[1월10일 개봉하는 '외계+인' 2부에서 무륵 역
+영화 개봉 앞두고 예비 관객들에게 새해 인사]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/_NE2D6KG_UE/0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 강렬한 운명과 업보...'경성크리처' 파트2]]></title>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/436056</link>
             <guid>https://www.maxmovie.com/news/436056</guid>
             <pubDate>Fri, 05 Jan 2024 00:31:16 GMT</pubDate>
-            <content:encoded><![CDATA[1월4일 개봉 1주년 전국 확대 상영 
-예매관객 1만명 육박 팬덤 또 집결]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436056"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704343359000ogDBD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436056"><h4>설마... 또? '더 퍼스트 슬램덩크' 재개봉 팬덤 다시 움직인다 </h4></a><span>01월 04일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704343359000ogDBD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[D-1 베일 벗는 '경성크리처' 파트2, 박서준과 한소희의 운명은...]]></title>
-            <link>https://www.maxmovie.com/news/436054</link>
-            <guid>https://www.maxmovie.com/news/436054</guid>
-            <pubDate>Fri, 05 Jan 2024 03:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436054"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704335960018tOJmc.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436054"><h4>D-1 베일 벗는 '경성크리처' 파트2, 박서준과 한소희의 운명은...</h4></a><span>01월 04일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704335960018tOJmc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
