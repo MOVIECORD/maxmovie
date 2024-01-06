@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jan 2024 21:03:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jan 2024 22:05:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -60,6 +60,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704432071756fThLO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 죽음을 향한 복수, '이재, 곧 죽습니다' 파트2]]></title>
+            <link>https://www.maxmovie.com/news/436062</link>
+            <guid>https://www.maxmovie.com/news/436062</guid>
+            <pubDate>Sat, 06 Jan 2024 22:05:01 GMT</pubDate>
+            <content:encoded><![CDATA['이재, 곧 죽습니다'의 한 장면. 사진제공=티빙오늘, 볼만한 작품을 추천합니다.◆ '이재, 곧 죽습니다' 파트2티빙 오리지널 시리즈 '이재, 곧 죽습니다'는 지옥으로 떨어지기 직전의 최이재(서인국)가 죽음(박소담)이 내린 심판에 의해 12번의 죽음과 삶을 경험하는&nbsp;인생 환승 드라마다.&nbsp;지난달 공개한&nbsp;파트1은 서인국, 박소담을&nbsp;중심으로 다양한 캐릭터의 활약]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17043592318553hnFu.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[경성크리처 다시보기] 파트1 상징하는 미공개 장면들]]></title>
             <link>https://www.maxmovie.com/news/436070</link>
             <guid>https://www.maxmovie.com/news/436070</guid>
@@ -82,17 +90,8 @@
             <link>https://www.maxmovie.com/news/436066</link>
             <guid>https://www.maxmovie.com/news/436066</guid>
             <pubDate>Fri, 05 Jan 2024 02:21:03 GMT</pubDate>
-            <content:encoded><![CDATA['위시' 정상 지켰으나 '서울의 봄' 바짝 추격
-'외계+인2'도 1월10일 출격]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436066"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704415640291TenUz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436066"><h4>불안한 디즈니 100주년作 '위시', 바짝 뒤쫓는 '서울의 봄'</h4></a><span>01월 05일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704415640291TenUz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#Shorts] 얼치기 도사의 컴백! 류준열이 전하는 새해 인사]]></title>
-            <link>https://www.maxmovie.com/news/436067</link>
-            <guid>https://www.maxmovie.com/news/436067</guid>
-            <pubDate>Sat, 06 Jan 2024 00:31:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436067"><span class="imgBox" style="background-image:url(https://i.ytimg.com/vi/_NE2D6KG_UE/0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436067"><h4>[#Shorts] 얼치기 도사의 컴백! 류준열이 전하는 새해 인사</h4></a><span>01월 05일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/_NE2D6KG_UE/0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
