@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 00:32:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 01:50:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리보는 '킹스맨' 감독의 새 액션 블록버스터 '아가일']]></title>
+            <link>https://www.maxmovie.com/news/436104</link>
+            <guid>https://www.maxmovie.com/news/436104</guid>
+            <pubDate>Tue, 09 Jan 2024 01:50:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436104"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704763359306DeOa8.jpg" alt=""></span><span class="textBox"><h4>미리보는 '킹스맨' 감독의 새 액션 블록버스터 '아가일' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704763359306DeOa8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 소지섭이 주목한 '플랜 75',  죽음 권하는 사회에 경종]]></title>
             <link>https://www.maxmovie.com/news/436089</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Dec 2023 01:49:02 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435706"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17018252293584YD3F.jpg" alt=""></span><span class="textBox"><h4>켄 로치 감독이 전하는 희망, '나의 올드 오크' 어떤 영화?</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17018252293584YD3F.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[류이치 사카모토의 마지막 연주 영화로 탄생, 숭고한 장면들]]></title>
-            <link>https://www.maxmovie.com/news/435695</link>
-            <guid>https://www.maxmovie.com/news/435695</guid>
-            <pubDate>Tue, 05 Dec 2023 02:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435695"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17017404103049NoTL.jpg" alt=""></span><span class="textBox"><h4>류이치 사카모토의 마지막 연주 영화로 탄생, 숭고한 장면들 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17017404103049NoTL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
