@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 09:07:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 10:07:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,8 +48,17 @@
             <link>https://www.maxmovie.com/news/436108</link>
             <guid>https://www.maxmovie.com/news/436108</guid>
             <pubDate>Tue, 09 Jan 2024 09:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436108"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704774714527iXxXq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436108"><h4>'경성크리처' 파트2가 남긴 여운... 시즌2 향한 궁금증으로 </h4></a><span>57분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436108"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704774714527iXxXq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436108"><h4>'경성크리처' 파트2가 남긴 여운... 시즌2 향한 궁금증으로 </h4></a><span>1시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704774714527iXxXq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[건물주 vs 장의사…유해진의 극과 극 변신 예고]]></title>
+            <link>https://www.maxmovie.com/news/436107</link>
+            <guid>https://www.maxmovie.com/news/436107</guid>
+            <pubDate>Tue, 09 Jan 2024 10:07:44 GMT</pubDate>
+            <content:encoded><![CDATA[내달 '도그데이즈' '파묘' 2편 개봉
+누적관객 1억명 돌파…흥행 행보 이어가나]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704790215418gszqD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['패스트 라이브즈', 미국 비평가들 홀렸다…작품상 영예]]></title>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/436099</link>
             <guid>https://www.maxmovie.com/news/436099</guid>
             <pubDate>Tue, 09 Jan 2024 01:50:14 GMT</pubDate>
-            <content:encoded><![CDATA[1월12일 기자회견 열고 성명 발표
-봉준호 감독 및 관련 단체장들 참석]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436099"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704758954110q0Waq.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436099"><h4>봉준호·윤종신 등 "이선균의 안타까운 죽음..." 공동 성명서 발표 </h4></a><span>9시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704758954110q0Waq.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[리들리 스콧 감독 '나폴레옹' 22만 관객 동원→ VOD 공개]]></title>
-            <link>https://www.maxmovie.com/news/436098</link>
-            <guid>https://www.maxmovie.com/news/436098</guid>
-            <pubDate>Tue, 09 Jan 2024 00:32:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436098"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704757986699ofOoX.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436098"><h4>리들리 스콧 감독 '나폴레옹' 22만 관객 동원→ VOD 공개 </h4></a><span>9시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704757986699ofOoX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
