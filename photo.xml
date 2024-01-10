@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 00:32:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 01:51:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마동석부터 노정의까지... 미리보는 '황야' 캐릭터 열전]]></title>
+            <link>https://www.maxmovie.com/news/436117</link>
+            <guid>https://www.maxmovie.com/news/436117</guid>
+            <pubDate>Wed, 10 Jan 2024 01:51:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436117"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704847962549M1jFm.jpg" alt=""></span><span class="textBox"><h4>마동석부터 노정의까지... 미리보는 '황야' 캐릭터 열전</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704847962549M1jFm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[괴이한 풍경이 만든 미스터리, 미리보는 '선산' 비하인드]]></title>
             <link>https://www.maxmovie.com/news/436106</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Dec 2023 09:07:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435726"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17019351355899dUTA.jpg" alt=""></span><span class="textBox"><h4>시청자는 몰랐던 '스위트홈' 시즌2의 순간들</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17019351355899dUTA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남주혁·유지태·이준혁 몰두한 '비질란테' 촬영 현장 모습]]></title>
-            <link>https://www.maxmovie.com/news/435721</link>
-            <guid>https://www.maxmovie.com/news/435721</guid>
-            <pubDate>Thu, 07 Dec 2023 04:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435721"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1701918034277UZ06b.jpg" alt=""></span><span class="textBox"><h4>남주혁·유지태·이준혁 몰두한 '비질란테' 촬영 현장 모습 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1701918034277UZ06b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
