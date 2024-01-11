@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 09:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 10:08:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704931297164vyS0Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새 극장판으로 돌아오는 '귀멸의 칼날' 또 흥행할까]]></title>
+            <link>https://www.maxmovie.com/news/436147</link>
+            <guid>https://www.maxmovie.com/news/436147</guid>
+            <pubDate>Thu, 11 Jan 2024 10:07:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436147"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704965717926OvsV7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436147"><h4>새 극장판으로 돌아오는 '귀멸의 칼날' 또 흥행할까</h4></a><span>15분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704965717926OvsV7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['외계+인' 2부 호기심 더욱 자극하는, 자발적 '스포 금지령']]></title>
             <link>https://www.maxmovie.com/news/436146</link>
             <guid>https://www.maxmovie.com/news/436146</guid>
             <pubDate>Thu, 11 Jan 2024 09:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436146"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704959399669P6G6U.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436146"><h4>'외계+인' 2부 호기심 더욱 자극하는, 자발적 '스포 금지령' </h4></a><span>54분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[일찌감치 영화 챙겨본 관객들 중심으로 
+감독이 곳곳에 심은 반전의 설정들 함구]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704959399669P6G6U.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/436133</link>
             <guid>https://www.maxmovie.com/news/436133</guid>
             <pubDate>Thu, 11 Jan 2024 01:49:38 GMT</pubDate>
-            <content:encoded><![CDATA[2월3일 내한 관객과 만날 예정
-연출한 일본영화 중 최고 흥행]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436133"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704932983749DgTD6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436133"><h4>눈부신 흥행 '괴물', 배우들 이어 고레에다 히로카즈 감독 '또' 내한 </h4></a><span>9시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704932983749DgTD6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] '러빙 빈센트' 감독의 환상 세계, 영화 '립세의 사계']]></title>
-            <link>https://www.maxmovie.com/news/436130</link>
-            <guid>https://www.maxmovie.com/news/436130</guid>
-            <pubDate>Wed, 10 Jan 2024 22:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436130"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704870345144g0otE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436130"><h4>[오늘 뭘 볼까] '러빙 빈센트' 감독의 환상 세계, 영화 '립세의 사계'</h4></a><span>11시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704870345144g0otE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
