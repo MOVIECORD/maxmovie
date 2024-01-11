@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 01:50:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 02:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[류준열부터 이하늬까지... '외계+인' 2부 이끈 8명의 서사 한눈에]]></title>
+            <link>https://www.maxmovie.com/news/436136</link>
+            <guid>https://www.maxmovie.com/news/436136</guid>
+            <pubDate>Thu, 11 Jan 2024 02:23:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436136"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704938601152Bsk3T.jpg" alt=""></span><span class="textBox"><h4>류준열부터 이하늬까지... '외계+인' 2부 이끈 8명의 서사 한눈에  </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704938601152Bsk3T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미공개 사진으로 다시 보는... '경성크리처' 시즌1의 순간들]]></title>
             <link>https://www.maxmovie.com/news/436120</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Dec 2023 04:08:59 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435771"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1702353016344QcGpG.jpg" alt=""></span><span class="textBox"><h4>2024년 1월 '시민덕희', 라미란의 통쾌한 추적극</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702353016344QcGpG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['엔드 오브 에반게리온', 27년 만에 한국 온다]]></title>
-            <link>https://www.maxmovie.com/news/435770</link>
-            <guid>https://www.maxmovie.com/news/435770</guid>
-            <pubDate>Tue, 12 Dec 2023 04:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435770"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1702352163761MErmR.jpg" alt=""></span><span class="textBox"><h4>'엔드 오브 에반게리온', 27년 만에 한국 온다</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702352163761MErmR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
