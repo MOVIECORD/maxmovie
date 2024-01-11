@@ -4,9 +4,25 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 02:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 03:08:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기댈 곳 없는 고등학생의 깊은 성장통 '검은 소년' 미리 엿보기]]></title>
+            <link>https://www.maxmovie.com/news/436139</link>
+            <guid>https://www.maxmovie.com/news/436139</guid>
+            <pubDate>Thu, 11 Jan 2024 03:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436139"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704941571471x154R.jpg" alt=""></span><span class="textBox"><h4>기댈 곳 없는 고등학생의 깊은 성장통 '검은 소년' 미리 엿보기</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704941571471x154R.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작년 이어 올해도 흥행 중인 '서울의 봄' 미공개 사진]]></title>
+            <link>https://www.maxmovie.com/news/436138</link>
+            <guid>https://www.maxmovie.com/news/436138</guid>
+            <pubDate>Thu, 11 Jan 2024 03:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436138"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704939809059CwoS5.jpg" alt=""></span><span class="textBox"><h4>작년 이어 올해도 흥행 중인 '서울의 봄' 미공개 사진</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704939809059CwoS5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[류준열부터 이하늬까지... '외계+인' 2부 이끈 8명의 서사 한눈에]]></title>
             <link>https://www.maxmovie.com/news/436136</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 13 Dec 2023 07:06:37 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435786"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17024450859097E6fm.jpg" alt=""></span><span class="textBox"><h4>'크레센도' 화려한 콩쿠르에 감춰진 임윤찬의 무대 뒤 모습</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17024450859097E6fm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아쿠아맨과 로스트 킹덤' 더욱 화려해진 스케일 공개]]></title>
-            <link>https://www.maxmovie.com/news/435785</link>
-            <guid>https://www.maxmovie.com/news/435785</guid>
-            <pubDate>Wed, 13 Dec 2023 07:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435785"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1702444144380zZgJs.jpg" alt=""></span><span class="textBox"><h4>'아쿠아맨과 로스트 킹덤' 더욱 화려해진 스케일 공개</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702444144380zZgJs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024년 1월 '시민덕희', 라미란의 통쾌한 추적극]]></title>
-            <link>https://www.maxmovie.com/news/435771</link>
-            <guid>https://www.maxmovie.com/news/435771</guid>
-            <pubDate>Tue, 12 Dec 2023 04:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435771"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1702353016344QcGpG.jpg" alt=""></span><span class="textBox"><h4>2024년 1월 '시민덕희', 라미란의 통쾌한 추적극</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702353016344QcGpG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
