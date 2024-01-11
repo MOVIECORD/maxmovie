@@ -4,9 +4,18 @@
         <title>맥스무비 ─ OTT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 00:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 01:50:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] '경성크리처' 작가·감독이 답했다, 시즌1 관련 5가지 궁금증]]></title>
+            <link>https://www.maxmovie.com/news/436131</link>
+            <guid>https://www.maxmovie.com/news/436131</guid>
+            <pubDate>Thu, 11 Jan 2024 01:50:01 GMT</pubDate>
+            <content:encoded><![CDATA[731부대와 크리처 접목 시도한 이유 
+마에다와 성심의 관계, 시즌2 키워드]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704872915040RHJnU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미공개 사진으로 다시 보는... '경성크리처' 시즌1의 순간들]]></title>
             <link>https://www.maxmovie.com/news/436120</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/436106</link>
             <guid>https://www.maxmovie.com/news/436106</guid>
             <pubDate>Tue, 09 Jan 2024 08:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[한국적인 소재, 낯선 풍경으로 완성
-연상호 감독이 극본 쓴 미스터리 신작]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436106"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704767754323YCb85.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/436106"><h4>괴이한 풍경이 만든 미스터리, 미리보는 '선산' 비하인드</h4></a><span>01월 09일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704767754323YCb85.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/436103</link>
             <guid>https://www.maxmovie.com/news/436103</guid>
             <pubDate>Tue, 09 Jan 2024 02:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436103"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17047621055316WXtQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/436103"><h4>안보현과 박지현의 코믹 수사물 '재벌X형사'... 어떤 작품? </h4></a><span>01월 09일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[재벌 형사 VS  FM 형사 대결
+1월26일 디즈니+ 공개 예정]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17047621055316WXtQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/436084</link>
             <guid>https://www.maxmovie.com/news/436084</guid>
             <pubDate>Sun, 07 Jan 2024 22:05:20 GMT</pubDate>
-            <content:encoded><![CDATA[시즌1 파트2에서 긴장감 유발 맹활약 
-오랜만에 배우로 매력 발휘, 시즌2 기대]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436084"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704620609784uu1MD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436084"><h4>배우 수현, 알고보니 '경성크리처' 시즌1 히든카드 </h4></a><span>01월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704620609784uu1MD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['경성크리처' 시즌1 떡밥들로 예상하는 시즌2 이야기]]></title>
-            <link>https://www.maxmovie.com/news/436082</link>
-            <guid>https://www.maxmovie.com/news/436082</guid>
-            <pubDate>Sun, 07 Jan 2024 08:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436082"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704611121018mNFXu.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436082"><h4>'경성크리처' 시즌1 떡밥들로 예상하는 시즌2 이야기 </h4></a><span>01월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704611121018mNFXu.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
