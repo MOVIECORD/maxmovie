@@ -4,9 +4,25 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 07:06:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 08:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['SNL' 정이랑 영화 주연까지...사라진 로또 찾아 질주 '아네모네']]></title>
+            <link>https://www.maxmovie.com/news/436159</link>
+            <guid>https://www.maxmovie.com/news/436159</guid>
+            <pubDate>Fri, 12 Jan 2024 08:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436159"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705044097947b8SFa.jpg" alt=""></span><span class="textBox"><h4>'SNL' 정이랑 영화 주연까지...사라진 로또 찾아 질주 '아네모네'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705044097947b8SFa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['킬러들의 쇼핑몰' 이동욱‧김혜준, 삼촌과 조카의 '액션 맛집']]></title>
+            <link>https://www.maxmovie.com/news/436156</link>
+            <guid>https://www.maxmovie.com/news/436156</guid>
+            <pubDate>Fri, 12 Jan 2024 08:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436156"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17050426118182QSkS.jpg" alt=""></span><span class="textBox"><h4>'킬러들의 쇼핑몰' 이동욱‧김혜준, 삼촌과 조카의 '액션 맛집'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17050426118182QSkS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기댈 곳 없는 고등학생의 깊은 성장통 '검은 소년' 미리 엿보기]]></title>
             <link>https://www.maxmovie.com/news/436139</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 13 Dec 2023 22:05:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435788"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1702446974259V1O9Y.jpg" alt=""></span><span class="textBox"><h4>뉴욕에 불시착한 말러드 가족의 모험 그린 '인투 더 월드'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702446974259V1O9Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024년 새해에 찾아오는 '외계+인' 2부의 강력한 캐릭터 군단]]></title>
-            <link>https://www.maxmovie.com/news/435787</link>
-            <guid>https://www.maxmovie.com/news/435787</guid>
-            <pubDate>Wed, 13 Dec 2023 07:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435787"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1702446229010E67t9.jpg" alt=""></span><span class="textBox"><h4>2024년 새해에 찾아오는 '외계+인' 2부의 강력한 캐릭터 군단</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702446229010E67t9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['크레센도' 화려한 콩쿠르에 감춰진 임윤찬의 무대 뒤 모습]]></title>
-            <link>https://www.maxmovie.com/news/435786</link>
-            <guid>https://www.maxmovie.com/news/435786</guid>
-            <pubDate>Wed, 13 Dec 2023 07:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435786"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17024450859097E6fm.jpg" alt=""></span><span class="textBox"><h4>'크레센도' 화려한 콩쿠르에 감춰진 임윤찬의 무대 뒤 모습</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17024450859097E6fm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
