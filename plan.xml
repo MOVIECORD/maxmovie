@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 12:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 13:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['범죄도시4', 시리즈 처음 베를린영화제 초청...쌍천만 잇는 낭보]]></title>
+            <link>https://www.maxmovie.com/news/436189</link>
+            <guid>https://www.maxmovie.com/news/436189</guid>
+            <pubDate>Mon, 15 Jan 2024 13:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[베를리날레 스페셜 갈라 부문 초청
+마동석 등 2월 베를린 레드카펫 예약]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705323084697M7XPg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티모시 샬라메가 온다... '웡카'와 함께]]></title>
             <link>https://www.maxmovie.com/news/436185</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/436178</link>
             <guid>https://www.maxmovie.com/news/436178</guid>
             <pubDate>Mon, 15 Jan 2024 07:09:15 GMT</pubDate>
-            <content:encoded><![CDATA['명량' '한산' '노량' 총 2926만명 관람 
-기술적 성취…이순신 한 인물로 10년]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436178"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705288767641EbiA7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436178"><h4>10년 대업 '이순신 3부작', 3000만 관객 초읽기</h4></a><span>6시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705288767641EbiA7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/436177</link>
             <guid>https://www.maxmovie.com/news/436177</guid>
             <pubDate>Mon, 15 Jan 2024 04:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436177"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705285148426VlXrW.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436177"><h4> [크리틱스 초이스] 스티븐 연 '성난 사람들' 남녀주연상·작품상 4관왕 석권 </h4></a><span>9시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[골든 글로브 주요 부문 3관왕 잇는 쾌거 
+한국계 배우와 연출자의 눈부신 성과]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705285148426VlXrW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/436173</link>
             <guid>https://www.maxmovie.com/news/436173</guid>
             <pubDate>Mon, 15 Jan 2024 00:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 첫 주말 1위
-실관람객 호의적…평점도 상승]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436173"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705278055259KDMZW.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436173"><h4>류준열·김태리 '외계+인' 2부, 5일 연속 정상…평점도 상승</h4></a><span>12시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705278055259KDMZW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['패스트 라이브즈' '성난 사람들' 미국 제작자조합상 겨냥]]></title>
-            <link>https://www.maxmovie.com/news/436172</link>
-            <guid>https://www.maxmovie.com/news/436172</guid>
-            <pubDate>Sun, 14 Jan 2024 08:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436172"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705217610701pYNRv.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436172"><h4>'패스트 라이브즈' '성난 사람들' 미국 제작자조합상 겨냥</h4></a><span>01월 14일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705217610701pYNRv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
