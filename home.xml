@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 06:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 07:07:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17053680262956Cz8o.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['서울의 봄' 제작사가 그릴 '하나회 해체', 이랬다]]></title>
+            <link>https://www.maxmovie.com/news/436201</link>
+            <guid>https://www.maxmovie.com/news/436201</guid>
+            <pubDate>Tue, 16 Jan 2024 07:06:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436201"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17053880619487MkTA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436201"><h4>'서울의 봄' 제작사가 그릴 '하나회 해체', 이랬다</h4></a><span>17분 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17053880619487MkTA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['황야' 마동석 "액션 케미 200%…'범죄도시'와 달라"]]></title>
             <link>https://www.maxmovie.com/news/436198</link>
             <guid>https://www.maxmovie.com/news/436198</guid>
             <pubDate>Tue, 16 Jan 2024 06:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436198"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705382727292SFmwc.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436198"><h4>'황야' 마동석 "액션 케미 200%…'범죄도시'와 달라"</h4></a><span>41분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['황야' 제작보고회
+마동석, 허명행 감독 또 뭉쳤다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705382727292SFmwc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/436167</link>
             <guid>https://www.maxmovie.com/news/436167</guid>
             <pubDate>Mon, 15 Jan 2024 22:05:26 GMT</pubDate>
-            <content:encoded><![CDATA['황야'→ '범죄도시4',→ '거룩한 밤'  
-좀비 잡은 마동석, 이젠  악마에 맞서]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436167"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705187180306a4pXb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436167"><h4>'황야'는 시작일 뿐…2024년 마동석, 액션 스타의 광폭 행보</h4></a><span>9시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705187180306a4pXb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[데일리 핫이슈] 박민영 前 남자친구 논란에 입장, 이준호·임윤아 각별한 친분 외]]></title>
-            <link>https://www.maxmovie.com/news/436179</link>
-            <guid>https://www.maxmovie.com/news/436179</guid>
-            <pubDate>Tue, 16 Jan 2024 04:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436179"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705294271118RfRuN.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436179"><h4>[데일리 핫이슈] 박민영 前 남자친구 논란에 입장, 이준호·임윤아 각별한 친분 외  </h4></a><span>8시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705294271118RfRuN.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
