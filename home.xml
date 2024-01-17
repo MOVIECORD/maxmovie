@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 06:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 07:06:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705450909536HDNP7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이성진·셀린 송·피터 손...美 사로잡은 한국계 창작자의 저력]]></title>
+            <link>https://www.maxmovie.com/news/436212</link>
+            <guid>https://www.maxmovie.com/news/436212</guid>
+            <pubDate>Wed, 17 Jan 2024 07:06:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436212"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17054578828758pLCW.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436212"><h4>이성진·셀린 송·피터 손...美 사로잡은 한국계 창작자의 저력 </h4></a><span>33분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17054578828758pLCW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['데뷔 35년' 최민식, 첫 오컬트에 도전한 이유는]]></title>
             <link>https://www.maxmovie.com/news/436215</link>
             <guid>https://www.maxmovie.com/news/436215</guid>
             <pubDate>Wed, 17 Jan 2024 05:06:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436215"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17054659923593Kw5F.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436215"><h4>'데뷔 35년' 최민식, 첫 오컬트에 도전한 이유는</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[풍수사로 유해진과 파트너 호흡
+"김고은, 투잡 걱정될 정도로 탁월"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17054659923593Kw5F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/436201</link>
             <guid>https://www.maxmovie.com/news/436201</guid>
             <pubDate>Tue, 16 Jan 2024 07:06:35 GMT</pubDate>
-            <content:encoded><![CDATA['서울의 봄' 제작사, 전격 영화화
-문민정부의 군 권력  박탈 이야기]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436201"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17053880619487MkTA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436201"><h4>'서울의 봄' 제작사가 그릴 '하나회 해체', 이랬다</h4></a><span>01월 16일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17053880619487MkTA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['황야' 마동석 "액션 케미 200%…'범죄도시'와 달라"]]></title>
-            <link>https://www.maxmovie.com/news/436198</link>
-            <guid>https://www.maxmovie.com/news/436198</guid>
-            <pubDate>Tue, 16 Jan 2024 06:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436198"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705382727292SFmwc.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436198"><h4>'황야' 마동석 "액션 케미 200%…'범죄도시'와 달라"</h4></a><span>01월 16일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705382727292SFmwc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
