@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 20:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 21:06:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17054659923593Kw5F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[K오컬트 '파묘', 베를린 국제영화제 초청…개봉 앞두고 희소식]]></title>
+            <link>https://www.maxmovie.com/news/436221</link>
+            <guid>https://www.maxmovie.com/news/436221</guid>
+            <pubDate>Wed, 17 Jan 2024 21:05:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436221"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17055098592972MVfN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436221"><h4>K오컬트 '파묘', 베를린 국제영화제 초청…개봉 앞두고 희소식</h4></a><span>6분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17055098592972MVfN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[노년 우정 그린 '소풍' 위해 나문희 김영옥, 홍보 활동 스타트]]></title>
             <link>https://www.maxmovie.com/news/436219</link>
             <guid>https://www.maxmovie.com/news/436219</guid>
             <pubDate>Wed, 17 Jan 2024 10:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436219"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705477899994RFTYU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436219"><h4>노년 우정 그린 '소풍' 위해 나문희 김영옥, 홍보 활동 스타트</h4></a><span>10시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['토크백' 시작으로 홍보 활동 돌입
+60여년 우정 과시…박근형 몫까지]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705477899994RFTYU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,16 +92,8 @@
             <link>https://www.maxmovie.com/news/436199</link>
             <guid>https://www.maxmovie.com/news/436199</guid>
             <pubDate>Wed, 17 Jan 2024 03:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436199"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705397067232h38fQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436199"><h4>[데일리 핫이슈] 고현정 루머에 쿨한 해명·성종 전속계약 해지 통보·최정예 훈련병 된 RM 뷔</h4></a><span>23시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705397067232h38fQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['성난 사람들' 에미상 8관왕 가능했던 몇 가지 이유...시즌2 시간 문제]]></title>
-            <link>https://www.maxmovie.com/news/436206</link>
-            <guid>https://www.maxmovie.com/news/436206</guid>
-            <pubDate>Wed, 17 Jan 2024 18:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436206"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17053918719210ELx4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436206"><h4>'성난 사람들' 에미상 8관왕 가능했던 몇 가지 이유...시즌2 시간 문제 </h4></a><span>01월 16일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17053918719210ELx4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
