@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 03:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 04:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[살인자와 형사로 만난 최우식·손석구, '지독한 얼굴']]></title>
+            <link>https://www.maxmovie.com/news/436213</link>
+            <guid>https://www.maxmovie.com/news/436213</guid>
+            <pubDate>Wed, 17 Jan 2024 04:09:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436213"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705459002117oThIW.jpg" alt=""></span><span class="textBox"><h4>살인자와 형사로 만난 최우식·손석구, '지독한 얼굴'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705459002117oThIW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서울의 봄 흥행 감사] 특별출연 정만식 "더 많이 봐달라. 설까지~"]]></title>
             <link>https://www.maxmovie.com/news/436205</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 26 Dec 2023 07:06:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435935"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1703564675578HHX0B.jpg" alt=""></span><span class="textBox"><h4>김태리의 액션 활약, '외계+인' 2부 향한 기대</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703564675578HHX0B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['선산', 연상호 감독이 빚은 선산에 얽힌 기이한 사건들]]></title>
-            <link>https://www.maxmovie.com/news/435933</link>
-            <guid>https://www.maxmovie.com/news/435933</guid>
-            <pubDate>Tue, 26 Dec 2023 05:06:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435933"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1703563433380zqbVz.jpg" alt=""></span><span class="textBox"><h4>'선산', 연상호 감독이 빚은 선산에 얽힌 기이한 사건들 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703563433380zqbVz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
