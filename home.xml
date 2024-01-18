@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 09:08:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 10:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705536971388y7YoR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['서울의 봄' 황정민 정우성, 특급 팬 서비스의 끝은 어디인가]]></title>
+            <link>https://www.maxmovie.com/news/436234</link>
+            <guid>https://www.maxmovie.com/news/436234</guid>
+            <pubDate>Thu, 18 Jan 2024 10:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436234"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705568821919svVFC.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436234"><h4>'서울의 봄' 황정민 정우성, 특급 팬 서비스의 끝은 어디인가</h4></a><span>48분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705568821919svVFC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['신차원! 짱구는 못말려', 3D 짱구 통했다]]></title>
             <link>https://www.maxmovie.com/news/436229</link>
             <guid>https://www.maxmovie.com/news/436229</guid>
             <pubDate>Thu, 18 Jan 2024 07:07:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436229"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705556233315WQ3MY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436229"><h4>'신차원! 짱구는 못말려', 3D 짱구 통했다</h4></a><span>2시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[18일 시리즈 최고 흥행 기록 돌파
+시리즈 첫 3D로 CG 구현된 짱구]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705556233315WQ3MY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,16 +92,8 @@
             <link>https://www.maxmovie.com/news/436218</link>
             <guid>https://www.maxmovie.com/news/436218</guid>
             <pubDate>Thu, 18 Jan 2024 08:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436218"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705475069989mQp25.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436218"><h4>[데일리 핫이슈] 장원영, 유튜버 상대 소송 승소·폐지설 '세상에 이런 일이'·월드투어 나서는 아이유</h4></a><span>12시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705475069989mQp25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[군대에서 다시 뭉친 BTS 진‧지민‧정국, 같은 자대 배치]]></title>
-            <link>https://www.maxmovie.com/news/436220</link>
-            <guid>https://www.maxmovie.com/news/436220</guid>
-            <pubDate>Thu, 18 Jan 2024 08:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436220"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705481752188L43cK.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436220"><h4>군대에서 다시 뭉친 BTS 진‧지민‧정국, 같은 자대 배치 </h4></a><span>01월 17일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705481752188L43cK.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
