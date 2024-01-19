@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 05:07:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 06:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705558708459h2bMe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가족이 만든 비극, '선산'... 주목해야 할 3가지]]></title>
+            <link>https://www.maxmovie.com/news/436240</link>
+            <guid>https://www.maxmovie.com/news/436240</guid>
+            <pubDate>Fri, 19 Jan 2024 06:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436240"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705627012473xhvLN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436240"><h4>가족이 만든 비극, '선산'... 주목해야 할 3가지 </h4></a><span>15분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705627012473xhvLN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[임윤찬이라서 가능한, 2시간58분짜리 '크레센도' 특별판 개봉]]></title>
             <link>https://www.maxmovie.com/news/436243</link>
             <guid>https://www.maxmovie.com/news/436243</guid>
             <pubDate>Fri, 19 Jan 2024 05:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436243"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705633466147GQH1k.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436243"><h4>임윤찬이라서 가능한, 2시간58분짜리 '크레센도' 특별판 개봉  </h4></a><span>18분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[67분 분량 추가해 1월31일 개봉
+'리스트:초절기교 연습곡' 실황 수록]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705633466147GQH1k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/436227</link>
             <guid>https://www.maxmovie.com/news/436227</guid>
             <pubDate>Fri, 19 Jan 2024 01:51:45 GMT</pubDate>
-            <content:encoded><![CDATA[강은경 작가 "많은 영향" 밝혀
-한국 드라마의 역사 바꾼 명작]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436227"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705543968075Ao9dy.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436227"><h4>'경성크리처'의 씨앗... 드라마 '여명의 눈동자' 어떤 작품인가 </h4></a><span>01월 18일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705543968075Ao9dy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰:포테이토지수 80%] '선산' 둘러싼 갈등, 넘실대는 감정의 파고]]></title>
-            <link>https://www.maxmovie.com/news/436226</link>
-            <guid>https://www.maxmovie.com/news/436226</guid>
-            <pubDate>Fri, 19 Jan 2024 01:51:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436226"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705548323804qSAjF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey2"><a href="/news/436226"><h4>[리뷰:포테이토지수 80%] '선산' 둘러싼 갈등, 넘실대는 감정의 파고</h4></a><span>01월 18일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705548323804qSAjF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
