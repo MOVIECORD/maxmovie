@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 06:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 07:07:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705558708459h2bMe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[강풀 작가가 쓰고, 배우 김희원이 연출한 '조명가게'...'무빙' 잇는 출사표 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436244</link>
+            <guid>https://www.maxmovie.com/news/436244</guid>
+            <pubDate>Fri, 19 Jan 2024 07:06:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436244"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705642667370fQDt9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/436244"><h4>강풀 작가가 쓰고, 배우 김희원이 연출한 '조명가게'...'무빙' 잇는 출사표 </h4></a><span>28분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705642667370fQDt9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가족이 만든 비극, '선산'... 주목해야 할 3가지 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/436240</link>
             <guid>https://www.maxmovie.com/news/436240</guid>
             <pubDate>Fri, 19 Jan 2024 06:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436240"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705627012473xhvLN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436240"><h4>가족이 만든 비극, '선산'... 주목해야 할 3가지 </h4></a><span>15분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[조상의 묘, 선산을 내세운 이유와 경쟁력 
+연상호 감독과 배우 김현주의 3번째 만남]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705627012473xhvLN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/436230</link>
             <guid>https://www.maxmovie.com/news/436230</guid>
             <pubDate>Thu, 18 Jan 2024 06:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[문화예술인 연대회의, 경찰·언론·국회 방문
-12일 관련 성명 전달..자성·규명 재차 요청]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436230"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17055586516647eaJz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/436230"><h4>"다시 한번 이선균 수사 진상규명을 촉구합니다"</h4></a><span>01월 18일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17055586516647eaJz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['경성크리처'의 씨앗... 드라마 '여명의 눈동자' 어떤 작품인가 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/436227</link>
-            <guid>https://www.maxmovie.com/news/436227</guid>
-            <pubDate>Thu, 18 Jan 2024 05:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436227"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705543968075Ao9dy.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436227"><h4>'경성크리처'의 씨앗... 드라마 '여명의 눈동자' 어떤 작품인가 </h4></a><span>01월 18일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705543968075Ao9dy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰]염혜란, 극의 분위기 바꾸는 팔색조 배우 (맥스무비 ─ 인터뷰)]]></title>
@@ -293,7 +293,7 @@
             <title><![CDATA[가족이 만든 비극, '선산'... 주목해야 할 3가지 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436240</link>
             <guid>https://www.maxmovie.com/news/436240</guid>
-            <pubDate>Fri, 19 Jan 2024 06:10:06 GMT</pubDate>
+            <pubDate>Fri, 19 Jan 2024 06:09:46 GMT</pubDate>
             <content:encoded><![CDATA[조상의 묘, 선산을 내세운 이유와 경쟁력 
 연상호 감독과 배우 김현주의 3번째 만남]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705627012473xhvLN.jpg" length="0" type="image/jpg"/>
@@ -312,7 +312,7 @@
             <link>https://www.maxmovie.com/news/436237</link>
             <guid>https://www.maxmovie.com/news/436237</guid>
             <pubDate>Fri, 19 Jan 2024 01:51:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436237"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705625256335Am7Og.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436237"><h4>유태오, 韓 배우 최초 英아카데미상 주연상 도전</h4></a><span>4시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436237"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705625256335Am7Og.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436237"><h4>유태오, 韓 배우 최초 英아카데미상 주연상 도전</h4></a><span>5시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705625256335Am7Og.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -354,8 +354,17 @@
             <link>https://www.maxmovie.com/news/436229</link>
             <guid>https://www.maxmovie.com/news/436229</guid>
             <pubDate>Thu, 18 Jan 2024 07:07:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436229"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705556233315WQ3MY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436229"><h4>'신차원! 짱구는 못말려', 3D 짱구 통했다</h4></a><span>23시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436229"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705556233315WQ3MY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436229"><h4>'신차원! 짱구는 못말려', 3D 짱구 통했다</h4></a><span>01월 18일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705556233315WQ3MY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강풀 작가가 쓰고, 배우 김희원이 연출한 '조명가게'...'무빙' 잇는 출사표 (맥스무비 ─ OTT)]]></title>
+            <link>https://www.maxmovie.com/news/436244</link>
+            <guid>https://www.maxmovie.com/news/436244</guid>
+            <pubDate>Fri, 19 Jan 2024 07:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[강풀 작가의 동명  웹툰 옮긴 시리즈 
+김희원의 연출 데뷔작, 디즈니+ 공개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705642667370fQDt9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에미상 8관왕 '성난 사람들', 앤솔로지 시리즈로? (맥스무비 ─ OTT)]]></title>
@@ -390,8 +399,7 @@
             <link>https://www.maxmovie.com/news/436222</link>
             <guid>https://www.maxmovie.com/news/436222</guid>
             <pubDate>Thu, 18 Jan 2024 01:48:47 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 시리즈 '은중과 상연' 주연
-존엄사 부탁하고 이루는 마지막 동행]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436222"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705536971388y7YoR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436222"><h4>김고은·박지현, 좋아하고 동경하고 질투하는 30년 우정 그린다 </h4></a><span>01월 18일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705536971388y7YoR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -399,7 +407,8 @@
             <link>https://www.maxmovie.com/news/436213</link>
             <guid>https://www.maxmovie.com/news/436213</guid>
             <pubDate>Wed, 17 Jan 2024 04:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436213"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705459002117oThIW.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/436213"><h4>살인자와 형사로 만난 최우식·손석구, '지독한 얼굴'</h4></a><span>01월 17일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['살인자o난감' 2월9일 넷플 공개
+동명 웹툰 원작, 두 남자의 추격전]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705459002117oThIW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -434,17 +443,8 @@ OTT 및 채널 공개 30여편 준비]]></content:encoded>
             <link>https://www.maxmovie.com/news/436196</link>
             <guid>https://www.maxmovie.com/news/436196</guid>
             <pubDate>Tue, 16 Jan 2024 04:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[한인 등 미국 이민자의 고단한 삶
-분노와 좌절 통한 부조리 코미디]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436196"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705374673218SKSUM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436196"><h4>[에미상] 8관왕 '성난 사람들', 어떤 이야기?</h4></a><span>01월 16일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705374673218SKSUM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[에미상] '성난 사람들' 스티븐 연, 남우주연상 수상 (맥스무비 ─ OTT)]]></title>
-            <link>https://www.maxmovie.com/news/436195</link>
-            <guid>https://www.maxmovie.com/news/436195</guid>
-            <pubDate>Tue, 16 Jan 2024 03:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436195"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705370852174XSJVy.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/436195"><h4>[에미상] '성난 사람들' 스티븐 연, 남우주연상 수상</h4></a><span>01월 16일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705370852174XSJVy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 '아가일' 배우들, 내한 레드카펫 현장...'K하트' 화답 (맥스무비 ─ 포토)]]></title>

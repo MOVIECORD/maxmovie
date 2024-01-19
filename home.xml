@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 06:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 07:07:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705558708459h2bMe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[강풀 작가가 쓰고, 배우 김희원이 연출한 '조명가게'...'무빙' 잇는 출사표]]></title>
+            <link>https://www.maxmovie.com/news/436244</link>
+            <guid>https://www.maxmovie.com/news/436244</guid>
+            <pubDate>Fri, 19 Jan 2024 07:06:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436244"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705642667370fQDt9.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/436244"><h4>강풀 작가가 쓰고, 배우 김희원이 연출한 '조명가게'...'무빙' 잇는 출사표 </h4></a><span>28분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705642667370fQDt9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가족이 만든 비극, '선산'... 주목해야 할 3가지]]></title>
             <link>https://www.maxmovie.com/news/436240</link>
             <guid>https://www.maxmovie.com/news/436240</guid>
             <pubDate>Fri, 19 Jan 2024 06:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436240"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705627012473xhvLN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436240"><h4>가족이 만든 비극, '선산'... 주목해야 할 3가지 </h4></a><span>15분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[조상의 묘, 선산을 내세운 이유와 경쟁력 
+연상호 감독과 배우 김현주의 3번째 만남]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705627012473xhvLN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/436230</link>
             <guid>https://www.maxmovie.com/news/436230</guid>
             <pubDate>Thu, 18 Jan 2024 06:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[문화예술인 연대회의, 경찰·언론·국회 방문
-12일 관련 성명 전달..자성·규명 재차 요청]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436230"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17055586516647eaJz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/436230"><h4>"다시 한번 이선균 수사 진상규명을 촉구합니다"</h4></a><span>01월 18일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17055586516647eaJz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['경성크리처'의 씨앗... 드라마 '여명의 눈동자' 어떤 작품인가]]></title>
-            <link>https://www.maxmovie.com/news/436227</link>
-            <guid>https://www.maxmovie.com/news/436227</guid>
-            <pubDate>Fri, 19 Jan 2024 01:51:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436227"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705543968075Ao9dy.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436227"><h4>'경성크리처'의 씨앗... 드라마 '여명의 눈동자' 어떤 작품인가 </h4></a><span>01월 18일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705543968075Ao9dy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
