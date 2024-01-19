@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 02:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 03:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 '아가일' 배우들, 내한 레드카펫 현장...'K하트' 화답]]></title>
+            <link>https://www.maxmovie.com/news/436239</link>
+            <guid>https://www.maxmovie.com/news/436239</guid>
+            <pubDate>Fri, 19 Jan 2024 03:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436239"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705629931519GlsNR.jpg" alt=""></span><span class="textBox"><h4>영화 '아가일' 배우들, 내한 레드카펫 현장...'K하트' 화답 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705629931519GlsNR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[설 명절에 찾아오는 조진웅·김희애, 영화 '데드맨' 엿보기]]></title>
             <link>https://www.maxmovie.com/news/436225</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 29 Dec 2023 01:36:28 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/435979"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1703811342553P8iTR.jpg" alt=""></span><span class="textBox"><h4>'슬픔의 삼각형' 제작사의 신작 '클럽 제로'... 과연 어떤 이야기? </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703811342553P8iTR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유화 애니메이션 '립세의 사계', '러빙 빈센트' 잇는 환상의 세계]]></title>
-            <link>https://www.maxmovie.com/news/435978</link>
-            <guid>https://www.maxmovie.com/news/435978</guid>
-            <pubDate>Fri, 29 Dec 2023 01:36:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/435978"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1703810359028k83PI.jpg" alt=""></span><span class="textBox"><h4>유화 애니메이션 '립세의 사계', '러빙 빈센트' 잇는 환상의 세계 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1703810359028k83PI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
