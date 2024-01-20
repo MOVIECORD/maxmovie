@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Jan 2024 01:46:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 02:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/436249</link>
             <guid>https://www.maxmovie.com/news/436249</guid>
             <pubDate>Sat, 20 Jan 2024 01:45:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436249"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705654754151Awq49.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436249"><h4>[맥스무비레터 #36번째 편지] '서울의 봄' 잇는 하나회 해체 영화가 나온다고요?</h4></a><span>46분 전<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436249"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705654754151Awq49.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436249"><h4>[맥스무비레터 #36번째 편지] '서울의 봄' 잇는 하나회 해체 영화가 나온다고요?</h4></a><span>1시간 전<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705654754151Awq49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,16 +68,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705644853535lReu3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에미상 8관왕 '성난 사람들', 앤솔로지 시리즈로?]]></title>
-            <link>https://www.maxmovie.com/news/436241</link>
-            <guid>https://www.maxmovie.com/news/436241</guid>
-            <pubDate>Sat, 20 Jan 2024 01:45:48 GMT</pubDate>
-            <content:encoded><![CDATA[미 매체들, 시즌2 제작 여부 관심 ↑
-감독 "앤솔로지 시리즈화 기대감"
-넷플릭스와 제작사 의지에 주목]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705631351299yq1yC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[유태오, 韓 배우 최초 英아카데미상 주연상 도전]]></title>
             <link>https://www.maxmovie.com/news/436237</link>
             <guid>https://www.maxmovie.com/news/436237</guid>
@@ -91,8 +81,17 @@
             <link>https://www.maxmovie.com/news/436235</link>
             <guid>https://www.maxmovie.com/news/436235</guid>
             <pubDate>Fri, 19 Jan 2024 03:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436235"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705588623314TmuPL.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436235"><h4>[인터뷰]염혜란, 극의 분위기 바꾸는 팔색조 배우</h4></a><span>01월 18일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['시민덕희'서 중국어 능통한 봉림 역
+"작품 선택 신중한 편, 조화로움 중요"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705588623314TmuPL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데일리 핫이슈] 정은지 스토커 집행유예, 헨리 카빌 내한, 필로폰 투약 남태현 집행유예]]></title>
+            <link>https://www.maxmovie.com/news/436233</link>
+            <guid>https://www.maxmovie.com/news/436233</guid>
+            <pubDate>Sat, 20 Jan 2024 02:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436233"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705566511238aC1QG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436233"><h4>[데일리 핫이슈] 정은지 스토커 집행유예, 헨리 카빌 내한, 필로폰 투약 남태현 집행유예</h4></a><span>01월 18일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705566511238aC1QG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
