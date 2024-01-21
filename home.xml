@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jan 2024 21:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jan 2024 22:04:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705721289888dvzJS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이동욱, 조카 지키는 삼촌으로 '아저씨' 원빈 잇나]]></title>
+            <link>https://www.maxmovie.com/news/436259</link>
+            <guid>https://www.maxmovie.com/news/436259</guid>
+            <pubDate>Sun, 21 Jan 2024 22:04:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436259"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705839217168k8ORb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436259"><h4>이동욱, 조카 지키는 삼촌으로 '아저씨' 원빈 잇나</h4></a><span>5분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705839217168k8ORb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김태희, '웰컴투 삼달리' 마지막 회 빛낸다]]></title>
             <link>https://www.maxmovie.com/news/436258</link>
             <guid>https://www.maxmovie.com/news/436258</guid>
             <pubDate>Sun, 21 Jan 2024 09:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436258"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705821784154kbmuV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436258"><h4>김태희, '웰컴투 삼달리' 마지막 회 빛낸다</h4></a><span>12시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[권혜주 작가와 인연으로 특별출연
+15회에서 자체 최고 시청률 경신]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705821784154kbmuV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,16 +90,8 @@
             <link>https://www.maxmovie.com/news/436242</link>
             <guid>https://www.maxmovie.com/news/436242</guid>
             <pubDate>Sun, 21 Jan 2024 00:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[일주일 동안 엔터테인먼트 전반에서 일어난 다양한 이슈를 소개합니다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436242"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17056324481839tth1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436242"><h4>[위클리 이슈 모음 zip] 박민영의 쿨한 대처, 방탄소년단 지민 최우수 표창 외 </h4></a><span>01월 19일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17056324481839tth1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 이동욱·김혜준의 '액션 맛집'... '킬러들의 쇼핑몰']]></title>
-            <link>https://www.maxmovie.com/news/436245</link>
-            <guid>https://www.maxmovie.com/news/436245</guid>
-            <pubDate>Sun, 21 Jan 2024 00:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436245"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705644853535lReu3.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436245"><h4>[오늘 뭘 볼까] 이동욱·김혜준의 '액션 맛집'... '킬러들의 쇼핑몰'</h4></a><span>01월 19일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705644853535lReu3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
