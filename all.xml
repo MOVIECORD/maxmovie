@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 07:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 08:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705889529993m4VuU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[박광수 감독, 부산영화제 이사장 후보로 단독 추대 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436275</link>
+            <guid>https://www.maxmovie.com/news/436275</guid>
+            <pubDate>Mon, 22 Jan 2024 08:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436275"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705908948414NOCVC.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436275"><h4>박광수 감독, 부산영화제 이사장 후보로 단독 추대</h4></a><span>25분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705908948414NOCVC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[예사롭지 않은 인기 '킬러들의 쇼핑몰'...액션→서사 휘몰아친다 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/436269</link>
             <guid>https://www.maxmovie.com/news/436269</guid>
             <pubDate>Mon, 22 Jan 2024 07:07:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436269"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705898783736FLKmt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436269"><h4>예사롭지 않은 인기 '킬러들의 쇼핑몰'...액션→서사 휘몰아친다</h4></a><span>1분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[1, 2회 공개 이후 한국, 대만, 홍콩 등 1위
+이동욱과 악연 얽힌 조한선 등장 기대]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705898783736FLKmt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/436260</link>
             <guid>https://www.maxmovie.com/news/436260</guid>
             <pubDate>Mon, 22 Jan 2024 01:55:27 GMT</pubDate>
-            <content:encoded><![CDATA['괴물' 공동 각본 쓴 하준원 감독 응원
-유재선 감독 데뷔작 '잠'에 이어 또]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436260"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705883710262OKfMJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436260"><h4>봉준호 감독의 '인연' 챙기기... 이번엔 영화 '데드맨' GV 출격 </h4></a><span>7시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705883710262OKfMJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이동욱, 조카 지키는 삼촌으로 '아저씨' 원빈 잇나 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/436259</link>
-            <guid>https://www.maxmovie.com/news/436259</guid>
-            <pubDate>Sun, 21 Jan 2024 22:04:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436259"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705839217168k8ORb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436259"><h4>이동욱, 조카 지키는 삼촌으로 '아저씨' 원빈 잇나</h4></a><span>9시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705839217168k8ORb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰]염혜란, 극의 분위기 바꾸는 팔색조 배우 (맥스무비 ─ 인터뷰)]]></title>
@@ -271,6 +271,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1702885589283Sij6h.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[박광수 감독, 부산영화제 이사장 후보로 단독 추대 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/436275</link>
+            <guid>https://www.maxmovie.com/news/436275</guid>
+            <pubDate>Mon, 22 Jan 2024 08:10:29 GMT</pubDate>
+            <content:encoded><![CDATA["국내외 네트워크에 영화계 신망"
+2월 BIFF 정기총회에서 최종 결정]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705908948414NOCVC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['공연돌' 그룹 24K+, 첫 단독 콘서트로 팬 만난다 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436270</link>
             <guid>https://www.maxmovie.com/news/436270</guid>
@@ -283,7 +292,7 @@
             <title><![CDATA[예사롭지 않은 인기 '킬러들의 쇼핑몰'...액션→서사 휘몰아친다 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436269</link>
             <guid>https://www.maxmovie.com/news/436269</guid>
-            <pubDate>Mon, 22 Jan 2024 07:07:52 GMT</pubDate>
+            <pubDate>Mon, 22 Jan 2024 07:07:29 GMT</pubDate>
             <content:encoded><![CDATA[1, 2회 공개 이후 한국, 대만, 홍콩 등 1위
 이동욱과 악연 얽힌 조한선 등장 기대]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705898783736FLKmt.jpg" length="0" type="image/jpg"/>
@@ -302,8 +311,7 @@
             <link>https://www.maxmovie.com/news/436265</link>
             <guid>https://www.maxmovie.com/news/436265</guid>
             <pubDate>Mon, 22 Jan 2024 04:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[이안이 읽어주는 '외계+인' 1부의 요약
-2부, 개봉 12일째 100만 관객 돌파]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436265"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705889476070VzmiC.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436265"><h4>'외계+인' 어렵지 않다...입문 가이드 자처한 김태리</h4></a><span>4시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705889476070VzmiC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -311,7 +319,7 @@
             <link>https://www.maxmovie.com/news/436264</link>
             <guid>https://www.maxmovie.com/news/436264</guid>
             <pubDate>Mon, 22 Jan 2024 03:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436264"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705889529993m4VuU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436264"><h4>조세호, 결혼 전제 비연예인과 열애 중</h4></a><span>4시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[비연예인 여성과 결혼 전제 교제 중인 개그맨 조세호. 사진제공=A2Z엔터테인먼트개그맨 조세호가 결혼을 전제로 비연예인 여성과 진지한 만남을 이어가고 있다.조세호 소속사 A2Z엔터테인먼트는 22일 "조세호가 9세 연하 회사원과 교제하고 있다"고 밝혔다.조세호는 패션에 대한 공통된 관심사를 바탕으로 가까워서&nbsp;1년간 이 여성과&nbsp;사랑을 키워왔다. 두 사람은&nbsp;연내에]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705889529993m4VuU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -346,23 +354,14 @@
             <link>https://www.maxmovie.com/news/436259</link>
             <guid>https://www.maxmovie.com/news/436259</guid>
             <pubDate>Sun, 21 Jan 2024 22:04:08 GMT</pubDate>
-            <content:encoded><![CDATA['킬러들의 쇼핑몰' 공개 이후 호평 이어져
-숨겨진 과거, 향후 펼칠 액션에 대한 기대감 높아]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436259"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705839217168k8ORb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436259"><h4>이동욱, 조카 지키는 삼촌으로 '아저씨' 원빈 잇나</h4></a><span>10시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705839217168k8ORb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김태희, '웰컴투 삼달리' 마지막 회 빛낸다 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/436258</link>
-            <guid>https://www.maxmovie.com/news/436258</guid>
-            <pubDate>Sun, 21 Jan 2024 09:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436258"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705821784154kbmuV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436258"><h4>김태희, '웰컴투 삼달리' 마지막 회 빛낸다</h4></a><span>22시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705821784154kbmuV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예사롭지 않은 인기 '킬러들의 쇼핑몰'...액션→서사 휘몰아친다 (맥스무비 ─ OTT)]]></title>
             <link>https://www.maxmovie.com/news/436269</link>
             <guid>https://www.maxmovie.com/news/436269</guid>
-            <pubDate>Mon, 22 Jan 2024 07:07:58 GMT</pubDate>
+            <pubDate>Mon, 22 Jan 2024 07:07:29 GMT</pubDate>
             <content:encoded><![CDATA[1, 2회 공개 이후 한국, 대만, 홍콩 등 1위
 이동욱과 악연 얽힌 조한선 등장 기대]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705898783736FLKmt.jpg" length="0" type="image/jpg"/>
@@ -443,6 +442,14 @@
             <pubDate>Thu, 18 Jan 2024 01:48:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436222"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705536971388y7YoR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436222"><h4>김고은·박지현, 좋아하고 동경하고 질투하는 30년 우정 그린다 </h4></a><span>01월 18일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705536971388y7YoR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['웡카'의 화려한 캐릭터 열전, 티모시 샬라메부터 휴 그랜트까지 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/436272</link>
+            <guid>https://www.maxmovie.com/news/436272</guid>
+            <pubDate>Mon, 22 Jan 2024 08:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436272"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705903118947h7Mte.jpg" alt=""></span><span class="textBox"><h4>'웡카'의 화려한 캐릭터 열전, 티모시 샬라메부터 휴 그랜트까지</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705903118947h7Mte.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['도그데이즈' 윤여정부터 다니엘 헤니까지...반려견으로 맺은 특별한 인연 (맥스무비 ─ 포토)]]></title>
@@ -675,14 +682,6 @@
             <pubDate>Tue, 02 Jan 2024 09:07:08 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436031"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704183029408jbt3n.jpg" alt=""></span><span class="textBox"><h4>김현주‧박희순‧박병은‧류경수이 그린 '선산' 미스터리 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704183029408jbt3n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신현빈, 2024년에도 '사랑한다고 말해줘' (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/436025</link>
-            <guid>https://www.maxmovie.com/news/436025</guid>
-            <pubDate>Tue, 02 Jan 2024 05:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436025"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17041605206283CUcZ.jpg" alt=""></span><span class="textBox"><h4>신현빈, 2024년에도 '사랑한다고 말해줘'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17041605206283CUcZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

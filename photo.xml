@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 07:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 08:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['웡카'의 화려한 캐릭터 열전, 티모시 샬라메부터 휴 그랜트까지]]></title>
+            <link>https://www.maxmovie.com/news/436272</link>
+            <guid>https://www.maxmovie.com/news/436272</guid>
+            <pubDate>Mon, 22 Jan 2024 08:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436272"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705903118947h7Mte.jpg" alt=""></span><span class="textBox"><h4>'웡카'의 화려한 캐릭터 열전, 티모시 샬라메부터 휴 그랜트까지</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705903118947h7Mte.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['도그데이즈' 윤여정부터 다니엘 헤니까지...반려견으로 맺은 특별한 인연]]></title>
             <link>https://www.maxmovie.com/news/436267</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 02 Jan 2024 09:07:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436031"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704183029408jbt3n.jpg" alt=""></span><span class="textBox"><h4>김현주‧박희순‧박병은‧류경수이 그린 '선산' 미스터리 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704183029408jbt3n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신현빈, 2024년에도 '사랑한다고 말해줘']]></title>
-            <link>https://www.maxmovie.com/news/436025</link>
-            <guid>https://www.maxmovie.com/news/436025</guid>
-            <pubDate>Tue, 02 Jan 2024 05:07:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436025"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17041605206283CUcZ.jpg" alt=""></span><span class="textBox"><h4>신현빈, 2024년에도 '사랑한다고 말해줘'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17041605206283CUcZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

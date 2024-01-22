@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 07:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 08:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705889529993m4VuU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[박광수 감독, 부산영화제 이사장 후보로 단독 추대]]></title>
+            <link>https://www.maxmovie.com/news/436275</link>
+            <guid>https://www.maxmovie.com/news/436275</guid>
+            <pubDate>Mon, 22 Jan 2024 08:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436275"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705908948414NOCVC.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436275"><h4>박광수 감독, 부산영화제 이사장 후보로 단독 추대</h4></a><span>25분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705908948414NOCVC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[예사롭지 않은 인기 '킬러들의 쇼핑몰'...액션→서사 휘몰아친다]]></title>
             <link>https://www.maxmovie.com/news/436269</link>
             <guid>https://www.maxmovie.com/news/436269</guid>
             <pubDate>Mon, 22 Jan 2024 07:07:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436269"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705898783736FLKmt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436269"><h4>예사롭지 않은 인기 '킬러들의 쇼핑몰'...액션→서사 휘몰아친다</h4></a><span>1분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[1, 2회 공개 이후 한국, 대만, 홍콩 등 1위
+이동욱과 악연 얽힌 조한선 등장 기대]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705898783736FLKmt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/436260</link>
             <guid>https://www.maxmovie.com/news/436260</guid>
             <pubDate>Mon, 22 Jan 2024 04:09:50 GMT</pubDate>
-            <content:encoded><![CDATA['괴물' 공동 각본 쓴 하준원 감독 응원
-유재선 감독 데뷔작 '잠'에 이어 또]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436260"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705883710262OKfMJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436260"><h4>봉준호 감독의 '인연' 챙기기... 이번엔 영화 '데드맨' GV 출격 </h4></a><span>7시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705883710262OKfMJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이동욱, 조카 지키는 삼촌으로 '아저씨' 원빈 잇나]]></title>
-            <link>https://www.maxmovie.com/news/436259</link>
-            <guid>https://www.maxmovie.com/news/436259</guid>
-            <pubDate>Mon, 22 Jan 2024 07:07:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436259"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705839217168k8ORb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436259"><h4>이동욱, 조카 지키는 삼촌으로 '아저씨' 원빈 잇나</h4></a><span>9시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705839217168k8ORb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
