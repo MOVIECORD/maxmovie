@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 08:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 09:07:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본영화 열기 잇는 '여기는 아미코', 유별나지만 순수한 소년의 이야기]]></title>
+            <link>https://www.maxmovie.com/news/436306</link>
+            <guid>https://www.maxmovie.com/news/436306</guid>
+            <pubDate>Wed, 24 Jan 2024 09:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436306"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706070443284ubqOY.jpg" alt=""></span><span class="textBox"><h4>일본영화 열기 잇는 '여기는 아미코', 유별나지만 순수한 소년의 이야기 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706070443284ubqOY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페넬로페 크루즈 주연 '리멘시타', 파괴되는 가족의 이야기]]></title>
             <link>https://www.maxmovie.com/news/436305</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 04 Jan 2024 10:07:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436055"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704338382439yK2br.jpg" alt=""></span><span class="textBox"><h4>영화 '서치3'에 담긴 10대들의 위험천만한 SNS 세상</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704338382439yK2br.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[군 제대 공명, 영화 '시민덕희'에선 보이스피싱 조직원 파격 변신]]></title>
-            <link>https://www.maxmovie.com/news/436053</link>
-            <guid>https://www.maxmovie.com/news/436053</guid>
-            <pubDate>Thu, 04 Jan 2024 06:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436053"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704335684145BhZXN.jpg" alt=""></span><span class="textBox"><h4>군 제대 공명, 영화 '시민덕희'에선 보이스피싱 조직원 파격 변신 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704335684145BhZXN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
