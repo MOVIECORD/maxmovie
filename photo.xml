@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 05:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 06:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페넬로페 크루즈 주연 '리멘시타', 파괴되는 가족의 이야기]]></title>
+            <link>https://www.maxmovie.com/news/436305</link>
+            <guid>https://www.maxmovie.com/news/436305</guid>
+            <pubDate>Wed, 24 Jan 2024 06:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436305"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706065025399HoHDX.jpg" alt=""></span><span class="textBox"><h4>페넬로페 크루즈 주연 '리멘시타', 파괴되는 가족의 이야기 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706065025399HoHDX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['선산', 아직 못다 한 이야기...비하인드 장면들]]></title>
             <link>https://www.maxmovie.com/news/436303</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 04 Jan 2024 06:10:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436053"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704335684145BhZXN.jpg" alt=""></span><span class="textBox"><h4>군 제대 공명, 영화 '시민덕희'에선 보이스피싱 조직원 파격 변신 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704335684145BhZXN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파트2 공개 앞둔 '경성크리처'의 신스틸러들]]></title>
-            <link>https://www.maxmovie.com/news/436036</link>
-            <guid>https://www.maxmovie.com/news/436036</guid>
-            <pubDate>Wed, 03 Jan 2024 01:45:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436036"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17042442589508GpzZ.jpg" alt=""></span><span class="textBox"><h4>파트2 공개 앞둔 '경성크리처'의 신스틸러들 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17042442589508GpzZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
