@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 06:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 07:07:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706004806114XLrZw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['파묘', 목요일 개봉하는 까닭…'듄2'과 경쟁 불가피]]></title>
+            <link>https://www.maxmovie.com/news/436304</link>
+            <guid>https://www.maxmovie.com/news/436304</guid>
+            <pubDate>Wed, 24 Jan 2024 07:06:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436304"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706064315228s7Nkd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436304"><h4>'파묘', 목요일 개봉하는 까닭…'듄2'과 경쟁 불가피</h4></a><span>49분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706064315228s7Nkd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['킬러들의 쇼핑몰', 궁금증 증폭... 삼촌 이동욱 죽었어? 살았어?]]></title>
             <link>https://www.maxmovie.com/news/436302</link>
             <guid>https://www.maxmovie.com/news/436302</guid>
             <pubDate>Wed, 24 Jan 2024 03:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436302"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706061937569jJD67.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436302"><h4>'킬러들의 쇼핑몰', 궁금증 증폭... 삼촌 이동욱 죽었어? 살았어?</h4></a><span>3시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[이동욱 역할,  '사망' 설정으로 극 시작
+갈수록 의문 키우는 존재... 삼촌 지만]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706061937569jJD67.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,16 +90,8 @@
             <link>https://www.maxmovie.com/news/436291</link>
             <guid>https://www.maxmovie.com/news/436291</guid>
             <pubDate>Tue, 23 Jan 2024 10:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[2월7일 디즈니+ 공개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436291"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706000461547Fcisu.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436291"><h4>박서준 美 데뷔작 '더 마블스', 이제 방구석 1열로</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706000461547Fcisu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 평범한 시민 영웅의 통쾌한 추적극, 영화 '시민덕희']]></title>
-            <link>https://www.maxmovie.com/news/436288</link>
-            <guid>https://www.maxmovie.com/news/436288</guid>
-            <pubDate>Tue, 23 Jan 2024 22:05:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436288"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705989188894AOlvG.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436288"><h4>[오늘 뭘 볼까] 평범한 시민 영웅의 통쾌한 추적극, 영화 '시민덕희'</h4></a><span>8시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705989188894AOlvG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
