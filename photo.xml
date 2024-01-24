@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 02:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 03:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['선산', 아직 못다 한 이야기...비하인드 장면들]]></title>
+            <link>https://www.maxmovie.com/news/436303</link>
+            <guid>https://www.maxmovie.com/news/436303</guid>
+            <pubDate>Wed, 24 Jan 2024 03:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436303"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706063274120gN1ru.jpg" alt=""></span><span class="textBox"><h4>'선산', 아직 못다 한 이야기...비하인드 장면들 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706063274120gN1ru.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['웡카'의 화려한 캐릭터 열전, 티모시 샬라메부터 휴 그랜트까지]]></title>
             <link>https://www.maxmovie.com/news/436272</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 03 Jan 2024 01:45:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436036"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17042442589508GpzZ.jpg" alt=""></span><span class="textBox"><h4>파트2 공개 앞둔 '경성크리처'의 신스틸러들 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17042442589508GpzZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현주‧박희순‧박병은‧류경수이 그린 '선산' 미스터리]]></title>
-            <link>https://www.maxmovie.com/news/436031</link>
-            <guid>https://www.maxmovie.com/news/436031</guid>
-            <pubDate>Tue, 02 Jan 2024 09:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436031"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704183029408jbt3n.jpg" alt=""></span><span class="textBox"><h4>김현주‧박희순‧박병은‧류경수이 그린 '선산' 미스터리 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704183029408jbt3n.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
