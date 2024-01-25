@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 02:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 03:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최우식·손석구 지독한 추격전...제목부터 의미심장한 '살인자ㅇ난감']]></title>
+            <link>https://www.maxmovie.com/news/436321</link>
+            <guid>https://www.maxmovie.com/news/436321</guid>
+            <pubDate>Thu, 25 Jan 2024 03:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436321"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706150653239H48CA.jpg" alt=""></span><span class="textBox"><h4>최우식·손석구 지독한 추격전...제목부터 의미심장한 '살인자ㅇ난감' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706150653239H48CA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본영화 열기 잇는 '여기는 아미코', 유별나지만 순수한 소년의 이야기]]></title>
             <link>https://www.maxmovie.com/news/436306</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 Jan 2024 16:09:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436087"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704676358363rA7DW.jpg" alt=""></span><span class="textBox"><h4>칸이 선택한 작품 '추락의 해부'... 남편의 추락사 전말은? &nbsp;</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704676358363rA7DW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '서치3'에 담긴 10대들의 위험천만한 SNS 세상]]></title>
-            <link>https://www.maxmovie.com/news/436055</link>
-            <guid>https://www.maxmovie.com/news/436055</guid>
-            <pubDate>Wed, 24 Jan 2024 16:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436055"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704338382439yK2br.jpg" alt=""></span><span class="textBox"><h4>영화 '서치3'에 담긴 10대들의 위험천만한 SNS 세상</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704338382439yK2br.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
