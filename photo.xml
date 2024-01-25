@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 09:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 10:07:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[믿을 수 없는 아동 인신매매 실화, 영화 '사운드 오브 프리덤']]></title>
+            <link>https://www.maxmovie.com/news/436322</link>
+            <guid>https://www.maxmovie.com/news/436322</guid>
+            <pubDate>Thu, 25 Jan 2024 10:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436322"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706151703976SZHuO.jpg" alt=""></span><span class="textBox"><h4>믿을 수 없는 아동 인신매매 실화, 영화 '사운드 오브 프리덤'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706151703976SZHuO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최우식·손석구 지독한 추격전...제목부터 의미심장한 '살인자ㅇ난감']]></title>
             <link>https://www.maxmovie.com/news/436321</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 Jan 2024 16:09:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436089"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704677684430g0EQG.jpg" alt=""></span><span class="textBox"><h4>배우 소지섭이 주목한 '플랜 75',  죽음 권하는 사회에 경종 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704677684430g0EQG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칸이 선택한 작품 '추락의 해부'... 남편의 추락사 전말은?]]></title>
-            <link>https://www.maxmovie.com/news/436087</link>
-            <guid>https://www.maxmovie.com/news/436087</guid>
-            <pubDate>Wed, 24 Jan 2024 16:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436087"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704676358363rA7DW.jpg" alt=""></span><span class="textBox"><h4>칸이 선택한 작품 '추락의 해부'... 남편의 추락사 전말은? &nbsp;</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704676358363rA7DW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
