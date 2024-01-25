@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 22:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 23:07:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,7 +49,7 @@
             <link>https://www.maxmovie.com/news/436325</link>
             <guid>https://www.maxmovie.com/news/436325</guid>
             <pubDate>Thu, 25 Jan 2024 22:03:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436325"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17061624478751BnHL.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436325"><h4>[데일리 핫이슈] 김수현 '유퀴즈' 출연·나인우 전속계약 종료·'서울의 봄' 역대 흥행 10위</h4></a><span>4분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436325"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17061624478751BnHL.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436325"><h4>[데일리 핫이슈] 김수현 '유퀴즈' 출연·나인우 전속계약 종료·'서울의 봄' 역대 흥행 10위</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17061624478751BnHL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -79,21 +79,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706151797213ct9Rm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['소원' 아역이 이렇게 컸다니…이레, 주연작으로 베를린行 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436319</link>
+            <guid>https://www.maxmovie.com/news/436319</guid>
+            <pubDate>Thu, 25 Jan 2024 02:24:49 GMT</pubDate>
+            <content:encoded><![CDATA['괜찮아 괜찮아 괜찮아!'로 베를린영화제 참석
+"항상 동경해온 영화제"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706146940791K4Nip.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이도현이기에 가능한…머리 묶고 온몸 문신, 스타일리시한 무당으로 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/436317</link>
             <guid>https://www.maxmovie.com/news/436317</guid>
             <pubDate>Thu, 25 Jan 2024 01:53:11 GMT</pubDate>
-            <content:encoded><![CDATA[스크린 데뷔작 '파묘'서 무당 연기
-장재현 "현대적 외모+카리스마 시너지"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436317"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/170614453344394Ao4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436317"><h4>이도현이기에 가능한…머리 묶고 온몸 문신, 스타일리시한 무당으로</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/170614453344394Ao4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장동건·우도환·이혜리, 뜨거운 방콕으로...영화 '열대야' 주연 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/436314</link>
-            <guid>https://www.maxmovie.com/news/436314</guid>
-            <pubDate>Wed, 24 Jan 2024 10:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436314"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706088876478YQSxm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436314"><h4>장동건·우도환·이혜리, 뜨거운 방콕으로...영화 '열대야' 주연 </h4></a><span>01월 24일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706088876478YQSxm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰]  '웡카' 정정훈 촬영감독 "티모시 샬라메, 배우는 배우다" (맥스무비 ─ 인터뷰)]]></title>
@@ -276,7 +276,7 @@
             <title><![CDATA['콘유' 엄태화 감독 연출 아이유 뮤비, 논쟁적 리뷰 쏟아지는 까닭 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436329</link>
             <guid>https://www.maxmovie.com/news/436329</guid>
-            <pubDate>Thu, 25 Jan 2024 22:03:27 GMT</pubDate>
+            <pubDate>Thu, 25 Jan 2024 22:03:07 GMT</pubDate>
             <content:encoded><![CDATA[신곡 '러브 윈스 올' 뮤비 해석 분분
 장애 바라보는 시각 등 의견 엇갈려]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706175655993HF6W5.jpg" length="0" type="image/jpg"/>
@@ -285,7 +285,7 @@
             <title><![CDATA[[오늘 뭘 볼까] 안 먹어도 살 수 있다? 영화 '클럽 제로' (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436327</link>
             <guid>https://www.maxmovie.com/news/436327</guid>
-            <pubDate>Thu, 25 Jan 2024 22:03:27 GMT</pubDate>
+            <pubDate>Thu, 25 Jan 2024 22:03:07 GMT</pubDate>
             <content:encoded><![CDATA['클럽 제로'의 한 장면. 사진제공=판씨네마오늘, 볼만한 작품을 추천합니다.◆ '클럽 제로'영화 '클럽 제로'는 먹지 않아도 살 수 있는, 특별한 식사법을 교육하는 영양교사 미스 노백과 그를 맹신하는 엘리트 학교 학생들의 섬뜩한 이야기를 그린다.최고급 기숙사 시설에서 학생들에게 일대일&nbsp;특별 교육을 제공하는 엘리트 학교의 새로운 영양교사로 임명된 미스 노백.]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706166121000TX9NT.jpg" length="0" type="image/jpg"/>
         </item>
@@ -302,7 +302,7 @@
             <title><![CDATA[[데일리 핫이슈] 김수현 '유퀴즈' 출연·나인우 전속계약 종료·'서울의 봄' 역대 흥행 10위 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436325</link>
             <guid>https://www.maxmovie.com/news/436325</guid>
-            <pubDate>Thu, 25 Jan 2024 22:03:27 GMT</pubDate>
+            <pubDate>Thu, 25 Jan 2024 22:03:07 GMT</pubDate>
             <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17061624478751BnHL.jpg" length="0" type="image/jpg"/>
         </item>
@@ -311,7 +311,7 @@
             <link>https://www.maxmovie.com/news/436324</link>
             <guid>https://www.maxmovie.com/news/436324</guid>
             <pubDate>Thu, 25 Jan 2024 05:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436324"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17061567845233Q5Hx.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436324"><h4>'오징어 게임' 시즌2., 올해 말 공개</h4></a><span>17시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436324"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17061567845233Q5Hx.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436324"><h4>'오징어 게임' 시즌2., 올해 말 공개</h4></a><span>18시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17061567845233Q5Hx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -356,7 +356,7 @@
             <link>https://www.maxmovie.com/news/436317</link>
             <guid>https://www.maxmovie.com/news/436317</guid>
             <pubDate>Thu, 25 Jan 2024 01:53:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436317"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/170614453344394Ao4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436317"><h4>이도현이기에 가능한…머리 묶고 온몸 문신, 스타일리시한 무당으로</h4></a><span>20시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436317"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/170614453344394Ao4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436317"><h4>이도현이기에 가능한…머리 묶고 온몸 문신, 스타일리시한 무당으로</h4></a><span>21시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/170614453344394Ao4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
