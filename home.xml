@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 07:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 08:09:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/436339</link>
             <guid>https://www.maxmovie.com/news/436339</guid>
             <pubDate>Fri, 26 Jan 2024 07:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436339"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706249070092OFUh6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436339"><h4>티모시 샬라메 '듄:파트2', 2월28일 개봉 확정</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436339"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706249070092OFUh6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436339"><h4>티모시 샬라메 '듄:파트2', 2월28일 개봉 확정</h4></a><span>2시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706249070092OFUh6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -77,22 +77,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706170287063camWJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['오징어 게임' 시즌2., 올해 말 공개]]></title>
+            <link>https://www.maxmovie.com/news/436324</link>
+            <guid>https://www.maxmovie.com/news/436324</guid>
+            <pubDate>Fri, 26 Jan 2024 08:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스, 주주 서한에 명기
+시즌2, 새 얼굴들 가세 기대]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17061567845233Q5Hx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['덕벤져스', '해녀즈' 이을 우먼파워]]></title>
             <link>https://www.maxmovie.com/news/436320</link>
             <guid>https://www.maxmovie.com/news/436320</guid>
             <pubDate>Thu, 25 Jan 2024 04:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[평범한 여성들 힘 모아
-보이스피싱 총책 잡는 이야기
-500만명 지지 '밀수' 흥행 이을까]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436320"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706148090160vov4W.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436320"><h4>'덕벤져스', '해녀즈' 이을 우먼파워</h4></a><span>01월 25일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706148090160vov4W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['상견니' 잇는 '우견니' 온다... 상쾌하고 청아한 첫사랑 로맨스]]></title>
-            <link>https://www.maxmovie.com/news/436323</link>
-            <guid>https://www.maxmovie.com/news/436323</guid>
-            <pubDate>Thu, 25 Jan 2024 04:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436323"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706151797213ct9Rm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436323"><h4>'상견니' 잇는 '우견니' 온다... 상쾌하고 청아한 첫사랑 로맨스 </h4></a><span>01월 25일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706151797213ct9Rm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
