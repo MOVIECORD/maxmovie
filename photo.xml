@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 05:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 06:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마동석의 '황야', 폐허의 세상 어떻게 그렸나]]></title>
+            <link>https://www.maxmovie.com/news/436336</link>
+            <guid>https://www.maxmovie.com/news/436336</guid>
+            <pubDate>Fri, 26 Jan 2024 06:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436336"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706234565771wmdRy.jpg" alt=""></span><span class="textBox"><h4>마동석의 '황야', 폐허의 세상 어떻게 그렸나 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706234565771wmdRy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[류준열·김태리의 '외계+인' 2부 촬영 현장, 엿보기]]></title>
             <link>https://www.maxmovie.com/news/436334</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 Jan 2024 16:09:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436104"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704763359306DeOa8.jpg" alt=""></span><span class="textBox"><h4>미리보는 '킹스맨' 감독의 새 액션 블록버스터 '아가일' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704763359306DeOa8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안보현과 박지현의 코믹 수사물 '재벌X형사'... 어떤 작품?]]></title>
-            <link>https://www.maxmovie.com/news/436103</link>
-            <guid>https://www.maxmovie.com/news/436103</guid>
-            <pubDate>Wed, 24 Jan 2024 16:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436103"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17047621055316WXtQ.jpg" alt=""></span><span class="textBox"><h4>안보현과 박지현의 코믹 수사물 '재벌X형사'... 어떤 작품? </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17047621055316WXtQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
