@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 01:41:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 02:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[류준열·김태리의 '외계+인' 2부 촬영 현장, 엿보기]]></title>
+            <link>https://www.maxmovie.com/news/436334</link>
+            <guid>https://www.maxmovie.com/news/436334</guid>
+            <pubDate>Fri, 26 Jan 2024 02:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436334"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17062327951836L3Oq.jpg" alt=""></span><span class="textBox"><h4>류준열·김태리의 '외계+인' 2부 촬영 현장, 엿보기 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17062327951836L3Oq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[믿을 수 없는 아동 인신매매 실화, 영화 '사운드 오브 프리덤']]></title>
             <link>https://www.maxmovie.com/news/436322</link>
@@ -24,11 +32,11 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706150653239H48CA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일본영화 열기 잇는 '여기는 아미코', 유별나지만 순수한 소년의 이야기]]></title>
+            <title><![CDATA[일본영화 열기 잇는 '여기는 아미코', 유별나지만 순수한 아이 이야기]]></title>
             <link>https://www.maxmovie.com/news/436306</link>
             <guid>https://www.maxmovie.com/news/436306</guid>
             <pubDate>Wed, 24 Jan 2024 16:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436306"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706070443284ubqOY.jpg" alt=""></span><span class="textBox"><h4>일본영화 열기 잇는 '여기는 아미코', 유별나지만 순수한 소년의 이야기 </h4></span></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/news/436306"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706070443284ubqOY.jpg" alt=""></span><span class="textBox"><h4>일본영화 열기 잇는 '여기는 아미코', 유별나지만 순수한 아이 이야기 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706070443284ubqOY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 Jan 2024 16:09:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436103"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17047621055316WXtQ.jpg" alt=""></span><span class="textBox"><h4>안보현과 박지현의 코믹 수사물 '재벌X형사'... 어떤 작품? </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17047621055316WXtQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 소지섭이 주목한 '플랜 75',  죽음 권하는 사회에 경종]]></title>
-            <link>https://www.maxmovie.com/news/436089</link>
-            <guid>https://www.maxmovie.com/news/436089</guid>
-            <pubDate>Wed, 24 Jan 2024 16:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436089"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704677684430g0EQG.jpg" alt=""></span><span class="textBox"><h4>배우 소지섭이 주목한 '플랜 75',  죽음 권하는 사회에 경종 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704677684430g0EQG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
