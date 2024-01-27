@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.maxmovie.com/photo</id>
-    <title>맥스무비 ─ 포토</title>
-    <updated>2024-01-27T20:05:19.242Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.maxmovie.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>맥스무비 ─ 포토</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 27 Jan 2024 21:04:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반려 로봇이 있다면? 아카데미 노리는 애니 '로봇 드림']]></title>
+            <link>https://www.maxmovie.com/news/436337</link>
+            <guid>https://www.maxmovie.com/news/436337</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436337"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17062357576011H1xf.jpg" alt=""></span><span class="textBox"><h4>반려 로봇이 있다면? 아카데미 노리는 애니 '로봇 드림' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17062357576011H1xf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마동석의 '황야', 폐허의 세상 어떻게 그렸나]]></title>
+            <link>https://www.maxmovie.com/news/436336</link>
+            <guid>https://www.maxmovie.com/news/436336</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436336"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706234565771wmdRy.jpg" alt=""></span><span class="textBox"><h4>마동석의 '황야', 폐허의 세상 어떻게 그렸나 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706234565771wmdRy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[류준열·김태리의 '외계+인' 2부 촬영 현장, 엿보기]]></title>
+            <link>https://www.maxmovie.com/news/436334</link>
+            <guid>https://www.maxmovie.com/news/436334</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436334"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17062327951836L3Oq.jpg" alt=""></span><span class="textBox"><h4>류준열·김태리의 '외계+인' 2부 촬영 현장, 엿보기 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17062327951836L3Oq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[믿을 수 없는 아동 인신매매 실화, 영화 '사운드 오브 프리덤']]></title>
+            <link>https://www.maxmovie.com/news/436322</link>
+            <guid>https://www.maxmovie.com/news/436322</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436322"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706151703976SZHuO.jpg" alt=""></span><span class="textBox"><h4>믿을 수 없는 아동 인신매매 실화, 영화 '사운드 오브 프리덤'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706151703976SZHuO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최우식·손석구 지독한 추격전...제목부터 의미심장한 '살인자ㅇ난감']]></title>
+            <link>https://www.maxmovie.com/news/436321</link>
+            <guid>https://www.maxmovie.com/news/436321</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436321"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706150653239H48CA.jpg" alt=""></span><span class="textBox"><h4>최우식·손석구 지독한 추격전...제목부터 의미심장한 '살인자ㅇ난감' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706150653239H48CA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본영화 열기 잇는 '여기는 아미코', 유별나지만 순수한 아이 이야기]]></title>
+            <link>https://www.maxmovie.com/news/436306</link>
+            <guid>https://www.maxmovie.com/news/436306</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436306"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706070443284ubqOY.jpg" alt=""></span><span class="textBox"><h4>일본영화 열기 잇는 '여기는 아미코', 유별나지만 순수한 아이 이야기 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706070443284ubqOY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페넬로페 크루즈 주연 '리멘시타', 파괴되는 가족의 이야기]]></title>
+            <link>https://www.maxmovie.com/news/436305</link>
+            <guid>https://www.maxmovie.com/news/436305</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436305"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706065025399HoHDX.jpg" alt=""></span><span class="textBox"><h4>페넬로페 크루즈 주연 '리멘시타', 파괴되는 가족의 이야기 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706065025399HoHDX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['선산', 아직 못다 한 이야기...비하인드 장면들]]></title>
+            <link>https://www.maxmovie.com/news/436303</link>
+            <guid>https://www.maxmovie.com/news/436303</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436303"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706063274120gN1ru.jpg" alt=""></span><span class="textBox"><h4>'선산', 아직 못다 한 이야기...비하인드 장면들 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706063274120gN1ru.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['웡카'의 화려한 캐릭터 열전, 티모시 샬라메부터 휴 그랜트까지]]></title>
+            <link>https://www.maxmovie.com/news/436272</link>
+            <guid>https://www.maxmovie.com/news/436272</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436272"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705903118947h7Mte.jpg" alt=""></span><span class="textBox"><h4>'웡카'의 화려한 캐릭터 열전, 티모시 샬라메부터 휴 그랜트까지</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705903118947h7Mte.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['도그데이즈' 윤여정부터 다니엘 헤니까지...반려견으로 맺은 특별한 인연]]></title>
+            <link>https://www.maxmovie.com/news/436267</link>
+            <guid>https://www.maxmovie.com/news/436267</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436267"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17058900242529wvI2.jpg" alt=""></span><span class="textBox"><h4>'도그데이즈' 윤여정부터 다니엘 헤니까지...반려견으로 맺은 특별한 인연</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17058900242529wvI2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 '아가일' 배우들, 내한 레드카펫 현장...'K하트' 화답]]></title>
+            <link>https://www.maxmovie.com/news/436239</link>
+            <guid>https://www.maxmovie.com/news/436239</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436239"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705629931519GlsNR.jpg" alt=""></span><span class="textBox"><h4>영화 '아가일' 배우들, 내한 레드카펫 현장...'K하트' 화답 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705629931519GlsNR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설 명절에 찾아오는 조진웅·김희애, 영화 '데드맨' 엿보기]]></title>
+            <link>https://www.maxmovie.com/news/436225</link>
+            <guid>https://www.maxmovie.com/news/436225</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436225"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705542343399LLvrc.jpg" alt=""></span><span class="textBox"><h4>설 명절에 찾아오는 조진웅·김희애, 영화 '데드맨' 엿보기 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705542343399LLvrc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤여정·유해진·다니엘 헤니...반려견과의 일상 '도그데이즈' 안에]]></title>
+            <link>https://www.maxmovie.com/news/436224</link>
+            <guid>https://www.maxmovie.com/news/436224</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436224"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705540809357jgD7B.jpg" alt=""></span><span class="textBox"><h4>윤여정·유해진·다니엘 헤니...반려견과의 일상 '도그데이즈' 안에 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705540809357jgD7B.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[끝나지 않는 이야기, '노량:죽음의 바다' 결정적인 인물들]]></title>
+            <link>https://www.maxmovie.com/news/436214</link>
+            <guid>https://www.maxmovie.com/news/436214</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436214"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705461084016E4RYU.jpg" alt=""></span><span class="textBox"><h4>끝나지 않는 이야기, '노량:죽음의 바다' 결정적인 인물들 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705461084016E4RYU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[살인자와 형사로 만난 최우식·손석구, '지독한 얼굴']]></title>
+            <link>https://www.maxmovie.com/news/436213</link>
+            <guid>https://www.maxmovie.com/news/436213</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436213"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705459002117oThIW.jpg" alt=""></span><span class="textBox"><h4>살인자와 형사로 만난 최우식·손석구, '지독한 얼굴'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705459002117oThIW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[서울의 봄 흥행 감사] 특별출연 정만식 "더 많이 봐달라. 설까지~"]]></title>
+            <link>https://www.maxmovie.com/news/436205</link>
+            <guid>https://www.maxmovie.com/news/436205</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436205"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705390601038ZTcQZ.jpg" alt=""></span><span class="textBox"><h4>[서울의 봄 흥행 감사] 특별출연 정만식 "더 많이 봐달라. 설까지~"</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705390601038ZTcQZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[서울의 봄 흥행 감사] 도희철 역 최병모 "따끈따끈한 새내기 1000만 배우"]]></title>
+            <link>https://www.maxmovie.com/news/436204</link>
+            <guid>https://www.maxmovie.com/news/436204</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436204"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/170539011729211BNx.jpg" alt=""></span><span class="textBox"><h4>[서울의 봄 흥행 감사] 도희철 역 최병모 "따끈따끈한 새내기 1000만 배우"</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/170539011729211BNx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['활짝 웃는 전두광' 황정민 "꿈 같은 일 일어나"]]></title>
+            <link>https://www.maxmovie.com/news/436203</link>
+            <guid>https://www.maxmovie.com/news/436203</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436203"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705389542248FT3QB.jpg" alt=""></span><span class="textBox"><h4>'활짝 웃는 전두광' 황정민 "꿈 같은 일 일어나"</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705389542248FT3QB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['소풍' 연기 경력 도합 195년의 배우들이 만났다 feat.임영웅]]></title>
+            <link>https://www.maxmovie.com/news/436193</link>
+            <guid>https://www.maxmovie.com/news/436193</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436193"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705371007648l0kN7.jpg" alt=""></span><span class="textBox"><h4>'소풍' 연기 경력 도합 195년의 배우들이 만났다 feat.임영웅</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705371007648l0kN7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['클럽 제로' 엘리트 학교에서 벌어진 충격적 식사법의 실체]]></title>
+            <link>https://www.maxmovie.com/news/436186</link>
+            <guid>https://www.maxmovie.com/news/436186</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436186"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705304799652C1jWh.jpg" alt=""></span><span class="textBox"><h4>'클럽 제로' 엘리트 학교에서 벌어진 충격적 식사법의 실체 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705304799652C1jWh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티모시 샬라메가 온다... '웡카'와 함께]]></title>
+            <link>https://www.maxmovie.com/news/436185</link>
+            <guid>https://www.maxmovie.com/news/436185</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436185"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705302984325HLGbS.jpg" alt=""></span><span class="textBox"><h4>티모시 샬라메가 온다... '웡카'와 함께</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705302984325HLGbS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마동석의 '황야' 액션, 미리 엿보기]]></title>
+            <link>https://www.maxmovie.com/news/436184</link>
+            <guid>https://www.maxmovie.com/news/436184</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436184"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705300536939s7HFo.jpg" alt=""></span><span class="textBox"><h4>마동석의 '황야' 액션, 미리 엿보기 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705300536939s7HFo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['SNL' 정이랑 영화 주연까지...사라진 로또 찾아 질주 '아네모네']]></title>
+            <link>https://www.maxmovie.com/news/436159</link>
+            <guid>https://www.maxmovie.com/news/436159</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436159"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705044097947b8SFa.jpg" alt=""></span><span class="textBox"><h4>'SNL' 정이랑 영화 주연까지...사라진 로또 찾아 질주 '아네모네'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705044097947b8SFa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['킬러들의 쇼핑몰' 이동욱‧김혜준, 삼촌과 조카의 '액션 맛집']]></title>
+            <link>https://www.maxmovie.com/news/436156</link>
+            <guid>https://www.maxmovie.com/news/436156</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436156"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17050426118182QSkS.jpg" alt=""></span><span class="textBox"><h4>'킬러들의 쇼핑몰' 이동욱‧김혜준, 삼촌과 조카의 '액션 맛집'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17050426118182QSkS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기댈 곳 없는 고등학생의 깊은 성장통 '검은 소년' 미리 엿보기]]></title>
+            <link>https://www.maxmovie.com/news/436139</link>
+            <guid>https://www.maxmovie.com/news/436139</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436139"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704941571471x154R.jpg" alt=""></span><span class="textBox"><h4>기댈 곳 없는 고등학생의 깊은 성장통 '검은 소년' 미리 엿보기</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704941571471x154R.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작년 이어 올해도 흥행 중인 '서울의 봄' 미공개 사진]]></title>
+            <link>https://www.maxmovie.com/news/436138</link>
+            <guid>https://www.maxmovie.com/news/436138</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436138"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704939809059CwoS5.jpg" alt=""></span><span class="textBox"><h4>작년 이어 올해도 흥행 중인 '서울의 봄' 미공개 사진</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704939809059CwoS5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[류준열부터 이하늬까지... '외계+인' 2부 이끈 8명의 서사 한눈에]]></title>
+            <link>https://www.maxmovie.com/news/436136</link>
+            <guid>https://www.maxmovie.com/news/436136</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436136"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704938601152Bsk3T.jpg" alt=""></span><span class="textBox"><h4>류준열부터 이하늬까지... '외계+인' 2부 이끈 8명의 서사 한눈에  </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704938601152Bsk3T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미공개 사진으로 다시 보는... '경성크리처' 시즌1의 순간들]]></title>
+            <link>https://www.maxmovie.com/news/436120</link>
+            <guid>https://www.maxmovie.com/news/436120</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436120"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704850677251Jy6JF.jpg" alt=""></span><span class="textBox"><h4>미공개 사진으로 다시 보는... '경성크리처' 시즌1의 순간들 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704850677251Jy6JF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마동석부터 노정의까지... 미리보는 '황야' 캐릭터 열전]]></title>
+            <link>https://www.maxmovie.com/news/436117</link>
+            <guid>https://www.maxmovie.com/news/436117</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436117"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704847962549M1jFm.jpg" alt=""></span><span class="textBox"><h4>마동석부터 노정의까지... 미리보는 '황야' 캐릭터 열전</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704847962549M1jFm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[괴이한 풍경이 만든 미스터리, 미리보는 '선산' 비하인드]]></title>
+            <link>https://www.maxmovie.com/news/436106</link>
+            <guid>https://www.maxmovie.com/news/436106</guid>
+            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436106"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704767754323YCb85.jpg" alt=""></span><span class="textBox"><h4>괴이한 풍경이 만든 미스터리, 미리보는 '선산' 비하인드</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704767754323YCb85.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
