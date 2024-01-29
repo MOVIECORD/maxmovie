@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 04:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 05:07:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아가일' 브라이스 달라스 하워드 "내가 바로 엘리"라고 한 까닭]]></title>
+            <link>https://www.maxmovie.com/news/436361</link>
+            <guid>https://www.maxmovie.com/news/436361</guid>
+            <pubDate>Mon, 29 Jan 2024 05:07:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436361"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706502569542vE0k5.jpg" alt=""></span><span class="textBox"><h4>'아가일' 브라이스 달라스 하워드 "내가 바로 엘리"라고 한 까닭</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706502569542vE0k5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반려 로봇이 있다면? 아카데미 노리는 애니 '로봇 드림']]></title>
             <link>https://www.maxmovie.com/news/436337</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436117"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704847962549M1jFm.jpg" alt=""></span><span class="textBox"><h4>마동석부터 노정의까지... 미리보는 '황야' 캐릭터 열전</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704847962549M1jFm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[괴이한 풍경이 만든 미스터리, 미리보는 '선산' 비하인드]]></title>
-            <link>https://www.maxmovie.com/news/436106</link>
-            <guid>https://www.maxmovie.com/news/436106</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436106"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704767754323YCb85.jpg" alt=""></span><span class="textBox"><h4>괴이한 풍경이 만든 미스터리, 미리보는 '선산' 비하인드</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704767754323YCb85.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
