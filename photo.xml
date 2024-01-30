@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 05:05:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 06:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[열혈 팬덤 '츠루네' 시리즈 첫 극장판, 작화 살펴보니...]]></title>
+            <link>https://www.maxmovie.com/news/436375</link>
+            <guid>https://www.maxmovie.com/news/436375</guid>
+            <pubDate>Tue, 30 Jan 2024 06:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436375"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706590954546sc2tM.jpg" alt=""></span><span class="textBox"><h4>열혈 팬덤 '츠루네' 시리즈 첫 극장판, 작화 살펴보니...</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706590954546sc2tM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['아가일' 브라이스 달라스 하워드 "내가 바로 엘리"라고 한 까닭]]></title>
             <link>https://www.maxmovie.com/news/436361</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436120"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704850677251Jy6JF.jpg" alt=""></span><span class="textBox"><h4>미공개 사진으로 다시 보는... '경성크리처' 시즌1의 순간들 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704850677251Jy6JF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마동석부터 노정의까지... 미리보는 '황야' 캐릭터 열전]]></title>
-            <link>https://www.maxmovie.com/news/436117</link>
-            <guid>https://www.maxmovie.com/news/436117</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436117"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704847962549M1jFm.jpg" alt=""></span><span class="textBox"><h4>마동석부터 노정의까지... 미리보는 '황야' 캐릭터 열전</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704847962549M1jFm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 05:05:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 06:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706573119014BOrVH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[박해수·김태희, 美 안방극장 진출한다]]></title>
+            <link>https://www.maxmovie.com/news/436378</link>
+            <guid>https://www.maxmovie.com/news/436378</guid>
+            <pubDate>Tue, 30 Jan 2024 06:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436378"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706593754679izXOu.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/436378"><h4>박해수·김태희, 美 안방극장 진출한다</h4></a><span>4분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706593754679izXOu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오스카 女주연상 유력 '가여운 것들' 3월6일 개봉]]></title>
             <link>https://www.maxmovie.com/news/436373</link>
             <guid>https://www.maxmovie.com/news/436373</guid>
             <pubDate>Tue, 30 Jan 2024 03:07:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436373"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706581404592n0pQR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436373"><h4>오스카 女주연상 유력 '가여운 것들' 3월6일 개봉</h4></a><span>2시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[에마 스톤 파격 연기
+女주연상 등 11개 후보 지명]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706581404592n0pQR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,16 +91,8 @@
             <link>https://www.maxmovie.com/news/436365</link>
             <guid>https://www.maxmovie.com/news/436365</guid>
             <pubDate>Mon, 29 Jan 2024 22:05:22 GMT</pubDate>
-            <content:encoded><![CDATA['그리셀다'의 한 장면. 사진제공=넷플릭스오늘, 볼만한 작품을 추천합니다.◆ '그리셀다''그리셀다'는 어린 세 아들과 함께 메데인에서 마이애미로 건너간 그리셀다 블랑코가 거대한 마약 제국의 무자비한 보스로 우뚝 서기까지의 과정을 그린 넷플릭스 오리지널 시리즈다.&nbsp;작품은 마이애미 마약 제국&nbsp;대모의 여정을 다룬 실화 바탕의 픽션 드라마다.1970-80년대 마이]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436365"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706510323540ea4ze.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436365"><h4>[오늘 뭘 볼까] 마이애미 마약 제국 대모의 이야기 담은 '그리셀다'</h4></a><span>8시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706510323540ea4ze.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘도그데이즈’ 윤여정② “변명도, 후회도, 낙담도 없다”]]></title>
-            <link>https://www.maxmovie.com/news/436364</link>
-            <guid>https://www.maxmovie.com/news/436364</guid>
-            <pubDate>Mon, 29 Jan 2024 07:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436364"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706509943711Y3NKJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436364"><h4>‘도그데이즈’ 윤여정② “변명도, 후회도, 낙담도 없다”</h4></a><span>22시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706509943711Y3NKJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
