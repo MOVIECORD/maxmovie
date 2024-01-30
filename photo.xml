@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 06:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 07:05:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그룹 에스파의 생생한 순간들, 영화 '에스파:마이 퍼스트 페이지' 어떤 작품?]]></title>
+            <link>https://www.maxmovie.com/news/436377</link>
+            <guid>https://www.maxmovie.com/news/436377</guid>
+            <pubDate>Tue, 30 Jan 2024 07:05:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436377"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706593180426Ry0X0.jpg" alt=""></span><span class="textBox"><h4>그룹 에스파의 생생한 순간들, 영화 '에스파:마이 퍼스트 페이지' 어떤 작품? </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706593180426Ry0X0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[열혈 팬덤 '츠루네' 시리즈 첫 극장판, 작화 살펴보니...]]></title>
             <link>https://www.maxmovie.com/news/436375</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436136"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704938601152Bsk3T.jpg" alt=""></span><span class="textBox"><h4>류준열부터 이하늬까지... '외계+인' 2부 이끈 8명의 서사 한눈에  </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704938601152Bsk3T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미공개 사진으로 다시 보는... '경성크리처' 시즌1의 순간들]]></title>
-            <link>https://www.maxmovie.com/news/436120</link>
-            <guid>https://www.maxmovie.com/news/436120</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436120"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704850677251Jy6JF.jpg" alt=""></span><span class="textBox"><h4>미공개 사진으로 다시 보는... '경성크리처' 시즌1의 순간들 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704850677251Jy6JF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
