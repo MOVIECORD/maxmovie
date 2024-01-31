@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 06:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 07:07:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706598539847vpZUZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영화 보고 기부 동참, '사운드 오브 프리덤'  페이 잇 포워드 첫 도입 (맥스무비)]]></title>
+            <title><![CDATA['오징어 게임'·'기생충'이 '패스트 라이브즈'의 오스카행 밀었다 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436393</link>
+            <guid>https://www.maxmovie.com/news/436393</guid>
+            <pubDate>Wed, 31 Jan 2024 07:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436393"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/170668221667191XKj.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/436393"><h4>'오징어 게임'·'기생충'이 '패스트 라이브즈'의 오스카행 밀었다</h4></a><span>47분 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/170668221667191XKj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 보고 기부, '사운드 오브 프리덤'  페이 잇 포워드 첫 도입 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/436387</link>
             <guid>https://www.maxmovie.com/news/436387</guid>
             <pubDate>Wed, 31 Jan 2024 02:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436387"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706663843251Sc6xO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436387"><h4>영화 보고 기부 동참, '사운드 오브 프리덤'  페이 잇 포워드 첫 도입  </h4></a><span>4시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[NEW '사운드 오브 프리덤' 개봉 국내 첫 시도 
+내가 받은 도움, 다른 이에 베푸는 사회적 운동]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706663843251Sc6xO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/436379</link>
             <guid>https://www.maxmovie.com/news/436379</guid>
             <pubDate>Tue, 30 Jan 2024 08:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[힘 없는  마이너리거들의 이야기
-디즈니+ 오리지널 시리즈 공개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436379"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706602189088vfR5f.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436379"><h4>이재욱·이준영·홍수주, 재벌가 왕좌 놓고 겨루는 '로얄로더'  2월28일 공개 </h4></a><span>22시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706602189088vfR5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티모시 샬라메의 '웡카' VS 황금종려상 수상 '추락의 해부', 1월 마지막날 뭘 볼까 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/436374</link>
-            <guid>https://www.maxmovie.com/news/436374</guid>
-            <pubDate>Tue, 30 Jan 2024 07:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436374"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706588872227laDMM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436374"><h4>티모시 샬라메의 '웡카' VS 황금종려상 수상 '추락의 해부', 1월 마지막날 뭘 볼까 </h4></a><span>23시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706588872227laDMM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰]허명행, '황야'로 감독데뷔 "좋은 선례로 남고 싶어" (맥스무비 ─ 인터뷰)]]></title>
@@ -287,12 +287,12 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706666098399ZrOEJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영화 보고 기부 동참, '사운드 오브 프리덤'  페이 잇 포워드 첫 도입 (맥스무비 ─ 기획)]]></title>
+            <title><![CDATA[영화 보고 기부, '사운드 오브 프리덤'  페이 잇 포워드 첫 도입 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436387</link>
             <guid>https://www.maxmovie.com/news/436387</guid>
             <pubDate>Wed, 31 Jan 2024 02:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[NEW '사운드 오브 프리덤' 개봉 맞춰 국내 첫 시도 
-내가 받은 도움, 다른 이들에게 베푸는 사회적 운동]]></content:encoded>
+            <content:encoded><![CDATA[NEW '사운드 오브 프리덤' 개봉 국내 첫 시도 
+내가 받은 도움, 다른 이에 베푸는 사회적 운동]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706663843251Sc6xO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -309,7 +309,7 @@
             <link>https://www.maxmovie.com/news/436385</link>
             <guid>https://www.maxmovie.com/news/436385</guid>
             <pubDate>Wed, 31 Jan 2024 01:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436385"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706659991548Wk1yD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436385"><h4>마동석, OTT도 통하네...'황야', 넷플릭스 비영어 영화 1위  </h4></a><span>4시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436385"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706659991548Wk1yD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436385"><h4>마동석, OTT도 통하네...'황야', 넷플릭스 비영어 영화 1위  </h4></a><span>5시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706659991548Wk1yD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -351,7 +351,7 @@
             <link>https://www.maxmovie.com/news/436379</link>
             <guid>https://www.maxmovie.com/news/436379</guid>
             <pubDate>Tue, 30 Jan 2024 08:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436379"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706602189088vfR5f.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436379"><h4>이재욱·이준영·홍수주, 재벌가 왕좌 놓고 겨루는 '로얄로더'  2월28일 공개 </h4></a><span>21시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436379"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706602189088vfR5f.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436379"><h4>이재욱·이준영·홍수주, 재벌가 왕좌 놓고 겨루는 '로얄로더'  2월28일 공개 </h4></a><span>22시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706602189088vfR5f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -395,7 +395,7 @@
             <link>https://www.maxmovie.com/news/436384</link>
             <guid>https://www.maxmovie.com/news/436384</guid>
             <pubDate>Tue, 30 Jan 2024 22:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436384"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706618455497sc1Rp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436384"><h4>이상희→김태희…연초부터 美 진출 러시</h4></a><span>8시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436384"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706618455497sc1Rp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436384"><h4>이상희→김태희…연초부터 美 진출 러시</h4></a><span>9시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706618455497sc1Rp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
