@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 03:07:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 05:05:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 31 Jan 2024 03:07:37 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436390"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17066677540567f76i.jpg" alt=""></span><span class="textBox"><h4>'외계+인' 2부 빛낸 '신스틸러' 군단</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17066677540567f76i.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['황야' 마동석만 있나? 쥐까지 먹는 존재감 넘치는 캐릭터 열전]]></title>
+            <link>https://www.maxmovie.com/news/436388</link>
+            <guid>https://www.maxmovie.com/news/436388</guid>
+            <pubDate>Wed, 31 Jan 2024 05:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436388"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706666444434G5yUd.jpg" alt=""></span><span class="textBox"><h4>'황야' 마동석만 있나? 쥐까지 먹는 존재감 넘치는 캐릭터 열전 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706666444434G5yUd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그룹 에스파의 생생한 순간들, 영화 '에스파:마이 퍼스트 페이지' 어떤 작품?]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436139"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704941571471x154R.jpg" alt=""></span><span class="textBox"><h4>기댈 곳 없는 고등학생의 깊은 성장통 '검은 소년' 미리 엿보기</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704941571471x154R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작년 이어 올해도 흥행 중인 '서울의 봄' 미공개 사진]]></title>
-            <link>https://www.maxmovie.com/news/436138</link>
-            <guid>https://www.maxmovie.com/news/436138</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436138"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704939809059CwoS5.jpg" alt=""></span><span class="textBox"><h4>작년 이어 올해도 흥행 중인 '서울의 봄' 미공개 사진</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704939809059CwoS5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
