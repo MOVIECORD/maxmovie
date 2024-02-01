@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 01:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 02:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유태오·그레타 리의 운명적인 사랑 '패스트 라이브즈', 미리 엿보니]]></title>
+            <link>https://www.maxmovie.com/news/436400</link>
+            <guid>https://www.maxmovie.com/news/436400</guid>
+            <pubDate>Thu, 01 Feb 2024 02:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436400"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706752412512FD3N2.jpg" alt=""></span><span class="textBox"><h4>유태오·그레타 리의 운명적인 사랑 '패스트 라이브즈', 미리 엿보니  </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706752412512FD3N2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['외계+인' 2부 빛낸 '신스틸러' 군단]]></title>
             <link>https://www.maxmovie.com/news/436390</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436156"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17050426118182QSkS.jpg" alt=""></span><span class="textBox"><h4>'킬러들의 쇼핑몰' 이동욱‧김혜준, 삼촌과 조카의 '액션 맛집'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17050426118182QSkS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기댈 곳 없는 고등학생의 깊은 성장통 '검은 소년' 미리 엿보기]]></title>
-            <link>https://www.maxmovie.com/news/436139</link>
-            <guid>https://www.maxmovie.com/news/436139</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436139"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704941571471x154R.jpg" alt=""></span><span class="textBox"><h4>기댈 곳 없는 고등학생의 깊은 성장통 '검은 소년' 미리 엿보기</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704941571471x154R.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
