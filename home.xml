@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 03:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 04:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/436404</link>
             <guid>https://www.maxmovie.com/news/436404</guid>
             <pubDate>Thu, 01 Feb 2024 03:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436404"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706754482810BuDx1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436404"><h4>[인터뷰] 매튜 본 감독이 "한국은 고향 같다"고 말한 이유</h4></a><span>30분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436404"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706754482810BuDx1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436404"><h4>[인터뷰] 매튜 본 감독이 "한국은 고향 같다"고 말한 이유</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706754482810BuDx1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -69,6 +69,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706680490948Xl0QI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[송중기 주연영화 '로기완' 3월 넷플릭스 공개]]></title>
+            <link>https://www.maxmovie.com/news/436395</link>
+            <guid>https://www.maxmovie.com/news/436395</guid>
+            <pubDate>Thu, 01 Feb 2024 04:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[벨기에 배경 탈북자 기완의 사랑 이야기
+'로기완' 이어 촬영 마친 '보고타' 등 공개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706686043978wp0L0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오늘 뭘 볼까] 남편의 추락사, 단순 사고일까? 영화 '추락의 해부']]></title>
             <link>https://www.maxmovie.com/news/436394</link>
             <guid>https://www.maxmovie.com/news/436394</guid>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/436387</link>
             <guid>https://www.maxmovie.com/news/436387</guid>
             <pubDate>Wed, 31 Jan 2024 02:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[NEW '사운드 오브 프리덤' 개봉 국내 첫 시도 
-내가 받은 도움, 다른 이에 베푸는 사회적 운동]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436387"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706663843251Sc6xO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436387"><h4>영화 보고 기부, '사운드 오브 프리덤'  페이 잇 포워드 첫 도입  </h4></a><span>01월 31일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706663843251Sc6xO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마동석, OTT도 통하네...'황야', 넷플릭스 비영어 영화 1위]]></title>
-            <link>https://www.maxmovie.com/news/436385</link>
-            <guid>https://www.maxmovie.com/news/436385</guid>
-            <pubDate>Wed, 31 Jan 2024 01:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436385"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706659991548Wk1yD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436385"><h4>마동석, OTT도 통하네...'황야', 넷플릭스 비영어 영화 1위  </h4></a><span>01월 31일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706659991548Wk1yD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
