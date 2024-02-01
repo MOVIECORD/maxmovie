@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 05:07:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 06:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이동욱 VS 조한선, '숨멎' 액션...'킬러들의 쇼핑몰' 한계 없는 질주]]></title>
+            <link>https://www.maxmovie.com/news/436405</link>
+            <guid>https://www.maxmovie.com/news/436405</guid>
+            <pubDate>Thu, 01 Feb 2024 06:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[갈수록 높아지는 액션의 수위
+예측 불가한 엔딩, 2회 남았다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706763874880ygNDX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김남주와 차은우의 만남, 사랑일까 연대일까]]></title>
             <link>https://www.maxmovie.com/news/436403</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/436398</link>
             <guid>https://www.maxmovie.com/news/436398</guid>
             <pubDate>Thu, 01 Feb 2024 01:43:51 GMT</pubDate>
-            <content:encoded><![CDATA[베트남→인도네시아→홍콩→북미 개봉
-이달 중 대만 개봉 예정]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436398"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706747473747R6tVS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436398"><h4>'외계+인' 류준열·김태리, 이제 해외 관객 만난다</h4></a><span>5시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706747473747R6tVS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/436397</link>
             <guid>https://www.maxmovie.com/news/436397</guid>
             <pubDate>Thu, 01 Feb 2024 00:31:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436397"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17067444858056nQjP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436397"><h4>티모시 샬라메 마법 통했다...'웡카', 개봉 첫날 18만명 동원해 1위</h4></a><span>4시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[웡카의 소년 시절 그려 전 세계적으로 흥행
+라미란 주연 '시민덕희'는 2위로 밀려나]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17067444858056nQjP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,16 +91,8 @@
             <link>https://www.maxmovie.com/news/436392</link>
             <guid>https://www.maxmovie.com/news/436392</guid>
             <pubDate>Wed, 31 Jan 2024 22:05:38 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436392"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706680490948Xl0QI.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436392"><h4>[데일리 핫이슈] 블랙핑크 제니 예능 고정 출연, 보아 신인 그룹 프로듀싱, 김민규 사극 첫 주연 </h4></a><span>8시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706680490948Xl0QI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[형사에서 기자로... 배우 손석구의 '두 얼굴']]></title>
-            <link>https://www.maxmovie.com/news/436391</link>
-            <guid>https://www.maxmovie.com/news/436391</guid>
-            <pubDate>Wed, 31 Jan 2024 09:06:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436391"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706669241271FuLFt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436391"><h4>형사에서 기자로... 배우 손석구의 '두 얼굴' </h4></a><span>21시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706669241271FuLFt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
