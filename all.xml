@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 04:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 05:07:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706599636532dzRvR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰] 영화 '소풍' 조현미 작가 "누가 할머니들을 벼랑 끝에 내몰았나...묻고 싶었다" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436401</link>
+            <guid>https://www.maxmovie.com/news/436401</guid>
+            <pubDate>Thu, 01 Feb 2024 05:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436401"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706750615817OaHkh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436401"><h4>[인터뷰] 영화 '소풍' 조현미 작가 "누가 할머니들을 벼랑 끝에 내몰았나...묻고 싶었다"</h4></a><span>20분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706750615817OaHkh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[인터뷰] 매튜 본 감독이 "한국은 고향 같다"고 말한 이유 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/436404</link>
             <guid>https://www.maxmovie.com/news/436404</guid>
             <pubDate>Thu, 01 Feb 2024 03:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436404"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706754482810BuDx1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436404"><h4>[인터뷰] 매튜 본 감독이 "한국은 고향 같다"고 말한 이유</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['아가일'로 화상 인터뷰
+"한국 가면 치킨 먹을래"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706754482810BuDx1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -67,15 +76,6 @@
             <pubDate>Wed, 31 Jan 2024 22:05:12 GMT</pubDate>
             <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706680490948Xl0QI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송중기 주연영화 '로기완' 3월 넷플릭스 공개 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/436395</link>
-            <guid>https://www.maxmovie.com/news/436395</guid>
-            <pubDate>Wed, 31 Jan 2024 09:06:26 GMT</pubDate>
-            <content:encoded><![CDATA[벨기에 배경 탈북자 기완의 사랑 이야기
-'로기완' 이어 촬영 마친 '보고타' 등 공개]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706686043978wp0L0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 남편의 추락사, 단순 사고일까? 영화 '추락의 해부' (맥스무비)]]></title>
@@ -103,6 +103,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706754482810BuDx1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰] 영화 '소풍' 조현미 작가 "누가 할머니들을 벼랑 끝에 내몰았나...묻고 싶었다" (맥스무비 ─ 인터뷰)]]></title>
+            <link>https://www.maxmovie.com/news/436401</link>
+            <guid>https://www.maxmovie.com/news/436401</guid>
+            <pubDate>Thu, 01 Feb 2024 05:06:44 GMT</pubDate>
+            <content:encoded><![CDATA['소풍'으로 첫 시나리오 작가 데뷔 
+나문희 초안 읽고 김영옥 직접 캐스팅]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706750615817OaHkh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[인터뷰]허명행, '황야'로 감독데뷔 "좋은 선례로 남고 싶어" (맥스무비 ─ 인터뷰)]]></title>
             <link>https://www.maxmovie.com/news/436383</link>
             <guid>https://www.maxmovie.com/news/436383</guid>
@@ -125,8 +134,7 @@
             <link>https://www.maxmovie.com/news/436363</link>
             <guid>https://www.maxmovie.com/news/436363</guid>
             <pubDate>Mon, 29 Jan 2024 07:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[2월7일 개봉 주연작, 성공한 건축가
-"젊은이들에 감 놔라 배 놔라 안 해"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436363"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706509787715uCtP7.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436363"><h4>'도그데이즈' 윤여정① "내가 롤모델?  당신 인생과 내 인생은 달라"</h4></a><span>01월 29일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706509787715uCtP7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -134,7 +142,8 @@
             <link>https://www.maxmovie.com/news/436287</link>
             <guid>https://www.maxmovie.com/news/436287</guid>
             <pubDate>Tue, 23 Jan 2024 06:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436287"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705987804186wNcAg.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436287"><h4> [인터뷰]  '웡카' 정정훈 촬영감독 "티모시 샬라메, 배우는 배우다"</h4></a><span>01월 23일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[할리우드 영화 촬영감독 참여 후기
+미국촬영감독협회(ASC) 정식 회원]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705987804186wNcAg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -170,17 +179,8 @@
             <link>https://www.maxmovie.com/news/436131</link>
             <guid>https://www.maxmovie.com/news/436131</guid>
             <pubDate>Thu, 11 Jan 2024 01:49:44 GMT</pubDate>
-            <content:encoded><![CDATA[731부대와 크리처 접목 시도한 이유 
-마에다와 성심의 관계, 시즌2 키워드]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436131"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704872915040RHJnU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436131"><h4>[인터뷰] '경성크리처' 작가·감독이 답했다, 시즌1 관련 5가지 궁금증 </h4></a><span>01월 11일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704872915040RHJnU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰]'외계+인' 2부로 돌아온 최동훈, "도 닦듯이"라고 말한 까닭 (맥스무비 ─ 인터뷰)]]></title>
-            <link>https://www.maxmovie.com/news/436101</link>
-            <guid>https://www.maxmovie.com/news/436101</guid>
-            <pubDate>Tue, 09 Jan 2024 01:50:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436101"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1704759838481AeUpZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436101"><h4>[인터뷰]'외계+인' 2부로 돌아온 최동훈, "도 닦듯이"라고 말한 까닭</h4></a><span>01월 09일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704759838481AeUpZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리뷰:포테이토 지수 79%] '데드맨', 사건 파악 시간도 주지 않는 '2배속' 영화 (맥스무비 ─ 리뷰)]]></title>
@@ -309,7 +309,7 @@
             <link>https://www.maxmovie.com/news/436397</link>
             <guid>https://www.maxmovie.com/news/436397</guid>
             <pubDate>Thu, 01 Feb 2024 00:31:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436397"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17067444858056nQjP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436397"><h4>티모시 샬라메 마법 통했다...'웡카', 개봉 첫날 18만명 동원해 1위</h4></a><span>3시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436397"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17067444858056nQjP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436397"><h4>티모시 샬라메 마법 통했다...'웡카', 개봉 첫날 18만명 동원해 1위</h4></a><span>4시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17067444858056nQjP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -351,7 +351,7 @@
             <link>https://www.maxmovie.com/news/436391</link>
             <guid>https://www.maxmovie.com/news/436391</guid>
             <pubDate>Wed, 31 Jan 2024 09:06:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436391"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706669241271FuLFt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436391"><h4>형사에서 기자로... 배우 손석구의 '두 얼굴' </h4></a><span>20시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436391"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706669241271FuLFt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436391"><h4>형사에서 기자로... 배우 손석구의 '두 얼굴' </h4></a><span>21시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706669241271FuLFt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -441,6 +441,14 @@
             <pubDate>Wed, 31 Jan 2024 00:29:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436382"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706599636532dzRvR.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436382"><h4>['헤일로2' 커밍순] 상상 그 이상, 26세기 배경 액션 대작 온다 </h4></a><span>01월 31일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706599636532dzRvR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[킬러콘텐츠 공룡 '점박이' 시리즈 잇는 '아이엠 티라노' (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/436402</link>
+            <guid>https://www.maxmovie.com/news/436402</guid>
+            <pubDate>Thu, 01 Feb 2024 05:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436402"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706753851934PFKQY.jpg" alt=""></span><span class="textBox"><h4>킬러콘텐츠 공룡 '점박이' 시리즈 잇는 '아이엠 티라노' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706753851934PFKQY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유태오·그레타 리의 운명적인 사랑 '패스트 라이브즈', 미리 엿보니 (맥스무비 ─ 포토)]]></title>
@@ -673,14 +681,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436159"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705044097947b8SFa.jpg" alt=""></span><span class="textBox"><h4>'SNL' 정이랑 영화 주연까지...사라진 로또 찾아 질주 '아네모네'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705044097947b8SFa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킬러들의 쇼핑몰' 이동욱‧김혜준, 삼촌과 조카의 '액션 맛집' (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/436156</link>
-            <guid>https://www.maxmovie.com/news/436156</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436156"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17050426118182QSkS.jpg" alt=""></span><span class="textBox"><h4>'킬러들의 쇼핑몰' 이동욱‧김혜준, 삼촌과 조카의 '액션 맛집'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17050426118182QSkS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

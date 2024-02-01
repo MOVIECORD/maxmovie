@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 04:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 05:07:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[킬러콘텐츠 공룡 '점박이' 시리즈 잇는 '아이엠 티라노']]></title>
+            <link>https://www.maxmovie.com/news/436402</link>
+            <guid>https://www.maxmovie.com/news/436402</guid>
+            <pubDate>Thu, 01 Feb 2024 05:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436402"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706753851934PFKQY.jpg" alt=""></span><span class="textBox"><h4>킬러콘텐츠 공룡 '점박이' 시리즈 잇는 '아이엠 티라노' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706753851934PFKQY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유태오·그레타 리의 운명적인 사랑 '패스트 라이브즈', 미리 엿보니]]></title>
             <link>https://www.maxmovie.com/news/436400</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436159"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705044097947b8SFa.jpg" alt=""></span><span class="textBox"><h4>'SNL' 정이랑 영화 주연까지...사라진 로또 찾아 질주 '아네모네'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705044097947b8SFa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킬러들의 쇼핑몰' 이동욱‧김혜준, 삼촌과 조카의 '액션 맛집']]></title>
-            <link>https://www.maxmovie.com/news/436156</link>
-            <guid>https://www.maxmovie.com/news/436156</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436156"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17050426118182QSkS.jpg" alt=""></span><span class="textBox"><h4>'킬러들의 쇼핑몰' 이동욱‧김혜준, 삼촌과 조카의 '액션 맛집'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17050426118182QSkS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
