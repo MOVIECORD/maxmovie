@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 01:40:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 02:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티모시 샬라메부터 플로렌스 퓨까지, '듄2' 화려한 캐릭터 미리보기]]></title>
+            <link>https://www.maxmovie.com/news/436413</link>
+            <guid>https://www.maxmovie.com/news/436413</guid>
+            <pubDate>Fri, 02 Feb 2024 02:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436413"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706836987984vKOqi.jpg" alt=""></span><span class="textBox"><h4>티모시 샬라메부터 플로렌스 퓨까지, '듄2' 화려한 캐릭터 미리보기 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706836987984vKOqi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[킬러콘텐츠 공룡 '점박이' 시리즈 잇는 '아이엠 티라노']]></title>
             <link>https://www.maxmovie.com/news/436402</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436184"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705300536939s7HFo.jpg" alt=""></span><span class="textBox"><h4>마동석의 '황야' 액션, 미리 엿보기 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705300536939s7HFo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['SNL' 정이랑 영화 주연까지...사라진 로또 찾아 질주 '아네모네']]></title>
-            <link>https://www.maxmovie.com/news/436159</link>
-            <guid>https://www.maxmovie.com/news/436159</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436159"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705044097947b8SFa.jpg" alt=""></span><span class="textBox"><h4>'SNL' 정이랑 영화 주연까지...사라진 로또 찾아 질주 '아네모네'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705044097947b8SFa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
