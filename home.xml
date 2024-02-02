@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 04:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 05:07:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/436417</link>
             <guid>https://www.maxmovie.com/news/436417</guid>
             <pubDate>Fri, 02 Feb 2024 03:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436417"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17068423110872zaCg.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436417"><h4>블랙핑크는 역시 다르다, 안무 영상으로 5억뷰 또 달성 </h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436417"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17068423110872zaCg.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436417"><h4>블랙핑크는 역시 다르다, 안무 영상으로 5억뷰 또 달성 </h4></a><span>2시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17068423110872zaCg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -59,23 +59,6 @@
             <content:encoded><![CDATA[美 타임과 인터뷰
 "묘하게 아름다워"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706839891557H2E5H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박광수, 부산국제영화제 신임 이사장 위촉]]></title>
-            <link>https://www.maxmovie.com/news/436409</link>
-            <guid>https://www.maxmovie.com/news/436409</guid>
-            <pubDate>Thu, 01 Feb 2024 09:06:11 GMT</pubDate>
-            <content:encoded><![CDATA[1일 정기총회 통해 가결
-"영화제 도약 이끌 것"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706774437473rEksL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[데일리 핫이슈] 이상엽 3월24일 결혼, 지현우‧임수향 주말극 주연, 방시혁 '빌보드 파워 100']]></title>
-            <link>https://www.maxmovie.com/news/436407</link>
-            <guid>https://www.maxmovie.com/news/436407</guid>
-            <pubDate>Fri, 02 Feb 2024 04:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17067742938659k5RE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 줄리엣 비노쉬가 겪은 노동자의 현실, 영화 '두 세계 사이에서']]></title>
@@ -90,8 +73,26 @@
             <link>https://www.maxmovie.com/news/436405</link>
             <guid>https://www.maxmovie.com/news/436405</guid>
             <pubDate>Fri, 02 Feb 2024 01:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436405"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706763874880ygNDX.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436405"><h4>이동욱 VS 조한선, '숨멎' 액션...'킬러들의 쇼핑몰' 한계 없는 질주 </h4></a><span>22시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[갈수록 높아지는 액션의 수위
+예측 불가한 엔딩, 2회 남았다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706763874880ygNDX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 매튜 본 감독이 "한국은 고향 같다"고 말한 이유]]></title>
+            <link>https://www.maxmovie.com/news/436404</link>
+            <guid>https://www.maxmovie.com/news/436404</guid>
+            <pubDate>Fri, 02 Feb 2024 05:06:54 GMT</pubDate>
+            <content:encoded><![CDATA['아가일'로 화상 인터뷰
+"한국 가면 치킨 먹을래"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706754482810BuDx1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김남주와 차은우의 만남, 사랑일까 연대일까]]></title>
+            <link>https://www.maxmovie.com/news/436403</link>
+            <guid>https://www.maxmovie.com/news/436403</guid>
+            <pubDate>Fri, 02 Feb 2024 05:06:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436403"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706753356451leHCC.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436403"><h4>김남주와 차은우의 만남, 사랑일까 연대일까 </h4></a><span>02월 01일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706753356451leHCC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
