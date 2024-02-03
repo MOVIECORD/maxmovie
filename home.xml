@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 21:04:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 22:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,6 +51,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706861943196VqsGq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 마침내 3편으로 돌아온 영화 '킹덤3:운명의 불꽃']]></title>
+            <link>https://www.maxmovie.com/news/436421</link>
+            <guid>https://www.maxmovie.com/news/436421</guid>
+            <pubDate>Sat, 03 Feb 2024 22:03:31 GMT</pubDate>
+            <content:encoded><![CDATA['킹덤3: 운명의 불꽃'의 한 장면. 사진제공=이놀미디어오늘, 볼만한 작품을 추천합니다.◆ '킹덤3: 운명의 불꽃'영화 '킹덤3:운명의 불꽃'은 춘추전국시대 조나라의 공격에 대항하는 주인공 신과 왕기의 압도적 활약을 그린 액션 블록버스터다.영화 '킹덤' 시리즈는 일본에서 개봉마다 역대 흥행 기록을 새롭게 쓰면서 이른바 '킹덤 신드롬'을 일으키고 있다.'킹덤]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706855476659vRM6M.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[크리스토퍼 놀란, '패스트 라이브즈' 언급한 까닭은]]></title>
             <link>https://www.maxmovie.com/news/436416</link>
             <guid>https://www.maxmovie.com/news/436416</guid>
@@ -82,16 +90,8 @@
             <link>https://www.maxmovie.com/news/436407</link>
             <guid>https://www.maxmovie.com/news/436407</guid>
             <pubDate>Sat, 03 Feb 2024 20:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436407"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17067742938659k5RE.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436407"><h4>[데일리 핫이슈] 이상엽 3월24일 결혼, 지현우‧임수향 주말극 주연, 방시혁 '빌보드 파워 100'</h4></a><span>02월 01일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17067742938659k5RE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 줄리엣 비노쉬가 겪은 노동자의 현실, 영화 '두 세계 사이에서']]></title>
-            <link>https://www.maxmovie.com/news/436406</link>
-            <guid>https://www.maxmovie.com/news/436406</guid>
-            <pubDate>Sat, 03 Feb 2024 20:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436406"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706769955336oYRGq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436406"><h4>[오늘 뭘 볼까] 줄리엣 비노쉬가 겪은 노동자의 현실, 영화 '두 세계 사이에서'</h4></a><span>02월 01일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706769955336oYRGq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
