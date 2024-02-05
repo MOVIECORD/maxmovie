@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 09:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 11:04:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 고레에다 히로카즈 감독 "'소수자' 이야기 계속 그려가고 싶다" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436453</link>
+            <guid>https://www.maxmovie.com/news/436453</guid>
+            <pubDate>Mon, 05 Feb 2024 09:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '괴물' 50만 관객 돌파 흥행 성과
+"두 소년의 훌륭한 연기, 마음 울렸다"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707114219454EEeSp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['살인자ㅇ난감' 어떻게 읽어야 하나..? 대략 난감 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/436448</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[최우식·손석구 주연한 범죄 스릴러
 원작 작가는 '살인자 이응 난감'으로]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707100420648GfbzX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['진만 삼촌' 이동욱, 촬영장에선 어떤 모습? '킬러들의 쇼핑몰' 엿보니 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/436433</link>
-            <guid>https://www.maxmovie.com/news/436433</guid>
-            <pubDate>Sun, 04 Feb 2024 02:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[이동욱의 새로운 모습, 액션과 서사
-남은 2회 분량의 이야기에 시선집중]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707011467954xYWoZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신세계 외손녀 걸그룹 데뷔? 테디 회사 신인 그룹 포함 관심 (맥스무비)]]></title>
@@ -35,23 +35,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707098156043MTRUT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['외계+인' 2부, 계속 달린다...꾸준한 인기 1부 성적 넘어설지 주목 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/436445</link>
-            <guid>https://www.maxmovie.com/news/436445</guid>
-            <pubDate>Mon, 05 Feb 2024 01:43:19 GMT</pubDate>
-            <content:encoded><![CDATA[1월10일 개봉 누적 140만 동원
-관객 발길 이어져 장기 상영 돌입]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707096241540T6g10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 고레에다 히로카즈 감독 "'소수자' 이야기 계속 그려가고 싶다" (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/436453</link>
-            <guid>https://www.maxmovie.com/news/436453</guid>
-            <pubDate>Mon, 05 Feb 2024 09:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436453"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707114219454EEeSp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436453"><h4>[인터뷰] 고레에다 히로카즈 감독 "'소수자' 이야기 계속 그려가고 싶다"</h4></a><span>54분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707114219454EEeSp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['킬러들의 쇼핑몰' 보고, 원작 소설 쓴 강지영 작가가 남긴 말... (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/436452</link>
             <guid>https://www.maxmovie.com/news/436452</guid>
@@ -59,6 +42,14 @@
             <content:encoded><![CDATA["원작자이지만 시리즈의 결말 전혀 몰라"
 "건너 뛸 수 없는, 한치의 낭비 없는 연출"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17071078972509WhMT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['외계+인' 2부, 계속 달린다...꾸준한 인기 1부 성적 넘어설지 주목 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436445</link>
+            <guid>https://www.maxmovie.com/news/436445</guid>
+            <pubDate>Mon, 05 Feb 2024 01:43:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436445"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707096241540T6g10.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436445"><h4>'외계+인' 2부, 계속 달린다...꾸준한 인기 1부 성적 넘어설지 주목 </h4></a><span>9시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707096241540T6g10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[독립영화 사랑꾼 유지태, 이번엔 '길 위에 김대중' (맥스무비)]]></title>
@@ -70,6 +61,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707095860172Zft2h.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[리뷰:포테이토 지수 89%] '사운드 오프 프리덤' 아동 인신매매 실화, 외면해선 안될 이야기 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436439</link>
+            <guid>https://www.maxmovie.com/news/436439</guid>
+            <pubDate>Mon, 05 Feb 2024 01:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[실화라는 참담하고 불편한 영화의  진실
+한 인간의 의로운 분투, 2월21일 개봉]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707091821381iEM7V.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[티모시 샬라메 통했다, '웡카' 개봉 첫 주말 52만명 동원 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/436443</link>
             <guid>https://www.maxmovie.com/news/436443</guid>
@@ -79,27 +79,36 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707091580428Hpyof.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[티모시 샬라메 매력의 총집합 '웡카', 설 연휴까지 노린다 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436438</link>
+            <guid>https://www.maxmovie.com/news/436438</guid>
+            <pubDate>Sun, 04 Feb 2024 22:04:44 GMT</pubDate>
+            <content:encoded><![CDATA[주인공 윌리 웡카의 모험과 성장
+관객 시선 사로잡는 매력 발휘]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17070391868695MSNZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["흙 색깔까지 몇 번씩 바꿨다" 영화 '파묘'... 궁금증 증폭 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/436437</link>
             <guid>https://www.maxmovie.com/news/436437</guid>
             <pubDate>Sun, 04 Feb 2024 08:07:38 GMT</pubDate>
-            <content:encoded><![CDATA['검은 사제들' '사바하' 장재현 감독 신작
-"소품 하나에도 현실성 담기도록 신경"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436437"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707024273759ZIdzP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436437"><h4>"흙 색깔까지 몇 번씩 바꿨다" 영화 '파묘'... 궁금증 증폭 </h4></a><span>02월 04일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707024273759ZIdzP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[재밌는 영화는 어김없이 통한다, '시민덕희' 100만 눈앞 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/436436</link>
-            <guid>https://www.maxmovie.com/news/436436</guid>
-            <pubDate>Sun, 04 Feb 2024 07:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436436"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707022317616axq5e.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436436"><h4>재밌는 영화는 어김없이 통한다, '시민덕희' 100만 눈앞 </h4></a><span>02월 04일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707022317616axq5e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[인터뷰] '시민덕희' 실제 주인공 김성자씨 "그때 멍청했던 게 아니라 절박했다" (맥스무비 ─ 인터뷰)]]></title>
+            <link>https://www.maxmovie.com/news/436455</link>
+            <guid>https://www.maxmovie.com/news/436455</guid>
+            <pubDate>Mon, 05 Feb 2024 11:03:23 GMT</pubDate>
+            <content:encoded><![CDATA[전 재산 날리고 포상금도 못 받아 
+"영화 개봉만 기다리며 버틴 시간"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707125949990hPER9.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 고레에다 히로카즈 감독 "'소수자' 이야기 계속 그려가고 싶다" (맥스무비 ─ 인터뷰)]]></title>
             <link>https://www.maxmovie.com/news/436453</link>
             <guid>https://www.maxmovie.com/news/436453</guid>
-            <pubDate>Mon, 05 Feb 2024 09:07:10 GMT</pubDate>
+            <pubDate>Mon, 05 Feb 2024 09:07:03 GMT</pubDate>
             <content:encoded><![CDATA[영화 '괴물' 50만 관객 돌파 흥행 성과
 "두 소년의 훌륭한 연기, 마음 울렸다"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707114219454EEeSp.jpg" length="0" type="image/jpg"/>
@@ -127,8 +136,7 @@
             <link>https://www.maxmovie.com/news/436404</link>
             <guid>https://www.maxmovie.com/news/436404</guid>
             <pubDate>Thu, 01 Feb 2024 03:07:41 GMT</pubDate>
-            <content:encoded><![CDATA['아가일'로 화상 인터뷰
-"한국 가면 치킨 먹을래"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436404"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706754482810BuDx1.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436404"><h4>[인터뷰] 매튜 본 감독이 "한국은 고향 같다"고 말한 이유</h4></a><span>02월 01일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706754482810BuDx1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -136,7 +144,8 @@
             <link>https://www.maxmovie.com/news/436401</link>
             <guid>https://www.maxmovie.com/news/436401</guid>
             <pubDate>Thu, 01 Feb 2024 05:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436401"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706750615817OaHkh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436401"><h4>[인터뷰] 영화 '소풍' 조현미 작가 "누가 할머니들을 벼랑 끝에 내몰았나...묻고 싶었다"</h4></a><span>02월 01일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['소풍'으로 첫 시나리오 작가 데뷔 
+나문희 초안 읽고 김영옥 직접 캐스팅]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706750615817OaHkh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -171,17 +180,8 @@
             <link>https://www.maxmovie.com/news/436287</link>
             <guid>https://www.maxmovie.com/news/436287</guid>
             <pubDate>Tue, 23 Jan 2024 06:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드 영화 촬영감독 참여 후기
-미국촬영감독협회(ASC) 정식 회원]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436287"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705987804186wNcAg.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436287"><h4> [인터뷰]  '웡카' 정정훈 촬영감독 "티모시 샬라메, 배우는 배우다"</h4></a><span>01월 23일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705987804186wNcAg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 첫 욕설 연기 도전 김현주 "'선산', 폭발할 수 있어서 좋았죠" (맥스무비 ─ 인터뷰)]]></title>
-            <link>https://www.maxmovie.com/news/436285</link>
-            <guid>https://www.maxmovie.com/news/436285</guid>
-            <pubDate>Tue, 23 Jan 2024 11:06:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436285"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1705983175793aQDJN.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436285"><h4>[인터뷰] 첫 욕설 연기 도전 김현주 "'선산', 폭발할 수 있어서 좋았죠"</h4></a><span>01월 23일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705983175793aQDJN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리뷰:포테이토 지수 89%] '사운드 오프 프리덤' 아동 인신매매 실화, 외면해선 안될 이야기 (맥스무비 ─ 리뷰)]]></title>
@@ -270,6 +270,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704329132587KcBEu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['원조 조각미남' 배우 남궁원 별세...한국영화 발전 이끈 주역 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/436456</link>
+            <guid>https://www.maxmovie.com/news/436456</guid>
+            <pubDate>Mon, 05 Feb 2024 11:03:48 GMT</pubDate>
+            <content:encoded><![CDATA['한국의 그레고리 펙'  큰 사랑 
+폐암으로 투병, 4일 눈 감아]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707123227562eknXt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['킬러들의 쇼핑몰' 보고, 원작 소설 쓴 강지영 작가가 남긴 말... (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436452</link>
             <guid>https://www.maxmovie.com/news/436452</guid>
@@ -301,8 +310,7 @@
             <link>https://www.maxmovie.com/news/436448</link>
             <guid>https://www.maxmovie.com/news/436448</guid>
             <pubDate>Mon, 05 Feb 2024 03:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[최우식·손석구 주연한 범죄 스릴러
-원작 작가는 '살인자 이응 난감'으로]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436448"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707100420648GfbzX.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436448"><h4>'살인자ㅇ난감' 어떻게 읽어야 하나..? 대략 난감 </h4></a><span>8시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707100420648GfbzX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -310,7 +318,8 @@
             <link>https://www.maxmovie.com/news/436447</link>
             <guid>https://www.maxmovie.com/news/436447</guid>
             <pubDate>Mon, 05 Feb 2024 04:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436447"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707101404292h5Hkm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436447"><h4>'스파이 패밀리'의 첫 극장판, 위장 가족의 흥미진진한 여행기</h4></a><span>5시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[3월 국내 개봉, 일본 개봉 당시  389만 동원
+인기 애니메이션 극장판 열기 이을지 관심]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707101404292h5Hkm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -345,17 +354,8 @@
             <link>https://www.maxmovie.com/news/436443</link>
             <guid>https://www.maxmovie.com/news/436443</guid>
             <pubDate>Mon, 05 Feb 2024 01:43:19 GMT</pubDate>
-            <content:encoded><![CDATA['웡카', 개봉 첫 주말 박스오피스 1위
-글로벌 누적 수익 7652억원 돌파]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436443"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707091580428Hpyof.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436443"><h4>티모시 샬라메 통했다, '웡카' 개봉 첫 주말 52만명 동원</h4></a><span>10시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707091580428Hpyof.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티모시 샬라메 매력의 총집합 '웡카', 설 연휴까지 노린다 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/436438</link>
-            <guid>https://www.maxmovie.com/news/436438</guid>
-            <pubDate>Sun, 04 Feb 2024 22:04:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436438"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17070391868695MSNZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436438"><h4>티모시 샬라메 매력의 총집합 '웡카', 설 연휴까지 노린다</h4></a><span>11시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17070391868695MSNZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['킬러들의 쇼핑몰' 보고, 원작 소설 쓴 강지영 작가가 남긴 말... (맥스무비 ─ OTT)]]></title>
