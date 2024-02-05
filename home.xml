@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 05:07:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 06:09:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707096241540T6g10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['킬러들의 쇼핑몰' 보고, 원작 소설 쓴 강지영 작가가 남긴 말...]]></title>
+            <link>https://www.maxmovie.com/news/436452</link>
+            <guid>https://www.maxmovie.com/news/436452</guid>
+            <pubDate>Mon, 05 Feb 2024 06:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436452"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17071078972509WhMT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436452"><h4>'킬러들의 쇼핑몰' 보고, 원작 소설 쓴 강지영 작가가 남긴 말...</h4></a><span>55분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17071078972509WhMT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[독립영화 사랑꾼 유지태, 이번엔 '길 위에 김대중']]></title>
             <link>https://www.maxmovie.com/news/436444</link>
             <guid>https://www.maxmovie.com/news/436444</guid>
             <pubDate>Mon, 05 Feb 2024 01:43:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436444"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707095860172Zft2h.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436444"><h4>독립영화 사랑꾼 유지태, 이번엔 '길 위에 김대중'</h4></a><span>3시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[다큐멘터리 '길 위에 김대중'
+유지태와 함께 독립영화 보기 22번째 작품]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707095860172Zft2h.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/436435</link>
             <guid>https://www.maxmovie.com/news/436435</guid>
             <pubDate>Sun, 04 Feb 2024 06:07:43 GMT</pubDate>
-            <content:encoded><![CDATA[이하늬와 이종원의 액션과 로맨스
-지난 2일 방송 시청률 13.1% 최고치]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436435"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707020916311lhBoZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436435"><h4>이하늬, 남궁민도 뛰어넘었다...'밤에 피는 꽃' 시청률 질주</h4></a><span>02월 04일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707020916311lhBoZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티모시 샬라메, 내한 임박... '듄2' 한국 팬과의 만남 준비]]></title>
-            <link>https://www.maxmovie.com/news/436434</link>
-            <guid>https://www.maxmovie.com/news/436434</guid>
-            <pubDate>Mon, 05 Feb 2024 01:43:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436434"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707013778961QZ9Ds.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436434"><h4>티모시 샬라메, 내한 임박... '듄2' 한국 팬과의 만남 준비  </h4></a><span>02월 04일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707013778961QZ9Ds.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

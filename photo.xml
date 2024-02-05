@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 05:07:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 06:09:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아찔한 로맨스의 끝...'애프터:유혹의 끝' 두 남녀의 결말은?]]></title>
+            <link>https://www.maxmovie.com/news/436451</link>
+            <guid>https://www.maxmovie.com/news/436451</guid>
+            <pubDate>Mon, 05 Feb 2024 06:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436451"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1707108697233CXmaO.jpg" alt=""></span><span class="textBox"><h4>아찔한 로맨스의 끝...'애프터:유혹의 끝' 두 남녀의 결말은?</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707108697233CXmaO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['스파이 패밀리'의 첫 극장판, 위장 가족의 흥미진진한 여행기]]></title>
             <link>https://www.maxmovie.com/news/436447</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436193"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705371007648l0kN7.jpg" alt=""></span><span class="textBox"><h4>'소풍' 연기 경력 도합 195년의 배우들이 만났다 feat.임영웅</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705371007648l0kN7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['클럽 제로' 엘리트 학교에서 벌어진 충격적 식사법의 실체]]></title>
-            <link>https://www.maxmovie.com/news/436186</link>
-            <guid>https://www.maxmovie.com/news/436186</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436186"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705304799652C1jWh.jpg" alt=""></span><span class="textBox"><h4>'클럽 제로' 엘리트 학교에서 벌어진 충격적 식사법의 실체 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705304799652C1jWh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
