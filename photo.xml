@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 02:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 03:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화의 힘 보여주는 '시민덕희'...보이스피싱 범죄 경각심 일깨워]]></title>
+            <link>https://www.maxmovie.com/news/436464</link>
+            <guid>https://www.maxmovie.com/news/436464</guid>
+            <pubDate>Tue, 06 Feb 2024 03:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436464"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17071857567889cCo5.jpg" alt=""></span><span class="textBox"><h4>영화의 힘 보여주는 '시민덕희'...보이스피싱 범죄 경각심 일깨워 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17071857567889cCo5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아찔한 로맨스의 끝...'애프터:유혹의 끝' 두 남녀의 결말은?]]></title>
             <link>https://www.maxmovie.com/news/436451</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436203"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705389542248FT3QB.jpg" alt=""></span><span class="textBox"><h4>'활짝 웃는 전두광' 황정민 "꿈 같은 일 일어나"</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705389542248FT3QB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['소풍' 연기 경력 도합 195년의 배우들이 만났다 feat.임영웅]]></title>
-            <link>https://www.maxmovie.com/news/436193</link>
-            <guid>https://www.maxmovie.com/news/436193</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436193"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705371007648l0kN7.jpg" alt=""></span><span class="textBox"><h4>'소풍' 연기 경력 도합 195년의 배우들이 만났다 feat.임영웅</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705371007648l0kN7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

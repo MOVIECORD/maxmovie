@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 02:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 03:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707179945939o82sG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰] 데뷔작으로 美오스카 입성…"父 송능한 감독 자랑스러워해"]]></title>
+            <link>https://www.maxmovie.com/news/436465</link>
+            <guid>https://www.maxmovie.com/news/436465</guid>
+            <pubDate>Tue, 06 Feb 2024 03:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436465"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707185946093Qzq9n.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436465"><h4>[인터뷰] 데뷔작으로 美오스카 입성…"父 송능한 감독 자랑스러워해"</h4></a><span>41분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707185946093Qzq9n.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[2024년 넷플릭스 영화] 송중기 '로기완'부터 강동원 '전,란'까지]]></title>
             <link>https://www.maxmovie.com/news/436461</link>
             <guid>https://www.maxmovie.com/news/436461</guid>
             <pubDate>Tue, 06 Feb 2024 02:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436461"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707180850055XY71V.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436461"><h4>[2024년 넷플릭스 영화] 송중기 '로기완'부터 강동원 '전,란'까지 </h4></a><span>35분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['황야'로 시작해 '전,란'까지 총 5편 공개
+액션부터 재난, 블록버스터 사극까지]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707180850055XY71V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/436449</link>
             <guid>https://www.maxmovie.com/news/436449</guid>
             <pubDate>Tue, 06 Feb 2024 01:38:56 GMT</pubDate>
-            <content:encoded><![CDATA[2월21~22일 젠데이아와 내한
-티모시 샬라메 5년만의 방문]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436449"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707103015306rMOWs.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436449"><h4>큰 거 온다…'듄: 파트2' 개봉 앞두고 티모시·젠데이아 내한 확정</h4></a><span>23시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707103015306rMOWs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['외계+인' 2부, 계속 달린다...꾸준한 인기 1부 성적 넘어설지 주목]]></title>
-            <link>https://www.maxmovie.com/news/436445</link>
-            <guid>https://www.maxmovie.com/news/436445</guid>
-            <pubDate>Tue, 06 Feb 2024 01:38:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436445"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707096241540T6g10.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436445"><h4>'외계+인' 2부, 계속 달린다...꾸준한 인기 1부 성적 넘어설지 주목 </h4></a><span>02월 05일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707096241540T6g10.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
