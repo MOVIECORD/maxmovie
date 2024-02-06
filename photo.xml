@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 12:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 13:05:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재욱·이준영·홍수주, 욕망이 뒤섞인 '로얄로더' 삼각관계]]></title>
+            <link>https://www.maxmovie.com/news/436466</link>
+            <guid>https://www.maxmovie.com/news/436466</guid>
+            <pubDate>Tue, 06 Feb 2024 13:05:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436466"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1707187113934hjQcb.jpg" alt=""></span><span class="textBox"><h4>이재욱·이준영·홍수주, 욕망이 뒤섞인 '로얄로더' 삼각관계 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707187113934hjQcb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화의 힘 보여주는 '시민덕희'...보이스피싱 범죄 경각심 일깨워]]></title>
             <link>https://www.maxmovie.com/news/436464</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436204"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/170539011729211BNx.jpg" alt=""></span><span class="textBox"><h4>[서울의 봄 흥행 감사] 도희철 역 최병모 "따끈따끈한 새내기 1000만 배우"</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/170539011729211BNx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['활짝 웃는 전두광' 황정민 "꿈 같은 일 일어나"]]></title>
-            <link>https://www.maxmovie.com/news/436203</link>
-            <guid>https://www.maxmovie.com/news/436203</guid>
-            <pubDate>Tue, 06 Feb 2024 11:04:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436203"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705389542248FT3QB.jpg" alt=""></span><span class="textBox"><h4>'활짝 웃는 전두광' 황정민 "꿈 같은 일 일어나"</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705389542248FT3QB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
