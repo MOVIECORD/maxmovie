@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 01:39:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 02:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707179945939o82sG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[2024년 넷플릭스 영화] 송중기 '로기완'부터 강동원 '전,란'까지]]></title>
+            <link>https://www.maxmovie.com/news/436461</link>
+            <guid>https://www.maxmovie.com/news/436461</guid>
+            <pubDate>Tue, 06 Feb 2024 02:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436461"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707180850055XY71V.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436461"><h4>[2024년 넷플릭스 영화] 송중기 '로기완'부터 강동원 '전,란'까지 </h4></a><span>35분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707180850055XY71V.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[고 남궁원 별세, 아들 홍정욱 "살아 숨 쉰 모든 순간 자랑스럽고 행복"]]></title>
             <link>https://www.maxmovie.com/news/436458</link>
             <guid>https://www.maxmovie.com/news/436458</guid>
             <pubDate>Tue, 06 Feb 2024 01:38:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436458"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707179161360ITTNb.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436458"><h4>고 남궁원 별세, 아들 홍정욱 "살아 숨 쉰 모든 순간 자랑스럽고 행복"</h4></a><span>58분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[5일 폐암 투병 끝에 90세 일기로 별세
+한국영화 발전과 성장 이끈 결정적 배우]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707179161360ITTNb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/436445</link>
             <guid>https://www.maxmovie.com/news/436445</guid>
             <pubDate>Tue, 06 Feb 2024 01:38:56 GMT</pubDate>
-            <content:encoded><![CDATA[1월10일 개봉 누적 140만 동원
-관객 발길 이어져 장기 상영 돌입]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436445"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707096241540T6g10.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436445"><h4>'외계+인' 2부, 계속 달린다...꾸준한 인기 1부 성적 넘어설지 주목 </h4></a><span>02월 05일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707096241540T6g10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독립영화 사랑꾼 유지태, 이번엔 '길 위에 김대중']]></title>
-            <link>https://www.maxmovie.com/news/436444</link>
-            <guid>https://www.maxmovie.com/news/436444</guid>
-            <pubDate>Mon, 05 Feb 2024 01:43:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436444"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707095860172Zft2h.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436444"><h4>독립영화 사랑꾼 유지태, 이번엔 '길 위에 김대중'</h4></a><span>02월 05일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707095860172Zft2h.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
