@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 22:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 23:07:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,7 +47,7 @@
             <link>https://www.maxmovie.com/news/436493</link>
             <guid>https://www.maxmovie.com/news/436493</guid>
             <pubDate>Wed, 07 Feb 2024 22:03:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436493"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707312304406TWnkO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436493"><h4>[데일리 핫이슈] 블랙핑크 리사 남친 가족과 美 여행, 조세호 결혼 소감 외 </h4></a><span>4분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436493"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707312304406TWnkO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436493"><h4>[데일리 핫이슈] 블랙핑크 리사 남친 가족과 美 여행, 조세호 결혼 소감 외 </h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707312304406TWnkO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -77,21 +77,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17072847988523qjrs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['킬러들의 쇼핑몰' 피날레, 진만 VS 베일... 최후의 승자 누가 될까]]></title>
+            <link>https://www.maxmovie.com/news/436478</link>
+            <guid>https://www.maxmovie.com/news/436478</guid>
+            <pubDate>Wed, 07 Feb 2024 23:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[머더헬프 VS 바빌론 맞대결의 결과 
+각성한 정지안 VS 킬러 성조의 대결]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707266772800dGFUf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['시민덕희' 실제 주인공, 라미란과 뉴스 출연까지]]></title>
             <link>https://www.maxmovie.com/news/436474</link>
             <guid>https://www.maxmovie.com/news/436474</guid>
             <pubDate>Wed, 07 Feb 2024 01:38:13 GMT</pubDate>
-            <content:encoded><![CDATA[라미란·김성자씨 7일 '2시 뉴스외전' 출연
-'시민덕희' 100만 돌파 목전]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436474"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707265988128IZZDW.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436474"><h4>'시민덕희' 실제 주인공, 라미란과 뉴스 출연까지</h4></a><span>22시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707265988128IZZDW.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[데일리핫이슈] 베일 벗는 테디 걸그룹, 보아 '내남결' 빌런 등판, 프리지아 눈물]]></title>
-            <link>https://www.maxmovie.com/news/436470</link>
-            <guid>https://www.maxmovie.com/news/436470</guid>
-            <pubDate>Tue, 06 Feb 2024 22:04:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436470"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707208058764TEkp0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436470"><h4>[데일리핫이슈] 베일 벗는 테디 걸그룹, 보아 '내남결' 빌런 등판, 프리지아 눈물</h4></a><span>02월 06일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707208058764TEkp0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
