@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 02:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 03:08:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/436480</link>
             <guid>https://www.maxmovie.com/news/436480</guid>
             <pubDate>Wed, 07 Feb 2024 02:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436480"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707271597130fY0DM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436480"><h4>영화도 보고, 기부도 하고</h4></a><span>19분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436480"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707271597130fY0DM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436480"><h4>영화도 보고, 기부도 하고</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707271597130fY0DM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -90,7 +90,7 @@ KBS 아나운서 출신 부부의 파국]]></content:encoded>
             <link>https://www.maxmovie.com/news/436463</link>
             <guid>https://www.maxmovie.com/news/436463</guid>
             <pubDate>Tue, 06 Feb 2024 06:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436463"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707184024187niPxv.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436463"><h4>[2024년 넷플릭스 시리즈②] '오징어 게임2'부터 '지옥2'까지 </h4></a><span>20시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436463"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707184024187niPxv.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436463"><h4>[2024년 넷플릭스 시리즈②] '오징어 게임2'부터 '지옥2'까지 </h4></a><span>21시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707184024187niPxv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -271,7 +271,7 @@ KBS 아나운서 출신 부부의 파국]]></content:encoded>
             <title><![CDATA[영화도 보고, 기부도 하고 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436480</link>
             <guid>https://www.maxmovie.com/news/436480</guid>
-            <pubDate>Wed, 07 Feb 2024 02:14:45 GMT</pubDate>
+            <pubDate>Wed, 07 Feb 2024 02:14:23 GMT</pubDate>
             <content:encoded><![CDATA['도그데이즈'·'사운드 오브 프리덤'
 영화 보면 기부금 적립, 무료로 보고 티켓 기부]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707271597130fY0DM.jpg" length="0" type="image/jpg"/>
@@ -308,7 +308,7 @@ KBS 아나운서 출신 부부의 파국]]></content:encoded>
             <link>https://www.maxmovie.com/news/436475</link>
             <guid>https://www.maxmovie.com/news/436475</guid>
             <pubDate>Wed, 07 Feb 2024 01:38:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436475"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707265616693USpbi.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436475"><h4>이제 '안방'에서 분노할 시간...'서울의 봄' VOD 서비스 시작</h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436475"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707265616693USpbi.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436475"><h4>이제 '안방'에서 분노할 시간...'서울의 봄' VOD 서비스 시작</h4></a><span>2시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707265616693USpbi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -352,8 +352,17 @@ KBS 아나운서 출신 부부의 파국]]></content:encoded>
             <link>https://www.maxmovie.com/news/436470</link>
             <guid>https://www.maxmovie.com/news/436470</guid>
             <pubDate>Tue, 06 Feb 2024 22:04:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436470"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707208058764TEkp0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436470"><h4>[데일리핫이슈] 베일 벗는 테디 걸그룹, 보아 '내남결' 빌런 등판, 프리지아 눈물</h4></a><span>4시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436470"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707208058764TEkp0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436470"><h4>[데일리핫이슈] 베일 벗는 테디 걸그룹, 보아 '내남결' 빌런 등판, 프리지아 눈물</h4></a><span>5시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707208058764TEkp0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스핀오프로 돌아온 이미나 대리! '미나씨, 또 프사 바뀌었네요?' 미리 보기 (맥스무비 ─ OTT)]]></title>
+            <link>https://www.maxmovie.com/news/436481</link>
+            <guid>https://www.maxmovie.com/news/436481</guid>
+            <pubDate>Wed, 07 Feb 2024 03:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[2월7일 오후5시 전편 공개
+현실 로맨스 그린 왓챠 오리지널 시리즈]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17072731610309FwkX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['킬러들의 쇼핑몰' 피날레, 진만 VS 베일... 최후의 승자 누가 될까 (맥스무비 ─ OTT)]]></title>
@@ -387,8 +396,7 @@ KBS 아나운서 출신 부부의 파국]]></content:encoded>
             <link>https://www.maxmovie.com/news/436462</link>
             <guid>https://www.maxmovie.com/news/436462</guid>
             <pubDate>Tue, 06 Feb 2024 06:09:25 GMT</pubDate>
-            <content:encoded><![CDATA['선산'으로 시작해 올해 총 10편 공개
-코미디부터 미스터리 스릴러까지]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436462"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707182633226UdQK8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436462"><h4>[2024년 넷플릭스 시리즈①] 류준열 '더 에이트 쇼'부터 공유 '트렁크'까지</h4></a><span>21시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707182633226UdQK8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -396,7 +404,8 @@ KBS 아나운서 출신 부부의 파국]]></content:encoded>
             <link>https://www.maxmovie.com/news/436461</link>
             <guid>https://www.maxmovie.com/news/436461</guid>
             <pubDate>Tue, 06 Feb 2024 02:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436461"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707180850055XY71V.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436461"><h4>[2024년 넷플릭스 영화] 송중기 '로기완'부터 강동원 '전,란'까지 </h4></a><span>02월 06일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['황야'로 시작해 '전,란'까지 총 5편 공개
+액션부터 재난, 블록버스터 사극까지]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707180850055XY71V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -430,17 +439,16 @@ KBS 아나운서 출신 부부의 파국]]></content:encoded>
             <link>https://www.maxmovie.com/news/436433</link>
             <guid>https://www.maxmovie.com/news/436433</guid>
             <pubDate>Sun, 04 Feb 2024 02:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[이동욱의 새로운 모습, 액션과 서사
-남은 2회 분량의 이야기에 시선집중]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436433"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707011467954xYWoZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436433"><h4>'진만 삼촌' 이동욱, 촬영장에선 어떤 모습? '킬러들의 쇼핑몰' 엿보니 </h4></a><span>02월 04일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707011467954xYWoZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아시아에서도 '킬러들의 쇼핑몰' 인기, 5개국 톱10 (맥스무비 ─ OTT)]]></title>
-            <link>https://www.maxmovie.com/news/436423</link>
-            <guid>https://www.maxmovie.com/news/436423</guid>
-            <pubDate>Fri, 02 Feb 2024 10:07:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436423"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17068609017278W2w5.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436423"><h4>아시아에서도 '킬러들의 쇼핑몰' 인기, 5개국 톱10</h4></a><span>02월 02일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17068609017278W2w5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[스핀오프로 돌아온 이미나 대리! '미나씨, 또 프사 바뀌었네요?' 미리 보기 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/436481</link>
+            <guid>https://www.maxmovie.com/news/436481</guid>
+            <pubDate>Wed, 07 Feb 2024 03:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436481"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17072731610309FwkX.jpg" alt=""></span><span class="textBox"><h4>스핀오프로 돌아온 이미나 대리! '미나씨, 또 프사 바뀌었네요?' 미리 보기</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17072731610309FwkX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['파묘' 김고은, 무속인에게 전수받은 대살굿 비하인드 (맥스무비 ─ 포토)]]></title>
@@ -673,14 +681,6 @@ KBS 아나운서 출신 부부의 파국]]></content:encoded>
             <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436205"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705390601038ZTcQZ.jpg" alt=""></span><span class="textBox"><h4>[서울의 봄 흥행 감사] 특별출연 정만식 "더 많이 봐달라. 설까지~"</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705390601038ZTcQZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울의 봄 흥행 감사] 도희철 역 최병모 "따끈따끈한 새내기 1000만 배우" (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/436204</link>
-            <guid>https://www.maxmovie.com/news/436204</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436204"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/170539011729211BNx.jpg" alt=""></span><span class="textBox"><h4>[서울의 봄 흥행 감사] 도희철 역 최병모 "따끈따끈한 새내기 1000만 배우"</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/170539011729211BNx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
