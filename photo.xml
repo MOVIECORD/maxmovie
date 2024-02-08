@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 00:30:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 01:38:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송중기의 슬픈 눈동자... 영화 '로기완'이 온다]]></title>
+            <link>https://www.maxmovie.com/news/436498</link>
+            <guid>https://www.maxmovie.com/news/436498</guid>
+            <pubDate>Thu, 08 Feb 2024 01:38:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436498"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1707354327348T8YV5.jpg" alt=""></span><span class="textBox"><h4>송중기의 슬픈 눈동자... 영화 '로기완'이 온다 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707354327348T8YV5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['좋좋소' 이미나 대리, 스핀오프 출격 '미나씨, 또 프사 바뀌었네요?']]></title>
             <link>https://www.maxmovie.com/news/436481</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436213"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705459002117oThIW.jpg" alt=""></span><span class="textBox"><h4>살인자와 형사로 만난 최우식·손석구, '지독한 얼굴'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705459002117oThIW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울의 봄 흥행 감사] 특별출연 정만식 "더 많이 봐달라. 설까지~"]]></title>
-            <link>https://www.maxmovie.com/news/436205</link>
-            <guid>https://www.maxmovie.com/news/436205</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436205"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705390601038ZTcQZ.jpg" alt=""></span><span class="textBox"><h4>[서울의 봄 흥행 감사] 특별출연 정만식 "더 많이 봐달라. 설까지~"</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705390601038ZTcQZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
