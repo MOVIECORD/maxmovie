@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 07:08:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 08:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707353923100f7cm3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['킬러들의 쇼핑몰' 김혜준, 이동욱 떠나 이준호 만날까]]></title>
+            <link>https://www.maxmovie.com/news/436508</link>
+            <guid>https://www.maxmovie.com/news/436508</guid>
+            <pubDate>Thu, 08 Feb 2024 08:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436508"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17073775091761mNIf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436508"><h4>'킬러들의 쇼핑몰' 김혜준, 이동욱 떠나 이준호 만날까 </h4></a><span>25분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17073775091761mNIf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[설 극장서 유리해진 '웡카'…韓영화 3편 첫날 성적은]]></title>
             <link>https://www.maxmovie.com/news/436497</link>
             <guid>https://www.maxmovie.com/news/436497</guid>
             <pubDate>Thu, 08 Feb 2024 01:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436497"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707353041713XiORo.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436497"><h4>설 극장서 유리해진 '웡카'…韓영화 3편 첫날 성적은</h4></a><span>6시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['웡카' 신작 개봉에도 1위 지켜
+'데드맨' '소풍' '도그데이즈' 2~4위]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707353041713XiORo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@
             <link>https://www.maxmovie.com/news/436482</link>
             <guid>https://www.maxmovie.com/news/436482</guid>
             <pubDate>Wed, 07 Feb 2024 08:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[2월15일 개봉, '장인과 사위' 제작 및 주연
-아직도 회자되는 '병진이 형', 명작의 힘 느껴]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436482"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707275290951tMy9O.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436482"><h4>[인터뷰] 배우 지대한, 치매 걸린 장인과의 일상...영화로 만든 까닭</h4></a><span>02월 07일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707275290951tMy9O.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼히어로 된 다코타 존슨 '마담 웹' 3월13일 개봉]]></title>
-            <link>https://www.maxmovie.com/news/436490</link>
-            <guid>https://www.maxmovie.com/news/436490</guid>
-            <pubDate>Wed, 07 Feb 2024 08:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436490"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707289242720Ox1Vg.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436490"><h4>슈퍼히어로 된 다코타 존슨 '마담 웹' 3월13일 개봉 </h4></a><span>02월 07일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707289242720Ox1Vg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
