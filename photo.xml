@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 01:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 02:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황재균 아내 박지연은 잊어라... 영화 '화녀'의 섬뜩한 얼굴]]></title>
+            <link>https://www.maxmovie.com/news/436500</link>
+            <guid>https://www.maxmovie.com/news/436500</guid>
+            <pubDate>Thu, 08 Feb 2024 02:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436500"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1707356485626hTIWl.jpg" alt=""></span><span class="textBox"><h4>황재균 아내 박지연은 잊어라... 영화 '화녀'의 섬뜩한 얼굴 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707356485626hTIWl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송중기의 슬픈 눈동자... 영화 '로기완'이 온다]]></title>
             <link>https://www.maxmovie.com/news/436498</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436214"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705461084016E4RYU.jpg" alt=""></span><span class="textBox"><h4>끝나지 않는 이야기, '노량:죽음의 바다' 결정적인 인물들 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705461084016E4RYU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[살인자와 형사로 만난 최우식·손석구, '지독한 얼굴']]></title>
-            <link>https://www.maxmovie.com/news/436213</link>
-            <guid>https://www.maxmovie.com/news/436213</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436213"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705459002117oThIW.jpg" alt=""></span><span class="textBox"><h4>살인자와 형사로 만난 최우식·손석구, '지독한 얼굴'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705459002117oThIW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
