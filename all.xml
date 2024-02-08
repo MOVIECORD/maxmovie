@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 21:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 22:06:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707351447965Ja38m.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰] 80대 현역 나문희·김영옥, 꼭 하고 싶은 말 "나를 위해 살아가세요" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436495</link>
+            <guid>https://www.maxmovie.com/news/436495</guid>
+            <pubDate>Thu, 08 Feb 2024 22:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436495"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707353551320dIPrD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436495"><h4>[인터뷰] 80대 현역 나문희·김영옥, 꼭 하고 싶은 말 "나를 위해 살아가세요"</h4></a><span>6분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707353551320dIPrD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['킬러들의 쇼핑몰' 김혜준, 이동욱 떠나 이준호 만날까 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/436508</link>
             <guid>https://www.maxmovie.com/news/436508</guid>
             <pubDate>Thu, 08 Feb 2024 08:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436508"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17073775091761mNIf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436508"><h4>'킬러들의 쇼핑몰' 김혜준, 이동욱 떠나 이준호 만날까 </h4></a><span>13시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[다음 출연작 넷플릭스 '캐셔로' 
+'평범한' 슈퍼히어로들의 이야기]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17073775091761mNIf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,16 +92,8 @@
             <link>https://www.maxmovie.com/news/436493</link>
             <guid>https://www.maxmovie.com/news/436493</guid>
             <pubDate>Wed, 07 Feb 2024 22:03:55 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436493"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707312304406TWnkO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436493"><h4>[데일리 핫이슈] 블랙핑크 리사 남친 가족과 美 여행, 조세호 결혼 소감 외 </h4></a><span>02월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707312304406TWnkO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 배우 지대한, 치매 걸린 장인과의 일상...영화로 만든 까닭 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/436482</link>
-            <guid>https://www.maxmovie.com/news/436482</guid>
-            <pubDate>Wed, 07 Feb 2024 08:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436482"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707275290951tMy9O.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436482"><h4>[인터뷰] 배우 지대한, 치매 걸린 장인과의 일상...영화로 만든 까닭</h4></a><span>02월 07일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707275290951tMy9O.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '황야' 안지혜 "촬영 한달 전에 합류, '이불킥' 했다" (맥스무비 ─ 인터뷰)]]></title>
@@ -102,6 +103,15 @@
             <content:encoded><![CDATA[넷플릭스 글로벌 1위 '황야'의 히로인
 '한국의 스칼렛 요한슨'으로 주목]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707367371092B3nBs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 80대 현역 나문희·김영옥, 꼭 하고 싶은 말 "나를 위해 살아가세요" (맥스무비 ─ 인터뷰)]]></title>
+            <link>https://www.maxmovie.com/news/436495</link>
+            <guid>https://www.maxmovie.com/news/436495</guid>
+            <pubDate>Thu, 08 Feb 2024 22:05:59 GMT</pubDate>
+            <content:encoded><![CDATA[7일 개봉 '소풍' 은심과 금순 역할 소화 
+연기 경력만 도합 131년의 삶, 영화 안에]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707353551320dIPrD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '킬러들의 쇼핑몰' 출연 제안 거절했던 김혜준, "시즌2 나오면? 당연히 참여" (맥스무비 ─ 인터뷰)]]></title>
@@ -126,8 +136,7 @@
             <link>https://www.maxmovie.com/news/436455</link>
             <guid>https://www.maxmovie.com/news/436455</guid>
             <pubDate>Mon, 05 Feb 2024 11:03:23 GMT</pubDate>
-            <content:encoded><![CDATA[전 재산 날리고 포상금도 못 받아 
-"영화 개봉만 기다리며 버틴 시간"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436455"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707125949990hPER9.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436455"><h4>[인터뷰] '시민덕희' 실제 주인공 김성자씨 "그때 멍청했던 게 아니라 절박했다" </h4></a><span>02월 05일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707125949990hPER9.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -135,7 +144,8 @@
             <link>https://www.maxmovie.com/news/436453</link>
             <guid>https://www.maxmovie.com/news/436453</guid>
             <pubDate>Mon, 05 Feb 2024 09:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436453"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707114219454EEeSp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436453"><h4>[인터뷰] 고레에다 히로카즈 감독 "'소수자' 이야기 계속 그려가고 싶다"</h4></a><span>02월 05일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[영화 '괴물' 50만 관객 돌파 흥행 성과
+"두 소년의 훌륭한 연기, 마음 울렸다"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707114219454EEeSp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -170,17 +180,8 @@
             <link>https://www.maxmovie.com/news/436401</link>
             <guid>https://www.maxmovie.com/news/436401</guid>
             <pubDate>Thu, 01 Feb 2024 05:06:37 GMT</pubDate>
-            <content:encoded><![CDATA['소풍'으로 첫 시나리오 작가 데뷔 
-나문희 초안 읽고 김영옥 직접 캐스팅]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436401"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706750615817OaHkh.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436401"><h4>[인터뷰] 영화 '소풍' 조현미 작가 "누가 할머니들을 벼랑 끝에 내몰았나...묻고 싶었다"</h4></a><span>02월 01일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706750615817OaHkh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰]허명행, '황야'로 감독데뷔 "좋은 선례로 남고 싶어" (맥스무비 ─ 인터뷰)]]></title>
-            <link>https://www.maxmovie.com/news/436383</link>
-            <guid>https://www.maxmovie.com/news/436383</guid>
-            <pubDate>Tue, 30 Jan 2024 09:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436383"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1706602112601swHBp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436383"><h4>[인터뷰]허명행, '황야'로 감독데뷔 "좋은 선례로 남고 싶어"</h4></a><span>01월 30일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706602112601swHBp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리뷰:포테이토 지수 89%] '사운드 오브 프리덤' 아동 인신매매 실화, 외면해선 안될 이야기 (맥스무비 ─ 리뷰)]]></title>
@@ -309,7 +310,7 @@
             <link>https://www.maxmovie.com/news/436496</link>
             <guid>https://www.maxmovie.com/news/436496</guid>
             <pubDate>Thu, 08 Feb 2024 01:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436496"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707353172878Sc87q.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436496"><h4>강력한 시즌2 예고 '킬러들의 쇼핑몰', 1편 마친 배우들이 남긴 말...</h4></a><span>20시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436496"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707353172878Sc87q.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436496"><h4>강력한 시즌2 예고 '킬러들의 쇼핑몰', 1편 마친 배우들이 남긴 말...</h4></a><span>21시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707353172878Sc87q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -351,7 +352,7 @@
             <link>https://www.maxmovie.com/news/436484</link>
             <guid>https://www.maxmovie.com/news/436484</guid>
             <pubDate>Wed, 07 Feb 2024 22:03:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436484"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707296247131hUpJf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436484"><h4>[설에 뭘 볼까, 시리즈] 정주행 부르는 '살인자ㅇ난감'부터 'LTNS'까지 </h4></a><span>23시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436484"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707296247131hUpJf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436484"><h4>[설에 뭘 볼까, 시리즈] 정주행 부르는 '살인자ㅇ난감'부터 'LTNS'까지 </h4></a><span>02월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707296247131hUpJf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -395,7 +396,7 @@
             <link>https://www.maxmovie.com/news/436484</link>
             <guid>https://www.maxmovie.com/news/436484</guid>
             <pubDate>Wed, 07 Feb 2024 22:03:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436484"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707296247131hUpJf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436484"><h4>[설에 뭘 볼까, 시리즈] 정주행 부르는 '살인자ㅇ난감'부터 'LTNS'까지 </h4></a><span>23시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436484"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707296247131hUpJf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436484"><h4>[설에 뭘 볼까, 시리즈] 정주행 부르는 '살인자ㅇ난감'부터 'LTNS'까지 </h4></a><span>02월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707296247131hUpJf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>

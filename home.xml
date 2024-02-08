@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 21:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 22:06:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707351447965Ja38m.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰] 80대 현역 나문희·김영옥, 꼭 하고 싶은 말 "나를 위해 살아가세요"]]></title>
+            <link>https://www.maxmovie.com/news/436495</link>
+            <guid>https://www.maxmovie.com/news/436495</guid>
+            <pubDate>Thu, 08 Feb 2024 22:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436495"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707353551320dIPrD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436495"><h4>[인터뷰] 80대 현역 나문희·김영옥, 꼭 하고 싶은 말 "나를 위해 살아가세요"</h4></a><span>6분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707353551320dIPrD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['킬러들의 쇼핑몰' 김혜준, 이동욱 떠나 이준호 만날까]]></title>
             <link>https://www.maxmovie.com/news/436508</link>
             <guid>https://www.maxmovie.com/news/436508</guid>
             <pubDate>Thu, 08 Feb 2024 08:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436508"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17073775091761mNIf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436508"><h4>'킬러들의 쇼핑몰' 김혜준, 이동욱 떠나 이준호 만날까 </h4></a><span>13시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[다음 출연작 넷플릭스 '캐셔로' 
+'평범한' 슈퍼히어로들의 이야기]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17073775091761mNIf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,16 +92,8 @@
             <link>https://www.maxmovie.com/news/436493</link>
             <guid>https://www.maxmovie.com/news/436493</guid>
             <pubDate>Wed, 07 Feb 2024 22:03:55 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436493"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707312304406TWnkO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436493"><h4>[데일리 핫이슈] 블랙핑크 리사 남친 가족과 美 여행, 조세호 결혼 소감 외 </h4></a><span>02월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707312304406TWnkO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 배우 지대한, 치매 걸린 장인과의 일상...영화로 만든 까닭]]></title>
-            <link>https://www.maxmovie.com/news/436482</link>
-            <guid>https://www.maxmovie.com/news/436482</guid>
-            <pubDate>Wed, 07 Feb 2024 08:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436482"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707275290951tMy9O.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436482"><h4>[인터뷰] 배우 지대한, 치매 걸린 장인과의 일상...영화로 만든 까닭</h4></a><span>02월 07일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707275290951tMy9O.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
