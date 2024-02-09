@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Feb 2024 04:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2024 05:05:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/436505</link>
             <guid>https://www.maxmovie.com/news/436505</guid>
             <pubDate>Fri, 09 Feb 2024 00:29:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436505"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707373453358KIpme.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436505"><h4>[데일리 핫이슈] 티모시 샬라메 티켓파워 '웡카' 100만 돌파, 박민영 1억 기부 외 </h4></a><span>4시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436505"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707373453358KIpme.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436505"><h4>[데일리 핫이슈] 티모시 샬라메 티켓파워 '웡카' 100만 돌파, 박민영 1억 기부 외 </h4></a><span>5시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707373453358KIpme.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -59,6 +59,15 @@
             <content:encoded><![CDATA[열린 결말로 종영 시즌2 요청 쏟아져
 "시즌2 제작? 당연히 참여하고 싶어"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707370620327jh9ri.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['듄2' VS '파묘'... 2월 말 빅매치, 누가 승기 잡을까]]></title>
+            <link>https://www.maxmovie.com/news/436503</link>
+            <guid>https://www.maxmovie.com/news/436503</guid>
+            <pubDate>Fri, 09 Feb 2024 05:05:14 GMT</pubDate>
+            <content:encoded><![CDATA[2월28일 개봉 '듄:파트2' 주연 배우들 내한 
+오컬트 장르 관심 집중 '파묘' 궁금증 증폭]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707370559493kIGyU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티모시 샬라메가 사랑에 푹 빠진 연인, 카일리 제너는 누구?]]></title>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/436497</link>
             <guid>https://www.maxmovie.com/news/436497</guid>
             <pubDate>Thu, 08 Feb 2024 01:38:41 GMT</pubDate>
-            <content:encoded><![CDATA['웡카' 신작 개봉에도 1위 지켜
-'데드맨' '소풍' '도그데이즈' 2~4위]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436497"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707353041713XiORo.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436497"><h4>설 극장서 유리해진 '웡카'…韓영화 3편 첫날 성적은</h4></a><span>02월 08일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707353041713XiORo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강력한 시즌2 예고 '킬러들의 쇼핑몰', 1편 마친 배우들이 남긴 말...]]></title>
-            <link>https://www.maxmovie.com/news/436496</link>
-            <guid>https://www.maxmovie.com/news/436496</guid>
-            <pubDate>Thu, 08 Feb 2024 01:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436496"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707353172878Sc87q.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436496"><h4>강력한 시즌2 예고 '킬러들의 쇼핑몰', 1편 마친 배우들이 남긴 말...</h4></a><span>02월 08일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707353172878Sc87q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
