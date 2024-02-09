@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 23:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2024 00:29:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/436501</link>
             <guid>https://www.maxmovie.com/news/436501</guid>
             <pubDate>Thu, 08 Feb 2024 23:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436501"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17073572444954jI4h.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436501"><h4>티모시 샬라메가 사랑에 푹 빠진 연인, 카일리 제너는 누구?</h4></a><span>8분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436501"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17073572444954jI4h.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436501"><h4>티모시 샬라메가 사랑에 푹 빠진 연인, 카일리 제너는 누구?</h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17073572444954jI4h.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +92,7 @@
             <link>https://www.maxmovie.com/news/436485</link>
             <guid>https://www.maxmovie.com/news/436485</guid>
             <pubDate>Thu, 08 Feb 2024 23:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436485"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707287313725jwuKD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436485"><h4> [오늘 뭘 볼까] 75세 이상 노인에게 죽음을 권하다, 영화 '플랜 75'</h4></a><span>8분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436485"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707287313725jwuKD.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436485"><h4> [오늘 뭘 볼까] 75세 이상 노인에게 죽음을 권하다, 영화 '플랜 75'</h4></a><span>1시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707287313725jwuKD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -273,7 +273,7 @@
             <title><![CDATA[[#Shorts] 닉네임 '일산사는 호박고구마', 나문희의 메시지가 도착했습니다! (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436509</link>
             <guid>https://www.maxmovie.com/news/436509</guid>
-            <pubDate>Thu, 08 Feb 2024 23:07:50 GMT</pubDate>
+            <pubDate>Thu, 08 Feb 2024 23:07:31 GMT</pubDate>
             <content:encoded><![CDATA[2월7일 설날 연휴 겨냥해 개봉한 '소풍'
 삐심이 은심 역할로 김영옥과 호흡 맞춰]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Di6hE4j6Goo/0.jpg" length="0" type="image/jpg"/>
@@ -291,26 +291,34 @@
             <title><![CDATA[[#Shorts] 최고령 여배우의 위엄! 김영옥에게 듣는 새해 덕담은? (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436507</link>
             <guid>https://www.maxmovie.com/news/436507</guid>
-            <pubDate>Thu, 08 Feb 2024 23:07:50 GMT</pubDate>
+            <pubDate>Thu, 08 Feb 2024 23:07:31 GMT</pubDate>
             <content:encoded><![CDATA[2월7일 설날 연휴 겨냥해 개봉한 '소풍'
 투덜이 금순 역할로 나문희와 호흡 맞춰]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/kwcorImnp_8/0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데일리 핫이슈] 티모시 샬라메 티켓파워 '웡카' 100만 돌파, 박민영 1억 기부 외 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/436505</link>
+            <guid>https://www.maxmovie.com/news/436505</guid>
+            <pubDate>Fri, 09 Feb 2024 00:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707373453358KIpme.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["잘 들어" 김혜준이 밝힌 '킬러들의 쇼핑몰' 비하인드, 시즌2 그리고 초록색 트레이닝복 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436504</link>
             <guid>https://www.maxmovie.com/news/436504</guid>
             <pubDate>Thu, 08 Feb 2024 07:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[열린 결말로 종영 시즌2 요청 쏟아져
-"시즌2 제작? 당연히 참여하고 싶어"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436504"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707370620327jh9ri.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436504"><h4>"잘 들어" 김혜준이 밝힌 '킬러들의 쇼핑몰' 비하인드, 시즌2 그리고 초록색 트레이닝복</h4></a><span>17시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707370620327jh9ri.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티모시 샬라메가 사랑에 푹 빠진 연인, 카일리 제너는 누구? (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436501</link>
             <guid>https://www.maxmovie.com/news/436501</guid>
-            <pubDate>Thu, 08 Feb 2024 23:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436501"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17073572444954jI4h.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436501"><h4>티모시 샬라메가 사랑에 푹 빠진 연인, 카일리 제너는 누구?</h4></a><span>8분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <pubDate>Thu, 08 Feb 2024 23:07:31 GMT</pubDate>
+            <content:encoded><![CDATA[모델이자 성공한 사업가, 2명의 자녀 둬 
+지난해부터 티모시 샬라메와 연인 관계]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17073572444954jI4h.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -345,17 +353,8 @@
             <link>https://www.maxmovie.com/news/436494</link>
             <guid>https://www.maxmovie.com/news/436494</guid>
             <pubDate>Thu, 08 Feb 2024 01:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[시민영웅의 실화에 관객의 공감과 응원
-8일 시작하는 설 연휴 관객 동원 관심]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436494"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707351447965Ja38m.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436494"><h4>보이스피싱 조직 응징 '시민덕희', 100만 넘어 설에도 달린다 </h4></a><span>23시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707351447965Ja38m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[데일리 핫이슈] 블랙핑크 리사 남친 가족과 美 여행, 조세호 결혼 소감 외 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/436493</link>
-            <guid>https://www.maxmovie.com/news/436493</guid>
-            <pubDate>Wed, 07 Feb 2024 22:03:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436493"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707312304406TWnkO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436493"><h4>[데일리 핫이슈] 블랙핑크 리사 남친 가족과 美 여행, 조세호 결혼 소감 외 </h4></a><span>02월 07일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707312304406TWnkO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["잘 들어" 김혜준이 밝힌 '킬러들의 쇼핑몰' 비하인드, 시즌2 그리고 초록색 트레이닝복 (맥스무비 ─ OTT)]]></title>
