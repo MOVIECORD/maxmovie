@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Feb 2024 22:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2024 23:04:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707375886774WbPh1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['오스카 청신호' 셀린 송, '패스트 라이브즈' 차기작 작업]]></title>
+            <link>https://www.maxmovie.com/news/436520</link>
+            <guid>https://www.maxmovie.com/news/436520</guid>
+            <pubDate>Sun, 11 Feb 2024 23:04:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436520"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707644149044zrbNC.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436520"><h4>'오스카 청신호' 셀린 송, '패스트 라이브즈' 차기작 작업 </h4></a><span>5분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707644149044zrbNC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[티모시 샬라메 '웡카', 설 연휴에도 흥행 1위 굳건]]></title>
             <link>https://www.maxmovie.com/news/436513</link>
             <guid>https://www.maxmovie.com/news/436513</guid>
             <pubDate>Sat, 10 Feb 2024 07:06:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436513"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707546214754lWEgs.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436513"><h4>티모시 샬라메 '웡카', 설 연휴에도 흥행 1위 굳건 </h4></a><span>02월 10일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[설 연휴 첫날인 9일 15만 동원
+라미란의 '시민덕희' 2위 유지]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707546214754lWEgs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/436510</link>
             <guid>https://www.maxmovie.com/news/436510</guid>
             <pubDate>Sat, 10 Feb 2024 01:36:37 GMT</pubDate>
-            <content:encoded><![CDATA['크라임씬 리턴즈' 첫방 앞두고 심경
-"너그럽게 즐겨주세요"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436510"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17075254590877do8a.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436510"><h4>박지윤 "모든 폭풍우 지난 뒤 만나는…" 심경 고백</h4></a><span>02월 10일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17075254590877do8a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 'SNL' 정이랑의 웃기고 슬픈 원맨쇼, 영화 '아네모네']]></title>
-            <link>https://www.maxmovie.com/news/436487</link>
-            <guid>https://www.maxmovie.com/news/436487</guid>
-            <pubDate>Sat, 10 Feb 2024 22:04:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436487"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707287669661rpq9u.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436487"><h4>[오늘 뭘 볼까] 'SNL' 정이랑의 웃기고 슬픈 원맨쇼, 영화 '아네모네'</h4></a><span>02월 10일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707287669661rpq9u.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
