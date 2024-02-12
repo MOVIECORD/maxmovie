@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Feb 2024 23:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 00:30:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707375886774WbPh1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 마침내 온다, 영화 '아기상어 극장판']]></title>
+            <link>https://www.maxmovie.com/news/436488</link>
+            <guid>https://www.maxmovie.com/news/436488</guid>
+            <pubDate>Mon, 12 Feb 2024 00:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436488"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707287836394eBOaP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436488"><h4>[오늘 뭘 볼까] 마침내 온다, 영화 '아기상어 극장판' </h4></a><span>2시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707287836394eBOaP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['오스카 청신호' 셀린 송, '패스트 라이브즈' 차기작 작업]]></title>
             <link>https://www.maxmovie.com/news/436520</link>
             <guid>https://www.maxmovie.com/news/436520</guid>
             <pubDate>Sun, 11 Feb 2024 23:04:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436520"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707644149044zrbNC.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436520"><h4>'오스카 청신호' 셀린 송, '패스트 라이브즈' 차기작 작업 </h4></a><span>5분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[로맨틱 코미디 장르의 중매쟁이 이야기
+다코다 존슨, 크리스 에반스 주연 물망]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707644149044zrbNC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/436511</link>
             <guid>https://www.maxmovie.com/news/436511</guid>
             <pubDate>Sat, 10 Feb 2024 05:04:44 GMT</pubDate>
-            <content:encoded><![CDATA[지드래곤 이적 환영하기 위해 소속사가 제작
-"지드래곤, 다양한 분야에서 활동 보여줄 것"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436511"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707536880524NrpRF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436511"><h4>'용띠' 지드래곤, '설날'에 뉴욕 타임스스퀘어 전광판 등장</h4></a><span>02월 10일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707536880524NrpRF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지윤 "모든 폭풍우 지난 뒤 만나는…" 심경 고백]]></title>
-            <link>https://www.maxmovie.com/news/436510</link>
-            <guid>https://www.maxmovie.com/news/436510</guid>
-            <pubDate>Sat, 10 Feb 2024 01:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436510"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17075254590877do8a.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436510"><h4>박지윤 "모든 폭풍우 지난 뒤 만나는…" 심경 고백</h4></a><span>02월 10일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17075254590877do8a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
