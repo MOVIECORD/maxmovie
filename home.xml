@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 01:39:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 02:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707710458493TXIe8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['건국전쟁' VS '길위에 김대중'...극장에서 불붙는 '총선 전쟁']]></title>
+            <link>https://www.maxmovie.com/news/436531</link>
+            <guid>https://www.maxmovie.com/news/436531</guid>
+            <pubDate>Tue, 13 Feb 2024 02:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436531"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707788520122RFwja.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436531"><h4>'건국전쟁' VS '길위에 김대중'...극장에서 불붙는 '총선 전쟁'</h4></a><span>7분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707788520122RFwja.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["돈 버는 기계·노예로 대해"...박수홍, 친형 부부 엄벌탄원서 제출]]></title>
             <link>https://www.maxmovie.com/news/436528</link>
             <guid>https://www.maxmovie.com/news/436528</guid>
             <pubDate>Mon, 12 Feb 2024 09:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436528"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707723637083SPDiY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436528"><h4>"돈 버는 기계·노예로 대해"...박수홍, 친형 부부 엄벌탄원서 제출</h4></a><span>17시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[1심 선고 공판 앞두고 심경 토로해
+"일상생활 파탄 수준, 피고인들에게 엄벌 촉구"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707723637083SPDiY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@ MCU 입성한 데드풀, 활약 예고]]></content:encoded>
             <link>https://www.maxmovie.com/news/436521</link>
             <guid>https://www.maxmovie.com/news/436521</guid>
             <pubDate>Mon, 12 Feb 2024 09:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[신작 사이에서도 2주 연속 박스오피스 1위
-실화를 모티브로 한 '시민덕희'가 그 뒤 이어]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436521"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707696755608A1IKI.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436521"><h4>설 연휴 사로잡은 티모시 샬라메 '웡카', 누적 관객 158만명</h4></a><span>02월 12일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707696755608A1IKI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 마침내 온다, 영화 '아기상어 극장판']]></title>
-            <link>https://www.maxmovie.com/news/436488</link>
-            <guid>https://www.maxmovie.com/news/436488</guid>
-            <pubDate>Mon, 12 Feb 2024 00:30:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436488"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707287836394eBOaP.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436488"><h4>[오늘 뭘 볼까] 마침내 온다, 영화 '아기상어 극장판' </h4></a><span>02월 11일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707287836394eBOaP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
