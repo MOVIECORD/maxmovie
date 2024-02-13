@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 04:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 05:06:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@ SF 대작 2월28일 개봉]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707710458493TXIe8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블랙핑크 리사, HBO 시리즈 '화이트 로투스' 시즌3로 연기 데뷔 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436536</link>
+            <guid>https://www.maxmovie.com/news/436536</guid>
+            <pubDate>Tue, 13 Feb 2024 05:05:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436536"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707798865413uRKVA.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436536"><h4>블랙핑크 리사, HBO 시리즈 '화이트 로투스' 시즌3로 연기 데뷔 </h4></a><span>14분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707798865413uRKVA.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[아카데미 작품상 후보 '패스트 라이브즈'·'가여운 것들', 3월6일 대격돌 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/436527</link>
             <guid>https://www.maxmovie.com/news/436527</guid>
             <pubDate>Mon, 12 Feb 2024 22:03:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436527"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707721882292elLnn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436527"><h4>아카데미 작품상 후보 '패스트 라이브즈'·'가여운 것들', 3월6일 대격돌</h4></a><span>6시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[한국적 개념 '인연' 녹여낸 '패스트 라이브즈'
+엠마 스톤의 연기 기대 모으는 '가여운 것들']]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707721882292elLnn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@ MCU 입성한 데드풀, 활약 예고]]></content:encoded>
             <link>https://www.maxmovie.com/news/436523</link>
             <guid>https://www.maxmovie.com/news/436523</guid>
             <pubDate>Mon, 12 Feb 2024 03:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[신시아 에리오와 아리아나 그란데 주연
-동명의 뮤지컬 대작 영화화한 작품]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436523"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707704368210C8tKf.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436523"><h4>눈과 귀가 황홀해질 시간...'위키드', 11월27일 개봉 확정</h4></a><span>02월 12일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707704368210C8tKf.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 스미코의 귀환! '영화 스미코구라시-푸른 달밤의 마법의 아이' (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/436489</link>
-            <guid>https://www.maxmovie.com/news/436489</guid>
-            <pubDate>Mon, 12 Feb 2024 22:03:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436489"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17072880715325k4QJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436489"><h4>[오늘 뭘 볼까] 스미코의 귀환! '영화 스미코구라시-푸른 달밤의 마법의 아이'</h4></a><span>6시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17072880715325k4QJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '황야' 안지혜 "촬영 한달 전에 합류, '이불킥' 했다" (맥스무비 ─ 인터뷰)]]></title>
@@ -269,6 +269,15 @@ MCU 입성한 데드풀, 활약 예고]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704329132587KcBEu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블랙핑크 리사, HBO 시리즈 '화이트 로투스' 시즌3로 연기 데뷔 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/436536</link>
+            <guid>https://www.maxmovie.com/news/436536</guid>
+            <pubDate>Tue, 13 Feb 2024 05:06:04 GMT</pubDate>
+            <content:encoded><![CDATA[美 버라이어티, 리사의 드라마 출연  알려 
+본명인 라리사 마노반으로 배우 활동 시작]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707798865413uRKVA.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[개봉 2주나 남았는데…'듄2' 예매율 전체 1위 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436535</link>
             <guid>https://www.maxmovie.com/news/436535</guid>
@@ -299,8 +308,7 @@ SF 대작 2월28일 개봉]]></content:encoded>
             <link>https://www.maxmovie.com/news/436531</link>
             <guid>https://www.maxmovie.com/news/436531</guid>
             <pubDate>Tue, 13 Feb 2024 02:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[전직 대통령 이야기 다룬 다큐멘터리 영화 
-정치인 및 지지 세력 관람 인증 '단체 관람']]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436531"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707788520122RFwja.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436531"><h4>'건국전쟁' VS '길위에 김대중'...극장에서 불붙는 '총선 전쟁'</h4></a><span>3시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707788520122RFwja.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -308,7 +316,8 @@ SF 대작 2월28일 개봉]]></content:encoded>
             <link>https://www.maxmovie.com/news/436530</link>
             <guid>https://www.maxmovie.com/news/436530</guid>
             <pubDate>Tue, 13 Feb 2024 01:39:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436530"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707784290741yzFMn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436530"><h4>티모시 샬라메 '웡카' 설 극장가 최종 '승자'... 복병은 '건국전쟁'  </h4></a><span>3시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[9일부터 12일까지 박스오피스 1위 굳건 
+이승만 전 대통령 다룬 다큐 '건국전쟁' 3위]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707784290741yzFMn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -343,17 +352,8 @@ SF 대작 2월28일 개봉]]></content:encoded>
             <link>https://www.maxmovie.com/news/436526</link>
             <guid>https://www.maxmovie.com/news/436526</guid>
             <pubDate>Mon, 12 Feb 2024 07:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[누적 관객 1300만명 이상 동원하며 흥행
-최초 유포자 및 링크 공유한 이들 특정 작업]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436526"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707717594130fKGcm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436526"><h4>'서울의 봄' 불법 영상 파일 유출돼..."법적 책임 묻겠다"</h4></a><span>22시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707717594130fKGcm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['살인자ㅇ난감', 이재명 연상 의혹 불거져...넷플릭스 측 "사실무근" (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/436525</link>
-            <guid>https://www.maxmovie.com/news/436525</guid>
-            <pubDate>Mon, 12 Feb 2024 06:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436525"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707710458493TXIe8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436525"><h4>'살인자ㅇ난감', 이재명 연상 의혹 불거져...넷플릭스 측 "사실무근"</h4></a><span>22시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707710458493TXIe8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['킬러들의 쇼핑몰', 이제는 공개할 수 있는... 웃음 만발 현장 (맥스무비 ─ OTT)]]></title>

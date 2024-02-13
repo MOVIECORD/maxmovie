@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 04:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 05:06:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@ SF 대작 2월28일 개봉]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707710458493TXIe8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블랙핑크 리사, HBO 시리즈 '화이트 로투스' 시즌3로 연기 데뷔]]></title>
+            <link>https://www.maxmovie.com/news/436536</link>
+            <guid>https://www.maxmovie.com/news/436536</guid>
+            <pubDate>Tue, 13 Feb 2024 05:05:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436536"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707798865413uRKVA.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436536"><h4>블랙핑크 리사, HBO 시리즈 '화이트 로투스' 시즌3로 연기 데뷔 </h4></a><span>14분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707798865413uRKVA.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[아카데미 작품상 후보 '패스트 라이브즈'·'가여운 것들', 3월6일 대격돌]]></title>
             <link>https://www.maxmovie.com/news/436527</link>
             <guid>https://www.maxmovie.com/news/436527</guid>
             <pubDate>Tue, 13 Feb 2024 04:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436527"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707721882292elLnn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436527"><h4>아카데미 작품상 후보 '패스트 라이브즈'·'가여운 것들', 3월6일 대격돌</h4></a><span>6시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[한국적 개념 '인연' 녹여낸 '패스트 라이브즈'
+엠마 스톤의 연기 기대 모으는 '가여운 것들']]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707721882292elLnn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,17 +91,8 @@ MCU 입성한 데드풀, 활약 예고]]></content:encoded>
             <link>https://www.maxmovie.com/news/436523</link>
             <guid>https://www.maxmovie.com/news/436523</guid>
             <pubDate>Mon, 12 Feb 2024 03:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[신시아 에리오와 아리아나 그란데 주연
-동명의 뮤지컬 대작 영화화한 작품]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436523"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707704368210C8tKf.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436523"><h4>눈과 귀가 황홀해질 시간...'위키드', 11월27일 개봉 확정</h4></a><span>02월 12일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707704368210C8tKf.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 스미코의 귀환! '영화 스미코구라시-푸른 달밤의 마법의 아이']]></title>
-            <link>https://www.maxmovie.com/news/436489</link>
-            <guid>https://www.maxmovie.com/news/436489</guid>
-            <pubDate>Mon, 12 Feb 2024 22:03:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436489"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17072880715325k4QJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436489"><h4>[오늘 뭘 볼까] 스미코의 귀환! '영화 스미코구라시-푸른 달밤의 마법의 아이'</h4></a><span>6시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17072880715325k4QJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
