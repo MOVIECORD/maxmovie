@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 02:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 03:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['킬러들의 쇼핑몰', 이제는 공개할 수 있는... 웃음 만발 현장]]></title>
+            <link>https://www.maxmovie.com/news/436534</link>
+            <guid>https://www.maxmovie.com/news/436534</guid>
+            <pubDate>Tue, 13 Feb 2024 03:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436534"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1707790095362oHhWl.jpg" alt=""></span><span class="textBox"><h4>'킬러들의 쇼핑몰', 이제는 공개할 수 있는... 웃음 만발 현장 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707790095362oHhWl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소녀시대 권유리의 첫 주연영화 '돌핀', 어떤 이야기?]]></title>
             <link>https://www.maxmovie.com/news/436533</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436225"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705542343399LLvrc.jpg" alt=""></span><span class="textBox"><h4>설 명절에 찾아오는 조진웅·김희애, 영화 '데드맨' 엿보기 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705542343399LLvrc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤여정·유해진·다니엘 헤니...반려견과의 일상 '도그데이즈' 안에]]></title>
-            <link>https://www.maxmovie.com/news/436224</link>
-            <guid>https://www.maxmovie.com/news/436224</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436224"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705540809357jgD7B.jpg" alt=""></span><span class="textBox"><h4>윤여정·유해진·다니엘 헤니...반려견과의 일상 '도그데이즈' 안에 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705540809357jgD7B.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
