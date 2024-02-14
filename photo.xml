@@ -4,9 +4,25 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 01:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 03:08:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑과 화합을 노래한 '레게의 전설', 밥 말리가 온다]]></title>
+            <link>https://www.maxmovie.com/news/436550</link>
+            <guid>https://www.maxmovie.com/news/436550</guid>
+            <pubDate>Wed, 14 Feb 2024 03:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436550"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1707874419154qwHhH.jpg" alt=""></span><span class="textBox"><h4>사랑과 화합을 노래한 '레게의 전설', 밥 말리가 온다 &nbsp;</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707874419154qwHhH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 김희원, '자연인' 된 까닭...말하는 막걸리와의 모험]]></title>
+            <link>https://www.maxmovie.com/news/436549</link>
+            <guid>https://www.maxmovie.com/news/436549</guid>
+            <pubDate>Wed, 14 Feb 2024 03:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436549"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1707872874674mziFF.jpg" alt=""></span><span class="textBox"><h4>배우 김희원, '자연인' 된 까닭...말하는 막걸리와의 모험 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707872874674mziFF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[탈북한 '로기완'의 여정, 송중기와 함께 한 배우들의 면면]]></title>
             <link>https://www.maxmovie.com/news/436538</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436272"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705903118947h7Mte.jpg" alt=""></span><span class="textBox"><h4>'웡카'의 화려한 캐릭터 열전, 티모시 샬라메부터 휴 그랜트까지</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705903118947h7Mte.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['도그데이즈' 윤여정부터 다니엘 헤니까지...반려견으로 맺은 특별한 인연]]></title>
-            <link>https://www.maxmovie.com/news/436267</link>
-            <guid>https://www.maxmovie.com/news/436267</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436267"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17058900242529wvI2.jpg" alt=""></span><span class="textBox"><h4>'도그데이즈' 윤여정부터 다니엘 헤니까지...반려견으로 맺은 특별한 인연</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17058900242529wvI2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '아가일' 배우들, 내한 레드카펫 현장...'K하트' 화답]]></title>
-            <link>https://www.maxmovie.com/news/436239</link>
-            <guid>https://www.maxmovie.com/news/436239</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436239"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705629931519GlsNR.jpg" alt=""></span><span class="textBox"><h4>영화 '아가일' 배우들, 내한 레드카펫 현장...'K하트' 화답 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705629931519GlsNR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
