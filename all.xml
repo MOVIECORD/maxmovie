@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 04:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 05:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,17 +47,8 @@
             <link>https://www.maxmovie.com/news/436553</link>
             <guid>https://www.maxmovie.com/news/436553</guid>
             <pubDate>Wed, 14 Feb 2024 04:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436553"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17078788813818E49S.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436553"><h4>톰 크루즈, 25살 연하 러시아 여성과 사랑에 빠졌다 </h4></a><span>54분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436553"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17078788813818E49S.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436553"><h4>톰 크루즈, 25살 연하 러시아 여성과 사랑에 빠졌다 </h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17078788813818E49S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['웡카' '건국전쟁' 게 섯거라…고퀄의 작화 '귀멸의 칼날' 극장판 등판 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/436552</link>
-            <guid>https://www.maxmovie.com/news/436552</guid>
-            <pubDate>Wed, 14 Feb 2024 04:08:12 GMT</pubDate>
-            <content:encoded><![CDATA['귀멸의 칼날: 인연의 기적, 그리고…' 개봉
-영화시장 이끄는 20代 비율 40% 넘어]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707880176725nIx96.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['건국전쟁' 40만 눈앞,역대 '대통령 다큐' 최고 기록은 '노무현입니다' (맥스무비)]]></title>
@@ -91,8 +82,17 @@
             <link>https://www.maxmovie.com/news/436543</link>
             <guid>https://www.maxmovie.com/news/436543</guid>
             <pubDate>Tue, 13 Feb 2024 09:07:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436543"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707811431873u6V1W.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436543"><h4>금의환향! '패스트 라이브즈' 셀린 송 감독, 내한 확정...유태오와 함께</h4></a><span>19시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[개봉 앞두고 홍보 일정 위해 셀린 송 감독, 유태오 내한
+제96회 아카데미 시상식 작품상, 각본상 후보 올라]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707811431873u6V1W.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데일리 핫이슈] 태진아, 기억 잃어가는 아내 향한 사랑·김가영, BTS 프로듀서 피독과 열애설 외 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436539</link>
+            <guid>https://www.maxmovie.com/news/436539</guid>
+            <pubDate>Wed, 14 Feb 2024 05:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436539"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707811689323ydKX8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436539"><h4>[데일리 핫이슈] 태진아, 기억 잃어가는 아내 향한 사랑·김가영, BTS 프로듀서 피독과 열애설 외</h4></a><span>7시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707811689323ydKX8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '황야' 안지혜 "촬영 한달 전에 합류, '이불킥' 했다" (맥스무비 ─ 인터뷰)]]></title>
@@ -274,7 +274,7 @@
             <title><![CDATA[톰 크루즈, 25살 연하 러시아 여성과 사랑에 빠졌다 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436553</link>
             <guid>https://www.maxmovie.com/news/436553</guid>
-            <pubDate>Wed, 14 Feb 2024 04:08:32 GMT</pubDate>
+            <pubDate>Wed, 14 Feb 2024 04:08:12 GMT</pubDate>
             <content:encoded><![CDATA[영국 데일리메일 등 둘의 교제 사실 알려 
 "부유하지만 보통의 커플처럼 데이트"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17078788813818E49S.jpg" length="0" type="image/jpg"/>
@@ -283,7 +283,7 @@
             <title><![CDATA['웡카' '건국전쟁' 게 섯거라…고퀄의 작화 '귀멸의 칼날' 극장판 등판 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436552</link>
             <guid>https://www.maxmovie.com/news/436552</guid>
-            <pubDate>Wed, 14 Feb 2024 04:08:32 GMT</pubDate>
+            <pubDate>Wed, 14 Feb 2024 04:08:12 GMT</pubDate>
             <content:encoded><![CDATA['귀멸의 칼날: 인연의 기적, 그리고…' 개봉
 영화시장 이끄는 20代 비율 40% 넘어]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707880176725nIx96.jpg" length="0" type="image/jpg"/>
@@ -311,7 +311,7 @@
             <link>https://www.maxmovie.com/news/436548</link>
             <guid>https://www.maxmovie.com/news/436548</guid>
             <pubDate>Wed, 14 Feb 2024 01:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436548"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707872093121b7u4s.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436548"><h4>보고 또 보는, 임윤찬과 '크레센도'... 대망의 7만 돌파 </h4></a><span>2시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436548"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707872093121b7u4s.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436548"><h4>보고 또 보는, 임윤찬과 '크레센도'... 대망의 7만 돌파 </h4></a><span>3시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707872093121b7u4s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -355,7 +355,7 @@
             <link>https://www.maxmovie.com/news/436543</link>
             <guid>https://www.maxmovie.com/news/436543</guid>
             <pubDate>Tue, 13 Feb 2024 09:07:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436543"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707811431873u6V1W.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436543"><h4>금의환향! '패스트 라이브즈' 셀린 송 감독, 내한 확정...유태오와 함께</h4></a><span>19시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436543"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707811431873u6V1W.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436543"><h4>금의환향! '패스트 라이브즈' 셀린 송 감독, 내한 확정...유태오와 함께</h4></a><span>20시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707811431873u6V1W.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
