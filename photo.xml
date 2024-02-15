@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 00:32:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 01:40:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤여정·유해진·다니엘 헤니, 반려견과 함께 한 '도그데이즈' 현장]]></title>
+            <link>https://www.maxmovie.com/news/436565</link>
+            <guid>https://www.maxmovie.com/news/436565</guid>
+            <pubDate>Thu, 15 Feb 2024 01:40:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436565"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1707959594717VGEmf.jpg" alt=""></span><span class="textBox"><h4>윤여정·유해진·다니엘 헤니, 반려견과 함께 한 '도그데이즈' 현장</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707959594717VGEmf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑과 화합을 노래한 '레게의 전설', 밥 말리가 온다]]></title>
             <link>https://www.maxmovie.com/news/436550</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436303"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706063274120gN1ru.jpg" alt=""></span><span class="textBox"><h4>'선산', 아직 못다 한 이야기...비하인드 장면들 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706063274120gN1ru.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['웡카'의 화려한 캐릭터 열전, 티모시 샬라메부터 휴 그랜트까지]]></title>
-            <link>https://www.maxmovie.com/news/436272</link>
-            <guid>https://www.maxmovie.com/news/436272</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436272"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705903118947h7Mte.jpg" alt=""></span><span class="textBox"><h4>'웡카'의 화려한 캐릭터 열전, 티모시 샬라메부터 휴 그랜트까지</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705903118947h7Mte.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
