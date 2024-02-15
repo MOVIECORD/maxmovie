@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 03:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 04:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최불암→ 이제훈 '수사반장'의 부활... 프리퀄  4월19일 시작]]></title>
+            <link>https://www.maxmovie.com/news/436568</link>
+            <guid>https://www.maxmovie.com/news/436568</guid>
+            <pubDate>Thu, 15 Feb 2024 04:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436568"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1707961953503wOU7F.jpg" alt=""></span><span class="textBox"><h4>최불암→ 이제훈 '수사반장'의 부활... 프리퀄  4월19일 시작 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707961953503wOU7F.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤여정·유해진·다니엘 헤니, 반려견과 함께 한 '도그데이즈' 현장]]></title>
             <link>https://www.maxmovie.com/news/436565</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436305"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706065025399HoHDX.jpg" alt=""></span><span class="textBox"><h4>페넬로페 크루즈 주연 '리멘시타', 파괴되는 가족의 이야기 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706065025399HoHDX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['선산', 아직 못다 한 이야기...비하인드 장면들]]></title>
-            <link>https://www.maxmovie.com/news/436303</link>
-            <guid>https://www.maxmovie.com/news/436303</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436303"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706063274120gN1ru.jpg" alt=""></span><span class="textBox"><h4>'선산', 아직 못다 한 이야기...비하인드 장면들 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706063274120gN1ru.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
