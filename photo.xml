@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 01:39:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 03:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티모시 샬라메의 세상 '듄:파트2'의 사막, 어떻게 완성됐나]]></title>
+            <link>https://www.maxmovie.com/news/436585</link>
+            <guid>https://www.maxmovie.com/news/436585</guid>
+            <pubDate>Fri, 16 Feb 2024 03:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436585"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1708047342733acKuw.jpg" alt=""></span><span class="textBox"><h4>티모시 샬라메의 세상 '듄:파트2'의 사막, 어떻게 완성됐나 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708047342733acKuw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최불암→ 이제훈 '수사반장'의 부활... 프리퀄  4월19일 시작]]></title>
             <link>https://www.maxmovie.com/news/436568</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436306"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706070443284ubqOY.jpg" alt=""></span><span class="textBox"><h4>일본영화 열기 잇는 '여기는 아미코', 유별나지만 순수한 아이 이야기 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706070443284ubqOY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페넬로페 크루즈 주연 '리멘시타', 파괴되는 가족의 이야기]]></title>
-            <link>https://www.maxmovie.com/news/436305</link>
-            <guid>https://www.maxmovie.com/news/436305</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436305"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706065025399HoHDX.jpg" alt=""></span><span class="textBox"><h4>페넬로페 크루즈 주연 '리멘시타', 파괴되는 가족의 이야기 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706065025399HoHDX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
