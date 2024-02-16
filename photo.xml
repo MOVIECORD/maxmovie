@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 06:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 07:06:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['살인자ㅇ난감' 빛낸 사람들... 노빈, 여옥, 유정 그리고 강상묵]]></title>
+            <link>https://www.maxmovie.com/news/436589</link>
+            <guid>https://www.maxmovie.com/news/436589</guid>
+            <pubDate>Fri, 16 Feb 2024 07:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436589"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1708052963610w1o3P.jpg" alt=""></span><span class="textBox"><h4>'살인자ㅇ난감' 빛낸 사람들... 노빈, 여옥, 유정 그리고 강상묵 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708052963610w1o3P.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티모시 샬라메의 세상 '듄:파트2'의 사막, 어떻게 완성됐나]]></title>
             <link>https://www.maxmovie.com/news/436585</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436321"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706150653239H48CA.jpg" alt=""></span><span class="textBox"><h4>최우식·손석구 지독한 추격전...제목부터 의미심장한 '살인자ㅇ난감' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706150653239H48CA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본영화 열기 잇는 '여기는 아미코', 유별나지만 순수한 아이 이야기]]></title>
-            <link>https://www.maxmovie.com/news/436306</link>
-            <guid>https://www.maxmovie.com/news/436306</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436306"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706070443284ubqOY.jpg" alt=""></span><span class="textBox"><h4>일본영화 열기 잇는 '여기는 아미코', 유별나지만 순수한 아이 이야기 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706070443284ubqOY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
