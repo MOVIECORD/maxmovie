@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Feb 2024 00:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 01:38:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,8 +49,16 @@
             <link>https://www.maxmovie.com/news/436599</link>
             <guid>https://www.maxmovie.com/news/436599</guid>
             <pubDate>Fri, 16 Feb 2024 23:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436599"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708070223003cdKUJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436599"><h4>[위클리 이슈 모음zip] 이지훈 아내 아야네, 임신 5개월·박명수, 손흥민·이강인 불화설 소신발언 외</h4></a><span>2시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436599"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708070223003cdKUJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436599"><h4>[위클리 이슈 모음zip] 이지훈 아내 아야네, 임신 5개월·박명수, 손흥민·이강인 불화설 소신발언 외</h4></a><span>3시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708070223003cdKUJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스무비레터 #39번째 편지] 티모시 샬라메가 알고싶다🍫 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436600</link>
+            <guid>https://www.maxmovie.com/news/436600</guid>
+            <pubDate>Sat, 17 Feb 2024 01:37:49 GMT</pubDate>
+            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17080715525701JIjK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['검은 수녀들'로 10년 만의 스크린 컴백...송혜교의 선택은 또 '변신' (맥스무비)]]></title>
@@ -83,17 +91,8 @@
             <link>https://www.maxmovie.com/news/436583</link>
             <guid>https://www.maxmovie.com/news/436583</guid>
             <pubDate>Fri, 16 Feb 2024 00:29:28 GMT</pubDate>
-            <content:encoded><![CDATA[독립예술영화 부문 박스오피스 9일째 1위
-노년 우정과 존엄사 이야기에 가족 관객도]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436583"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708040461032NWHm4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436583"><h4>나문희·김영옥 '소풍', 독립영화 5년만 20만 관객 돌파</h4></a><span>02월 15일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708040461032NWHm4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['길위에 김대중' 응원 상영 유지태 "역사 배우는 시간" (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/436582</link>
-            <guid>https://www.maxmovie.com/news/436582</guid>
-            <pubDate>Fri, 16 Feb 2024 00:29:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436582"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708039998819uOCi5.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436582"><h4>'길위에 김대중' 응원 상영 유지태 "역사 배우는 시간"</h4></a><span>02월 15일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708039998819uOCi5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[['헤일로2' 인터뷰] '마스터 치프' 파블로 쉬레이버, "본능 즉각 강력 위험한 액션!" (맥스무비 ─ 인터뷰)]]></title>
@@ -272,6 +271,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17050246109858LsVB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[맥스무비레터 #39번째 편지] 티모시 샬라메가 알고싶다🍫 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/436600</link>
+            <guid>https://www.maxmovie.com/news/436600</guid>
+            <pubDate>Sat, 17 Feb 2024 01:38:09 GMT</pubDate>
+            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17080715525701JIjK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[위클리 이슈 모음zip] 이지훈 아내 아야네, 임신 5개월·박명수, 손흥민·이강인 불화설 소신발언 외 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436599</link>
             <guid>https://www.maxmovie.com/news/436599</guid>
@@ -302,8 +309,7 @@
             <link>https://www.maxmovie.com/news/436596</link>
             <guid>https://www.maxmovie.com/news/436596</guid>
             <pubDate>Fri, 16 Feb 2024 07:05:31 GMT</pubDate>
-            <content:encoded><![CDATA[박찬욱 감독 극본 및 연출 HBO 시리즈 
-베트남 전쟁 및 그 이후의 시대 다룬 작품]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436596"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708064615255drRYQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436596"><h4>로다주 맞아?  박찬욱과 만난 '동조자' 파격 변신... 5명의 인물 연기 </h4></a><span>19시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708064615255drRYQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -311,7 +317,8 @@
             <link>https://www.maxmovie.com/news/436594</link>
             <guid>https://www.maxmovie.com/news/436594</guid>
             <pubDate>Fri, 16 Feb 2024 23:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436594"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708057115526fP6k6.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436594"><h4>'검은 수녀들'로 10년 만의 스크린 컴백...송혜교의 선택은 또 '변신'</h4></a><span>2시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[글로벌 흥행작 '더 글로리' 이후 신작
+영화 '검은 사제들'의 두 번째 이야기]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708057115526fP6k6.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -346,17 +353,16 @@
             <link>https://www.maxmovie.com/news/436588</link>
             <guid>https://www.maxmovie.com/news/436588</guid>
             <pubDate>Fri, 16 Feb 2024 03:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 12월11일 육군 현역 입대
-"배움과 경험의 장이 될 거라 믿는다"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436588"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708049570423GYQbO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436588"><h4>방탄소년단 RM, 군대서도 음악과 함께... 군악대 복무 </h4></a><span>23시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708049570423GYQbO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['귀멸의 칼날' 극장판 개봉 후 '4기'에 쏠리는 관심…반점의 비밀은 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/436586</link>
-            <guid>https://www.maxmovie.com/news/436586</guid>
-            <pubDate>Fri, 16 Feb 2024 03:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436586"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708046859816qCFoF.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436586"><h4>'귀멸의 칼날' 극장판 개봉 후 '4기'에 쏠리는 관심…반점의 비밀은</h4></a><span>22시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708046859816qCFoF.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[맥스무비레터 #39번째 편지] 티모시 샬라메가 알고싶다🍫 (맥스무비 ─ OTT)]]></title>
+            <link>https://www.maxmovie.com/news/436600</link>
+            <guid>https://www.maxmovie.com/news/436600</guid>
+            <pubDate>Sat, 17 Feb 2024 01:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17080715525701JIjK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 진정한 사랑이란? 영화 '선수의 연애' (맥스무비 ─ OTT)]]></title>
@@ -389,8 +395,7 @@
             <link>https://www.maxmovie.com/news/436569</link>
             <guid>https://www.maxmovie.com/news/436569</guid>
             <pubDate>Thu, 15 Feb 2024 22:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[제작 총괄 데이비드 위너·키키 울프킬 화상 인터뷰 
-"시청자가 현장에 있는 기분 느끼도록 액션 설계"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436569"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707976144063ufUzd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey3"><a href="/news/436569"><h4>['헤일로2' 인터뷰]  제작자들 "액션부터 방대한 세계관까지 게임의 모든 것 녹여내" </h4></a><span>02월 15일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707976144063ufUzd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -398,7 +403,8 @@
             <link>https://www.maxmovie.com/news/436564</link>
             <guid>https://www.maxmovie.com/news/436564</guid>
             <pubDate>Thu, 15 Feb 2024 01:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436564"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707958696257iHLwl.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436564"><h4>류승룡·이병헌의 N차 '치킨 유니버스'... '닭강정' 온다 </h4></a><span>02월 15일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[1626만 흥행 '극한직업' 이어 또 치킨 
+닭강정으로 변한 딸 되돌리려는 여정]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707958696257iHLwl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -433,17 +439,8 @@
             <link>https://www.maxmovie.com/news/436538</link>
             <guid>https://www.maxmovie.com/news/436538</guid>
             <pubDate>Tue, 13 Feb 2024 06:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[3월1일 넷플릭스 공개, 송중기 최성은 주연
-와엘 세르숩부터 김성령 서현우 등 출연]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436538"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707801400204eO07m.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/436538"><h4>탈북한 '로기완'의 여정, 송중기와 함께 한 배우들의 면면 </h4></a><span>02월 13일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707801400204eO07m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킬러들의 쇼핑몰', 이제는 공개할 수 있는... 웃음 만발 현장 (맥스무비 ─ OTT)]]></title>
-            <link>https://www.maxmovie.com/news/436534</link>
-            <guid>https://www.maxmovie.com/news/436534</guid>
-            <pubDate>Tue, 13 Feb 2024 03:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436534"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707790095362oHhWl.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/436534"><h4>'킬러들의 쇼핑몰', 이제는 공개할 수 있는... 웃음 만발 현장 </h4></a><span>02월 13일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707790095362oHhWl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['살인자ㅇ난감' 빛낸 사람들... 노빈, 여옥, 유정 그리고 강상묵 (맥스무비 ─ 포토)]]></title>
