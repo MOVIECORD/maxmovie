@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Feb 2024 21:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 22:03:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,6 +61,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17080673230931zubs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 현대로 날아온 닌자! '닌자의 집']]></title>
+            <link>https://www.maxmovie.com/news/436593</link>
+            <guid>https://www.maxmovie.com/news/436593</guid>
+            <pubDate>Sat, 17 Feb 2024 22:03:17 GMT</pubDate>
+            <content:encoded><![CDATA['닌자의 집'의 한 장면. 사진제공=넷플릭스오늘, 볼만한 작품을 추천합니다.◆ '닌자의 집''닌자의 집'은 수년 전 닌자의 삶을 정리한 가족이&nbsp;갑작스러운 위기에 맞서기 위해 다시 닌자의 세계로 복귀하며 일어나는 이야기를 그린 넷플릭스 오리지널 시리즈다.&nbsp;'화이트 온 라이스' '맨 프롬 리노'의 데이브 보일 감독이&nbsp;연출한&nbsp;'닌자의 집'은 일본의 전통 문화인]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708063600448Tpmki.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[로다주 맞아?  박찬욱과 만난 '동조자' 파격 변신... 5명의 인물 연기]]></title>
             <link>https://www.maxmovie.com/news/436596</link>
             <guid>https://www.maxmovie.com/news/436596</guid>
@@ -83,17 +91,8 @@
             <link>https://www.maxmovie.com/news/436584</link>
             <guid>https://www.maxmovie.com/news/436584</guid>
             <pubDate>Sat, 17 Feb 2024 04:09:03 GMT</pubDate>
-            <content:encoded><![CDATA['소풍' 누적 20만 돌파, 꾸준한 관객 발길
-임영웅으로 시작한 입소문 흥행도 이뤄]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436584"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708045879573vFqOp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436584"><h4>임영웅과 영웅시대...영화 '소풍'의 값진 기록 탄생 이끌었다 </h4></a><span>02월 16일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708045879573vFqOp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나문희·김영옥 '소풍', 독립영화 5년만 20만 관객 돌파]]></title>
-            <link>https://www.maxmovie.com/news/436583</link>
-            <guid>https://www.maxmovie.com/news/436583</guid>
-            <pubDate>Fri, 16 Feb 2024 03:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436583"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708040461032NWHm4.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436583"><h4>나문희·김영옥 '소풍', 독립영화 5년만 20만 관객 돌파</h4></a><span>02월 15일<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708040461032NWHm4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
