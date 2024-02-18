@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 03:07:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 04:08:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,7 +46,7 @@
             <link>https://www.maxmovie.com/news/436604</link>
             <guid>https://www.maxmovie.com/news/436604</guid>
             <pubDate>Sun, 18 Feb 2024 03:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436604"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708219171362MJWvf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436604"><h4>유태오 새 역사 쓰나, 영국 아카데미 주연상 결과... 관심 집중 </h4></a><span>8분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436604"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708219171362MJWvf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436604"><h4>유태오 새 역사 쓰나, 영국 아카데미 주연상 결과... 관심 집중 </h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708219171362MJWvf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -272,7 +272,7 @@
             <title><![CDATA[유태오 새 역사 쓰나, 영국 아카데미 주연상 결과... 관심 집중 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436604</link>
             <guid>https://www.maxmovie.com/news/436604</guid>
-            <pubDate>Sun, 18 Feb 2024 03:07:44 GMT</pubDate>
+            <pubDate>Sun, 18 Feb 2024 03:07:25 GMT</pubDate>
             <content:encoded><![CDATA[영화 '패스트 라이브즈' 한국 배우 최초 주연상 후보 
 시상식 19일 오전 런던 개최, 킬리언 머피 등과 경합]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708219171362MJWvf.jpg" length="0" type="image/jpg"/>
