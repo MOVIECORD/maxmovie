@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 01:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 03:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17083118558610GWjV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[돌아온 명작 '월레스와 그로밋'..애니메이션 흥행 잇는다]]></title>
+            <link>https://www.maxmovie.com/news/436633</link>
+            <guid>https://www.maxmovie.com/news/436633</guid>
+            <pubDate>Tue, 20 Feb 2024 03:07:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436633"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708397975026iykY6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436633"><h4>돌아온 명작 '월레스와 그로밋'..애니메이션 흥행 잇는다 </h4></a><span>5분 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708397975026iykY6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['파묘' '듄:파트2' 대작 개봉 임박…극장 지각 변동]]></title>
             <link>https://www.maxmovie.com/news/436628</link>
             <guid>https://www.maxmovie.com/news/436628</guid>
             <pubDate>Tue, 20 Feb 2024 01:38:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436628"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708392319109BCXEr.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436628"><h4>'파묘' '듄:파트2' 대작 개봉 임박…극장 지각 변동</h4></a><span>10분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['파묘', 베를린 호평·예매율 40%↑
+'듄:파트2', 전작 인기·내한 행사]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708392319109BCXEr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/436621</link>
             <guid>https://www.maxmovie.com/news/436621</guid>
             <pubDate>Mon, 19 Feb 2024 08:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[차기작, 소니픽처스 전 세계 배급
-'패스트 라이브즈' 넷플릭스 공개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436621"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708326485697bQTfL.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436621"><h4>'패스트 라이브즈' 셀린 송 감독, 글로벌 보폭 넓힌다</h4></a><span>19시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708326485697bQTfL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나문희, 임영웅 "찐 팬" 자처한 까닭은]]></title>
-            <link>https://www.maxmovie.com/news/436619</link>
-            <guid>https://www.maxmovie.com/news/436619</guid>
-            <pubDate>Mon, 19 Feb 2024 07:08:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436619"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708321575773oZKhm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436619"><h4>나문희, 임영웅 "찐 팬" 자처한 까닭은</h4></a><span>18시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708321575773oZKhm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

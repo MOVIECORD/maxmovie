@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 01:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 03:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17083118558610GWjV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[돌아온 명작 '월레스와 그로밋'..애니메이션 흥행 잇는다 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436633</link>
+            <guid>https://www.maxmovie.com/news/436633</guid>
+            <pubDate>Tue, 20 Feb 2024 03:07:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436633"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708397975026iykY6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436633"><h4>돌아온 명작 '월레스와 그로밋'..애니메이션 흥행 잇는다 </h4></a><span>5분 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708397975026iykY6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['파묘' '듄:파트2' 대작 개봉 임박…극장 지각 변동 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/436628</link>
             <guid>https://www.maxmovie.com/news/436628</guid>
             <pubDate>Tue, 20 Feb 2024 01:38:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436628"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708392319109BCXEr.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436628"><h4>'파묘' '듄:파트2' 대작 개봉 임박…극장 지각 변동</h4></a><span>10분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['파묘', 베를린 호평·예매율 40%↑
+'듄:파트2', 전작 인기·내한 행사]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708392319109BCXEr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/436621</link>
             <guid>https://www.maxmovie.com/news/436621</guid>
             <pubDate>Mon, 19 Feb 2024 08:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[차기작, 소니픽처스 전 세계 배급
-'패스트 라이브즈' 넷플릭스 공개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436621"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708326485697bQTfL.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436621"><h4>'패스트 라이브즈' 셀린 송 감독, 글로벌 보폭 넓힌다</h4></a><span>19시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708326485697bQTfL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나문희, 임영웅 "찐 팬" 자처한 까닭은 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/436619</link>
-            <guid>https://www.maxmovie.com/news/436619</guid>
-            <pubDate>Mon, 19 Feb 2024 07:08:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436619"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708321575773oZKhm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436619"><h4>나문희, 임영웅 "찐 팬" 자처한 까닭은</h4></a><span>18시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708321575773oZKhm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[['헤일로2' 인터뷰] '마스터 치프' 파블로 쉬레이버, "본능 즉각 강력 위험한 액션!" (맥스무비 ─ 인터뷰)]]></title>
@@ -270,10 +270,19 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17050246109858LsVB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[돌아온 명작 '월레스와 그로밋'..애니메이션 흥행 잇는다 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/436633</link>
+            <guid>https://www.maxmovie.com/news/436633</guid>
+            <pubDate>Tue, 20 Feb 2024 03:08:09 GMT</pubDate>
+            <content:encoded><![CDATA[21일 '월레스와 그로밋 더 클래식 컬렉션' 개봉
+클레이 스톱모션 애니의 명작, 19년 만 귀환]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708397975026iykY6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['파묘' '듄:파트2' 대작 개봉 임박…극장 지각 변동 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436628</link>
             <guid>https://www.maxmovie.com/news/436628</guid>
-            <pubDate>Tue, 20 Feb 2024 01:38:26 GMT</pubDate>
+            <pubDate>Tue, 20 Feb 2024 01:38:05 GMT</pubDate>
             <content:encoded><![CDATA['파묘', 베를린 호평·예매율 40%↑
 '듄:파트2', 전작 인기·내한 행사]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708392319109BCXEr.jpg" length="0" type="image/jpg"/>
@@ -282,7 +291,7 @@
             <title><![CDATA[[#Shorts] 티모시 샬라메 내한 기념, '23살 샬라메' 소환했습니다 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436627</link>
             <guid>https://www.maxmovie.com/news/436627</guid>
-            <pubDate>Tue, 20 Feb 2024 01:38:26 GMT</pubDate>
+            <pubDate>Tue, 20 Feb 2024 01:38:05 GMT</pubDate>
             <content:encoded><![CDATA[첫 한국 방문 2019년 부국제 당시 모습 엿보니...
 글로벌 톱스타 성장 '듄:파트2' 홍보 차 19일 내한]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/FkMJ7-YBbcw/0.jpg" length="0" type="image/jpg"/>
@@ -301,8 +310,7 @@
             <link>https://www.maxmovie.com/news/436625</link>
             <guid>https://www.maxmovie.com/news/436625</guid>
             <pubDate>Tue, 20 Feb 2024 00:29:25 GMT</pubDate>
-            <content:encoded><![CDATA[21일 오후 새 미니앨범 발매 앞 소감
-"30대, 나와 맞는다..편안한 꽃씨"로]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436625"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708387575265Qna8l.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436625"><h4>아이유 "꽃이 아니어도 좋아. 당당한 욕망을 꿈꾼다"  </h4></a><span>3시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708387575265Qna8l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -310,7 +318,9 @@
             <link>https://www.maxmovie.com/news/436624</link>
             <guid>https://www.maxmovie.com/news/436624</guid>
             <pubDate>Tue, 20 Feb 2024 00:29:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436624"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708385940728s6dmT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436624"><h4>2023년 극장 영화 관객 증가, 그러나...</h4></a><span>2시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['서울의 봄' '범죄도시3' 흥행 바탕
+코로나19 이전 절반 수준에 그쳐
+'2023 한국 영화산업 결산' 보고서]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708385940728s6dmT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,16 +354,17 @@
             <link>https://www.maxmovie.com/news/436620</link>
             <guid>https://www.maxmovie.com/news/436620</guid>
             <pubDate>Mon, 19 Feb 2024 22:04:00 GMT</pubDate>
-            <content:encoded><![CDATA['아녜스 V에 의한 제인 B'의 한 장면. 사진제공=안다미로오늘, 볼만한 작품을 추천합니다.◆ '아녜스 V에 의한 제인 B'영화 '아녜스 V에 의한 제인 B'는 시대를 초월한 스타일 아이콘&nbsp;제인 버킨의 새로운 얼굴을&nbsp;포착해낸 거장 아녜스 바르다의&nbsp;작품이다.'아녜스 V에 의한 제인 B'가 36년 만에 국내 정식 개봉을 했다.영화는 여성 감독으로는 최초로 제6]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436620"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708321863989nq9p5.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436620"><h4>[오늘 뭘 볼까] 36년 만에 만나는 제인 버킨, 영화 '아녜스 V에 의한 제인 B'</h4></a><span>5시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708321863989nq9p5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나문희, 임영웅 "찐 팬" 자처한 까닭은 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/436619</link>
-            <guid>https://www.maxmovie.com/news/436619</guid>
-            <pubDate>Mon, 19 Feb 2024 07:08:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436619"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708321575773oZKhm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436619"><h4>나문희, 임영웅 "찐 팬" 자처한 까닭은</h4></a><span>18시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708321575773oZKhm.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[류승룡과 안재홍이 만든 '닭강정' 무슨 맛일까 (맥스무비 ─ OTT)]]></title>
+            <link>https://www.maxmovie.com/news/436630</link>
+            <guid>https://www.maxmovie.com/news/436630</guid>
+            <pubDate>Tue, 20 Feb 2024 03:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[3월15일 공개, 넷플릭스 오리지널 시리즈 
+영화 '극한직업' 이병헌 감독과 류승룡 재회]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708393231168OxQY3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스  CEO의 자신감 "'오징어 게임2', 한국만이 가능한 경험 선사할 것" (맥스무비 ─ OTT)]]></title>
@@ -386,7 +397,7 @@
             <link>https://www.maxmovie.com/news/436593</link>
             <guid>https://www.maxmovie.com/news/436593</guid>
             <pubDate>Sat, 17 Feb 2024 22:03:17 GMT</pubDate>
-            <content:encoded><![CDATA['닌자의 집'의 한 장면. 사진제공=넷플릭스오늘, 볼만한 작품을 추천합니다.◆ '닌자의 집''닌자의 집'은 수년 전 닌자의 삶을 정리한 가족이&nbsp;갑작스러운 위기에 맞서기 위해 다시 닌자의 세계로 복귀하며 일어나는 이야기를 그린 넷플릭스 오리지널 시리즈다.&nbsp;'화이트 온 라이스' '맨 프롬 리노'의 데이브 보일 감독이&nbsp;연출한&nbsp;'닌자의 집'은 일본의 전통 문화인]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436593"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708063600448Tpmki.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436593"><h4>[오늘 뭘 볼까] 현대로 날아온 닌자! '닌자의 집'</h4></a><span>02월 17일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708063600448Tpmki.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -394,7 +405,7 @@
             <link>https://www.maxmovie.com/news/436592</link>
             <guid>https://www.maxmovie.com/news/436592</guid>
             <pubDate>Fri, 16 Feb 2024 23:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436592"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708063104274RTWdx.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436592"><h4>[오늘 뭘 볼까] 진정한 사랑이란? 영화 '선수의 연애'</h4></a><span>02월 16일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA['선수의 연애'의 한 장면. 사진제공=넷플릭스오늘, 볼만한 작품을 추천합니다.◆ '선수의 연애''선수의 연애'는 지난 수년간 친구들과 함께 하룻밤 상대를 유혹하는 게임을 즐겨왔던 맥이 예기치 않은&nbsp;사랑에 빠지면서 일어나는 이야기를 다룬 넷플릭스 오리지널 영화다.&nbsp;뉴욕의 스포츠 기자 맥은 절친한&nbsp;애덤을 비롯한 친구들과 함께 "사랑은 팀 스포츠"를 외치며 하룻]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708063104274RTWdx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -429,17 +440,16 @@
             <link>https://www.maxmovie.com/news/436564</link>
             <guid>https://www.maxmovie.com/news/436564</guid>
             <pubDate>Thu, 15 Feb 2024 01:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[1626만 흥행 '극한직업' 이어 또 치킨 
-닭강정으로 변한 딸 되돌리려는 여정]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436564"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707958696257iHLwl.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436564"><h4>류승룡·이병헌의 N차 '치킨 유니버스'... '닭강정' 온다 </h4></a><span>02월 15일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707958696257iHLwl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['살인자ㅇ난감' 이탕 협박하는 시선강탈 목격자, 정이서 (맥스무비 ─ OTT)]]></title>
-            <link>https://www.maxmovie.com/news/436561</link>
-            <guid>https://www.maxmovie.com/news/436561</guid>
-            <pubDate>Wed, 14 Feb 2024 23:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436561"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1707950125778m25c8.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/436561"><h4>'살인자ㅇ난감' 이탕 협박하는 시선강탈 목격자, 정이서</h4></a><span>02월 14일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707950125778m25c8.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[류승룡과 안재홍이 만든 '닭강정' 무슨 맛일까 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/436630</link>
+            <guid>https://www.maxmovie.com/news/436630</guid>
+            <pubDate>Tue, 20 Feb 2024 03:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436630"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1708393231168OxQY3.jpg" alt=""></span><span class="textBox"><h4>류승룡과 안재홍이 만든 '닭강정' 무슨 맛일까</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708393231168OxQY3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['살인자ㅇ난감' 빛낸 사람들... 노빈, 여옥, 유정 그리고 강상묵 (맥스무비 ─ 포토)]]></title>
@@ -672,14 +682,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436322"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706151703976SZHuO.jpg" alt=""></span><span class="textBox"><h4>믿을 수 없는 아동 인신매매 실화, 영화 '사운드 오브 프리덤'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706151703976SZHuO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최우식·손석구 지독한 추격전...제목부터 의미심장한 '살인자ㅇ난감' (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/436321</link>
-            <guid>https://www.maxmovie.com/news/436321</guid>
-            <pubDate>Thu, 25 Jan 2024 03:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436321"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706150653239H48CA.jpg" alt=""></span><span class="textBox"><h4>최우식·손석구 지독한 추격전...제목부터 의미심장한 '살인자ㅇ난감' </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706150653239H48CA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
