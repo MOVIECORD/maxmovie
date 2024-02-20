@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 09:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 10:08:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708400051578oTkiU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["'로기완', 우리 삶에 도움이 되는 이야기" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436642</link>
+            <guid>https://www.maxmovie.com/news/436642</guid>
+            <pubDate>Tue, 20 Feb 2024 09:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436642"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708419930100BWVx5.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/436642"><h4>"'로기완', 우리 삶에 도움이 되는 이야기"</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708419930100BWVx5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["직관적이고 화끈하게!"...'파묘' 장재현 감독의 당찬 출사표 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/436640</link>
             <guid>https://www.maxmovie.com/news/436640</guid>
             <pubDate>Tue, 20 Feb 2024 09:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436640"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708417462410cFvlu.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436640"><h4>"직관적이고 화끈하게!"...'파묘' 장재현 감독의 당찬 출사표</h4></a><span>15분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[수상한 묘를 이장하면서 벌어지는 이야기
+'검은 사제들' '사바하' 연출한 장재현 감독 신작]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708417462410cFvlu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,18 +92,8 @@
             <link>https://www.maxmovie.com/news/436624</link>
             <guid>https://www.maxmovie.com/news/436624</guid>
             <pubDate>Tue, 20 Feb 2024 00:29:25 GMT</pubDate>
-            <content:encoded><![CDATA['서울의 봄' '범죄도시3' 흥행 바탕
-코로나19 이전 절반 수준에 그쳐
-'2023 한국 영화산업 결산' 보고서]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436624"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708385940728s6dmT.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436624"><h4>2023년 극장 영화 관객 증가, 그러나...</h4></a><span>10시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708385940728s6dmT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[데일리 핫이슈] 커플링 의혹 전현무·티모시 샬라메, 유재석 만날까·27년 만에 연극 무대 전도연 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/436622</link>
-            <guid>https://www.maxmovie.com/news/436622</guid>
-            <pubDate>Mon, 19 Feb 2024 22:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436622"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708344468571YPV2V.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436622"><h4>[데일리 핫이슈] 커플링 의혹 전현무·티모시 샬라메, 유재석 만날까·27년 만에 연극 무대 전도연</h4></a><span>11시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708344468571YPV2V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[['헤일로2' 인터뷰] '마스터 치프' 파블로 쉬레이버, "본능 즉각 강력 위험한 액션!" (맥스무비 ─ 인터뷰)]]></title>
@@ -276,7 +275,7 @@
             <title><![CDATA["직관적이고 화끈하게!"...'파묘' 장재현 감독의 당찬 출사표 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436640</link>
             <guid>https://www.maxmovie.com/news/436640</guid>
-            <pubDate>Tue, 20 Feb 2024 09:08:02 GMT</pubDate>
+            <pubDate>Tue, 20 Feb 2024 09:07:38 GMT</pubDate>
             <content:encoded><![CDATA[수상한 묘를 이장하면서 벌어지는 이야기
 '검은 사제들' '사바하' 연출한 장재현 감독 신작]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708417462410cFvlu.jpg" length="0" type="image/jpg"/>
@@ -314,7 +313,7 @@
             <link>https://www.maxmovie.com/news/436634</link>
             <guid>https://www.maxmovie.com/news/436634</guid>
             <pubDate>Tue, 20 Feb 2024 04:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436634"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708398012369MCCUW.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436634"><h4>20대 지지 '귀멸의 칼날' 극장판 어느새 30만 돌파…역대 성적은?</h4></a><span>5시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436634"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708398012369MCCUW.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436634"><h4>20대 지지 '귀멸의 칼날' 극장판 어느새 30만 돌파…역대 성적은?</h4></a><span>6시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708398012369MCCUW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,7 +357,7 @@
             <link>https://www.maxmovie.com/news/436627</link>
             <guid>https://www.maxmovie.com/news/436627</guid>
             <pubDate>Tue, 20 Feb 2024 01:38:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436627"><span class="imgBox" style="background-image:url(https://i.ytimg.com/vi/FkMJ7-YBbcw/0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436627"><h4>[#Shorts] 티모시 샬라메 내한 기념, '23살 샬라메' 소환했습니다</h4></a><span>8시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436627"><span class="imgBox" style="background-image:url(https://i.ytimg.com/vi/FkMJ7-YBbcw/0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436627"><h4>[#Shorts] 티모시 샬라메 내한 기념, '23살 샬라메' 소환했습니다</h4></a><span>9시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/FkMJ7-YBbcw/0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
