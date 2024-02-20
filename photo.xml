@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 03:08:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 04:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오스카 노리는 엠마 스톤의 '가여운 것들' 미리 봤더니]]></title>
+            <link>https://www.maxmovie.com/news/436631</link>
+            <guid>https://www.maxmovie.com/news/436631</guid>
+            <pubDate>Tue, 20 Feb 2024 04:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436631"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17083945514480k0rf.jpg" alt=""></span><span class="textBox"><h4>오스카 노리는 엠마 스톤의 '가여운 것들' 미리 봤더니</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17083945514480k0rf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[류승룡과 안재홍이 만든 '닭강정' 무슨 맛일까]]></title>
             <link>https://www.maxmovie.com/news/436630</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436334"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17062327951836L3Oq.jpg" alt=""></span><span class="textBox"><h4>류준열·김태리의 '외계+인' 2부 촬영 현장, 엿보기 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17062327951836L3Oq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[믿을 수 없는 아동 인신매매 실화, 영화 '사운드 오브 프리덤']]></title>
-            <link>https://www.maxmovie.com/news/436322</link>
-            <guid>https://www.maxmovie.com/news/436322</guid>
-            <pubDate>Sat, 27 Jan 2024 21:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436322"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706151703976SZHuO.jpg" alt=""></span><span class="textBox"><h4>믿을 수 없는 아동 인신매매 실화, 영화 '사운드 오브 프리덤'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706151703976SZHuO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
