@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 08:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 09:05:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708558788135Jsg9H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['파묘', 40→50%대로 예매율 상승…무슨 일?]]></title>
+            <link>https://www.maxmovie.com/news/436681</link>
+            <guid>https://www.maxmovie.com/news/436681</guid>
+            <pubDate>Thu, 22 Feb 2024 09:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436681"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708590341085nnpHz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436681"><h4>'파묘', 40→50%대로 예매율 상승…무슨 일?</h4></a><span>27분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708590341085nnpHz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그룹 엔믹스, 극장판 '스파이 패밀리' 엔딩 주제곡 커버..."두근! 두근!"]]></title>
             <link>https://www.maxmovie.com/news/436679</link>
             <guid>https://www.maxmovie.com/news/436679</guid>
             <pubDate>Thu, 22 Feb 2024 08:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436679"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708585583529CjCFw.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436679"><h4>그룹 엔믹스, 극장판 '스파이 패밀리' 엔딩 주제곡 커버..."두근! 두근!"</h4></a><span>38분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[엔딩 주제곡 호시노 겐의 '와이' 커버
+극장판 '스파이 패밀리', 3월20일 개봉]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708585583529CjCFw.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/436675</link>
             <guid>https://www.maxmovie.com/news/436675</guid>
             <pubDate>Thu, 22 Feb 2024 07:06:26 GMT</pubDate>
-            <content:encoded><![CDATA[이혼 소송 진행 중
-소속사 "결혼 생활 유지 어렵다 결정"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436675"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708578069145Z6J6Y.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436675"><h4>황정음, 남편과 재결합 3년만에 파경</h4></a><span>3시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708578069145Z6J6Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[韓 팬덤에 놀란 젠데이아, "엄마 집에서도 이렇지 않은데..."]]></title>
-            <link>https://www.maxmovie.com/news/436673</link>
-            <guid>https://www.maxmovie.com/news/436673</guid>
-            <pubDate>Thu, 22 Feb 2024 03:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436673"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17085690905320HxQA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436673"><h4>韓 팬덤에 놀란 젠데이아, "엄마 집에서도 이렇지 않은데..." </h4></a><span>5시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17085690905320HxQA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
