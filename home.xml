@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 14:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 15:06:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <link>https://www.maxmovie.com/news/436679</link>
             <guid>https://www.maxmovie.com/news/436679</guid>
             <pubDate>Thu, 22 Feb 2024 08:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436679"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708585583529CjCFw.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436679"><h4>그룹 엔믹스, 극장판 '스파이 패밀리' 엔딩 주제곡 커버..."두근! 두근!"</h4></a><span>6시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436679"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708585583529CjCFw.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436679"><h4>그룹 엔믹스, 극장판 '스파이 패밀리' 엔딩 주제곡 커버..."두근! 두근!"</h4></a><span>7시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708585583529CjCFw.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -79,21 +79,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17085690905320HxQA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[현빈, 가수 김범수 뮤직비디오 출연한 까닭은?]]></title>
+            <link>https://www.maxmovie.com/news/436671</link>
+            <guid>https://www.maxmovie.com/news/436671</guid>
+            <pubDate>Thu, 22 Feb 2024 15:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[김범수 신곡 '그대의 세계' 뮤비 주인공
+손예진과 결혼식 축가 김범수와의 인연]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17085642677674hlQC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가수 김동률, 적극적인 음악 교류... '망각' 라이브 음원 출시]]></title>
             <link>https://www.maxmovie.com/news/436669</link>
             <guid>https://www.maxmovie.com/news/436669</guid>
             <pubDate>Thu, 22 Feb 2024 10:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[작년 10월 단독콘서트에서 선보인 새 버전 
-"겨울의 끝자락에서 반가운 선물 되기를..."]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436669"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708562929058mWZFK.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/436669"><h4>가수 김동률, 적극적인 음악 교류... '망각' 라이브 음원 출시 </h4></a><span>14시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708562929058mWZFK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#Shorts] 차원이 다른 '달달함' 티모시 샬라메의 K하트!]]></title>
-            <link>https://www.maxmovie.com/news/436665</link>
-            <guid>https://www.maxmovie.com/news/436665</guid>
-            <pubDate>Thu, 22 Feb 2024 14:04:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436665"><span class="imgBox" style="background-image:url(https://i.ytimg.com/vi/Y5EyOr2T-FU/0.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436665"><h4>[#Shorts] 차원이 다른 '달달함' 티모시 샬라메의 K하트!</h4></a><span>13시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Y5EyOr2T-FU/0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
