@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 02:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 04:08:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임영웅이 밀고 나문희·김영옥이 이끈  '소풍'의 신 스틸러들]]></title>
+            <link>https://www.maxmovie.com/news/436689</link>
+            <guid>https://www.maxmovie.com/news/436689</guid>
+            <pubDate>Fri, 23 Feb 2024 04:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436689"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1708654458268X8KSJ.jpg" alt=""></span><span class="textBox"><h4>임영웅이 밀고 나문희·김영옥이 이끈  '소풍'의 신 스틸러들</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708654458268X8KSJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추자현·이무생의 미스터리 로맨스, '당신이 잠든 사이']]></title>
             <link>https://www.maxmovie.com/news/436687</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 30 Jan 2024 06:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436375"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706590954546sc2tM.jpg" alt=""></span><span class="textBox"><h4>열혈 팬덤 '츠루네' 시리즈 첫 극장판, 작화 살펴보니...</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706590954546sc2tM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아가일' 브라이스 달라스 하워드 "내가 바로 엘리"라고 한 까닭]]></title>
-            <link>https://www.maxmovie.com/news/436361</link>
-            <guid>https://www.maxmovie.com/news/436361</guid>
-            <pubDate>Mon, 29 Jan 2024 05:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436361"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706502569542vE0k5.jpg" alt=""></span><span class="textBox"><h4>'아가일' 브라이스 달라스 하워드 "내가 바로 엘리"라고 한 까닭</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706502569542vE0k5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
