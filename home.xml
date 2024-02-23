@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 07:08:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 08:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708592056262N12wa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['댓글부대'로 돌아오는 안국진 감독 "우리 주변의 음모론에 관한 이야기"]]></title>
+            <link>https://www.maxmovie.com/news/436696</link>
+            <guid>https://www.maxmovie.com/news/436696</guid>
+            <pubDate>Fri, 23 Feb 2024 08:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436696"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708672188870bvznd.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436696"><h4>'댓글부대'로 돌아오는 안국진 감독 "우리 주변의 음모론에 관한 이야기"</h4></a><span>21분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708672188870bvznd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[탕웨이가 아이유에게 쓴 편지, 그 자체가 '영화']]></title>
             <link>https://www.maxmovie.com/news/436694</link>
             <guid>https://www.maxmovie.com/news/436694</guid>
             <pubDate>Fri, 23 Feb 2024 06:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436694"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708666855171f4Fr3.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436694"><h4>탕웨이가 아이유에게 쓴 편지, 그 자체가 '영화' </h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[뮤직비디오 '쉬' 출연, 아이유와 모녀 호흡 
+"알지 못하는 젊은 시절의 엄마가 떠올어요"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708666855171f4Fr3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/436681</link>
             <guid>https://www.maxmovie.com/news/436681</guid>
             <pubDate>Thu, 22 Feb 2024 09:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 후 관객 반응 호의적
-"김고은 굿 연기 미쳤다"]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436681"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708590341085nnpHz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436681"><h4>'파묘', 40→50%대로 예매율 상승…무슨 일?</h4></a><span>23시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708590341085nnpHz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그룹 엔믹스, 극장판 '스파이 패밀리' 엔딩 주제곡 커버..."두근! 두근!"]]></title>
-            <link>https://www.maxmovie.com/news/436679</link>
-            <guid>https://www.maxmovie.com/news/436679</guid>
-            <pubDate>Fri, 23 Feb 2024 05:08:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436679"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708585583529CjCFw.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436679"><h4>그룹 엔믹스, 극장판 '스파이 패밀리' 엔딩 주제곡 커버..."두근! 두근!"</h4></a><span>23시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708585583529CjCFw.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
