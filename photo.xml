@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 04:08:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 05:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[화보] 티모시 샬라메 레드카펫 열광의 현장.ZIP]]></title>
+            <link>https://www.maxmovie.com/news/436693</link>
+            <guid>https://www.maxmovie.com/news/436693</guid>
+            <pubDate>Fri, 23 Feb 2024 05:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436693"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17086610188838JHtq.jpg" alt=""></span><span class="textBox"><h4>[화보] 티모시 샬라메 레드카펫 열광의 현장.ZIP</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17086610188838JHtq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임영웅이 밀고 나문희·김영옥이 이끈  '소풍'의 신 스틸러들]]></title>
             <link>https://www.maxmovie.com/news/436689</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 30 Jan 2024 07:05:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436377"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706593180426Ry0X0.jpg" alt=""></span><span class="textBox"><h4>그룹 에스파의 생생한 순간들, 영화 '에스파:마이 퍼스트 페이지' 어떤 작품? </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706593180426Ry0X0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열혈 팬덤 '츠루네' 시리즈 첫 극장판, 작화 살펴보니...]]></title>
-            <link>https://www.maxmovie.com/news/436375</link>
-            <guid>https://www.maxmovie.com/news/436375</guid>
-            <pubDate>Tue, 30 Jan 2024 06:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436375"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706590954546sc2tM.jpg" alt=""></span><span class="textBox"><h4>열혈 팬덤 '츠루네' 시리즈 첫 극장판, 작화 살펴보니...</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706590954546sc2tM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
