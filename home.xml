@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 02:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 03:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,11 +43,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708688709378NRyu6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['여행자의 필요' '파묘' '범죄도시4'…베를린 홀린 K무비]]></title>
+            <link>https://www.maxmovie.com/news/436710</link>
+            <guid>https://www.maxmovie.com/news/436710</guid>
+            <pubDate>Sun, 25 Feb 2024 03:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436710"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708827966272G2OQp.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436710"><h4>'여행자의 필요' '파묘' '범죄도시4'…베를린 홀린 K무비</h4></a><span>37분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708827966272G2OQp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['파묘' 개봉 첫 주 200만 간다...'서울의 봄'도 넘었다]]></title>
             <link>https://www.maxmovie.com/news/436707</link>
             <guid>https://www.maxmovie.com/news/436707</guid>
             <pubDate>Sun, 25 Feb 2024 01:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436707"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708759776913dciX6.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436707"><h4>'파묘' 개봉 첫 주 200만 간다...'서울의 봄'도 넘었다</h4></a><span>18시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[22일 개봉 이후 사흘째 100만 관객 돌파
+'서울의 봄'보다 더 빠른 속도로 관객몰이]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708759776913dciX6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -82,16 +91,8 @@
             <link>https://www.maxmovie.com/news/436703</link>
             <guid>https://www.maxmovie.com/news/436703</guid>
             <pubDate>Sat, 24 Feb 2024 06:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436703"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708674384136qSonq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436703"><h4>[맥스무비레터 #40번째 편지] '티모시 샬라메'에 빠지고 '파묘'에 사로잡히다</h4></a><span>02월 24일<!-- --> · <a href="/writer/28">맥스무비취재팀</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708674384136qSonq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무섭게 달아오르는 '파묘', 첫 주말 스코어 어디까지 갈까]]></title>
-            <link>https://www.maxmovie.com/news/436702</link>
-            <guid>https://www.maxmovie.com/news/436702</guid>
-            <pubDate>Sat, 24 Feb 2024 03:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436702"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1708675659105fjXxJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436702"><h4>무섭게 달아오르는 '파묘', 첫 주말 스코어 어디까지 갈까 </h4></a><span>02월 23일<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708675659105fjXxJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
