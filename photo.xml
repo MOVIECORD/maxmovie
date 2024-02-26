@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 03:08:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 08:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허광한·류이호 잇는 대세 왕이보가 그린 청춘의 이야기]]></title>
+            <link>https://www.maxmovie.com/news/436723</link>
+            <guid>https://www.maxmovie.com/news/436723</guid>
+            <pubDate>Mon, 26 Feb 2024 08:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436723"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1708913991380pLNC1.jpg" alt=""></span><span class="textBox"><h4>허광한·류이호 잇는 대세 왕이보가 그린 청춘의 이야기 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708913991380pLNC1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화보] 티모시 샬라메 레드카펫 열광의 현장.ZIP]]></title>
             <link>https://www.maxmovie.com/news/436693</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 31 Jan 2024 05:05:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436388"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706666444434G5yUd.jpg" alt=""></span><span class="textBox"><h4>'황야' 마동석만 있나? 쥐까지 먹는 존재감 넘치는 캐릭터 열전 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706666444434G5yUd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그룹 에스파의 생생한 순간들, 영화 '에스파:마이 퍼스트 페이지' 어떤 작품?]]></title>
-            <link>https://www.maxmovie.com/news/436377</link>
-            <guid>https://www.maxmovie.com/news/436377</guid>
-            <pubDate>Tue, 30 Jan 2024 07:05:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436377"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1706593180426Ry0X0.jpg" alt=""></span><span class="textBox"><h4>그룹 에스파의 생생한 순간들, 영화 '에스파:마이 퍼스트 페이지' 어떤 작품? </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706593180426Ry0X0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
