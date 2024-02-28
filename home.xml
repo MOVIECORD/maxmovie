@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 00:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 01:40:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,16 +40,25 @@
             <link>https://www.maxmovie.com/news/436763</link>
             <guid>https://www.maxmovie.com/news/436763</guid>
             <pubDate>Tue, 27 Feb 2024 23:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[전국 각 단체 및 기관 회원 극장으로
+            <content:encoded><![CDATA[각종 단체 및 기관 회원들 영화 관람
 노년의 삶 공감대와 문화체험 기회]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709074643823cKJoX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하정우, 공중 납치 여객기 극한의 사투 '하이재킹' 6월 개봉]]></title>
+            <link>https://www.maxmovie.com/news/436766</link>
+            <guid>https://www.maxmovie.com/news/436766</guid>
+            <pubDate>Wed, 28 Feb 2024 01:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436766"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709079801240ZROwr.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436766"><h4>하정우, 공중 납치 여객기 극한의 사투 '하이재킹' 6월 개봉 </h4></a><span>58분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709079801240ZROwr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국계 덴마크 감독의 자전적 이야기 '조용한 이주' 베를린 수상]]></title>
             <link>https://www.maxmovie.com/news/436762</link>
             <guid>https://www.maxmovie.com/news/436762</guid>
             <pubDate>Tue, 27 Feb 2024 22:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436762"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709070154449f9zls.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436762"><h4>한국계 덴마크 감독의 자전적 이야기 '조용한 이주' 베를린 수상</h4></a><span>2시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[베를린 국제영화제 국제비평가연맹상
+해외 입양아 정체성 그려 국내외 호평]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709070154449f9zls.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/436754</link>
             <guid>https://www.maxmovie.com/news/436754</guid>
             <pubDate>Tue, 27 Feb 2024 07:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[27일 교제 사실 공개..."1월 패션쇼 만남부터 "
-측근 "처음부터 사랑에 빠졌다" 매체 전언]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436754"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709078075265oLptn.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436754"><h4>에스파 카리나♥배우 이재욱 "서로 첫눈에 반했다"</h4></a><span>19시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709078075265oLptn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[새 책] 민주주의 그리고 '좀비'가 된 인간의 오해! 그래도...]]></title>
-            <link>https://www.maxmovie.com/news/436752</link>
-            <guid>https://www.maxmovie.com/news/436752</guid>
-            <pubDate>Tue, 27 Feb 2024 04:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436752"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709004446215VzEFw.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/436752"><h4>[새 책] 민주주의 그리고 '좀비'가 된 인간의 오해! 그래도...</h4></a><span>21시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709004446215VzEFw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
