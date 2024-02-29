@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 00:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 01:38:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[험한 것을 만난 '파묘' 촬영 현장 비하인드 공개]]></title>
+            <link>https://www.maxmovie.com/news/436785</link>
+            <guid>https://www.maxmovie.com/news/436785</guid>
+            <pubDate>Thu, 29 Feb 2024 01:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436785"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1709167521501pCa5K.jpg" alt=""></span><span class="textBox"><h4>험한 것을 만난 '파묘' 촬영 현장 비하인드 공개 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709167521501pCa5K.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[류승룡·안재홍 콤비 '닭강정', 예측 불가능한 웃음 폭탄]]></title>
             <link>https://www.maxmovie.com/news/436769</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 05 Feb 2024 04:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436447"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1707101404292h5Hkm.jpg" alt=""></span><span class="textBox"><h4>'스파이 패밀리'의 첫 극장판, 위장 가족의 흥미진진한 여행기</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707101404292h5Hkm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[악랄한 보이스피싱 총책 잡은 '시민덕희', 결정적  인물들]]></title>
-            <link>https://www.maxmovie.com/news/436415</link>
-            <guid>https://www.maxmovie.com/news/436415</guid>
-            <pubDate>Fri, 02 Feb 2024 03:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436415"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/170683846587784H1w.jpg" alt=""></span><span class="textBox"><h4>악랄한 보이스피싱 총책 잡은 '시민덕희', 결정적  인물들 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/170683846587784H1w.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
