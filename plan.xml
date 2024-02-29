@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 06:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 07:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가수 벤, 이욱 이사장과 이혼]]></title>
+            <link>https://www.maxmovie.com/news/436798</link>
+            <guid>https://www.maxmovie.com/news/436798</guid>
+            <pubDate>Thu, 29 Feb 2024 07:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 말 이혼조정 신청
+벤이 양육권 갖기로]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709187418266CRlpO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['더 글로리' 허동원, 결혼 1년만에 이혼했다]]></title>
             <link>https://www.maxmovie.com/news/436795</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/436791</link>
             <guid>https://www.maxmovie.com/news/436791</guid>
             <pubDate>Thu, 29 Feb 2024 06:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[촬영 마친 '스위트홈' 시즌3 연내 공개
-입대 당일 별도 행사 없이 조용히 입소]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436791"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709183171096q7mYM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436791"><h4>잠시만 안녕... 송강 4월2일 육군 현역 입대 </h4></a><span>1시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709183171096q7mYM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/436790</link>
             <guid>https://www.maxmovie.com/news/436790</guid>
             <pubDate>Thu, 29 Feb 2024 06:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436790"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709171425884XH8kZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436790"><h4>'파묘' 리얼리티의 비밀, 무속인 출연부터 장의사의 가르침까지</h4></a><span>8분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[자문한 실제 무속인 영화에도 직접 출연 
+최고의 풍수지리사 최의중의 존재까지...]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709171425884XH8kZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/436783</link>
             <guid>https://www.maxmovie.com/news/436783</guid>
             <pubDate>Thu, 29 Feb 2024 00:29:40 GMT</pubDate>
-            <content:encoded><![CDATA[3월21일 시작하는 스프링 쇼케이스 상영
-임영웅의 '모래 알갱이' 하와이에서도 공개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436783"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709163729448tHiTW.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436783"><h4>임영웅과 나문희의 합작 '소풍' 하와이 영화제 초청 </h4></a><span>7시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709163729448tHiTW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['파묘' VS '듄:파트2', '파묘'가 기선 잡았다]]></title>
-            <link>https://www.maxmovie.com/news/436780</link>
-            <guid>https://www.maxmovie.com/news/436780</guid>
-            <pubDate>Thu, 29 Feb 2024 00:29:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436780"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709163968322KyMRf.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436780"><h4>'파묘' VS '듄:파트2', '파묘'가 기선 잡았다</h4></a><span>6시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709163968322KyMRf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
