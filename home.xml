@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 22:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 23:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,7 +49,7 @@
             <link>https://www.maxmovie.com/news/436807</link>
             <guid>https://www.maxmovie.com/news/436807</guid>
             <pubDate>Thu, 29 Feb 2024 22:04:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436807"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17092027388255gS7c.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436807"><h4>[위클리 이슈 모음zip] 아이유 암표 적발·잇단 파경 입대 소식·카리나 이재욱 연일 화제 외</h4></a><span>5분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436807"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17092027388255gS7c.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436807"><h4>[위클리 이슈 모음zip] 아이유 암표 적발·잇단 파경 입대 소식·카리나 이재욱 연일 화제 외</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17092027388255gS7c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -71,6 +71,16 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709189956788frUOa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[권유리·박지연 ·김재중, 2세대 아이돌 스크린 출격]]></title>
+            <link>https://www.maxmovie.com/news/436802</link>
+            <guid>https://www.maxmovie.com/news/436802</guid>
+            <pubDate>Thu, 29 Feb 2024 23:07:45 GMT</pubDate>
+            <content:encoded><![CDATA['돌핀' 권유리 지역 신문 기자로
+'화녀' 박지연 추락한 여배우로
+'신사' 김재중 박수무당으로]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709193655095xpD4m.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[3·1절 '파묘' 데이, 영화에서 찾는 항일 메시지]]></title>
             <link>https://www.maxmovie.com/news/436801</link>
             <guid>https://www.maxmovie.com/news/436801</guid>
@@ -84,17 +94,8 @@
             <link>https://www.maxmovie.com/news/436798</link>
             <guid>https://www.maxmovie.com/news/436798</guid>
             <pubDate>Thu, 29 Feb 2024 15:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 말 이혼조정 신청
-벤이 양육권 갖기로]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436798"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709187418266CRlpO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436798"><h4>가수 벤, 이욱 이사장과 이혼</h4></a><span>16시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709187418266CRlpO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 장원영 언니 장다아의 연기 데뷔작 '피라미드 게임']]></title>
-            <link>https://www.maxmovie.com/news/436796</link>
-            <guid>https://www.maxmovie.com/news/436796</guid>
-            <pubDate>Thu, 29 Feb 2024 22:04:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436796"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709186445915pafQi.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436796"><h4>[오늘 뭘 볼까] 장원영 언니 장다아의 연기 데뷔작 '피라미드 게임'</h4></a><span>5분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709186445915pafQi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
