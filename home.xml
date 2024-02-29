@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 09:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 11:04:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,11 +45,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709183871205TGf6J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[애니메이션 영화로 즐기는 '유미의 세포들'...4월3일 개봉 확정]]></title>
+            <link>https://www.maxmovie.com/news/436808</link>
+            <guid>https://www.maxmovie.com/news/436808</guid>
+            <pubDate>Thu, 29 Feb 2024 11:03:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436808"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709198623368LiXJQ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436808"><h4>애니메이션 영화로 즐기는 '유미의 세포들'...4월3일 개봉 확정</h4></a><span>1시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709198623368LiXJQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가수 벤, 이욱 이사장과 이혼]]></title>
             <link>https://www.maxmovie.com/news/436798</link>
             <guid>https://www.maxmovie.com/news/436798</guid>
             <pubDate>Thu, 29 Feb 2024 07:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436798"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709187418266CRlpO.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436798"><h4>가수 벤, 이욱 이사장과 이혼</h4></a><span>2시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[지난해 말 이혼조정 신청
+벤이 양육권 갖기로]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709187418266CRlpO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,17 +93,8 @@
             <link>https://www.maxmovie.com/news/436788</link>
             <guid>https://www.maxmovie.com/news/436788</guid>
             <pubDate>Thu, 29 Feb 2024 01:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 '환혼' 시리즈 등 활약 주목
-복무 전 단독 팬미팅 열고 팬과 인사]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436788"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709168540180JAV2p.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436788"><h4>황민현 군대 간다, 3월21일 입소 </h4></a><span>9시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709168540180JAV2p.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티모시 샬라메는 거울 보면서 무슨 생각할까? 뜻밖의 대답]]></title>
-            <link>https://www.maxmovie.com/news/436784</link>
-            <guid>https://www.maxmovie.com/news/436784</guid>
-            <pubDate>Thu, 29 Feb 2024 09:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436784"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709165340825CF7kq.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436784"><h4>티모시 샬라메는 거울 보면서 무슨 생각할까? 뜻밖의 대답 </h4></a><span>8시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709165340825CF7kq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
