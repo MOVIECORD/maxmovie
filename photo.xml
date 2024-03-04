@@ -4,9 +4,25 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 00:30:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 02:56:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 극장에서 이승윤을 만날 시간, 생생한 콘서트 현장]]></title>
+            <link>https://www.maxmovie.com/news/436826</link>
+            <guid>https://www.maxmovie.com/news/436826</guid>
+            <pubDate>Mon, 04 Mar 2024 02:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436826"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1709514463064ZIeZA.jpg" alt=""></span><span class="textBox"><h4>이제 극장에서 이승윤을 만날 시간, 생생한 콘서트 현장 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709514463064ZIeZA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['마약 왕'으로 돌아온 유덕화, '잠행'은 어떤 영화?]]></title>
+            <link>https://www.maxmovie.com/news/436824</link>
+            <guid>https://www.maxmovie.com/news/436824</guid>
+            <pubDate>Mon, 04 Mar 2024 02:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436824"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1709512819055jqOEM.jpg" alt=""></span><span class="textBox"><h4>'마약 왕'으로 돌아온 유덕화, '잠행'은 어떤 영화?</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709512819055jqOEM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하마구치 류스케 감독의 새 영화 '악은 존재하지 않는다', 어떤 이야기?]]></title>
             <link>https://www.maxmovie.com/news/436789</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 07 Feb 2024 03:08:37 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436481"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17072731610309FwkX.jpg" alt=""></span><span class="textBox"><h4>'좋좋소' 이미나 대리, 스핀오프 출격 '미나씨, 또 프사 바뀌었네요?' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17072731610309FwkX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['파묘' 김고은, 무속인에게 전수받은 대살굿 비하인드]]></title>
-            <link>https://www.maxmovie.com/news/436479</link>
-            <guid>https://www.maxmovie.com/news/436479</guid>
-            <pubDate>Wed, 07 Feb 2024 01:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436479"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17072683843208Chh9.jpg" alt=""></span><span class="textBox"><h4>'파묘' 김고은, 무속인에게 전수받은 대살굿 비하인드 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17072683843208Chh9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화의 힘 보여주는 '시민덕희'...보이스피싱 범죄 경각심 일깨워]]></title>
-            <link>https://www.maxmovie.com/news/436464</link>
-            <guid>https://www.maxmovie.com/news/436464</guid>
-            <pubDate>Tue, 06 Feb 2024 03:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436464"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17071857567889cCo5.jpg" alt=""></span><span class="textBox"><h4>영화의 힘 보여주는 '시민덕희'...보이스피싱 범죄 경각심 일깨워 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17071857567889cCo5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
