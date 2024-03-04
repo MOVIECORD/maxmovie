@@ -4,9 +4,18 @@
         <title>맥스무비 ─ 기획</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 11:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 12:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김신영 하차‧남희석 합류, '전국노래자랑' 초고속 MC 교체... 무슨 일이?]]></title>
+            <link>https://www.maxmovie.com/news/436834</link>
+            <guid>https://www.maxmovie.com/news/436834</guid>
+            <pubDate>Mon, 04 Mar 2024 12:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[제작진 최근 김신영에 MC 하차 통보 
+제작진과 사전 교감 및 협의 없어 의문]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/170955065267905Pe0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이승기, 임재범 명곡 '비상' 리메이크... 다시, 비상]]></title>
             <link>https://www.maxmovie.com/news/436833</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/436829</link>
             <guid>https://www.maxmovie.com/news/436829</guid>
             <pubDate>Mon, 04 Mar 2024 09:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[5일 오후 2시 서울 롯데시네마 건대입구
-60년 연기 인생, 나문희와 우정담 공개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436829"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709543763892OLezz.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436829"><h4>영화 '소풍' 김영옥, 관객 직접 만난다</h4></a><span>3시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709543763892OLezz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/436828</link>
             <guid>https://www.maxmovie.com/news/436828</guid>
             <pubDate>Mon, 04 Mar 2024 03:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436828"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709516236425ZnMwm.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436828"><h4>'파묘' 최민식에게서 '명량' 이순신 떠오르는 이유 </h4></a><span>8시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[항일 메시지 녹인 '파묘' 최민식 결정적 활약
+문제의 존재와 맞붙는 하이라이트 '명량'과 연결]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709516236425ZnMwm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,17 +93,8 @@
             <link>https://www.maxmovie.com/news/436822</link>
             <guid>https://www.maxmovie.com/news/436822</guid>
             <pubDate>Mon, 04 Mar 2024 00:30:33 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 11일째...2019년 '극한직업' 이후 처음
-감염병 확산 시기 가장 빠른 흥행세 과시]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436822"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709511641469knPKJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436822"><h4>'파묘', 팬데믹 이후 최단기 600만 돌파 기록</h4></a><span>12시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709511641469knPKJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세월호 참사 피해자 아버지가 영화감독이 된 까닭은?]]></title>
-            <link>https://www.maxmovie.com/news/436821</link>
-            <guid>https://www.maxmovie.com/news/436821</guid>
-            <pubDate>Mon, 04 Mar 2024 00:30:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436821"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17095080696504BFlS.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436821"><h4>세월호 참사 피해자 아버지가 영화감독이 된 까닭은?</h4></a><span>11시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17095080696504BFlS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
