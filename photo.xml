@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 02:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 04:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미야자키 하야오 데뷔작 '루팡 3세:칼리오스트로의 성', 어떤 작품?]]></title>
+            <link>https://www.maxmovie.com/news/436846</link>
+            <guid>https://www.maxmovie.com/news/436846</guid>
+            <pubDate>Tue, 05 Mar 2024 04:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436846"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1709603874539Rj7VK.jpg" alt=""></span><span class="textBox"><h4>미야자키 하야오 데뷔작 '루팡 3세:칼리오스트로의 성', 어떤 작품?</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709603874539Rj7VK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에픽하이 20주년 콘서트, 스크린에서 만난다]]></title>
             <link>https://www.maxmovie.com/news/436843</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 08 Feb 2024 02:13:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436500"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1707356485626hTIWl.jpg" alt=""></span><span class="textBox"><h4>황재균 아내 박지연은 잊어라... 영화 '화녀'의 섬뜩한 얼굴 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707356485626hTIWl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송중기의 슬픈 눈동자... 영화 '로기완'이 온다]]></title>
-            <link>https://www.maxmovie.com/news/436498</link>
-            <guid>https://www.maxmovie.com/news/436498</guid>
-            <pubDate>Thu, 08 Feb 2024 01:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436498"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1707354327348T8YV5.jpg" alt=""></span><span class="textBox"><h4>송중기의 슬픈 눈동자... 영화 '로기완'이 온다 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707354327348T8YV5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
