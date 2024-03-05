@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 00:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 01:39:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에픽하이 20주년 콘서트, 스크린에서 만난다]]></title>
+            <link>https://www.maxmovie.com/news/436843</link>
+            <guid>https://www.maxmovie.com/news/436843</guid>
+            <pubDate>Tue, 05 Mar 2024 01:39:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436843"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1709601662498Jz7Hi.jpg" alt=""></span><span class="textBox"><h4>에픽하이 20주년 콘서트, 스크린에서 만난다 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709601662498Jz7Hi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이제 극장에서 이승윤을 만날 시간, 생생한 콘서트 현장]]></title>
             <link>https://www.maxmovie.com/news/436826</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 08 Feb 2024 01:38:53 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436498"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1707354327348T8YV5.jpg" alt=""></span><span class="textBox"><h4>송중기의 슬픈 눈동자... 영화 '로기완'이 온다 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707354327348T8YV5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['좋좋소' 이미나 대리, 스핀오프 출격 '미나씨, 또 프사 바뀌었네요?']]></title>
-            <link>https://www.maxmovie.com/news/436481</link>
-            <guid>https://www.maxmovie.com/news/436481</guid>
-            <pubDate>Wed, 07 Feb 2024 03:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436481"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17072731610309FwkX.jpg" alt=""></span><span class="textBox"><h4>'좋좋소' 이미나 대리, 스핀오프 출격 '미나씨, 또 프사 바뀌었네요?' </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17072731610309FwkX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
