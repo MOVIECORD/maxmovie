@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 01:39:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 02:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몬스터와 친구가 될 수 있을까? '몬스터 프렌즈'가 그린 특별한 우정]]></title>
+            <link>https://www.maxmovie.com/news/436867</link>
+            <guid>https://www.maxmovie.com/news/436867</guid>
+            <pubDate>Wed, 06 Mar 2024 02:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436867"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1709689068005J3Hy7.jpg" alt=""></span><span class="textBox"><h4>몬스터와 친구가 될 수 있을까? '몬스터 프렌즈'가 그린 특별한 우정</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709689068005J3Hy7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우정과 동맹 사이... '로얄로더' 속 이재욱·이준영의 순간들]]></title>
             <link>https://www.maxmovie.com/news/436865</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 13 Feb 2024 06:10:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436538"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1707801400204eO07m.jpg" alt=""></span><span class="textBox"><h4>탈북한 '로기완'의 여정, 송중기와 함께 한 배우들의 면면 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707801400204eO07m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킬러들의 쇼핑몰', 이제는 공개할 수 있는... 웃음 만발 현장]]></title>
-            <link>https://www.maxmovie.com/news/436534</link>
-            <guid>https://www.maxmovie.com/news/436534</guid>
-            <pubDate>Tue, 13 Feb 2024 03:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436534"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1707790095362oHhWl.jpg" alt=""></span><span class="textBox"><h4>'킬러들의 쇼핑몰', 이제는 공개할 수 있는... 웃음 만발 현장 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1707790095362oHhWl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
