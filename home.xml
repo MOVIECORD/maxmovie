@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 00:30:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 01:39:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,11 +42,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709625281066fxnQk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[송중기 '로기완', 비영어 영화 3위 진입 '높은 관심']]></title>
+            <link>https://www.maxmovie.com/news/436863</link>
+            <guid>https://www.maxmovie.com/news/436863</guid>
+            <pubDate>Wed, 06 Mar 2024 01:38:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436863"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709685546576vi9Tc.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/436863"><h4>송중기 '로기완', 비영어 영화 3위 진입 '높은 관심'</h4></a><span>32분 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709685546576vi9Tc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['이재욱과 열애' 에스파 카리나, 자필 편지 "놀라게 해드려 죄송해"]]></title>
             <link>https://www.maxmovie.com/news/436860</link>
             <guid>https://www.maxmovie.com/news/436860</guid>
             <pubDate>Wed, 06 Mar 2024 00:29:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436860"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709682251517GUPBD.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436860"><h4>'이재욱과 열애' 에스파 카리나, 자필 편지 "놀라게 해드려 죄송해"</h4></a><span>6분 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[SNS에 올린 자필 편지 통해 진심 드러내
+"팬들 상처받은 부분 잘 메워나가고 싶다"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709682251517GUPBD.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/436852</link>
             <guid>https://www.maxmovie.com/news/436852</guid>
             <pubDate>Tue, 05 Mar 2024 04:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 2월 결혼, 9월 이혼설 제기
-개인사 함구, 올해 새 음반 발표 준비]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436852"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709610964280FlkYA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436852"><h4>서인영, '이혼설' 딛고 새 소속사 만나 활동 재개 </h4></a><span>18시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709610964280FlkYA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제는 말할 수 있는, '파묘'의 '험한 것' 탄생의 비밀]]></title>
-            <link>https://www.maxmovie.com/news/436849</link>
-            <guid>https://www.maxmovie.com/news/436849</guid>
-            <pubDate>Wed, 06 Mar 2024 00:29:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436849"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709604228198kDMoo.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436849"><h4>이제는 말할 수 있는, '파묘'의 '험한 것' 탄생의 비밀 </h4></a><span>21시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709604228198kDMoo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
