@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 03:04:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 04:08:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,11 +46,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709774787809jM6by.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[3654일의 기록 '바람의 세월', 세월호 피해자 가족들의 '10년']]></title>
+            <link>https://www.maxmovie.com/news/436889</link>
+            <guid>https://www.maxmovie.com/news/436889</guid>
+            <pubDate>Thu, 07 Mar 2024 04:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436889"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709779695449VFvvZ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436889"><h4>3654일의 기록 '바람의 세월', 세월호 피해자 가족들의 '10년'</h4></a><span>58분 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709779695449VFvvZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장국영이 온다..'패왕별희 디 오리지널' 3월 재개봉]]></title>
             <link>https://www.maxmovie.com/news/436881</link>
             <guid>https://www.maxmovie.com/news/436881</guid>
             <pubDate>Thu, 07 Mar 2024 00:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436881"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709769786964E8CMA.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436881"><h4>장국영이 온다..'패왕별희 디 오리지널' 3월 재개봉</h4></a><span>2시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[1993년 칸 영화제 황금종려상 
+두 경극배우와 한 여자의 운명]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709769786964E8CMA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,17 +93,8 @@
             <link>https://www.maxmovie.com/news/436876</link>
             <guid>https://www.maxmovie.com/news/436876</guid>
             <pubDate>Thu, 07 Mar 2024 00:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[누적관객 46만명
-대작들 속 상위권 유지]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436876"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709709118174QhTKM.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436876"><h4>'귀멸의 칼날' 극장판, '파묘' '듄2' 사이서 롱런…50만 터치 언제? </h4></a><span>20시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709709118174QhTKM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이젠 'BTS 슈가' 차례...다시 쏟아지는 공연 실황 영화, 왜?]]></title>
-            <link>https://www.maxmovie.com/news/436872</link>
-            <guid>https://www.maxmovie.com/news/436872</guid>
-            <pubDate>Wed, 06 Mar 2024 08:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436872"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17097028235664EGVJ.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436872"><h4>이젠 'BTS 슈가' 차례...다시 쏟아지는 공연 실황 영화, 왜?</h4></a><span>20시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17097028235664EGVJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
