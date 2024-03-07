@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 11:05:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 12:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,7 +49,7 @@
             <link>https://www.maxmovie.com/news/436897</link>
             <guid>https://www.maxmovie.com/news/436897</guid>
             <pubDate>Thu, 07 Mar 2024 09:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436897"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709800178454eWj5z.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436897"><h4>류현경 김뢰하 차선우, 현실 스릴러 '주차금지' 출연</h4></a><span>2시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436897"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709800178454eWj5z.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436897"><h4>류현경 김뢰하 차선우, 현실 스릴러 '주차금지' 출연</h4></a><span>3시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709800178454eWj5z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -71,15 +71,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709779695449VFvvZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[왕이보의 사랑과 우정, '원 앤 온리' 3월 로맨스 훈풍 만들까]]></title>
-            <link>https://www.maxmovie.com/news/436888</link>
-            <guid>https://www.maxmovie.com/news/436888</guid>
-            <pubDate>Thu, 07 Mar 2024 11:05:15 GMT</pubDate>
-            <content:encoded><![CDATA[중국 차세대 스타, 가수 출신 배우
-3월13일 롯데시네마 단독 개봉]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17097795050296GufG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[장국영이 온다..'패왕별희 디 오리지널' 3월 재개봉]]></title>
             <link>https://www.maxmovie.com/news/436881</link>
             <guid>https://www.maxmovie.com/news/436881</guid>
@@ -93,8 +84,17 @@
             <link>https://www.maxmovie.com/news/436880</link>
             <guid>https://www.maxmovie.com/news/436880</guid>
             <pubDate>Thu, 07 Mar 2024 03:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436880"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709771375866767oY.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436880"><h4>오스카 겨냥 '패스트 라이브즈'·'가여운 것들', 흥행 순항 첫발</h4></a><span>11시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[10일 나란히 개봉해 3위·4위 기록
+아카데미상 수상시 효과 증폭 기대]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709771375866767oY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데일리 핫이슈] 장원영 "탈덕수용소와 합의 없어"·템페스트 화랑, 활동 중단·한소희, 류준열 뭉칠까]]></title>
+            <link>https://www.maxmovie.com/news/436877</link>
+            <guid>https://www.maxmovie.com/news/436877</guid>
+            <pubDate>Thu, 07 Mar 2024 12:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436877"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709724331668OM3nj.png);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436877"><h4>[데일리 핫이슈] 장원영 "탈덕수용소와 합의 없어"·템페스트 화랑, 활동 중단·한소희, 류준열 뭉칠까</h4></a><span>14시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709724331668OM3nj.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
