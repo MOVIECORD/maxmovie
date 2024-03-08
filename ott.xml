@@ -4,9 +4,18 @@
         <title>맥스무비 ─ OTT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 01:39:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 02:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[90년대 '엑스맨 97'이 온다, 27년 만에 돌아온 원조 '팀 엑스맨!]]></title>
+            <link>https://www.maxmovie.com/news/436902</link>
+            <guid>https://www.maxmovie.com/news/436902</guid>
+            <pubDate>Fri, 08 Mar 2024 02:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[3월20일 공개, 디즈니+ 시리즈 
+90년대 엑스맨 멤버들의 이야기]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17098618635753Zd2P.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 송중기, '주연배우의 무게'를 아는 진짜 배우]]></title>
             <link>https://www.maxmovie.com/news/436892</link>
@@ -39,8 +48,7 @@
             <link>https://www.maxmovie.com/news/436865</link>
             <guid>https://www.maxmovie.com/news/436865</guid>
             <pubDate>Wed, 06 Mar 2024 01:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[3월6일 3, 4회 공개
-이재욱 이준영의 갈등 예고]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436865"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709687530078VkvXt.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/436865"><h4>우정과 동맹 사이... '로얄로더' 속 이재욱·이준영의 순간들</h4></a><span>03월 06일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709687530078VkvXt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -48,7 +56,8 @@
             <link>https://www.maxmovie.com/news/436863</link>
             <guid>https://www.maxmovie.com/news/436863</guid>
             <pubDate>Wed, 06 Mar 2024 01:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436863"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709685546576vi9Tc.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/436863"><h4>송중기 '로기완', 비영어 영화 3위 진입 '높은 관심'</h4></a><span>03월 06일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[넷플릭스 글로벌 톱10 순위 공개
+소설 원작…탈북자 이야기]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709685546576vi9Tc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/436813</link>
             <guid>https://www.maxmovie.com/news/436813</guid>
             <pubDate>Sun, 03 Mar 2024 23:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[화제의 윤태오 말말말
-삼각 로맨스 펼쳐지며 관심 고조]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436813"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709426303541pDoiB.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey4"><a href="/news/436813"><h4>'아이 러브 유' 채종협, 여심 홀린 연하남의 직진 고백법은</h4></a><span>03월 03일<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709426303541pDoiB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어 게임' 리메이크? "하면 안 되는 몇 가지 이유"]]></title>
-            <link>https://www.maxmovie.com/news/436805</link>
-            <guid>https://www.maxmovie.com/news/436805</guid>
-            <pubDate>Thu, 29 Feb 2024 09:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436805"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709194487289oHF5M.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436805"><h4>'오징어 게임' 리메이크? "하면 안 되는 몇 가지 이유"</h4></a><span>02월 29일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709194487289oHF5M.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
