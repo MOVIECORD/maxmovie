@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 23:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Mar 2024 00:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,8 +48,17 @@
             <link>https://www.maxmovie.com/news/436921</link>
             <guid>https://www.maxmovie.com/news/436921</guid>
             <pubDate>Fri, 08 Mar 2024 23:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436921"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709894862005TyLWk.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436921"><h4>[위클리 이슈 모음zip] 김신영 '전국노래자랑' 직접 끝인사·유재선 "故이선균 덕분에"·홍록기 파산 외</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436921"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709894862005TyLWk.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436921"><h4>[위클리 이슈 모음zip] 김신영 '전국노래자랑' 직접 끝인사·유재선 "故이선균 덕분에"·홍록기 파산 외</h4></a><span>2시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709894862005TyLWk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['파묘'가 알고싶다, 장재현 감독이 던진 '미끼'와 '떡밥'들 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436919</link>
+            <guid>https://www.maxmovie.com/news/436919</guid>
+            <pubDate>Sat, 09 Mar 2024 00:28:35 GMT</pubDate>
+            <content:encoded><![CDATA[제작보고회부터 GV까지, 장재현 감독의 말말말
+'파묘' 시작부터 '험한 것' 탄생까지 모든 뒷얘기]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709886518893TEQYw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[D-2 오스카 관람 포인트] '기생충' 잇는 '패스트 라이브즈' 낭보 울릴까 (맥스무비)]]></title>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/436911</link>
             <guid>https://www.maxmovie.com/news/436911</guid>
             <pubDate>Fri, 08 Mar 2024 06:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 금토드라마 '원더풀 월드' 주목 
-박학기 자작곡으로 첫 번째 OST 공개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436911"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17098740596320JzmV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436911"><h4>김남주·차은우의 절절한 연대, 박학기 노래가 채운다 </h4></a><span>19시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17098740596320JzmV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지환, 4월  겹경사..결혼에 '범죄도시4' 개봉까지 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/436909</link>
-            <guid>https://www.maxmovie.com/news/436909</guid>
-            <pubDate>Fri, 08 Mar 2024 04:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436909"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709868686507OzrMU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436909"><h4>박지환, 4월  겹경사..결혼에 '범죄도시4' 개봉까지</h4></a><span>19시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709868686507OzrMU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 송중기, '주연배우의 무게'를 아는 진짜 배우 (맥스무비 ─ 인터뷰)]]></title>
@@ -275,9 +275,18 @@
             <title><![CDATA[[위클리 이슈 모음zip] 김신영 '전국노래자랑' 직접 끝인사·유재선 "故이선균 덕분에"·홍록기 파산 외 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436921</link>
             <guid>https://www.maxmovie.com/news/436921</guid>
-            <pubDate>Fri, 08 Mar 2024 23:07:20 GMT</pubDate>
+            <pubDate>Fri, 08 Mar 2024 23:07:00 GMT</pubDate>
             <content:encoded><![CDATA[일주일 동안 엔터테인먼트 전반에서 일어난 다양한 이슈를 소개합니다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709894862005TyLWk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['파묘'가 알고싶다, 장재현 감독이 던진 '미끼'와 '떡밥'들 (맥스무비 ─ 기획)]]></title>
+            <link>https://www.maxmovie.com/news/436919</link>
+            <guid>https://www.maxmovie.com/news/436919</guid>
+            <pubDate>Sat, 09 Mar 2024 00:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[제작보고회부터 GV까지, 장재현 감독의 말말말
+'파묘' 시작부터 '험한 것' 탄생까지 모든 뒷얘기]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709886518893TEQYw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['파묘' 베를린 이어 이번에는 홍콩 간다 (맥스무비 ─ 기획)]]></title>
@@ -292,7 +301,7 @@
             <title><![CDATA[[D-2 오스카 관람 포인트] '기생충' 잇는 '패스트 라이브즈' 낭보 울릴까 (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436917</link>
             <guid>https://www.maxmovie.com/news/436917</guid>
-            <pubDate>Fri, 08 Mar 2024 23:07:20 GMT</pubDate>
+            <pubDate>Fri, 08 Mar 2024 23:07:00 GMT</pubDate>
             <content:encoded><![CDATA[한국계 감독·배우 손잡은 한·미 합작
 '기생충' '미나리' 영광 이을지 주목]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709884336932SBs8P.jpg" length="0" type="image/jpg"/>
@@ -301,16 +310,18 @@
             <title><![CDATA[[오늘 뭘 볼까] 전사로 거듭난 공주의 이야기, 영화 '댐즐' (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436913</link>
             <guid>https://www.maxmovie.com/news/436913</guid>
-            <pubDate>Fri, 08 Mar 2024 23:07:20 GMT</pubDate>
-            <content:encoded><![CDATA['댐즐'의 한 장면. 사진제공=넷플릭스오늘, 볼만한 작품을 추천합니다.◆ '댐즐''댐즐'은 멋진 왕자와 결혼을 꿈꿨지만, 배신을 당해 동굴에 갇힌 엘로디 공주가 오로지 자신의 지혜와 의지로 위기를 헤쳐 나가는 이야기를 담은 넷플릭스 오리지널 영화다.&nbsp;엘로디는 백성들을 위해 왕자와 결혼하기로 하지만 왕실의 배신으로 무시무시한 불을 내뿜는 용에게 바치는 제물이]]></content:encoded>
+            <pubDate>Fri, 08 Mar 2024 23:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436913"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17098780651393vn7R.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436913"><h4>[오늘 뭘 볼까] 전사로 거듭난 공주의 이야기, 영화 '댐즐'</h4></a><span>2시간 전<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17098780651393vn7R.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[D-2 오스카 관람 포인트] 놀란 감독의 설욕  VS '광기의' 엠마 스톤 2관왕? (맥스무비 ─ 기획)]]></title>
             <link>https://www.maxmovie.com/news/436912</link>
             <guid>https://www.maxmovie.com/news/436912</guid>
-            <pubDate>Fri, 08 Mar 2024 23:07:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436912"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709875970637Oqo0J.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436912"><h4>[D-2 오스카 관람 포인트] 놀란 감독의 설욕  VS '광기의' 엠마 스톤 2관왕?   </h4></a><span>8분 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
+            <pubDate>Fri, 08 Mar 2024 23:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[미리 보는 제96회 아카데미 시상식 전격 분석 
+3월11일 LA 돌비 극장 개최, 전 세계의 시선 집중 
+최다 부문 후보 '오펜하이머' VS '가여운 것들' 격돌]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709875970637Oqo0J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -345,23 +356,14 @@
             <link>https://www.maxmovie.com/news/436906</link>
             <guid>https://www.maxmovie.com/news/436906</guid>
             <pubDate>Fri, 08 Mar 2024 03:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[흥행 10위권 안착..폭넓은 관객 흡입
-뒤이은 '태양은 없다' 관객 관심 상승]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436906"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709866678434KaOEr.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436906"><h4>'서울의 봄' 정우성+김성수 감독 '비트',  극장가 훈풍</h4></a><span>21시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709866678434KaOEr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['귀멸의 칼날' 새 극장판, 美 흥행으로 日 부진 만회할까 (맥스무비 ─ 기획)]]></title>
-            <link>https://www.maxmovie.com/news/436905</link>
-            <guid>https://www.maxmovie.com/news/436905</guid>
-            <pubDate>Fri, 08 Mar 2024 04:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436905"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709864127610Zgl7e.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436905"><h4>'귀멸의 칼날' 새 극장판, 美 흥행으로 日 부진 만회할까</h4></a><span>19시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709864127610Zgl7e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 전사로 거듭난 공주의 이야기, 영화 '댐즐' (맥스무비 ─ OTT)]]></title>
             <link>https://www.maxmovie.com/news/436913</link>
             <guid>https://www.maxmovie.com/news/436913</guid>
-            <pubDate>Fri, 08 Mar 2024 23:07:26 GMT</pubDate>
+            <pubDate>Fri, 08 Mar 2024 23:07:00 GMT</pubDate>
             <content:encoded><![CDATA['댐즐'의 한 장면. 사진제공=넷플릭스오늘, 볼만한 작품을 추천합니다.◆ '댐즐''댐즐'은 멋진 왕자와 결혼을 꿈꿨지만, 배신을 당해 동굴에 갇힌 엘로디 공주가 오로지 자신의 지혜와 의지로 위기를 헤쳐 나가는 이야기를 담은 넷플릭스 오리지널 영화다.&nbsp;엘로디는 백성들을 위해 왕자와 결혼하기로 하지만 왕실의 배신으로 무시무시한 불을 내뿜는 용에게 바치는 제물이]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17098780651393vn7R.jpg" length="0" type="image/jpg"/>
         </item>

@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 23:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Mar 2024 00:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,8 +48,17 @@
             <link>https://www.maxmovie.com/news/436921</link>
             <guid>https://www.maxmovie.com/news/436921</guid>
             <pubDate>Fri, 08 Mar 2024 23:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436921"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709894862005TyLWk.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436921"><h4>[위클리 이슈 모음zip] 김신영 '전국노래자랑' 직접 끝인사·유재선 "故이선균 덕분에"·홍록기 파산 외</h4></a><span>1시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436921"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709894862005TyLWk.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436921"><h4>[위클리 이슈 모음zip] 김신영 '전국노래자랑' 직접 끝인사·유재선 "故이선균 덕분에"·홍록기 파산 외</h4></a><span>2시간 전<!-- --> · <a href="/writer/137">박미애 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709894862005TyLWk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['파묘'가 알고싶다, 장재현 감독이 던진 '미끼'와 '떡밥'들]]></title>
+            <link>https://www.maxmovie.com/news/436919</link>
+            <guid>https://www.maxmovie.com/news/436919</guid>
+            <pubDate>Sat, 09 Mar 2024 00:28:35 GMT</pubDate>
+            <content:encoded><![CDATA[제작보고회부터 GV까지, 장재현 감독의 말말말
+'파묘' 시작부터 '험한 것' 탄생까지 모든 뒷얘기]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709886518893TEQYw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[D-2 오스카 관람 포인트] '기생충' 잇는 '패스트 라이브즈' 낭보 울릴까]]></title>
@@ -83,17 +92,8 @@
             <link>https://www.maxmovie.com/news/436911</link>
             <guid>https://www.maxmovie.com/news/436911</guid>
             <pubDate>Fri, 08 Mar 2024 06:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 금토드라마 '원더풀 월드' 주목 
-박학기 자작곡으로 첫 번째 OST 공개]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436911"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17098740596320JzmV.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436911"><h4>김남주·차은우의 절절한 연대, 박학기 노래가 채운다 </h4></a><span>19시간 전<!-- --> · <a href="/writer/136">이해리 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17098740596320JzmV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지환, 4월  겹경사..결혼에 '범죄도시4' 개봉까지]]></title>
-            <link>https://www.maxmovie.com/news/436909</link>
-            <guid>https://www.maxmovie.com/news/436909</guid>
-            <pubDate>Fri, 08 Mar 2024 04:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436909"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709868686507OzrMU.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436909"><h4>박지환, 4월  겹경사..결혼에 '범죄도시4' 개봉까지</h4></a><span>19시간 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709868686507OzrMU.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
