@@ -4,7 +4,7 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Mar 2024 04:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Mar 2024 06:08:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,11 +44,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709875970637Oqo0J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["한국영화, 성별 불균형 퇴행 심화"..K팝은 훨훨 나는데]]></title>
+            <link>https://www.maxmovie.com/news/436926</link>
+            <guid>https://www.maxmovie.com/news/436926</guid>
+            <pubDate>Sun, 10 Mar 2024 06:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436926"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1710049619848qQjvo.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436926"><h4>"한국영화, 성별 불균형 퇴행 심화"..K팝은 훨훨 나는데</h4></a><span>30분 전<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710049619848qQjvo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[차은우, 말레이시아에서도 후끈 열기]]></title>
             <link>https://www.maxmovie.com/news/436923</link>
             <guid>https://www.maxmovie.com/news/436923</guid>
             <pubDate>Sun, 10 Mar 2024 03:06:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436923"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1710037841686DRZi2.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436923"><h4>차은우, 말레이시아에서도 후끈 열기</h4></a><span>1시간 전<!-- --> · <a href="/writer/142">조현주 기자</a></span></span>]]></content:encoded>
+            <content:encoded><![CDATA[최근 팬미팅 무대 개최, 현지 관심
+드라마 '원더풀 월드'로 새삼 인기]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710037841686DRZi2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -81,17 +90,8 @@
             <link>https://www.maxmovie.com/news/436916</link>
             <guid>https://www.maxmovie.com/news/436916</guid>
             <pubDate>Fri, 08 Mar 2024 08:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[각각 영화 및 TV 리미티드 시리즈 부문
-한국계 감독과 배우들 활약 무대 호평]]></content:encoded>
+            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436916"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/1709887915894WPael.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft uncategorized"><a href="/news/436916"><h4>'패스트 라이브즈'·'성난 사람들', 미 캐스팅협회상 수상</h4></a><span>03월 08일<!-- --> · <a href="/writer/134">윤여수 기자</a></span></span>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709887915894WPael.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 전사로 거듭난 공주의 이야기, 영화 '댐즐']]></title>
-            <link>https://www.maxmovie.com/news/436913</link>
-            <guid>https://www.maxmovie.com/news/436913</guid>
-            <pubDate>Fri, 08 Mar 2024 23:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="imgBox  floatLeft"><a href="/news/436913"><span class="imgBox" style="background-image:url(https://d3ihz389yobwks.cloudfront.net/17098780651393vn7R.jpg);background-size:cover"></span></a></span><span class="textBox floatLeft stickerKey1"><a href="/news/436913"><h4>[오늘 뭘 볼까] 전사로 거듭난 공주의 이야기, 영화 '댐즐'</h4></a><span>03월 08일<!-- --> · <a href="/writer/124">김희주 기자</a></span></span>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17098780651393vn7R.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
