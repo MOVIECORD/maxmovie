@@ -1,8 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.maxmovie.com/ott</id>
-    <title>맥스무비 ─ OTT</title>
-    <updated>2024-03-11T11:05:07.549Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.maxmovie.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>맥스무비 ─ OTT</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 11 Mar 2024 12:11:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[0]]></title>
+            <link>https://www.maxmovie.com/ott</link>
+            <guid>https://www.maxmovie.com/ott</guid>
+            <pubDate>Mon, 11 Mar 2024 12:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1]]></title>
+            <link>https://www.maxmovie.com/ott</link>
+            <guid>https://www.maxmovie.com/ott</guid>
+            <pubDate>Mon, 11 Mar 2024 12:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2]]></title>
+            <link>https://www.maxmovie.com/ott</link>
+            <guid>https://www.maxmovie.com/ott</guid>
+            <pubDate>Mon, 11 Mar 2024 12:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[3]]></title>
+            <link>https://www.maxmovie.com/ott</link>
+            <guid>https://www.maxmovie.com/ott</guid>
+            <pubDate>Mon, 11 Mar 2024 12:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4]]></title>
+            <link>https://www.maxmovie.com/ott</link>
+            <guid>https://www.maxmovie.com/ott</guid>
+            <pubDate>Mon, 11 Mar 2024 12:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5]]></title>
+            <link>https://www.maxmovie.com/ott</link>
+            <guid>https://www.maxmovie.com/ott</guid>
+            <pubDate>Mon, 11 Mar 2024 12:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6]]></title>
+            <link>https://www.maxmovie.com/ott</link>
+            <guid>https://www.maxmovie.com/ott</guid>
+            <pubDate>Mon, 11 Mar 2024 12:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7]]></title>
+            <link>https://www.maxmovie.com/ott</link>
+            <guid>https://www.maxmovie.com/ott</guid>
+            <pubDate>Mon, 11 Mar 2024 12:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[8]]></title>
+            <link>https://www.maxmovie.com/ott</link>
+            <guid>https://www.maxmovie.com/ott</guid>
+            <pubDate>Mon, 11 Mar 2024 12:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 송중기, '주연배우의 무게'를 아는 진짜 배우]]></title>
+            <link>https://www.maxmovie.com/news/436892</link>
+            <guid>https://www.maxmovie.com/news/436892</guid>
+            <pubDate>Mon, 11 Mar 2024 12:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '로기완' 통해 다시 한번 진가 발휘
+탈북 청년의 고단한 삶, 그 안에서 찾는 희망]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709795337084P7H2y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김선호, 이런 모습 처음이야...박훈정 감독과 재회 '폭군']]></title>
+            <link>https://www.maxmovie.com/news/436890</link>
+            <guid>https://www.maxmovie.com/news/436890</guid>
+            <pubDate>Mon, 11 Mar 2024 12:11:46 GMT</pubDate>
+            <content:encoded><![CDATA['귀공자' 잇는 김선호의 색다른 변신 
+당초 영화로 제작, 4부작 시리즈 선회]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709782717862YuN1E.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김선호, '폭군'으로 박훈정 감독과 한번 더…'귀공자' 만회할까]]></title>
+            <link>https://www.maxmovie.com/news/436866</link>
+            <guid>https://www.maxmovie.com/news/436866</guid>
+            <pubDate>Mon, 11 Mar 2024 12:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[올 하반기 디즈니+ 공개
+김선호 차승원 김강우 그리고 조윤수]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709687710891hnCUE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우정과 동맹 사이... '로얄로더' 속 이재욱·이준영의 순간들]]></title>
+            <link>https://www.maxmovie.com/news/436865</link>
+            <guid>https://www.maxmovie.com/news/436865</guid>
+            <pubDate>Mon, 11 Mar 2024 12:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[3월6일 3, 4회 공개
+이재욱 이준영의 갈등 예고]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709687530078VkvXt.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
