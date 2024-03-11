@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 01:40:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 03:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주지훈의 새 얼굴, '지배종'은 어떤 작품?]]></title>
+            <link>https://www.maxmovie.com/news/436939</link>
+            <guid>https://www.maxmovie.com/news/436939</guid>
+            <pubDate>Mon, 11 Mar 2024 03:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436939"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710121636202odgWF.jpg" alt=""></span><span class="textBox"><h4>주지훈의 새 얼굴, '지배종'은 어떤 작품? </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710121636202odgWF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[처음 공개하는 '파묘' 비하인드 장면들... 800만 넘어 어디까지?]]></title>
             <link>https://www.maxmovie.com/news/436936</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 16 Feb 2024 07:06:12 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436589"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1708052963610w1o3P.jpg" alt=""></span><span class="textBox"><h4>'살인자ㅇ난감' 빛낸 사람들... 노빈, 여옥, 유정 그리고 강상묵 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708052963610w1o3P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티모시 샬라메의 세상 '듄:파트2'의 사막, 어떻게 완성됐나]]></title>
-            <link>https://www.maxmovie.com/news/436585</link>
-            <guid>https://www.maxmovie.com/news/436585</guid>
-            <pubDate>Fri, 16 Feb 2024 03:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436585"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1708047342733acKuw.jpg" alt=""></span><span class="textBox"><h4>티모시 샬라메의 세상 '듄:파트2'의 사막, 어떻게 완성됐나 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708047342733acKuw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
