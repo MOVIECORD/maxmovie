@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 05:07:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 06:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권유리부터 심희섭까지.. '돌핀'이 그리는 '평범하지만 특별한 사람들' 이야기]]></title>
+            <link>https://www.maxmovie.com/news/436942</link>
+            <guid>https://www.maxmovie.com/news/436942</guid>
+            <pubDate>Mon, 11 Mar 2024 06:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436942"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710122749498CCpwl.jpg" alt=""></span><span class="textBox"><h4>권유리부터 심희섭까지.. '돌핀'이 그리는 '평범하지만 특별한 사람들' 이야기 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710122749498CCpwl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주지훈의 새 얼굴, '지배종'은 어떤 작품?]]></title>
             <link>https://www.maxmovie.com/news/436939</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 20 Feb 2024 03:08:26 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436630"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1708393231168OxQY3.jpg" alt=""></span><span class="textBox"><h4>류승룡과 안재홍이 만든 '닭강정' 무슨 맛일까</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708393231168OxQY3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['살인자ㅇ난감' 빛낸 사람들... 노빈, 여옥, 유정 그리고 강상묵]]></title>
-            <link>https://www.maxmovie.com/news/436589</link>
-            <guid>https://www.maxmovie.com/news/436589</guid>
-            <pubDate>Fri, 16 Feb 2024 07:06:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436589"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1708052963610w1o3P.jpg" alt=""></span><span class="textBox"><h4>'살인자ㅇ난감' 빛낸 사람들... 노빈, 여옥, 유정 그리고 강상묵 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1708052963610w1o3P.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
