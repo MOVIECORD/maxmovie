@@ -4,80 +4,71 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 14:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 15:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[0]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 11 Mar 2024 14:04:53 GMT</pubDate>
+            <pubDate>Mon, 11 Mar 2024 15:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 11 Mar 2024 14:04:53 GMT</pubDate>
+            <pubDate>Mon, 11 Mar 2024 15:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 11 Mar 2024 14:04:53 GMT</pubDate>
+            <pubDate>Mon, 11 Mar 2024 15:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 11 Mar 2024 14:04:53 GMT</pubDate>
+            <pubDate>Mon, 11 Mar 2024 15:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 11 Mar 2024 14:04:53 GMT</pubDate>
+            <pubDate>Mon, 11 Mar 2024 15:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 11 Mar 2024 14:04:53 GMT</pubDate>
+            <pubDate>Mon, 11 Mar 2024 15:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 11 Mar 2024 14:04:53 GMT</pubDate>
+            <pubDate>Mon, 11 Mar 2024 15:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 11 Mar 2024 14:04:53 GMT</pubDate>
+            <pubDate>Mon, 11 Mar 2024 15:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 11 Mar 2024 14:04:53 GMT</pubDate>
+            <pubDate>Mon, 11 Mar 2024 15:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[아카데미] '패스트 라이브즈', 수상 못 했지만 오스카 진출 유의미한 성과]]></title>
-            <link>https://www.maxmovie.com/news/436945</link>
-            <guid>https://www.maxmovie.com/news/436945</guid>
-            <pubDate>Mon, 11 Mar 2024 06:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[작품상·각본상 2개 올라
-국내서 5만 관객 돌파하며 순항]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710128327183RdI2o.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['싱어게인3' 톱10 주역들, 1만 관객을 사로잡았다]]></title>
@@ -89,13 +80,23 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710134297698yZtT9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["마동석과 함께하면 뭐라도 터진다"...돌아온 '범죄도시4' 차별점은?]]></title>
-            <link>https://www.maxmovie.com/news/436954</link>
-            <guid>https://www.maxmovie.com/news/436954</guid>
-            <pubDate>Mon, 11 Mar 2024 08:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[마동석 "이전과 다르게 묵직한 액션" 예고
-'4세대 빌런' 김무열, 10kg 늘려 역할 몰입]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710139581280qXm3I.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[주지훈의 새 얼굴, '지배종'은 어떤 작품?]]></title>
+            <link>https://www.maxmovie.com/news/436939</link>
+            <guid>https://www.maxmovie.com/news/436939</guid>
+            <pubDate>Mon, 11 Mar 2024 15:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[4월10일 공개, 디즈니+ 스릴러 장르 
+'비밀의 숲' 이수연 작가와 주지훈의 만남]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710121636202odgWF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티빙, 프로야구 중계 오류 속 스포츠 콘텐츠를 확보하라!]]></title>
+            <link>https://www.maxmovie.com/news/436944</link>
+            <guid>https://www.maxmovie.com/news/436944</guid>
+            <pubDate>Mon, 11 Mar 2024 15:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[티빙, 3년간 프로야구 독점 중계권 확보
+1350억원 비용..안정적 수익 확보 기대
+쿠팡플레이 등 OTT 관련 경쟁도 더 치열]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710124403469Hqbmv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[아카데미] 추모영상으로 '기생충' 이선균 기억]]></title>
@@ -105,6 +106,15 @@
             <content:encoded><![CDATA[96회 아카데미 시상식
 지난해 세상 떠난 영화인 추모]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710127313016SnmsO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아카데미] '패스트 라이브즈', 수상 못 했지만 오스카 진출 유의미한 성과]]></title>
+            <link>https://www.maxmovie.com/news/436945</link>
+            <guid>https://www.maxmovie.com/news/436945</guid>
+            <pubDate>Mon, 11 Mar 2024 06:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[작품상·각본상 2개 올라
+국내서 5만 관객 돌파하며 순항]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710128327183RdI2o.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[아카데미] "오스카 트로피, 러시아·우크라이나 전쟁과 바꿀 수 있다면"]]></title>
@@ -134,13 +144,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710119569042dX4S6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[아카데미] 日 거장 미야자키 하야오, 세계 애니메이션 역사 새로 쓰다]]></title>
-            <link>https://www.maxmovie.com/news/436935</link>
-            <guid>https://www.maxmovie.com/news/436935</guid>
-            <pubDate>Mon, 11 Mar 2024 14:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[비영어권 작품으로 장편 애니메이션상 2번째 수상 
-2003년 '센과 치히로의 행방불명' 이후 수상 영광]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710117378783fnZmn.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[아카데미] 로버트 다우니 주니어, 데뷔 첫 오스카 트로피 품에...남우조연상 수상]]></title>
+            <link>https://www.maxmovie.com/news/436934</link>
+            <guid>https://www.maxmovie.com/news/436934</guid>
+            <pubDate>Mon, 11 Mar 2024 15:08:11 GMT</pubDate>
+            <content:encoded><![CDATA['오펜하이머'로 첫 수상 "혹독했던 유년기에 감사하다" 소감
+여우조연상 '바튼 아카데미' 더바인 조이 랜돌프 수상]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710118150268og7oZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티모시 샬라메 '듄: 파트2' 전 세계 최고 흥행작 등극]]></title>
@@ -170,13 +180,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710114813536jWb3a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[아카데미] 미야자키 하야오, '그대들은 어떻게 살 것인가'로 두 번째 오스카 트로피 품에]]></title>
-            <link>https://www.maxmovie.com/news/436930</link>
-            <guid>https://www.maxmovie.com/news/436930</guid>
-            <pubDate>Mon, 11 Mar 2024 10:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[96회 아카데미 시상식
-장편 애니메이션 수상]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710114275144MAuSu.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['서울의 봄' 박훈, 아시아필름어워즈 남우조연상..영화는 2관왕(종합)]]></title>
+            <link>https://www.maxmovie.com/news/436929</link>
+            <guid>https://www.maxmovie.com/news/436929</guid>
+            <pubDate>Mon, 11 Mar 2024 15:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[2007년 연기 시작 첫 영광
+전두광 비서실장 역 열연
+'서울의 봄' 편집상도 수상]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17100798101260gAl5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['파묘'와 '밤양갱'은  대중의 '놀이'가 됐다]]></title>
@@ -216,15 +227,6 @@ K팝 한국 여성 아티스트 활약 대조]]></content:encoded>
             <content:encoded><![CDATA[9일 인천 서구편 마지막 진행 
 "전국 누비며 많은 것 배웠다"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710041679723FzMm4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[봉준호 감독이 "일본 애니 준비 중이라고?"]]></title>
-            <link>https://www.maxmovie.com/news/436924</link>
-            <guid>https://www.maxmovie.com/news/436924</guid>
-            <pubDate>Mon, 11 Mar 2024 12:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[최근 일 애니메이션 시상식 언급 '오해'
-이미 알려진 심해 애니메이션 준비 중]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710049864033aj2JE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
