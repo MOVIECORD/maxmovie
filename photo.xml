@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 01:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 02:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오스카 차지한 엠마 스톤의 황홀한 순간들...영화 '가여운 것들']]></title>
+            <link>https://www.maxmovie.com/news/436960</link>
+            <guid>https://www.maxmovie.com/news/436960</guid>
+            <pubDate>Tue, 12 Mar 2024 02:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436960"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710207141058hOUfV.jpg" alt=""></span><span class="textBox"><h4>오스카 차지한 엠마 스톤의 황홀한 순간들...영화 '가여운 것들' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710207141058hOUfV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권유리부터 심희섭까지.. '돌핀'이 그리는 '평범하지만 특별한 사람들' 이야기]]></title>
             <link>https://www.maxmovie.com/news/436942</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 11 Mar 2024 10:08:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436139"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704941571471x154R.jpg" alt=""></span><span class="textBox"><h4>기댈 곳 없는 고등학생의 깊은 성장통 '검은 소년' 미리 엿보기</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704941571471x154R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작년 이어 올해도 흥행 중인 '서울의 봄' 미공개 사진]]></title>
-            <link>https://www.maxmovie.com/news/436138</link>
-            <guid>https://www.maxmovie.com/news/436138</guid>
-            <pubDate>Mon, 11 Mar 2024 10:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436138"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1704939809059CwoS5.jpg" alt=""></span><span class="textBox"><h4>작년 이어 올해도 흥행 중인 '서울의 봄' 미공개 사진</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1704939809059CwoS5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
