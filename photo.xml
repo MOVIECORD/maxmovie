@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 00:30:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 01:42:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,22 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709601662498Jz7Hi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이제 극장에서 이승윤을 만날 시간, 생생한 콘서트 현장]]></title>
+            <link>https://www.maxmovie.com/news/436826</link>
+            <guid>https://www.maxmovie.com/news/436826</guid>
+            <pubDate>Wed, 13 Mar 2024 01:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436826"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1709514463064ZIeZA.jpg" alt=""></span><span class="textBox"><h4>이제 극장에서 이승윤을 만날 시간, 생생한 콘서트 현장 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709514463064ZIeZA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['마약 왕'으로 돌아온 유덕화, '잠행'은 어떤 영화?]]></title>
+            <link>https://www.maxmovie.com/news/436824</link>
+            <guid>https://www.maxmovie.com/news/436824</guid>
+            <pubDate>Wed, 13 Mar 2024 01:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436824"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1709512819055jqOEM.jpg" alt=""></span><span class="textBox"><h4>'마약 왕'으로 돌아온 유덕화, '잠행'은 어떤 영화?</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709512819055jqOEM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['웡카'의 화려한 캐릭터 열전, 티모시 샬라메부터 휴 그랜트까지]]></title>
             <link>https://www.maxmovie.com/news/436272</link>
             <guid>https://www.maxmovie.com/news/436272</guid>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 12 Mar 2024 18:09:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436185"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705302984325HLGbS.jpg" alt=""></span><span class="textBox"><h4>티모시 샬라메가 온다... '웡카'와 함께</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705302984325HLGbS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마동석의 '황야' 액션, 미리 엿보기]]></title>
-            <link>https://www.maxmovie.com/news/436184</link>
-            <guid>https://www.maxmovie.com/news/436184</guid>
-            <pubDate>Tue, 12 Mar 2024 18:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436184"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705300536939s7HFo.jpg" alt=""></span><span class="textBox"><h4>마동석의 '황야' 액션, 미리 엿보기 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705300536939s7HFo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['SNL' 정이랑 영화 주연까지...사라진 로또 찾아 질주 '아네모네']]></title>
-            <link>https://www.maxmovie.com/news/436159</link>
-            <guid>https://www.maxmovie.com/news/436159</guid>
-            <pubDate>Tue, 12 Mar 2024 18:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436159"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705044097947b8SFa.jpg" alt=""></span><span class="textBox"><h4>'SNL' 정이랑 영화 주연까지...사라진 로또 찾아 질주 '아네모네'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705044097947b8SFa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
