@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 01:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 03:10:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마동석의 '핵주먹' 온다, '범죄도시4' 마석도 형사 미리 엿보기]]></title>
+            <link>https://www.maxmovie.com/news/436980</link>
+            <guid>https://www.maxmovie.com/news/436980</guid>
+            <pubDate>Wed, 13 Mar 2024 03:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/436980"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710293127431Hyvby.jpg" alt=""></span><span class="textBox"><h4>마동석의 '핵주먹' 온다, '범죄도시4' 마석도 형사 미리 엿보기</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710293127431Hyvby.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['퀸의 만남' 앤 해서웨이·제시카 차스테인의 '마더스', 어떤 이야기?]]></title>
             <link>https://www.maxmovie.com/news/436964</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Mar 2024 18:09:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436186"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705304799652C1jWh.jpg" alt=""></span><span class="textBox"><h4>'클럽 제로' 엘리트 학교에서 벌어진 충격적 식사법의 실체 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705304799652C1jWh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티모시 샬라메가 온다... '웡카'와 함께]]></title>
-            <link>https://www.maxmovie.com/news/436185</link>
-            <guid>https://www.maxmovie.com/news/436185</guid>
-            <pubDate>Tue, 12 Mar 2024 18:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436185"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705302984325HLGbS.jpg" alt=""></span><span class="textBox"><h4>티모시 샬라메가 온다... '웡카'와 함께</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705302984325HLGbS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
