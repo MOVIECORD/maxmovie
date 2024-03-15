@@ -4,70 +4,284 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 21:04:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 23:05:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[undefined (맥스무비)]]></title>
+            <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
+            <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (맥스무비)]]></title>
+            <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
+            <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (맥스무비)]]></title>
+            <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
+            <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (맥스무비)]]></title>
+            <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
+            <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (맥스무비)]]></title>
+            <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
+            <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (맥스무비)]]></title>
+            <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
+            <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (맥스무비)]]></title>
+            <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
+            <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (맥스무비)]]></title>
+            <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
+            <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (맥스무비)]]></title>
+            <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
+            <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[류준열·한소희 열애설에 혜리 등판..."재밌네" 의미심장 글귀 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/437024</link>
+            <guid>https://www.maxmovie.com/news/437024</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[류준열과 혜리, 7년간 교제하다 작년 11월 결별
+한소희와 열애설 알려지자, 류준열 SNS 언팔']]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710480027032WSsJm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[위클리 이슈 모음zip] 유연석 금발 파격 변신·신혜성 징역 2년 구형·류준열 한소희 열애설 일단락 외 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/437036</link>
+            <guid>https://www.maxmovie.com/news/437036</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[일주일 동안 엔터테인먼트 전반에서 일어난 다양한 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710501956135bz0qm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 히어로들 왜 이러나... '마담 웹' 초라한 성적표 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/437027</link>
+            <guid>https://www.maxmovie.com/news/437027</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 영웅 내세운 히어로 시리즈, 관객들 외면
+'허술한 스토리' '엉성한 시각효과' 등 날선 지적들]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710482880520mRfcv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 넷플릭스 전 세계 차트 석권, 영화 '댐즐' 어떤 작품? (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/437025</link>
+            <guid>https://www.maxmovie.com/news/437025</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA["내 운명은 내가 개척" 전사로 거듭난 공주 
+밀리 바비 브라운 주연, 여성 주체의 서사로 주목]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17104808079189mRCe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['오멘' 프리퀄로 돌아온다…'파묘' 오컬트 열풍 잇나 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/437011</link>
+            <guid>https://www.maxmovie.com/news/437011</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA['오멘: 저주의 시작' 4월3일 개봉
+'엑소시스트'와 함께 오컬트 명작]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17104005881625qluH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임윤찬 생일 맞아 '크레센도' 특별 상영회 연다 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/437010</link>
+            <guid>https://www.maxmovie.com/news/437010</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[추가 상영 요청에 20일 행사
+12월 개봉 이후 6만여 흥행]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710399776339kFnS8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팬덤의 힘! '기동전사 건담 SEED FREEDOM' 개봉일 결정 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/437008</link>
+            <guid>https://www.maxmovie.com/news/437008</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA['건담' 시리즈의 서포터즈 '씨앗주주' 눈길
+주주총회  열고 배급 일정 등 마케팅 참여]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710397649067XdQmV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대표 음악감독 조성우, 세계적 오케스트리아와 협연 앨범 낸다 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/437002</link>
+            <guid>https://www.maxmovie.com/news/437002</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[첫 영화음악 교향악 연주 음반 발표
+'약속' '봄날은 간다' 등 대표적 선율]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710383638514ekV02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['귀멸의 칼날' 4기 마침내 공개일 확정, 극장판 흥행 탄력 기대 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436997</link>
+            <guid>https://www.maxmovie.com/news/436997</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA['합동 강화 훈련' 오는 5월 방송 확정
+국내 극장판  13일까지 48만명 동원]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710378686049SDiPa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임영웅과 아이유의 '주제 파악' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436996</link>
+            <guid>https://www.maxmovie.com/news/436996</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[상암 서울월드컵경기장 단독 콘서트 개최
+임영웅 5월 이어 아이유도 9월 무대 예고&nbsp;]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710377449128SDrAJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데일리 핫이슈] 이영애‧판빙빙의 만남, 임영웅 CF 영상까지 화제, 이효리 반려견과 추억 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436995</link>
+            <guid>https://www.maxmovie.com/news/436995</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다.]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/171037556946752Rb3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라미란의 보이스피싱 추적기 '시민덕희', 이제 안방에서 본다 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436994</link>
+            <guid>https://www.maxmovie.com/news/436994</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA['시민덕희' 14일부터 IPTV 및 VOD 서버스
+평범한 주부의 보이스피싱 조직 추적극]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710374213458ZhrSE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한효주·오구리 슌, 이세영·사카구치 켄타로...대세는 한일 멜로? (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436990</link>
+            <guid>https://www.maxmovie.com/news/436990</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[한일 대표 스타들의 로맨스 연기 이어져 눈길
+채종협도 일본 여배우와 로맨스 호흡으로 인기]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710316334577sRcLJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['닭강정' 류승룡 "자웅동체"·안재홍 "랠리"처럼 연기 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436989</link>
+            <guid>https://www.maxmovie.com/news/436989</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[코믹 연기의 달인 류승룡·안재홍 만남
+1000만 '극한직업' 이병헌 감독 신작]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710316383888glxZ4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 시대의 아이콘 밥 말리 이야기, 영화 '밥 말리:원 러브' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436988</link>
+            <guid>https://www.maxmovie.com/news/436988</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA['레게의 아버지'  밥 말리, 사랑의 메시지
+브래드 피트 제작, 킹슬리 벤-어디어 주연]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710309842360do0Yr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[계급 깨부수는 성수지,  '피라미드 게임' 김지연이 주목받는 이유 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436985</link>
+            <guid>https://www.maxmovie.com/news/436985</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[10대들의 섬뜩한 서열 게임 스토리 주목
+신인들의 앙상블 이끄는 김지연의 존재감]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17102986807744hMGS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손석구·장도연 '핑크빛 기류', 팬들 반응 뜨거운 이유 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/436984</link>
+            <guid>https://www.maxmovie.com/news/436984</guid>
+            <pubDate>Fri, 15 Mar 2024 23:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[손석구, '이상형'으로 지목한 장도연과 방송 출연 
+공개 하루도 되지 않아 조회수 200만뷰 돌파 화제]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710297749195apJxP.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 15 Mar 2024 21:03:58 GMT</pubDate>
+            <pubDate>Fri, 15 Mar 2024 23:05:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 15 Mar 2024 21:03:58 GMT</pubDate>
+            <pubDate>Fri, 15 Mar 2024 23:05:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 15 Mar 2024 21:03:58 GMT</pubDate>
+            <pubDate>Fri, 15 Mar 2024 23:05:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 15 Mar 2024 21:03:58 GMT</pubDate>
+            <pubDate>Fri, 15 Mar 2024 23:05:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 15 Mar 2024 21:03:58 GMT</pubDate>
+            <pubDate>Fri, 15 Mar 2024 23:05:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 15 Mar 2024 21:03:58 GMT</pubDate>
+            <pubDate>Fri, 15 Mar 2024 23:05:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 15 Mar 2024 21:03:58 GMT</pubDate>
+            <pubDate>Fri, 15 Mar 2024 23:05:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 15 Mar 2024 21:03:58 GMT</pubDate>
+            <pubDate>Fri, 15 Mar 2024 23:05:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 15 Mar 2024 21:03:58 GMT</pubDate>
+            <pubDate>Fri, 15 Mar 2024 23:05:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
