@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 00:30:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 02:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['서울의 봄'으로부터 5개월 후... 영화 '1980'이 담은 그날의 비극]]></title>
+            <link>https://www.maxmovie.com/news/437017</link>
+            <guid>https://www.maxmovie.com/news/437017</guid>
+            <pubDate>Fri, 15 Mar 2024 02:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437017"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17104654049292UBXk.jpg" alt=""></span><span class="textBox"><h4>'서울의 봄'으로부터 5개월 후... 영화 '1980'이 담은 그날의 비극 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17104654049292UBXk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안노 히데아키의 신작 '신 가면라이더' 어떤 작품?]]></title>
             <link>https://www.maxmovie.com/news/436999</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Mar 2024 18:09:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436239"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705629931519GlsNR.jpg" alt=""></span><span class="textBox"><h4>영화 '아가일' 배우들, 내한 레드카펫 현장...'K하트' 화답 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705629931519GlsNR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설 명절에 찾아오는 조진웅·김희애, 영화 '데드맨' 엿보기]]></title>
-            <link>https://www.maxmovie.com/news/436225</link>
-            <guid>https://www.maxmovie.com/news/436225</guid>
-            <pubDate>Tue, 12 Mar 2024 18:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436225"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705542343399LLvrc.jpg" alt=""></span><span class="textBox"><h4>설 명절에 찾아오는 조진웅·김희애, 영화 '데드맨' 엿보기 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705542343399LLvrc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
