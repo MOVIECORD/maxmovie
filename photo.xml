@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 04:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 05:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국에 라미란 있다면, 미국엔 제이슨 스타뎀 있다]]></title>
+            <link>https://www.maxmovie.com/news/437055</link>
+            <guid>https://www.maxmovie.com/news/437055</guid>
+            <pubDate>Mon, 18 Mar 2024 05:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437055"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710728144293GMfpg.jpg" alt=""></span><span class="textBox"><h4>한국에 라미란 있다면, 미국엔 제이슨 스타뎀 있다 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710728144293GMfpg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연상호 감독이 다시 만든 '기생수:더 그레이', 무엇이 다를까]]></title>
             <link>https://www.maxmovie.com/news/437053</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Mar 2024 11:09:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436776"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1709108036758tuepZ.jpg" alt=""></span><span class="textBox"><h4>온라인 여론 조작, 실화...? 영화 '댓글부대'가 다룬 현실 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709108036758tuepZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['웡카'의 화려한 캐릭터 열전, 티모시 샬라메부터 휴 그랜트까지]]></title>
-            <link>https://www.maxmovie.com/news/436272</link>
-            <guid>https://www.maxmovie.com/news/436272</guid>
-            <pubDate>Tue, 12 Mar 2024 18:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436272"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1705903118947h7Mte.jpg" alt=""></span><span class="textBox"><h4>'웡카'의 화려한 캐릭터 열전, 티모시 샬라메부터 휴 그랜트까지</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705903118947h7Mte.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
