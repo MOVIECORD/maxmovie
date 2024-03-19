@@ -4,15 +4,23 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 01:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 02:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[1000만 앞둔 '파묘', 아직도 공개할 게 남은 촬영 현장 모습]]></title>
+            <title><![CDATA[황당하지만 웃긴 '닭강정' 촬영 현장 살펴보니...]]></title>
+            <link>https://www.maxmovie.com/news/437072</link>
+            <guid>https://www.maxmovie.com/news/437072</guid>
+            <pubDate>Tue, 19 Mar 2024 02:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437072"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710811902696Quotx.jpg" alt=""></span><span class="textBox"><h4>황당하지만 웃긴 '닭강정' 촬영 현장 살펴보니...</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710811902696Quotx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1000만 앞둔 '파묘', 아직도 공개할 게 남은 촬영현장 모습]]></title>
             <link>https://www.maxmovie.com/news/437071</link>
             <guid>https://www.maxmovie.com/news/437071</guid>
             <pubDate>Tue, 19 Mar 2024 01:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437071"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710810353089M74M8.jpg" alt=""></span><span class="textBox"><h4>1000만 앞둔 '파묘', 아직도 공개할 게 남은 촬영 현장 모습 </h4></span></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/news/437071"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710810353089M74M8.jpg" alt=""></span><span class="textBox"><h4>1000만 앞둔 '파묘', 아직도 공개할 게 남은 촬영현장 모습 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710810353089M74M8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Mar 2024 08:10:58 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436789"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17091708208496Eeus.jpg" alt=""></span><span class="textBox"><h4>하마구치 류스케 감독의 새 영화 '악은 존재하지 않는다', 어떤 이야기?</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17091708208496Eeus.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '돌핀', 권유리가 그리는  30대의 성장기]]></title>
-            <link>https://www.maxmovie.com/news/436787</link>
-            <guid>https://www.maxmovie.com/news/436787</guid>
-            <pubDate>Wed, 13 Mar 2024 08:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436787"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1709168628537gmihE.jpg" alt=""></span><span class="textBox"><h4>영화 '돌핀', 권유리가 그리는  30대의 성장기</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709168628537gmihE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
