@@ -4,71 +4,80 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 02:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 03:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[0]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 20 Mar 2024 02:13:53 GMT</pubDate>
+            <pubDate>Wed, 20 Mar 2024 03:07:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 20 Mar 2024 02:13:53 GMT</pubDate>
+            <pubDate>Wed, 20 Mar 2024 03:07:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 20 Mar 2024 02:13:53 GMT</pubDate>
+            <pubDate>Wed, 20 Mar 2024 03:07:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 20 Mar 2024 02:13:53 GMT</pubDate>
+            <pubDate>Wed, 20 Mar 2024 03:07:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 20 Mar 2024 02:13:53 GMT</pubDate>
+            <pubDate>Wed, 20 Mar 2024 03:07:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 20 Mar 2024 02:13:53 GMT</pubDate>
+            <pubDate>Wed, 20 Mar 2024 03:07:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 20 Mar 2024 02:13:53 GMT</pubDate>
+            <pubDate>Wed, 20 Mar 2024 03:07:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 20 Mar 2024 02:13:53 GMT</pubDate>
+            <pubDate>Wed, 20 Mar 2024 03:07:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 20 Mar 2024 02:13:53 GMT</pubDate>
+            <pubDate>Wed, 20 Mar 2024 03:07:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['길위에 김대중', 오늘(20일)부터 안방극장에서 본다]]></title>
+            <link>https://www.maxmovie.com/news/437084</link>
+            <guid>https://www.maxmovie.com/news/437084</guid>
+            <pubDate>Wed, 20 Mar 2024 03:07:30 GMT</pubDate>
+            <content:encoded><![CDATA[정치인 김대중 이야기..정치 다큐영화 화제
+국내는 물론 해외 37개 도시 상영으로 호평]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710889822167xKq5h.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[데일리 핫이슈] 강태오 제대, 한소희 '커플링' 해명, '서진이네2' 아이슬란드 촬영 돌입]]></title>
@@ -77,15 +86,6 @@
             <pubDate>Tue, 19 Mar 2024 22:04:23 GMT</pubDate>
             <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710820600880G86Hj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] '치킨 리암 니슨' 류승룡 "닭강정된 딸,  그 누구보다 진지했죠"]]></title>
-            <link>https://www.maxmovie.com/news/437079</link>
-            <guid>https://www.maxmovie.com/news/437079</guid>
-            <pubDate>Wed, 20 Mar 2024 00:29:36 GMT</pubDate>
-            <content:encoded><![CDATA['닭강정' 된 딸 구하려 분투하는 선만 역
-'극한직업' 이병헌 감독과 두 번째 호흡]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710830547221yGn3R.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 내가 알던 남편은 누구일까? 영화 '당신이 잠든 사이']]></title>
@@ -97,31 +97,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710831759854IygnJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[파트2 공개 '레벨 문', 혹평 이겨낼 '반전 카드' 살펴보니]]></title>
-            <link>https://www.maxmovie.com/news/437087</link>
-            <guid>https://www.maxmovie.com/news/437087</guid>
-            <pubDate>Wed, 20 Mar 2024 02:13:53 GMT</pubDate>
-            <content:encoded><![CDATA['레벨 문:파트2 스카기버' 4월19일 공개 
-파트1에 쏟아진 혹평, 잭 스나이더 통할까]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710895780500Wb4bp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 장국영의 시간...대표작 5편 극장에서 본다]]></title>
-            <link>https://www.maxmovie.com/news/437086</link>
-            <guid>https://www.maxmovie.com/news/437086</guid>
-            <pubDate>Wed, 20 Mar 2024 00:29:36 GMT</pubDate>
-            <content:encoded><![CDATA['영웅본색'부터 '천년유혼' '패왕별희'까지
-2003년 4월 세상을 떠난 대배우와의 재회]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710893392388IgDLH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['극장판 스파이 패밀리 코드: 화이트', 티모시 샬라메 물렀거라]]></title>
-            <link>https://www.maxmovie.com/news/437085</link>
-            <guid>https://www.maxmovie.com/news/437085</guid>
-            <pubDate>Wed, 20 Mar 2024 02:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[20일 개봉..실시간 예매율 '듄: 파트2' 추월
-특수상영 힘으로 일본 애니 열기 잇는다]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710893215252qrdkx.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이승윤, 극장가에서 일내나...실황영화 예매율 상위권 안착]]></title>
+            <link>https://www.maxmovie.com/news/437093</link>
+            <guid>https://www.maxmovie.com/news/437093</guid>
+            <pubDate>Wed, 20 Mar 2024 03:07:30 GMT</pubDate>
+            <content:encoded><![CDATA['이승윤 콘서트 도킹:리프트오프' 예매율 5위
+지난해 개최한 단독 콘서트 실황 담은 작품]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710900493108UsDT6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아름다운 뮤지컬 '디아길레프', 3월19일부터 다시 무대에]]></title>
@@ -142,6 +124,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710809196488Iq95a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김수현·박지은, '눈물의 여왕'으로 또 증명…안방 홀린 역발상]]></title>
+            <link>https://www.maxmovie.com/news/437052</link>
+            <guid>https://www.maxmovie.com/news/437052</guid>
+            <pubDate>Wed, 20 Mar 2024 03:07:30 GMT</pubDate>
+            <content:encoded><![CDATA[방송 4회만에 두 자릿수 시청률 진입 폭풍 질주 
+신데렐라 스토리 비틀고 성역할 고정관념 풍자]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710725715260Nd89d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['듄: 파트2' IMAX 상영 역대 흥행 2위.."극장에선 뛰어난 경험 원한다"]]></title>
             <link>https://www.maxmovie.com/news/437051</link>
             <guid>https://www.maxmovie.com/news/437051</guid>
@@ -149,15 +140,6 @@
             <content:encoded><![CDATA[글로벌 최고 흥행작..IMAX 20% 비중
 "미국 내년 IMAX 상영 일정 꽉 찼다"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17107242171188jt2C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['쿵푸팬더4', 북미 박스오피스 1위...단숨에 올해 전 세계 2번째 흥행작]]></title>
-            <link>https://www.maxmovie.com/news/437050</link>
-            <guid>https://www.maxmovie.com/news/437050</guid>
-            <pubDate>Wed, 20 Mar 2024 02:13:53 GMT</pubDate>
-            <content:encoded><![CDATA['듄:파트2' 이어 2024년 전 세계 2번째 흥행작
-북미에서는 3월8일, 국내에서는 4월10일 개봉]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710721489746QZgTa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["트리거 찾아" 송중기가 밝힌 감정 연기 노하우]]></title>
@@ -178,6 +160,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710665500370A6vHw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[동해·은혁, '지지배' 제목 논란에 음악방송 활동 취소]]></title>
+            <link>https://www.maxmovie.com/news/437047</link>
+            <guid>https://www.maxmovie.com/news/437047</guid>
+            <pubDate>Wed, 20 Mar 2024 03:07:30 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E, SNS 통해 "부정적 의미로 사용할 뜻 없었다"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710658160162da5C2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박찬욱 감독 '동조자', 4월 공개…로다주 1인4역 도전]]></title>
             <link>https://www.maxmovie.com/news/437046</link>
             <guid>https://www.maxmovie.com/news/437046</guid>
@@ -185,15 +175,6 @@
             <content:encoded><![CDATA[박찬욱 감독, '리틀 드러머 걸' 이후 선보이는 2번째 시리즈 작품
 호아 쉬안데·로버트 다우니 주니어·산드라 오 등 화려한 출연진]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710654557877QDeAK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['눈물의 여왕'과 '원더풀 월드', 누가 먼저 10% 돌파할까]]></title>
-            <link>https://www.maxmovie.com/news/437045</link>
-            <guid>https://www.maxmovie.com/news/437045</guid>
-            <pubDate>Wed, 20 Mar 2024 02:13:53 GMT</pubDate>
-            <content:encoded><![CDATA['눈물의 여왕' vs '원더풀 월드', 두 자릿수 시청률 진입 목전
-'넝쿨째 굴러온 당신' 배우와 작가, '오늘은 라이벌 된 상황']]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17106517610345N0Iy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["작은 일 크게 만들어" 한소희, 열애 인정 뒤 댓글로도 사과]]></title>
@@ -221,6 +202,24 @@
             <content:encoded><![CDATA[이범수 아내 이윤진씨 지난해 말 SNS서 불화 암시
 황정음·허동원·서인영 등 연예계 5쌍 파경 맞아]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710637557999x3r7D.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['파묘' 900만 돌파하며 1000만 초읽기…언제쯤 넘을까?]]></title>
+            <link>https://www.maxmovie.com/news/437041</link>
+            <guid>https://www.maxmovie.com/news/437041</guid>
+            <pubDate>Wed, 20 Mar 2024 03:07:30 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 24일차 900만 돌파…'서울의 봄'보다 3일 빨라
+오컬트 장르 최초 1000만 영화 등극 기대]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710635604349FRznI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[류준열도 한소희와 '연인 사이' 공식화,  "최근 서로 마음 확인"]]></title>
+            <link>https://www.maxmovie.com/news/437040</link>
+            <guid>https://www.maxmovie.com/news/437040</guid>
+            <pubDate>Wed, 20 Mar 2024 03:07:30 GMT</pubDate>
+            <content:encoded><![CDATA[15일 열애설 제기, 전 연인 혜리의 글로 구설
+16일 소속사 통해 입장, 한소희도 관계 인정]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710553692227AX7Gp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
