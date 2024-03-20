@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 05:06:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 07:06:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑과 욕망 그 사이, 영화 '라스트 썸머']]></title>
+            <link>https://www.maxmovie.com/news/437092</link>
+            <guid>https://www.maxmovie.com/news/437092</guid>
+            <pubDate>Wed, 20 Mar 2024 07:06:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437092"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17109009129626ZNIR.jpg" alt=""></span><span class="textBox"><h4>사랑과 욕망 그 사이, 영화 '라스트 썸머'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17109009129626ZNIR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북미 박스오피스 1위 '쿵푸팬더4', 국내 관객과도 통할까]]></title>
             <link>https://www.maxmovie.com/news/437091</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Mar 2024 18:09:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436843"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1709601662498Jz7Hi.jpg" alt=""></span><span class="textBox"><h4>에픽하이 20주년 콘서트, 스크린에서 만난다 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709601662498Jz7Hi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 극장에서 이승윤을 만날 시간, 생생한 콘서트 현장]]></title>
-            <link>https://www.maxmovie.com/news/436826</link>
-            <guid>https://www.maxmovie.com/news/436826</guid>
-            <pubDate>Wed, 13 Mar 2024 01:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436826"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1709514463064ZIeZA.jpg" alt=""></span><span class="textBox"><h4>이제 극장에서 이승윤을 만날 시간, 생생한 콘서트 현장 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709514463064ZIeZA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
