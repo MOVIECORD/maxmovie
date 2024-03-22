@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 02:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 03:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['오멘:저주의 시작', '파묘' 오컬트 열풍 이을까]]></title>
+            <link>https://www.maxmovie.com/news/437128</link>
+            <guid>https://www.maxmovie.com/news/437128</guid>
+            <pubDate>Fri, 22 Mar 2024 03:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437128"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711072453231LEQTZ.jpg" alt=""></span><span class="textBox"><h4>'오멘:저주의 시작', '파묘' 오컬트 열풍 이을까</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711072453231LEQTZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정하담·김대건의 특별한 여정, '모르는 이야기'... 어떤 영화?]]></title>
             <link>https://www.maxmovie.com/news/437124</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Mar 2024 18:09:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436865"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1709687530078VkvXt.jpg" alt=""></span><span class="textBox"><h4>우정과 동맹 사이... '로얄로더' 속 이재욱·이준영의 순간들</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709687530078VkvXt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑스러운 '유미의 세포들' 첫 극장판으로 돌아온다]]></title>
-            <link>https://www.maxmovie.com/news/436864</link>
-            <guid>https://www.maxmovie.com/news/436864</guid>
-            <pubDate>Tue, 12 Mar 2024 18:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436864"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1709686310011jmKYm.jpg" alt=""></span><span class="textBox"><h4>사랑스러운 '유미의 세포들' 첫 극장판으로 돌아온다</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709686310011jmKYm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
