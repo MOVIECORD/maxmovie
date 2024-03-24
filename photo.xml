@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Mar 2024 02:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Mar 2024 03:07:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['장난꾸러기' 최민식→'섬뜩' 이도현, 천만 '파묘' 촬영 현장 살펴보니]]></title>
+            <link>https://www.maxmovie.com/news/437145</link>
+            <guid>https://www.maxmovie.com/news/437145</guid>
+            <pubDate>Sun, 24 Mar 2024 03:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437145"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711246414009ELAmx.jpg" alt=""></span><span class="textBox"><h4>'장난꾸러기' 최민식→'섬뜩' 이도현, 천만 '파묘' 촬영 현장 살펴보니</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711246414009ELAmx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['오멘:저주의 시작', '파묘' 오컬트 열풍 이을까]]></title>
             <link>https://www.maxmovie.com/news/437128</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Mar 2024 18:09:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436867"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1709689068005J3Hy7.jpg" alt=""></span><span class="textBox"><h4>몬스터와 친구가 될 수 있을까? '몬스터 프렌즈'가 그린 특별한 우정</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709689068005J3Hy7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우정과 동맹 사이... '로얄로더' 속 이재욱·이준영의 순간들]]></title>
-            <link>https://www.maxmovie.com/news/436865</link>
-            <guid>https://www.maxmovie.com/news/436865</guid>
-            <pubDate>Tue, 12 Mar 2024 18:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436865"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1709687530078VkvXt.jpg" alt=""></span><span class="textBox"><h4>우정과 동맹 사이... '로얄로더' 속 이재욱·이준영의 순간들</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709687530078VkvXt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
