@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 03:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 06:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조니 뎁 주연작 '잔 뒤 바리', 어떤 영화?]]></title>
+            <link>https://www.maxmovie.com/news/437160</link>
+            <guid>https://www.maxmovie.com/news/437160</guid>
+            <pubDate>Mon, 25 Mar 2024 06:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437160"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711334971397siBmZ.jpg" alt=""></span><span class="textBox"><h4>조니 뎁 주연작 '잔 뒤 바리', 어떤 영화?</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711334971397siBmZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['장난꾸러기' 최민식→'섬뜩' 이도현, 천만 '파묘' 촬영 현장 살펴보니]]></title>
             <link>https://www.maxmovie.com/news/437145</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Mar 2024 18:09:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436883"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1709773258937mi3Wj.jpg" alt=""></span><span class="textBox"><h4>고질라와 콩의 상상초월 만남, '고질라X콩:뉴 엠파이어' 온다 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709773258937mi3Wj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몬스터와 친구가 될 수 있을까? '몬스터 프렌즈'가 그린 특별한 우정]]></title>
-            <link>https://www.maxmovie.com/news/436867</link>
-            <guid>https://www.maxmovie.com/news/436867</guid>
-            <pubDate>Tue, 12 Mar 2024 18:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436867"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1709689068005J3Hy7.jpg" alt=""></span><span class="textBox"><h4>몬스터와 친구가 될 수 있을까? '몬스터 프렌즈'가 그린 특별한 우정</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1709689068005J3Hy7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
