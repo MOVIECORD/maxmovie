@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 06:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 07:06:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양조위·유덕화의 '골드핑거'가 그린 1980년대의 홍콩]]></title>
+            <link>https://www.maxmovie.com/news/437215</link>
+            <guid>https://www.maxmovie.com/news/437215</guid>
+            <pubDate>Thu, 28 Mar 2024 07:06:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437215"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711606891880x7mZh.jpg" alt=""></span><span class="textBox"><h4>양조위·유덕화의 '골드핑거'가 그린 1980년대의 홍콩&nbsp;</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711606891880x7mZh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그레타 리·유태오가 그린 '패스트 라이브즈'의 애틋한 순간들]]></title>
             <link>https://www.maxmovie.com/news/437205</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Mar 2024 18:09:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436964"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710209964826WKOIr.jpg" alt=""></span><span class="textBox"><h4>'퀸의 만남' 앤 해서웨이·제시카 차스테인의 '마더스', 어떤 이야기? </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710209964826WKOIr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한효주의 새 얼굴, 냉철한 CEO로 돌아온 '지배종']]></title>
-            <link>https://www.maxmovie.com/news/436962</link>
-            <guid>https://www.maxmovie.com/news/436962</guid>
-            <pubDate>Tue, 12 Mar 2024 18:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436962"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710207973927lgJjt.jpg" alt=""></span><span class="textBox"><h4>한효주의 새 얼굴, 냉철한 CEO로 돌아온 '지배종'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710207973927lgJjt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
