@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 01:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 02:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그레타 리·유태오가 그린 '패스트 라이브즈'의 애틋한 순간들]]></title>
+            <link>https://www.maxmovie.com/news/437205</link>
+            <guid>https://www.maxmovie.com/news/437205</guid>
+            <pubDate>Thu, 28 Mar 2024 02:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437205"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711590257244Yzw9x.jpg" alt=""></span><span class="textBox"><h4>그레타 리·유태오가 그린 '패스트 라이브즈'의 애틋한 순간들</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711590257244Yzw9x.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['범죄도시4'의 뉴 빌런 장동철, 어떤 인물?]]></title>
             <link>https://www.maxmovie.com/news/437203</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Mar 2024 18:09:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436962"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710207973927lgJjt.jpg" alt=""></span><span class="textBox"><h4>한효주의 새 얼굴, 냉철한 CEO로 돌아온 '지배종'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710207973927lgJjt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오스카 차지한 엠마 스톤의 황홀한 순간들...영화 '가여운 것들']]></title>
-            <link>https://www.maxmovie.com/news/436960</link>
-            <guid>https://www.maxmovie.com/news/436960</guid>
-            <pubDate>Tue, 12 Mar 2024 18:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436960"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710207141058hOUfV.jpg" alt=""></span><span class="textBox"><h4>오스카 차지한 엠마 스톤의 황홀한 순간들...영화 '가여운 것들' </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710207141058hOUfV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
