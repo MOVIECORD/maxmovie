@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 01:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 02:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['지배종' 주지훈·한효주 둘러싼 사건들의 진실은?]]></title>
+            <link>https://www.maxmovie.com/news/437224</link>
+            <guid>https://www.maxmovie.com/news/437224</guid>
+            <pubDate>Fri, 29 Mar 2024 02:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437224"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711676639529ICU2b.jpg" alt=""></span><span class="textBox"><h4>'지배종' 주지훈·한효주 둘러싼 사건들의 진실은?</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711676639529ICU2b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['로얄로더' 이준영·홍수주의 웨딩 비하인드 공개]]></title>
             <link>https://www.maxmovie.com/news/437223</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Mar 2024 06:11:53 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436981"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710293861628AqGNA.jpg" alt=""></span><span class="textBox"><h4>'범죄도시4' 새로운 빌런 김무열·이동휘, 얼마나 무서울까 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710293861628AqGNA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마동석의 '핵주먹' 온다, '범죄도시4' 마석도 형사 미리 엿보기]]></title>
-            <link>https://www.maxmovie.com/news/436980</link>
-            <guid>https://www.maxmovie.com/news/436980</guid>
-            <pubDate>Wed, 13 Mar 2024 03:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436980"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710293127431Hyvby.jpg" alt=""></span><span class="textBox"><h4>마동석의 '핵주먹' 온다, '범죄도시4' 마석도 형사 미리 엿보기</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710293127431Hyvby.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
