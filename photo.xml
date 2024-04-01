@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 04:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 05:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 '패스트 라이브즈', 뉴욕 촬영 현장 엿보니]]></title>
+            <link>https://www.maxmovie.com/news/437253</link>
+            <guid>https://www.maxmovie.com/news/437253</guid>
+            <pubDate>Mon, 01 Apr 2024 05:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437253"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711939130310nBUk7.jpg" alt=""></span><span class="textBox"><h4>영화 '패스트 라이브즈', 뉴욕 촬영 현장 엿보니</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711939130310nBUk7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안노 히데아키 감독의 신작 '신 가면라이더' 극장가 사로잡을까]]></title>
             <link>https://www.maxmovie.com/news/437252</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436999"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710378800094zHPm3.jpg" alt=""></span><span class="textBox"><h4>안노 히데아키의 신작 '신 가면라이더' 어떤 작품?</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710378800094zHPm3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정호연부터 박진영까지,  주연진 보다 화려한 '닭강정' 카메오들]]></title>
-            <link>https://www.maxmovie.com/news/436998</link>
-            <guid>https://www.maxmovie.com/news/436998</guid>
-            <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436998"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710377462175ISt8K.jpg" alt=""></span><span class="textBox"><h4>정호연부터 박진영까지,  주연진 보다 화려한 '닭강정' 카메오들 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710377462175ISt8K.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
