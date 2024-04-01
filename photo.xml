@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 02:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 03:08:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안노 히데아키 감독의 신작 '신 가면라이더' 극장가 사로잡을까]]></title>
+            <link>https://www.maxmovie.com/news/437252</link>
+            <guid>https://www.maxmovie.com/news/437252</guid>
+            <pubDate>Mon, 01 Apr 2024 03:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437252"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711937921532xpnHf.jpg" alt=""></span><span class="textBox"><h4>안노 히데아키 감독의 신작 '신 가면라이더' 극장가 사로잡을까</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711937921532xpnHf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[독특한 설정의 멜로 영화 '미지수', 어떤 이야기?]]></title>
             <link>https://www.maxmovie.com/news/437251</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436998"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710377462175ISt8K.jpg" alt=""></span><span class="textBox"><h4>정호연부터 박진영까지,  주연진 보다 화려한 '닭강정' 카메오들 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710377462175ISt8K.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['파묘' 흥행 바통 이을까? 오컬트 공포 '씬' 온다]]></title>
-            <link>https://www.maxmovie.com/news/436983</link>
-            <guid>https://www.maxmovie.com/news/436983</guid>
-            <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436983"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710294885262UTjKR.jpg" alt=""></span><span class="textBox"><h4>'파묘' 흥행 바통 이을까? 오컬트 공포 '씬' 온다 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710294885262UTjKR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
