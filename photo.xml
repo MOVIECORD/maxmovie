@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 00:35:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 02:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[독특한 설정의 멜로 영화 '미지수', 어떤 이야기?]]></title>
+            <link>https://www.maxmovie.com/news/437251</link>
+            <guid>https://www.maxmovie.com/news/437251</guid>
+            <pubDate>Mon, 01 Apr 2024 02:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437251"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711936475617jTIHc.jpg" alt=""></span><span class="textBox"><h4>독특한 설정의 멜로 영화 '미지수', 어떤 이야기?&nbsp;</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711936475617jTIHc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['지배종' 주지훈·한효주 둘러싼 사건들의 진실은?]]></title>
             <link>https://www.maxmovie.com/news/437224</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/436983"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710294885262UTjKR.jpg" alt=""></span><span class="textBox"><h4>'파묘' 흥행 바통 이을까? 오컬트 공포 '씬' 온다 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710294885262UTjKR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['범죄도시4' 새로운 빌런 김무열·이동휘, 얼마나 무서울까]]></title>
-            <link>https://www.maxmovie.com/news/436981</link>
-            <guid>https://www.maxmovie.com/news/436981</guid>
-            <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/436981"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710293861628AqGNA.jpg" alt=""></span><span class="textBox"><h4>'범죄도시4' 새로운 빌런 김무열·이동휘, 얼마나 무서울까 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710293861628AqGNA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
