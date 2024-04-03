@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 02:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 03:09:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손석구 주변 미스터리한 사람들...'댓글부대' 신스틸러 눈길]]></title>
+            <link>https://www.maxmovie.com/news/437290</link>
+            <guid>https://www.maxmovie.com/news/437290</guid>
+            <pubDate>Wed, 03 Apr 2024 03:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437290"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712109080762PSZXR.jpg" alt=""></span><span class="textBox"><h4>손석구 주변 미스터리한 사람들...'댓글부대' 신스틸러 눈길 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712109080762PSZXR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화감독 죽인 밀정을 찾는, 영화 '8인의 용의자들']]></title>
             <link>https://www.maxmovie.com/news/437288</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437071"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710810341449TouTq.jpg" alt=""></span><span class="textBox"><h4>1000만 앞둔 '파묘', 아직도 공개할 게 남은 촬영현장 모습 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710810341449TouTq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['고스트버스터즈'가 돌아왔다, 오리지널 멤버까지 합류]]></title>
-            <link>https://www.maxmovie.com/news/437059</link>
-            <guid>https://www.maxmovie.com/news/437059</guid>
-            <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437059"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710738451362rB7x4.jpg" alt=""></span><span class="textBox"><h4>'고스트버스터즈'가 돌아왔다, 오리지널 멤버까지 합류</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710738451362rB7x4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
