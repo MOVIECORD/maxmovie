@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 00:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 01:41:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 찾아온 '녹차의 맛', 짙은 여운과 기발한 상상력의 조화]]></title>
+            <link>https://www.maxmovie.com/news/437287</link>
+            <guid>https://www.maxmovie.com/news/437287</guid>
+            <pubDate>Wed, 03 Apr 2024 01:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437287"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712105696766qVBt7.jpg" alt=""></span><span class="textBox"><h4>다시 찾아온 '녹차의 맛', 짙은 여운과 기발한 상상력의 조화 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712105696766qVBt7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['원더풀 월드' 김남주·차은우의 미묘한 관계, 결말 향한 궁금증]]></title>
             <link>https://www.maxmovie.com/news/437274</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437055"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710728144293GMfpg.jpg" alt=""></span><span class="textBox"><h4>한국에 라미란 있다면, 미국엔 제이슨 스타뎀 있다 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710728144293GMfpg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연상호 감독이 다시 만든 '기생수:더 그레이', 무엇이 다를까]]></title>
-            <link>https://www.maxmovie.com/news/437053</link>
-            <guid>https://www.maxmovie.com/news/437053</guid>
-            <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437053"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710726296719GayIp.jpg" alt=""></span><span class="textBox"><h4>연상호 감독이 다시 만든 '기생수:더 그레이', 무엇이 다를까 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710726296719GayIp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
