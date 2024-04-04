@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 00:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 01:42:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이언 고슬링의 변신은 '무죄'... 영화 '스턴트맨']]></title>
+            <link>https://www.maxmovie.com/news/437306</link>
+            <guid>https://www.maxmovie.com/news/437306</guid>
+            <pubDate>Thu, 04 Apr 2024 01:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437306"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712190150993htBrV.jpg" alt=""></span><span class="textBox"><h4>라이언 고슬링의 변신은 '무죄'... 영화 '스턴트맨' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712190150993htBrV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손석구 주변 미스터리한 사람들...'댓글부대' 신스틸러 눈길]]></title>
             <link>https://www.maxmovie.com/news/437290</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437072"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710811902696Quotx.jpg" alt=""></span><span class="textBox"><h4>황당하지만 웃긴 '닭강정' 촬영현장 살펴보니...</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710811902696Quotx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1000만 앞둔 '파묘', 아직도 공개할 게 남은 촬영현장 모습]]></title>
-            <link>https://www.maxmovie.com/news/437071</link>
-            <guid>https://www.maxmovie.com/news/437071</guid>
-            <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437071"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710810341449TouTq.jpg" alt=""></span><span class="textBox"><h4>1000만 앞둔 '파묘', 아직도 공개할 게 남은 촬영현장 모습 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710810341449TouTq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
