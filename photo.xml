@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 02:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 03:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['수사반장 1958' 이제훈부터 이동휘까지 형사 4인 주목]]></title>
+            <link>https://www.maxmovie.com/news/437321</link>
+            <guid>https://www.maxmovie.com/news/437321</guid>
+            <pubDate>Fri, 05 Apr 2024 03:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437321"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712282847917NrUog.jpg" alt=""></span><span class="textBox"><h4>'수사반장 1958' 이제훈부터 이동휘까지 형사 4인 주목 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712282847917NrUog.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부천영화제가 주목한 신예 양근영 감독의 '모르는 이야기']]></title>
             <link>https://www.maxmovie.com/news/437320</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437091"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710899538438TAHmV.jpg" alt=""></span><span class="textBox"><h4>북미 박스오피스 1위 '쿵푸팬더4', 국내 관객과도 통할까 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710899538438TAHmV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곰에 맞선 인간의 사투, '베어헌터'...생존본능 어디까지?]]></title>
-            <link>https://www.maxmovie.com/news/437089</link>
-            <guid>https://www.maxmovie.com/news/437089</guid>
-            <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437089"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1710896256818l0oLa.jpg" alt=""></span><span class="textBox"><h4>곰에 맞선 인간의 사투, '베어헌터'...생존본능 어디까지?</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1710896256818l0oLa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
