@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 06:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 07:08:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:20 GMT</pubDate>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:20 GMT</pubDate>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:20 GMT</pubDate>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:20 GMT</pubDate>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:20 GMT</pubDate>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:20 GMT</pubDate>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:20 GMT</pubDate>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:20 GMT</pubDate>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:20 GMT</pubDate>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -97,6 +97,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712620197712Brwks.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[올해 '한예협어워드' 대상은 시민단체, 왜? (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/437375</link>
+            <guid>https://www.maxmovie.com/news/437375</guid>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
+            <content:encoded><![CDATA[원주 아카데미 극장 철거 반대 앞장 서
+국내 '절해고도'·해외 '괴물' 작품상에]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712646229591VhbY1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['선재 업고 튀어' 제작진, 고 종현과 연관성 조심스레 부인 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/437373</link>
             <guid>https://www.maxmovie.com/news/437373</guid>
@@ -104,6 +113,15 @@
             <content:encoded><![CDATA[변우석·김혜윤 주연, 첫사랑 로맨스 
 첫 방송 이후 고 종현 떠오른다는 반응]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17126417278890gsD7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['트로트 야생마' 신승태, 5월19일 단독 콘서트 개최 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/437371</link>
+            <guid>https://www.maxmovie.com/news/437371</guid>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
+            <content:encoded><![CDATA[정규 '그대라는 꽃' 수록곡 등 퍼포먼스 
+지난해 11월 개최 첫 콘서트 전석 매진]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712639680241yyEqc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['총선 D-1' 볼만한 선거 소재 영화는? (맥스무비)]]></title>
@@ -115,41 +133,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712630540626vkKEh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['파묘' 흥행으로 3월 한국영화 역대 최고 성과 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/437363</link>
-            <guid>https://www.maxmovie.com/news/437363</guid>
-            <pubDate>Tue, 09 Apr 2024 03:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[영화진흥위 '3월 한국 영화산업 결산' 보고
-매출액 803억원..외화 포함 역대 2위 기록]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712618952894sBDFj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[데일리 핫이슈] 르세라핌 日 팬미팅·히딩크 유재석 만남·김송 악플에 분노 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/437361</link>
-            <guid>https://www.maxmovie.com/news/437361</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712561596552NcKf2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 슈가의 그날이 온다...공연실황 영화는 어떻게 스크린 대세가 됐나? (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/437360</link>
-            <guid>https://www.maxmovie.com/news/437360</guid>
-            <pubDate>Tue, 09 Apr 2024 03:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[슈가의 첫 월드 투어  담은 영화 10일 개봉..예매 3위 
-공연실황 영화의 인기 "아티스트, 팬, 극장의 삼박자"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17125568891350RdTi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 특별한 도굴꾼의 사랑과 모험, 영화 '키메라' (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/437358</link>
-            <guid>https://www.maxmovie.com/news/437358</guid>
-            <pubDate>Mon, 08 Apr 2024 22:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[4월3일 개봉, 칸 국제영화제  경쟁부문 초청작
-특별한 능력 가진 도굴꾼의 기묘한 모험 다뤄]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712558318124JgiTs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[1000만 영화 '서울의 봄' vs '파묘' , 백상예술대상 격돌 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/437356</link>
             <guid>https://www.maxmovie.com/news/437356</guid>
@@ -159,129 +142,147 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17125543381399ceTE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마동석, 4월 '범죄도시4' 개봉→5월 예정화와 결혼식까지 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/437355</link>
-            <guid>https://www.maxmovie.com/news/437355</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 혼인 신고하며 법적 부부, 17살 나이 차
-5월 중 서울 모처에서 비공개 예식 진행 예정]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712552728563ijKn0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[선우은숙, 1년 반만에 파경 "성격 차이" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/437328</link>
+            <guid>https://www.maxmovie.com/news/437328</guid>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
+            <content:encoded><![CDATA[만난지 2개월 만에 혼인신고 했지만…
+선우은숙 측 "성격 차이로 협의 이혼"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17122980612421NRS4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[['기생수' 1위]  2000억원 들인 '삼체'까지 눌렀다, 인기의 힘은? (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/437354</link>
-            <guid>https://www.maxmovie.com/news/437354</guid>
-            <pubDate>Mon, 08 Apr 2024 23:07:39 GMT</pubDate>
-            <content:encoded><![CDATA['삼체' '젠틀맨' 각각 2, 3위로 밀어내고 1위 올라 
-드라마 가미한 크리처물, 아시아·남미 먼저 반응]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712544030552aV8pJ.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[허광한의 절절한 사랑, 5월 스크린 적신다 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/437325</link>
+            <guid>https://www.maxmovie.com/news/437325</guid>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
+            <content:encoded><![CDATA['청춘 18X2 너에게로 이어지는 길' 5월22일 개봉
+대만과 일본 오가는 첫사랑의 설렘과 추억]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712292461346GaEeW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['쿵푸팬더4'에 달아오르는 관심, 왜? (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/437353</link>
-            <guid>https://www.maxmovie.com/news/437353</guid>
-            <pubDate>Tue, 09 Apr 2024 03:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 D-2 사전예매 12만장 돌파…전편 2배
-프랜차이즈·가족영화·총선 특수 누릴까]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712543616018S013e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[세월호 참사 어느 덧 10년…JIFF 특별전 6편은 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/437322</link>
+            <guid>https://www.maxmovie.com/news/437322</guid>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
+            <content:encoded><![CDATA['세월호 참사 10주기 특별전' 마련
+'바람의 세월' 등 다큐 5편, 극영화 1편 상영]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712282440508pTDRa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한소희→고윤정, NH농협은행 모델 교체 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/437352</link>
-            <guid>https://www.maxmovie.com/news/437352</guid>
-            <pubDate>Tue, 09 Apr 2024 03:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[한소희 최근 소주 이어 은행 광고모델 계약 종료
-NH 측 "고윤정의 이미지 브랜드 홍보 효과 기대"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712542888553sYLdB.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[트와이스 채영·자이언티, 연인 선언 "호감 갖고 교제" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/437318</link>
+            <guid>https://www.maxmovie.com/news/437318</guid>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
+            <content:encoded><![CDATA[채영과 자이언티, 지인 소개로 만나 연인 발전
+JYP엔터, 지효 열애설에 대해 "사생활" 입장]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17122761352312A32h.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['유미의 세포들 더 무비' 해외서도 통했다, 76개국 선판매 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/437349</link>
-            <guid>https://www.maxmovie.com/news/437349</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[일본 대만 등 아시아 비롯해 미국 프랑스 등 판매
-웹툰으로 시작해 드라마 이어 영화까지 탄생]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17125375484678wB6d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[그레타 리, 유태오보다 더 마음 가는 '이 배우' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/437315</link>
+            <guid>https://www.maxmovie.com/news/437315</guid>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
+            <content:encoded><![CDATA['패스트 라이브즈'서 그레타 리 남편 역할로
+'퍼스트 카우' '빅쇼트' 등으로 얼굴 알려]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712218021171HDFrs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['파묘' 1200만 향해 질주…'댓글부대'는 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/437348</link>
-            <guid>https://www.maxmovie.com/news/437348</guid>
-            <pubDate>Tue, 09 Apr 2024 03:08:50 GMT</pubDate>
-            <content:encoded><![CDATA['파묘' 뒷심 보여주며 45일간 1위
-'댓글부대' 100만 돌파 가능할까]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712537828465kCFje.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[35억뷰 '유미의 세포들'부터 45살 '건담'까지, IP의 무한 확장 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/437314</link>
+            <guid>https://www.maxmovie.com/news/437314</guid>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
+            <content:encoded><![CDATA['유미의 세포들', 웹툰→드라마→영화
+'건담 시드', 영화 관객 주주총회 개최도]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712211536374S7a0Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["사랑해 해인아"... '눈물의 여왕'  20% 돌파 카운트다운 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/437346</link>
-            <guid>https://www.maxmovie.com/news/437346</guid>
-            <pubDate>Tue, 09 Apr 2024 03:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[7일 방송 10회 최고 시청률 19.0% 기록 
-퀸즈그룹 빼앗긴 홍해인과 백현우의 반격]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712534414945IRxBc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[영화계 "영화관 입장권 부과금  폐지 방침 철회하라" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/437313</link>
+            <guid>https://www.maxmovie.com/news/437313</guid>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
+            <content:encoded><![CDATA[4일 영화산업위기극복영화인연대 성명
+"영화발전기금 정상화 로드맵 제시하라"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712207566032TmomH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이혼 개인사 '폭주' 황정음...결국 엉뚱한 인물 '저격' 논란 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/437312</link>
+            <guid>https://www.maxmovie.com/news/437312</guid>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
+            <content:encoded><![CDATA[SNS에 일반인 사진 올리고 남편 불륜 상대 지목 
+사안과 무관한 여성으로 드러나 논란 일파만파]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712204952704TBChs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['학폭 배우 J' 지목된 전종서 "명백한 허위 사실, 법적 대응" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/437311</link>
+            <guid>https://www.maxmovie.com/news/437311</guid>
+            <pubDate>Tue, 09 Apr 2024 07:07:31 GMT</pubDate>
+            <content:encoded><![CDATA["툭하면 체육복 훔쳐..." 폭로글, 현재 게시판에서 삭제 
+소속사 "배우 본인의 정신적 피해, 강력히 대응" 예고]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712204447526kwfRU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:46 GMT</pubDate>
+            <pubDate>Tue, 09 Apr 2024 07:07:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:46 GMT</pubDate>
+            <pubDate>Tue, 09 Apr 2024 07:07:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:46 GMT</pubDate>
+            <pubDate>Tue, 09 Apr 2024 07:07:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:46 GMT</pubDate>
+            <pubDate>Tue, 09 Apr 2024 07:07:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:46 GMT</pubDate>
+            <pubDate>Tue, 09 Apr 2024 07:07:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:46 GMT</pubDate>
+            <pubDate>Tue, 09 Apr 2024 07:07:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:46 GMT</pubDate>
+            <pubDate>Tue, 09 Apr 2024 07:07:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:46 GMT</pubDate>
+            <pubDate>Tue, 09 Apr 2024 07:07:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 09 Apr 2024 06:10:46 GMT</pubDate>
+            <pubDate>Tue, 09 Apr 2024 07:07:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
