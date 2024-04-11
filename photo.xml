@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 05:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 06:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리처드 기어·수잔 서랜든이 그린 60대의 사랑, 영화 '스위칭 로맨스']]></title>
+            <link>https://www.maxmovie.com/news/437396</link>
+            <guid>https://www.maxmovie.com/news/437396</guid>
+            <pubDate>Thu, 11 Apr 2024 06:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437396"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/171280070648571KCO.jpg" alt=""></span><span class="textBox"><h4>리처드 기어·수잔 서랜든이 그린 60대의 사랑, 영화 '스위칭 로맨스'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/171280070648571KCO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['범죄도시4' 마동석·박지환의 팀워크...미리 살펴보니]]></title>
             <link>https://www.maxmovie.com/news/437393</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437161"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711343799701GlTUe.jpg" alt=""></span><span class="textBox"><h4>'그녀가 죽었다' 남의 집 훔쳐보던 중인중개사의 결말은?</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711343799701GlTUe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조니 뎁 주연작 '잔 뒤 바리', 어떤 영화?]]></title>
-            <link>https://www.maxmovie.com/news/437160</link>
-            <guid>https://www.maxmovie.com/news/437160</guid>
-            <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437160"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711334971397siBmZ.jpg" alt=""></span><span class="textBox"><h4>조니 뎁 주연작 '잔 뒤 바리', 어떤 영화?</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711334971397siBmZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
