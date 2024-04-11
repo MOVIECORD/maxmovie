@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 02:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 03:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['범죄도시4' 마동석·박지환의 팀워크...미리 살펴보니]]></title>
+            <link>https://www.maxmovie.com/news/437393</link>
+            <guid>https://www.maxmovie.com/news/437393</guid>
+            <pubDate>Thu, 11 Apr 2024 03:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437393"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712799191201B6MQw.jpg" alt=""></span><span class="textBox"><h4>'범죄도시4' 마동석·박지환의 팀워크...미리 살펴보니  </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712799191201B6MQw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[젠데이아와 '콜마넴' 감독의 만남, '챌린저스' 어떤 이야기?]]></title>
             <link>https://www.maxmovie.com/news/437389</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437160"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711334971397siBmZ.jpg" alt=""></span><span class="textBox"><h4>조니 뎁 주연작 '잔 뒤 바리', 어떤 영화?</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711334971397siBmZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['장난꾸러기' 최민식→'섬뜩' 이도현, 천만 '파묘' 촬영 현장 살펴보니]]></title>
-            <link>https://www.maxmovie.com/news/437145</link>
-            <guid>https://www.maxmovie.com/news/437145</guid>
-            <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437145"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711246414009ELAmx.jpg" alt=""></span><span class="textBox"><h4>'장난꾸러기' 최민식→'섬뜩' 이도현, 천만 '파묘' 촬영 현장 살펴보니</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711246414009ELAmx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
