@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 01:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 02:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동서양 혼합 오컬트, 영화 '씬'의 기묘한 순간들]]></title>
+            <link>https://www.maxmovie.com/news/437411</link>
+            <guid>https://www.maxmovie.com/news/437411</guid>
+            <pubDate>Fri, 12 Apr 2024 02:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437411"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17128863583428ErjN.jpg" alt=""></span><span class="textBox"><h4>동서양 혼합 오컬트, 영화 '씬'의 기묘한 순간들</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17128863583428ErjN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모든 게 달라졌다, '혹성탈출:새로운 시대'...사냥 강하는 인간]]></title>
             <link>https://www.maxmovie.com/news/437409</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437172"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711415558438NiQDy.jpg" alt=""></span><span class="textBox"><h4>신작 '부르달락:흡혈귀'가 그린 흡혈귀의 기원</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711415558438NiQDy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마침내 공개한 '엑스맨 '97', 관전 포인트는?]]></title>
-            <link>https://www.maxmovie.com/news/437163</link>
-            <guid>https://www.maxmovie.com/news/437163</guid>
-            <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437163"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711350657426yK1MJ.jpg" alt=""></span><span class="textBox"><h4>마침내 공개한 '엑스맨 '97', 관전 포인트는?</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711350657426yK1MJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
