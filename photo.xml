@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 04:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 05:09:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 흥행 '극장판 하이큐!! 쓰레기장의 결전', 과연 한국에서는?]]></title>
+            <link>https://www.maxmovie.com/news/437462</link>
+            <guid>https://www.maxmovie.com/news/437462</guid>
+            <pubDate>Tue, 16 Apr 2024 05:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437462"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713232545870jBAkr.jpg" alt=""></span><span class="textBox"><h4>日 흥행 '극장판 하이큐!! 쓰레기장의 결전', 과연 한국에서는? </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713232545870jBAkr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브루스 윌리스의 마지막 액션, '어쌔신:드론전쟁' 어떤 영화?]]></title>
             <link>https://www.maxmovie.com/news/437461</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437223"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711675413897C2nBy.jpg" alt=""></span><span class="textBox"><h4>'로얄로더' 이준영·홍수주의 웨딩 비하인드 공개</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711675413897C2nBy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양조위·유덕화의 '골드핑거'가 그린 1980년대의 홍콩]]></title>
-            <link>https://www.maxmovie.com/news/437215</link>
-            <guid>https://www.maxmovie.com/news/437215</guid>
-            <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437215"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711606891880x7mZh.jpg" alt=""></span><span class="textBox"><h4>양조위·유덕화의 '골드핑거'가 그린 1980년대의 홍콩&nbsp;</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711606891880x7mZh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
