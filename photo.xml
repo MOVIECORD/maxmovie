@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 00:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 01:42:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손석구의 진지함 엿보이는...'댓글부대' 촬영장 비하인드]]></title>
+            <link>https://www.maxmovie.com/news/437460</link>
+            <guid>https://www.maxmovie.com/news/437460</guid>
+            <pubDate>Tue, 16 Apr 2024 01:42:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437460"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713230099381ZjMpi.jpg" alt=""></span><span class="textBox"><h4>손석구의 진지함 엿보이는...'댓글부대' 촬영장 비하인드  </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713230099381ZjMpi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[간택당한 집사와 고양이... '가필드 더 무비' 어떤 이야기 펼칠까]]></title>
             <link>https://www.maxmovie.com/news/437445</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437205"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711590257244Yzw9x.jpg" alt=""></span><span class="textBox"><h4>그레타 리·유태오가 그린 '패스트 라이브즈'의 애틋한 순간들</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711590257244Yzw9x.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['범죄도시4'의 뉴 빌런 장동철, 어떤 인물?]]></title>
-            <link>https://www.maxmovie.com/news/437203</link>
-            <guid>https://www.maxmovie.com/news/437203</guid>
-            <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437203"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711587762228R8eOK.jpg" alt=""></span><span class="textBox"><h4>'범죄도시4'의 뉴 빌런 장동철, 어떤 인물?</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711587762228R8eOK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
