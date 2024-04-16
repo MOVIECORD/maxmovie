@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 01:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 02:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브루스 윌리스의 마지막 액션, '어쌔신:드론전쟁' 어떤 영화?]]></title>
+            <link>https://www.maxmovie.com/news/437461</link>
+            <guid>https://www.maxmovie.com/news/437461</guid>
+            <pubDate>Tue, 16 Apr 2024 02:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437461"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713231387015SLGtZ.jpg" alt=""></span><span class="textBox"><h4>브루스 윌리스의 마지막 액션, '어쌔신:드론전쟁' 어떤 영화? </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713231387015SLGtZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손석구의 진지함 엿보이는...'댓글부대' 촬영장 비하인드]]></title>
             <link>https://www.maxmovie.com/news/437460</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437215"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711606891880x7mZh.jpg" alt=""></span><span class="textBox"><h4>양조위·유덕화의 '골드핑거'가 그린 1980년대의 홍콩&nbsp;</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711606891880x7mZh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그레타 리·유태오가 그린 '패스트 라이브즈'의 애틋한 순간들]]></title>
-            <link>https://www.maxmovie.com/news/437205</link>
-            <guid>https://www.maxmovie.com/news/437205</guid>
-            <pubDate>Sat, 30 Mar 2024 21:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437205"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711590257244Yzw9x.jpg" alt=""></span><span class="textBox"><h4>그레타 리·유태오가 그린 '패스트 라이브즈'의 애틋한 순간들</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711590257244Yzw9x.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
