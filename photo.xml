@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 04:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 05:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 '스텔라', 1940년대 독일에 충격 안긴 재즈 가수의 실화]]></title>
+            <link>https://www.maxmovie.com/news/437500</link>
+            <guid>https://www.maxmovie.com/news/437500</guid>
+            <pubDate>Thu, 18 Apr 2024 05:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437500"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713405821853gSdm7.jpg" alt=""></span><span class="textBox"><h4>영화 '스텔라', 1940년대 독일에 충격 안긴 재즈 가수의 실화 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713405821853gSdm7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송강호와 만난 변요한, '삼식이 삼촌'에 끌린 이유]]></title>
             <link>https://www.maxmovie.com/news/437495</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 02 Apr 2024 01:44:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437270"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712020799211wZKL8.jpg" alt=""></span><span class="textBox"><h4>7년 만에 돌아온 '혹성탈출:새로운 시대' 무엇이 달라졌나 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712020799211wZKL8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '패스트 라이브즈', 뉴욕 촬영 현장 엿보니]]></title>
-            <link>https://www.maxmovie.com/news/437253</link>
-            <guid>https://www.maxmovie.com/news/437253</guid>
-            <pubDate>Mon, 01 Apr 2024 05:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437253"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1711939130310nBUk7.jpg" alt=""></span><span class="textBox"><h4>영화 '패스트 라이브즈', 뉴욕 촬영 현장 엿보니</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1711939130310nBUk7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
