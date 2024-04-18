@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 05:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 06:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 18 Apr 2024 05:08:22 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437500"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713405821853gSdm7.jpg" alt=""></span><span class="textBox"><h4>영화 '스텔라', 1940년대 독일에 충격 안긴 재즈 가수의 실화 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713405821853gSdm7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[교토 애니 전성기 '극장판 울려라! 유포니엄:앙상블 콘테스트' 주목받는 이유]]></title>
+            <link>https://www.maxmovie.com/news/437498</link>
+            <guid>https://www.maxmovie.com/news/437498</guid>
+            <pubDate>Thu, 18 Apr 2024 06:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437498"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17134045354181Z9wD.jpg" alt=""></span><span class="textBox"><h4>교토 애니 전성기 '극장판 울려라! 유포니엄:앙상블 콘테스트' 주목받는 이유 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17134045354181Z9wD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송강호와 만난 변요한, '삼식이 삼촌'에 끌린 이유]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 02 Apr 2024 02:18:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437272"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17120222851143pJXu.jpg" alt=""></span><span class="textBox"><h4>'덴저러스 워터' 엄마의 남자친구가 숨긴 비밀은... 과연? </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17120222851143pJXu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7년 만에 돌아온 '혹성탈출:새로운 시대' 무엇이 달라졌나]]></title>
-            <link>https://www.maxmovie.com/news/437270</link>
-            <guid>https://www.maxmovie.com/news/437270</guid>
-            <pubDate>Tue, 02 Apr 2024 01:44:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437270"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712020799211wZKL8.jpg" alt=""></span><span class="textBox"><h4>7년 만에 돌아온 '혹성탈출:새로운 시대' 무엇이 달라졌나 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712020799211wZKL8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
