@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 01:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 02:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[류준열과 천우희의 만남 '더 에이트 쇼' 미리 엿보니]]></title>
+            <link>https://www.maxmovie.com/news/437518</link>
+            <guid>https://www.maxmovie.com/news/437518</guid>
+            <pubDate>Fri, 19 Apr 2024 02:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437518"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713490892979dkXfM.jpg" alt=""></span><span class="textBox"><h4>류준열과 천우희의 만남 '더 에이트 쇼' 미리 엿보니 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713490892979dkXfM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[납치한 발레리나가 뱀파이어라니...영화 '애비게일']]></title>
             <link>https://www.maxmovie.com/news/437516</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 03 Apr 2024 01:41:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437287"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712105696766qVBt7.jpg" alt=""></span><span class="textBox"><h4>다시 찾아온 '녹차의 맛', 짙은 여운과 기발한 상상력의 조화 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712105696766qVBt7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['원더풀 월드' 김남주·차은우의 미묘한 관계, 결말 향한 궁금증]]></title>
-            <link>https://www.maxmovie.com/news/437274</link>
-            <guid>https://www.maxmovie.com/news/437274</guid>
-            <pubDate>Tue, 02 Apr 2024 04:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437274"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712024262728n3Red.jpg" alt=""></span><span class="textBox"><h4>'원더풀 월드' 김남주·차은우의 미묘한 관계, 결말 향한 궁금증 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712024262728n3Red.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
