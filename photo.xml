@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 05:08:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 06:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이언 고슬링의 잠수 이별이 부른 '웃픈' 결과...영화 '스턴트맨']]></title>
+            <link>https://www.maxmovie.com/news/437519</link>
+            <guid>https://www.maxmovie.com/news/437519</guid>
+            <pubDate>Fri, 19 Apr 2024 06:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437519"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713492835900aAfwR.jpg" alt=""></span><span class="textBox"><h4>라이언 고슬링의 잠수 이별이 부른 '웃픈' 결과...영화 '스턴트맨'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713492835900aAfwR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[류준열과 천우희의 만남 '더 에이트 쇼' 미리 엿보니]]></title>
             <link>https://www.maxmovie.com/news/437518</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 03 Apr 2024 02:16:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437288"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712107140325CfCeb.jpg" alt=""></span><span class="textBox"><h4>영화감독 죽인 밀정을 찾는, 영화 '8인의 용의자들' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712107140325CfCeb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 찾아온 '녹차의 맛', 짙은 여운과 기발한 상상력의 조화]]></title>
-            <link>https://www.maxmovie.com/news/437287</link>
-            <guid>https://www.maxmovie.com/news/437287</guid>
-            <pubDate>Wed, 03 Apr 2024 01:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437287"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712105696766qVBt7.jpg" alt=""></span><span class="textBox"><h4>다시 찾아온 '녹차의 맛', 짙은 여운과 기발한 상상력의 조화 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712105696766qVBt7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
