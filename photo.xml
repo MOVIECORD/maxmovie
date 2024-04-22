@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 02:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 03:09:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['지배종' 주지훈 17대1 액션 뒷이야기]]></title>
+            <link>https://www.maxmovie.com/news/437547</link>
+            <guid>https://www.maxmovie.com/news/437547</guid>
+            <pubDate>Mon, 22 Apr 2024 03:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437547"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713752499145tHYvt.jpg" alt=""></span><span class="textBox"><h4>'지배종' 주지훈 17대1 액션 뒷이야기</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713752499145tHYvt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송강호가 그릴 '삼식이 삼촌'은 어떤 인물?]]></title>
             <link>https://www.maxmovie.com/news/437545</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 05 Apr 2024 02:15:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437320"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712280217950VTRv8.jpg" alt=""></span><span class="textBox"><h4>부천영화제가 주목한 신예 양근영 감독의 '모르는 이야기' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712280217950VTRv8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이언 고슬링의 변신은 '무죄'... 영화 '스턴트맨']]></title>
-            <link>https://www.maxmovie.com/news/437306</link>
-            <guid>https://www.maxmovie.com/news/437306</guid>
-            <pubDate>Thu, 04 Apr 2024 01:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437306"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712190150993htBrV.jpg" alt=""></span><span class="textBox"><h4>라이언 고슬링의 변신은 '무죄'... 영화 '스턴트맨' </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712190150993htBrV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
