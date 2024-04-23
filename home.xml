@@ -1,8 +1,223 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.maxmovie.com/</id>
-    <title>맥스무비</title>
-    <updated>2024-04-23T00:31:35.101Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.maxmovie.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>맥스무비</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 23 Apr 2024 01:44:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[0]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[3]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[8]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["'토요단편'에 관한 자료를 찾습니다"]]></title>
+            <link>https://www.maxmovie.com/news/437557</link>
+            <guid>https://www.maxmovie.com/news/437557</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[1980년대 열린 단편영화 상영회
+추진위, '토요단편' 자료 수집 중]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713774403113aTDUG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데일리 핫이슈] 쌈디 AOMG 결별 수순·'눈물의 여왕' 인기에 또 종방연 논의·송하윤 학폭 주장 A씨 추가 입장]]></title>
+            <link>https://www.maxmovie.com/news/437554</link>
+            <guid>https://www.maxmovie.com/news/437554</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713785679086li0yf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 개와 인간이 그린 감동 실화, 영화 '아서']]></title>
+            <link>https://www.maxmovie.com/news/437552</link>
+            <guid>https://www.maxmovie.com/news/437552</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[미카엘과 개 아서의 감동 실화
+배우 마크 월버그와 시무 리우 주연]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713765313619DlXxH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[결국 피해는 뉴진스에게... 악재 속 5월 활동 가능할까]]></title>
+            <link>https://www.maxmovie.com/news/437564</link>
+            <guid>https://www.maxmovie.com/news/437564</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[하이브, 어도어 민희진 대표 등 해임 절차
+경영권 탈춰 시도 VS  '뉴진스 카피'  대립]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713830750742fP8La.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한석규 팬, 독립영화 후원 화제]]></title>
+            <link>https://www.maxmovie.com/news/437561</link>
+            <guid>https://www.maxmovie.com/news/437561</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[인디스페이스 나눔자리 후원]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17138285326240uzlX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이브, 뉴진스 발굴 "민희진 대표 사임 요구"..소속사도 감사]]></title>
+            <link>https://www.maxmovie.com/news/437556</link>
+            <guid>https://www.maxmovie.com/news/437556</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[민희진 대표 등 어도어 독자 경영권 확보 시도?
+지분 80% 대주주 하이브, 감사권 발동 등 파장]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713771426161uDdxF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청소년관람불가 영화관람 연령, 5월부터 만 18세→만 19세]]></title>
+            <link>https://www.maxmovie.com/news/437555</link>
+            <guid>https://www.maxmovie.com/news/437555</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[5월1일 개정 영화비디오법 시행 따른 조치]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713770576609BHYM5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변요한이 자신한 '그녀가 죽었다', 5월15일 개봉...경쟁작은 '극장판 하이큐!!']]></title>
+            <link>https://www.maxmovie.com/news/437553</link>
+            <guid>https://www.maxmovie.com/news/437553</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[변요한 "'한산:용의 출현'보다 자신 있어"
+'극장판 하이큐!!'·'가필드 더 무비' 등과 동시기 개봉]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713766335179tgD6h.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팀명 바꾼 '브브걸', 이번엔 3인 체제로 재편...유정 탈퇴]]></title>
+            <link>https://www.maxmovie.com/news/437550</link>
+            <guid>https://www.maxmovie.com/news/437550</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[워너뮤직코리아와 전속계약 만료
+브레이브걸스에서 브브걸로 그룹명 변경]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713763205283bd6Pr.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[맥스무비, 부산영상위원회 SNS로 기사 제공 서비스]]></title>
+            <link>https://www.maxmovie.com/news/437549</link>
+            <guid>https://www.maxmovie.com/news/437549</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[4월부터 매달 카드뉴스 클리핑 콘텐츠]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713752857724U1YBf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['데드풀과 울버린' 7월24일 국내 개봉 확정]]></title>
+            <link>https://www.maxmovie.com/news/437544</link>
+            <guid>https://www.maxmovie.com/news/437544</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[라이언 레이놀즈 3번째 '데드풀'
+데드풀과 울버린의 컬래버레이션]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17137501720988HasO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김지원, 김수현 기억 찾을까…'눈물의 여왕', 역대 1위까지 0.1%p]]></title>
+            <link>https://www.maxmovie.com/news/437542</link>
+            <guid>https://www.maxmovie.com/news/437542</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[또 자체 최고 경신…21.7% '사불' 넘본다
+종영까지 2회…해피엔딩 할 수 있을까?]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713746953978DCS0C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['범죄도시4' 사전 예매량 50만장 돌파...시리즈 흥행 역사 새로 쓰나]]></title>
+            <link>https://www.maxmovie.com/news/437540</link>
+            <guid>https://www.maxmovie.com/news/437540</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 최고 예매량·시리즈 최고 사전 예매량
+4월24일 개봉 앞두고 90% 넘는 사전 예매율]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713773745098uBgP0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['해석 욕구' 자극, 칸 국제영화제 공식 포스터...어떤 의미 담았나]]></title>
+            <link>https://www.maxmovie.com/news/437539</link>
+            <guid>https://www.maxmovie.com/news/437539</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[구로사와 아키라 감독 영화의 한 장면  
+전쟁 딛고 사랑과 평화 향한 목소리]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713693706860Z6qpT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[흥미진진한 활극, '수사반장 1958' 레전드의 귀환]]></title>
+            <link>https://www.maxmovie.com/news/437538</link>
+            <guid>https://www.maxmovie.com/news/437538</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[명작 '수사반장'의 새로운 이야기
+촌스럽지만 열정 넘치는 형사 활극]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713689003714sPkXN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[절정 치닫는 '눈물의 여왕', 새드엔딩일까 해피엔딩일까]]></title>
+            <link>https://www.maxmovie.com/news/437537</link>
+            <guid>https://www.maxmovie.com/news/437537</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[4월27일과 28일 마지막 이야기 공개
+김수현과 김지원의 애틋한 사랑 관심]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713685982218RTCSN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['퓨리오사' 감독, 망원시장 떡꼬치 먹고 창덕궁 간 사연...]]></title>
+            <link>https://www.maxmovie.com/news/437536</link>
+            <guid>https://www.maxmovie.com/news/437536</guid>
+            <pubDate>Tue, 23 Apr 2024 01:43:27 GMT</pubDate>
+            <content:encoded><![CDATA['매드맥스'의 아버지, 조지 밀러 감독 
+'시장 음식'부터 '꽃 감성' 사진 촬영까지]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713678351947rsrcF.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
