@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Apr 2024 00:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 01:44:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허광한의 애틋한 첫사랑 순간들...'청춘 18X2 너에게로 이어지는 길']]></title>
+            <link>https://www.maxmovie.com/news/437586</link>
+            <guid>https://www.maxmovie.com/news/437586</guid>
+            <pubDate>Wed, 24 Apr 2024 01:44:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437586"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17139207506530SbtB.jpg" alt=""></span><span class="textBox"><h4>허광한의 애틋한 첫사랑 순간들...'청춘 18X2 너에게로 이어지는 길' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17139207506530SbtB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안은진부터 김윤혜까지 '종말의 바보' 캐릭터 열전 살펴보니...]]></title>
             <link>https://www.maxmovie.com/news/437573</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 09 Apr 2024 01:41:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437368"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712625181466ENNLp.jpg" alt=""></span><span class="textBox"><h4>'지배종' 한효주의 자신감 "가장 시의적절한 시리즈" </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712625181466ENNLp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['빈센트:살인유발자' 눈만 마주치면 시작되는 공격... 이유는?]]></title>
-            <link>https://www.maxmovie.com/news/437350</link>
-            <guid>https://www.maxmovie.com/news/437350</guid>
-            <pubDate>Mon, 08 Apr 2024 01:42:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437350"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712539728967S78wj.jpg" alt=""></span><span class="textBox"><h4>'빈센트:살인유발자' 눈만 마주치면 시작되는 공격... 이유는?</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712539728967S78wj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
