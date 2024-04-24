@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.maxmovie.com/photo</id>
-    <title>맥스무비 ─ 포토</title>
-    <updated>2024-04-24T08:10:41.008Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.maxmovie.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>맥스무비 ─ 포토</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 24 Apr 2024 09:07:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[훔치고 훔쳐보는 사람들, 변요한·신혜선 '그녀가 죽었다']]></title>
+            <link>https://www.maxmovie.com/news/437587</link>
+            <guid>https://www.maxmovie.com/news/437587</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437587"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/171392195978360ROy.jpg" alt=""></span><span class="textBox"><h4>훔치고 훔쳐보는 사람들, 변요한·신혜선 '그녀가 죽었다' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/171392195978360ROy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허광한의 애틋한 첫사랑 순간들...'청춘 18X2 너에게로 이어지는 길']]></title>
+            <link>https://www.maxmovie.com/news/437586</link>
+            <guid>https://www.maxmovie.com/news/437586</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437586"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17139207506530SbtB.jpg" alt=""></span><span class="textBox"><h4>허광한의 애틋한 첫사랑 순간들...'청춘 18X2 너에게로 이어지는 길' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17139207506530SbtB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안은진부터 김윤혜까지 '종말의 바보' 캐릭터 열전 살펴보니...]]></title>
+            <link>https://www.maxmovie.com/news/437573</link>
+            <guid>https://www.maxmovie.com/news/437573</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437573"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713853283763VuN5Z.jpg" alt=""></span><span class="textBox"><h4>안은진부터 김윤혜까지 '종말의 바보' 캐릭터 열전 살펴보니...</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713853283763VuN5Z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홍상수 감독의 31번째 영화 '여행자의 필요', 이번엔 어떤 이야기?]]></title>
+            <link>https://www.maxmovie.com/news/437568</link>
+            <guid>https://www.maxmovie.com/news/437568</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437568"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713838332882rgf3k.jpg" alt=""></span><span class="textBox"><h4>홍상수 감독의 31번째 영화 '여행자의 필요', 이번엔 어떤 이야기? </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713838332882rgf3k.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탕웨이부터 박보검·수지까지... 김태용 감독이 만든 '원더랜드'는 어떤 곳?]]></title>
+            <link>https://www.maxmovie.com/news/437567</link>
+            <guid>https://www.maxmovie.com/news/437567</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437567"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713837381560I8brH.jpg" alt=""></span><span class="textBox"><h4>탕웨이부터 박보검·수지까지... 김태용 감독이 만든 '원더랜드'는 어떤 곳? </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713837381560I8brH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['지배종' 주지훈 17대1 액션 뒷이야기]]></title>
+            <link>https://www.maxmovie.com/news/437547</link>
+            <guid>https://www.maxmovie.com/news/437547</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437547"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713752499145tHYvt.jpg" alt=""></span><span class="textBox"><h4>'지배종' 주지훈 17대1 액션 뒷이야기</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713752499145tHYvt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송강호가 그릴 '삼식이 삼촌'은 어떤 인물?]]></title>
+            <link>https://www.maxmovie.com/news/437545</link>
+            <guid>https://www.maxmovie.com/news/437545</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437545"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713750792577cwq1H.jpg" alt=""></span><span class="textBox"><h4>송강호가 그릴 '삼식이 삼촌'은 어떤 인물? </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713750792577cwq1H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑스러운 집냥이의 모험 담은 '가필드 더 무비', 미리 봤더니]]></title>
+            <link>https://www.maxmovie.com/news/437543</link>
+            <guid>https://www.maxmovie.com/news/437543</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437543"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17137498030939BS22.jpg" alt=""></span><span class="textBox"><h4>사랑스러운 집냥이의 모험 담은 '가필드 더 무비', 미리 봤더니 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17137498030939BS22.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라이언 고슬링의 잠수 이별이 부른 '웃픈' 결과...영화 '스턴트맨']]></title>
+            <link>https://www.maxmovie.com/news/437519</link>
+            <guid>https://www.maxmovie.com/news/437519</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437519"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713492835900aAfwR.jpg" alt=""></span><span class="textBox"><h4>라이언 고슬링의 잠수 이별이 부른 '웃픈' 결과...영화 '스턴트맨'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713492835900aAfwR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[류준열과 천우희의 만남 '더 에이트 쇼' 미리 엿보니]]></title>
+            <link>https://www.maxmovie.com/news/437518</link>
+            <guid>https://www.maxmovie.com/news/437518</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437518"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713490892979dkXfM.jpg" alt=""></span><span class="textBox"><h4>류준열과 천우희의 만남 '더 에이트 쇼' 미리 엿보니 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713490892979dkXfM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[납치한 발레리나가 뱀파이어라니...영화 '애비게일']]></title>
+            <link>https://www.maxmovie.com/news/437516</link>
+            <guid>https://www.maxmovie.com/news/437516</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437516"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713488934952kqFN7.jpg" alt=""></span><span class="textBox"><h4>납치한 발레리나가 뱀파이어라니...영화 '애비게일'  </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713488934952kqFN7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 '스텔라', 1940년대 독일에 충격 안긴 재즈 가수의 실화]]></title>
+            <link>https://www.maxmovie.com/news/437500</link>
+            <guid>https://www.maxmovie.com/news/437500</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437500"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713405821853gSdm7.jpg" alt=""></span><span class="textBox"><h4>영화 '스텔라', 1940년대 독일에 충격 안긴 재즈 가수의 실화 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713405821853gSdm7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[교토 애니 전성기 '극장판 울려라! 유포니엄:앙상블 콘테스트' 주목받는 이유]]></title>
+            <link>https://www.maxmovie.com/news/437498</link>
+            <guid>https://www.maxmovie.com/news/437498</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437498"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17134045354181Z9wD.jpg" alt=""></span><span class="textBox"><h4>교토 애니 전성기 '극장판 울려라! 유포니엄:앙상블 콘테스트' 주목받는 이유 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17134045354181Z9wD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송강호와 만난 변요한, '삼식이 삼촌'에 끌린 이유]]></title>
+            <link>https://www.maxmovie.com/news/437495</link>
+            <guid>https://www.maxmovie.com/news/437495</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437495"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713402609070Vr3aE.jpg" alt=""></span><span class="textBox"><h4>송강호와 만난 변요한, '삼식이 삼촌'에 끌린 이유 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713402609070Vr3aE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 '차이콥스키의 아내' 감독의 발착한 선언]]></title>
+            <link>https://www.maxmovie.com/news/437478</link>
+            <guid>https://www.maxmovie.com/news/437478</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437478"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713322688242Y8FYM.jpg" alt=""></span><span class="textBox"><h4>영화 '차이콥스키의 아내' 감독의 발착한 선언  </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713322688242Y8FYM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[첫 드라마 도전 송강호 "영화에선 한번도 보인 적 없는 인물"]]></title>
+            <link>https://www.maxmovie.com/news/437476</link>
+            <guid>https://www.maxmovie.com/news/437476</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437476"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713316670446OVKoa.jpg" alt=""></span><span class="textBox"><h4>첫 드라마 도전 송강호 "영화에선 한번도 보인 적 없는 인물"</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713316670446OVKoa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변요한과 신혜선의 미스터리한 관계, '그녀가 죽었다']]></title>
+            <link>https://www.maxmovie.com/news/437474</link>
+            <guid>https://www.maxmovie.com/news/437474</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437474"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713315134764Wfhfe.jpg" alt=""></span><span class="textBox"><h4>변요한과 신혜선의 미스터리한 관계, '그녀가 죽었다' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713315134764Wfhfe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 흥행 '극장판 하이큐!! 쓰레기장의 결전', 과연 한국에서는?]]></title>
+            <link>https://www.maxmovie.com/news/437462</link>
+            <guid>https://www.maxmovie.com/news/437462</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437462"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713232545870jBAkr.jpg" alt=""></span><span class="textBox"><h4>日 흥행 '극장판 하이큐!! 쓰레기장의 결전', 과연 한국에서는? </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713232545870jBAkr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브루스 윌리스의 마지막 액션, '어쌔신:드론전쟁' 어떤 영화?]]></title>
+            <link>https://www.maxmovie.com/news/437461</link>
+            <guid>https://www.maxmovie.com/news/437461</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437461"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713231387015SLGtZ.jpg" alt=""></span><span class="textBox"><h4>브루스 윌리스의 마지막 액션, '어쌔신:드론전쟁' 어떤 영화? </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713231387015SLGtZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손석구의 진지함 엿보이는...'댓글부대' 촬영장 비하인드]]></title>
+            <link>https://www.maxmovie.com/news/437460</link>
+            <guid>https://www.maxmovie.com/news/437460</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437460"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713230099381ZjMpi.jpg" alt=""></span><span class="textBox"><h4>손석구의 진지함 엿보이는...'댓글부대' 촬영장 비하인드  </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713230099381ZjMpi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[간택당한 집사와 고양이... '가필드 더 무비' 어떤 이야기 펼칠까]]></title>
+            <link>https://www.maxmovie.com/news/437445</link>
+            <guid>https://www.maxmovie.com/news/437445</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437445"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713146553179k7fPk.jpg" alt=""></span><span class="textBox"><h4>간택당한 집사와 고양이... '가필드 더 무비' 어떤 이야기 펼칠까 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713146553179k7fPk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인공 배양육 내세운 '지배종', 신선한 소재로 인기 모을까]]></title>
+            <link>https://www.maxmovie.com/news/437443</link>
+            <guid>https://www.maxmovie.com/news/437443</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437443"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713144071844EaccR.jpg" alt=""></span><span class="textBox"><h4>인공 배양육 내세운 '지배종', 신선한 소재로 인기 모을까</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713144071844EaccR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개봉 D-9 '범죄도시4', 시리즈 성공 이어갈까]]></title>
+            <link>https://www.maxmovie.com/news/437439</link>
+            <guid>https://www.maxmovie.com/news/437439</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437439"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713142055499SEQDg.jpg" alt=""></span><span class="textBox"><h4>개봉 D-9 '범죄도시4', 시리즈 성공 이어갈까 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713142055499SEQDg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제목부터 의미심장한 영화...'별처럼 빛나는 너에게 더무비-일섬일섬량성성']]></title>
+            <link>https://www.maxmovie.com/news/437413</link>
+            <guid>https://www.maxmovie.com/news/437413</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437413"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712888276935wyhFF.jpg" alt=""></span><span class="textBox"><h4>제목부터 의미심장한 영화...'별처럼 빛나는 너에게 더무비-일섬일섬량성성'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712888276935wyhFF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동서양 혼합 오컬트, 영화 '씬'의 기묘한 순간들]]></title>
+            <link>https://www.maxmovie.com/news/437411</link>
+            <guid>https://www.maxmovie.com/news/437411</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437411"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17128863583428ErjN.jpg" alt=""></span><span class="textBox"><h4>동서양 혼합 오컬트, 영화 '씬'의 기묘한 순간들</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17128863583428ErjN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모든 게 달라졌다, '혹성탈출:새로운 시대'...사냥 당하는 인간]]></title>
+            <link>https://www.maxmovie.com/news/437409</link>
+            <guid>https://www.maxmovie.com/news/437409</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437409"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712883189510B5Btu.jpg" alt=""></span><span class="textBox"><h4>모든 게 달라졌다, '혹성탈출:새로운 시대'...사냥 당하는 인간 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712883189510B5Btu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리처드 기어·수잔 서랜든이 그린 60대의 사랑, 영화 '스위칭 로맨스']]></title>
+            <link>https://www.maxmovie.com/news/437396</link>
+            <guid>https://www.maxmovie.com/news/437396</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437396"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/171280070648571KCO.jpg" alt=""></span><span class="textBox"><h4>리처드 기어·수잔 서랜든이 그린 60대의 사랑, 영화 '스위칭 로맨스'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/171280070648571KCO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['범죄도시4' 마동석·박지환의 팀워크...미리 살펴보니]]></title>
+            <link>https://www.maxmovie.com/news/437393</link>
+            <guid>https://www.maxmovie.com/news/437393</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437393"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712799191201B6MQw.jpg" alt=""></span><span class="textBox"><h4>'범죄도시4' 마동석·박지환의 팀워크...미리 살펴보니  </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712799191201B6MQw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[젠데이아와 '콜마넴' 감독의 만남, '챌린저스' 어떤 이야기?]]></title>
+            <link>https://www.maxmovie.com/news/437389</link>
+            <guid>https://www.maxmovie.com/news/437389</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437389"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712797117614Dh8CX.jpg" alt=""></span><span class="textBox"><h4>젠데이아와 '콜마넴' 감독의 만남, '챌린저스' 어떤 이야기? </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712797117614Dh8CX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여론 조작 주도한 '댓글부대' 팹택, 배우 홍경의 낯선 얼굴]]></title>
+            <link>https://www.maxmovie.com/news/437369</link>
+            <guid>https://www.maxmovie.com/news/437369</guid>
+            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437369"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712626213079ovD3R.jpg" alt=""></span><span class="textBox"><h4>여론 조작 주도한 '댓글부대' 팹택, 배우 홍경의 낯선 얼굴</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712626213079ovD3R.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
