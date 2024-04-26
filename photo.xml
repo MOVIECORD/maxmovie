@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 05:07:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 06:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['챌린저스' 젠데이아의 고자극 로맨스]]></title>
+            <link>https://www.maxmovie.com/news/437636</link>
+            <guid>https://www.maxmovie.com/news/437636</guid>
+            <pubDate>Fri, 26 Apr 2024 06:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437636"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714096750294CPP5k.jpg" alt=""></span><span class="textBox"><h4>'챌린저스' 젠데이아의 고자극 로맨스 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714096750294CPP5k.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[텀블벅 674% 달성... '목화솜 피는 날'에 담긴 세월호로부터 10년]]></title>
             <link>https://www.maxmovie.com/news/437632</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437413"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712888276935wyhFF.jpg" alt=""></span><span class="textBox"><h4>제목부터 의미심장한 영화...'별처럼 빛나는 너에게 더무비-일섬일섬량성성'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712888276935wyhFF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동서양 혼합 오컬트, 영화 '씬'의 기묘한 순간들]]></title>
-            <link>https://www.maxmovie.com/news/437411</link>
-            <guid>https://www.maxmovie.com/news/437411</guid>
-            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437411"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17128863583428ErjN.jpg" alt=""></span><span class="textBox"><h4>동서양 혼합 오컬트, 영화 '씬'의 기묘한 순간들</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17128863583428ErjN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
