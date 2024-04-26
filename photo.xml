@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 00:31:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 01:43:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['삼식이 삼촌' 감독, 유재명·서현우 캐스팅한 이유는?]]></title>
+            <link>https://www.maxmovie.com/news/437631</link>
+            <guid>https://www.maxmovie.com/news/437631</guid>
+            <pubDate>Fri, 26 Apr 2024 01:43:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437631"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714093843193xBb1w.jpg" alt=""></span><span class="textBox"><h4>'삼식이 삼촌' 감독, 유재명·서현우 캐스팅한 이유는? </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714093843193xBb1w.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['별처럼 빛나는 너에게 더무비' 시공간 넘나드는 사랑의 순간들]]></title>
             <link>https://www.maxmovie.com/news/437612</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437409"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712883189510B5Btu.jpg" alt=""></span><span class="textBox"><h4>모든 게 달라졌다, '혹성탈출:새로운 시대'...사냥 당하는 인간 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712883189510B5Btu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리처드 기어·수잔 서랜든이 그린 60대의 사랑, 영화 '스위칭 로맨스']]></title>
-            <link>https://www.maxmovie.com/news/437396</link>
-            <guid>https://www.maxmovie.com/news/437396</guid>
-            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437396"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/171280070648571KCO.jpg" alt=""></span><span class="textBox"><h4>리처드 기어·수잔 서랜든이 그린 60대의 사랑, 영화 '스위칭 로맨스'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/171280070648571KCO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
