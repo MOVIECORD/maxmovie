@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 01:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 02:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[텀블벅 674% 달성... '목화솜 피는 날'에 담긴 세월호로부터 10년]]></title>
+            <link>https://www.maxmovie.com/news/437632</link>
+            <guid>https://www.maxmovie.com/news/437632</guid>
+            <pubDate>Fri, 26 Apr 2024 02:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437632"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714095329147C6UvV.jpg" alt=""></span><span class="textBox"><h4>텀블벅 674% 달성... '목화솜 피는 날'에 담긴 세월호로부터 10년 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714095329147C6UvV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['삼식이 삼촌' 감독, 유재명·서현우 캐스팅한 이유는?]]></title>
             <link>https://www.maxmovie.com/news/437631</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437411"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17128863583428ErjN.jpg" alt=""></span><span class="textBox"><h4>동서양 혼합 오컬트, 영화 '씬'의 기묘한 순간들</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17128863583428ErjN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모든 게 달라졌다, '혹성탈출:새로운 시대'...사냥 당하는 인간]]></title>
-            <link>https://www.maxmovie.com/news/437409</link>
-            <guid>https://www.maxmovie.com/news/437409</guid>
-            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437409"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1712883189510B5Btu.jpg" alt=""></span><span class="textBox"><h4>모든 게 달라졌다, '혹성탈출:새로운 시대'...사냥 당하는 인간 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1712883189510B5Btu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
