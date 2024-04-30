@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 03:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 04:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['수사반장 1958' 이제훈·이동휘, '영웅'으로 거듭나는 순간들]]></title>
+            <link>https://www.maxmovie.com/news/437683</link>
+            <guid>https://www.maxmovie.com/news/437683</guid>
+            <pubDate>Tue, 30 Apr 2024 04:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437683"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714441810474KXfek.jpg" alt=""></span><span class="textBox"><h4>'수사반장 1958' 이제훈·이동휘, '영웅'으로 거듭나는 순간들 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714441810474KXfek.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아야노 고 주연 '에로티즘 시나리오', 어떤 이야기?]]></title>
             <link>https://www.maxmovie.com/news/437682</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437461"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713231387015SLGtZ.jpg" alt=""></span><span class="textBox"><h4>브루스 윌리스의 마지막 액션, '어쌔신:드론전쟁' 어떤 영화? </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713231387015SLGtZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손석구의 진지함 엿보이는...'댓글부대' 촬영장 비하인드]]></title>
-            <link>https://www.maxmovie.com/news/437460</link>
-            <guid>https://www.maxmovie.com/news/437460</guid>
-            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437460"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713230099381ZjMpi.jpg" alt=""></span><span class="textBox"><h4>손석구의 진지함 엿보이는...'댓글부대' 촬영장 비하인드  </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713230099381ZjMpi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
