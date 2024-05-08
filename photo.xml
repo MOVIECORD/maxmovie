@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 May 2024 03:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 04:07:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['올바른 욕망'이 무엇인지 묻은, 영화 '정욕']]></title>
+            <link>https://www.maxmovie.com/news/437786</link>
+            <guid>https://www.maxmovie.com/news/437786</guid>
+            <pubDate>Wed, 08 May 2024 04:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437786"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715135450425UqD4B.jpg" alt=""></span><span class="textBox"><h4>'올바른 욕망'이 무엇인지 묻은, 영화 '정욕'&nbsp; </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715135450425UqD4B.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['포켓몬스터: 성도지방 이야기, 최종장' 마침내 공개된 마지막 이야기]]></title>
             <link>https://www.maxmovie.com/news/437784</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437547"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713752499145tHYvt.jpg" alt=""></span><span class="textBox"><h4>'지배종' 주지훈 17대1 액션 뒷이야기</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713752499145tHYvt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송강호가 그릴 '삼식이 삼촌'은 어떤 인물?]]></title>
-            <link>https://www.maxmovie.com/news/437545</link>
-            <guid>https://www.maxmovie.com/news/437545</guid>
-            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437545"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1713750792577cwq1H.jpg" alt=""></span><span class="textBox"><h4>송강호가 그릴 '삼식이 삼촌'은 어떤 인물? </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1713750792577cwq1H.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
