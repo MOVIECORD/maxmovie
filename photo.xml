@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 01:51:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 02:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[길 잃은 야생동물들은 어디로 갈까...다큐 '생츄어리']]></title>
+            <link>https://www.maxmovie.com/news/437816</link>
+            <guid>https://www.maxmovie.com/news/437816</guid>
+            <pubDate>Fri, 10 May 2024 02:25:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437816"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715304992564MEsxY.jpg" alt=""></span><span class="textBox"><h4>길 잃은 야생동물들은 어디로 갈까...다큐 '생츄어리'  </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715304992564MEsxY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['명탐정 코난 VS 괴도 키드'... 세기의 첫 대결이 시작된다]]></title>
             <link>https://www.maxmovie.com/news/437814</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437587"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/171392195978360ROy.jpg" alt=""></span><span class="textBox"><h4>훔치고 훔쳐보는 사람들, 변요한·신혜선 '그녀가 죽었다' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/171392195978360ROy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허광한의 애틋한 첫사랑 순간들...'청춘 18X2 너에게로 이어지는 길']]></title>
-            <link>https://www.maxmovie.com/news/437586</link>
-            <guid>https://www.maxmovie.com/news/437586</guid>
-            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437586"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17139207506530SbtB.jpg" alt=""></span><span class="textBox"><h4>허광한의 애틋한 첫사랑 순간들...'청춘 18X2 너에게로 이어지는 길' </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17139207506530SbtB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
