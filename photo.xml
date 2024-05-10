@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 05:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 06:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1940년대 독일의 비극을 관통한 재즈가수, 영화 '스텔라']]></title>
+            <link>https://www.maxmovie.com/news/437818</link>
+            <guid>https://www.maxmovie.com/news/437818</guid>
+            <pubDate>Fri, 10 May 2024 06:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437818"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715306306362tYA3b.jpg" alt=""></span><span class="textBox"><h4>1940년대 독일의 비극을 관통한 재즈가수, 영화 '스텔라'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715306306362tYA3b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[길 잃은 야생동물들은 어디로 갈까...다큐 '생츄어리']]></title>
             <link>https://www.maxmovie.com/news/437816</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 25 Apr 2024 01:45:08 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437606"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714005672660Mu5sg.jpg" alt=""></span><span class="textBox"><h4>난니 모레티 감독의 인생찬가, 영화 '찬란한 내일로' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714005672660Mu5sg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[훔치고 훔쳐보는 사람들, 변요한·신혜선 '그녀가 죽었다']]></title>
-            <link>https://www.maxmovie.com/news/437587</link>
-            <guid>https://www.maxmovie.com/news/437587</guid>
-            <pubDate>Wed, 24 Apr 2024 09:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437587"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/171392195978360ROy.jpg" alt=""></span><span class="textBox"><h4>훔치고 훔쳐보는 사람들, 변요한·신혜선 '그녀가 죽었다' </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/171392195978360ROy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
