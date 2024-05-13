@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 01:51:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 02:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['노팅 힐' 감독이 담은 '여왕'의 진짜 삶... 다큐 '퀸 엘리자베스']]></title>
+            <link>https://www.maxmovie.com/news/437842</link>
+            <guid>https://www.maxmovie.com/news/437842</guid>
+            <pubDate>Mon, 13 May 2024 02:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437842"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715563152020DdxBO.jpg" alt=""></span><span class="textBox"><h4>'노팅 힐' 감독이 담은 '여왕'의 진짜 삶... 다큐 '퀸 엘리자베스' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715563152020DdxBO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['하이재킹' 하정우, 이번엔 납치된 여객기의 부기장]]></title>
             <link>https://www.maxmovie.com/news/437839</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 25 Apr 2024 02:19:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437612"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714009216537EFa4z.jpg" alt=""></span><span class="textBox"><h4>'별처럼 빛나는 너에게 더무비' 시공간 넘나드는 사랑의 순간들</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714009216537EFa4z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인생을 건 복수, '퓨리오사:매드맥스 사가' 미리 엿보니]]></title>
-            <link>https://www.maxmovie.com/news/437609</link>
-            <guid>https://www.maxmovie.com/news/437609</guid>
-            <pubDate>Thu, 25 Apr 2024 01:45:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437609"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714007676357jsJk9.jpg" alt=""></span><span class="textBox"><h4>인생을 건 복수, '퓨리오사:매드맥스 사가' 미리 엿보니 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714007676357jsJk9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
