@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 00:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 01:51:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['하이재킹' 하정우, 이번엔 납치된 여객기의 부기장]]></title>
+            <link>https://www.maxmovie.com/news/437839</link>
+            <guid>https://www.maxmovie.com/news/437839</guid>
+            <pubDate>Mon, 13 May 2024 01:51:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437839"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715561545550DHVrO.jpg" alt=""></span><span class="textBox"><h4>'하이재킹' 하정우, 이번엔 납치된 여객기의 부기장 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715561545550DHVrO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1940년대 독일의 비극을 관통한 재즈가수, 영화 '스텔라']]></title>
             <link>https://www.maxmovie.com/news/437818</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 25 Apr 2024 01:45:08 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437609"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714007676357jsJk9.jpg" alt=""></span><span class="textBox"><h4>인생을 건 복수, '퓨리오사:매드맥스 사가' 미리 엿보니 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714007676357jsJk9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난니 모레티 감독의 인생찬가, 영화 '찬란한 내일로']]></title>
-            <link>https://www.maxmovie.com/news/437606</link>
-            <guid>https://www.maxmovie.com/news/437606</guid>
-            <pubDate>Thu, 25 Apr 2024 01:45:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437606"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714005672660Mu5sg.jpg" alt=""></span><span class="textBox"><h4>난니 모레티 감독의 인생찬가, 영화 '찬란한 내일로' </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714005672660Mu5sg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
