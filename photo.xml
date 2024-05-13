@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 05:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 06:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이언 고슬링·에밀리 블런트가 완성한 '스턴트맨'의 순간들]]></title>
+            <link>https://www.maxmovie.com/news/437844</link>
+            <guid>https://www.maxmovie.com/news/437844</guid>
+            <pubDate>Mon, 13 May 2024 06:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437844"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715565836332AGmVK.jpg" alt=""></span><span class="textBox"><h4>라이언 고슬링·에밀리 블런트가 완성한 '스턴트맨'의 순간들 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715565836332AGmVK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['노팅 힐' 감독이 담은 '여왕'의 진짜 삶... 다큐 '퀸 엘리자베스']]></title>
             <link>https://www.maxmovie.com/news/437842</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 26 Apr 2024 01:43:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437631"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714093843193xBb1w.jpg" alt=""></span><span class="textBox"><h4>'삼식이 삼촌' 감독, 유재명·서현우 캐스팅한 이유는? </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714093843193xBb1w.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['별처럼 빛나는 너에게 더무비' 시공간 넘나드는 사랑의 순간들]]></title>
-            <link>https://www.maxmovie.com/news/437612</link>
-            <guid>https://www.maxmovie.com/news/437612</guid>
-            <pubDate>Thu, 25 Apr 2024 02:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437612"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714009216537EFa4z.jpg" alt=""></span><span class="textBox"><h4>'별처럼 빛나는 너에게 더무비' 시공간 넘나드는 사랑의 순간들</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714009216537EFa4z.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
