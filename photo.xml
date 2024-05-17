@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 06:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 07:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘비스 프레슬리의 유일한 사랑... 영화 '프리실라']]></title>
+            <link>https://www.maxmovie.com/news/437908</link>
+            <guid>https://www.maxmovie.com/news/437908</guid>
+            <pubDate>Fri, 17 May 2024 07:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437908"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715917036977OMbPL.jpg" alt=""></span><span class="textBox"><h4>엘비스 프레슬리의 유일한 사랑... 영화 '프리실라'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715917036977OMbPL.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너드걸의 청춘·성장·사랑...영화 '마거리트의 정리']]></title>
             <link>https://www.maxmovie.com/news/437907</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 May 2024 06:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437712"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714617812410mGXVv.jpg" alt=""></span><span class="textBox"><h4>영화 '1980'가 담은 '1980년 5월 광주'의 이야기 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714617812410mGXVv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청부 살인 돕는 강동원... '설계자' 어떤 이야기길래]]></title>
-            <link>https://www.maxmovie.com/news/437710</link>
-            <guid>https://www.maxmovie.com/news/437710</guid>
-            <pubDate>Thu, 02 May 2024 02:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437710"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714613619665ZNsdR.jpg" alt=""></span><span class="textBox"><h4>청부 살인 돕는 강동원... '설계자' 어떤 이야기길래 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714613619665ZNsdR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
