@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 02:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 03:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너드걸의 청춘·성장·사랑...영화 '마거리트의 정리']]></title>
+            <link>https://www.maxmovie.com/news/437907</link>
+            <guid>https://www.maxmovie.com/news/437907</guid>
+            <pubDate>Fri, 17 May 2024 03:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437907"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715911420741iBdiG.jpg" alt=""></span><span class="textBox"><h4>너드걸의 청춘·성장·사랑...영화 '마거리트의 정리'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715911420741iBdiG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[류준열의 '더 에이트 쇼', 글로벌 시청자 마음 훔칠 수 있을까]]></title>
             <link>https://www.maxmovie.com/news/437905</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 May 2024 02:19:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437710"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714613619665ZNsdR.jpg" alt=""></span><span class="textBox"><h4>청부 살인 돕는 강동원... '설계자' 어떤 이야기길래 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714613619665ZNsdR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['수사반장 1958' 이제훈·이동휘, '영웅'으로 거듭나는 순간들]]></title>
-            <link>https://www.maxmovie.com/news/437683</link>
-            <guid>https://www.maxmovie.com/news/437683</guid>
-            <pubDate>Tue, 30 Apr 2024 04:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437683"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714441810474KXfek.jpg" alt=""></span><span class="textBox"><h4>'수사반장 1958' 이제훈·이동휘, '영웅'으로 거듭나는 순간들 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714441810474KXfek.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
