@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 01:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 02:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[류준열의 '더 에이트 쇼', 글로벌 시청자 마음 훔칠 수 있을까]]></title>
+            <link>https://www.maxmovie.com/news/437905</link>
+            <guid>https://www.maxmovie.com/news/437905</guid>
+            <pubDate>Fri, 17 May 2024 02:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437905"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715909411750f637V.jpg" alt=""></span><span class="textBox"><h4>류준열의 '더 에이트 쇼', 글로벌 시청자 마음 훔칠 수 있을까 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715909411750f637V.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메인 캐릭터 성장 '괴도 키드', 명탐정 코난과의 대결은?]]></title>
             <link>https://www.maxmovie.com/news/437894</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 30 Apr 2024 04:10:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437683"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714441810474KXfek.jpg" alt=""></span><span class="textBox"><h4>'수사반장 1958' 이제훈·이동휘, '영웅'으로 거듭나는 순간들 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714441810474KXfek.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아야노 고 주연 '에로티즘 시나리오', 어떤 이야기?]]></title>
-            <link>https://www.maxmovie.com/news/437682</link>
-            <guid>https://www.maxmovie.com/news/437682</guid>
-            <pubDate>Tue, 30 Apr 2024 01:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437682"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714439767739OhMpk.jpg" alt=""></span><span class="textBox"><h4>아야노 고 주연 '에로티즘 시나리오', 어떤 이야기? </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714439767739OhMpk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
