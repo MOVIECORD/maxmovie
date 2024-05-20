@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 02:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 03:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위대한 예술가 라파엘로의 삶, 영화 '라파엘로. 예술의 군주' 미리 봤더니]]></title>
+            <link>https://www.maxmovie.com/news/437946</link>
+            <guid>https://www.maxmovie.com/news/437946</guid>
+            <pubDate>Mon, 20 May 2024 03:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437946"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716171303128EQZBt.jpg" alt=""></span><span class="textBox"><h4>위대한 예술가 라파엘로의 삶, 영화 '라파엘로. 예술의 군주' 미리 봤더니</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716171303128EQZBt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['트리플 천만' 일군 '범죄도시4'의 생생한 촬영현장 비하인드]]></title>
             <link>https://www.maxmovie.com/news/437945</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 May 2024 03:09:40 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437727"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714701922749LHQnz.jpg" alt=""></span><span class="textBox"><h4>'범죄도시4' 괴물형사 마석도의 진면목, '마요미' 순간 포착 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714701922749LHQnz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬욱 감독이 '동조자'로 보여준 다채로운 인간 군상]]></title>
-            <link>https://www.maxmovie.com/news/437725</link>
-            <guid>https://www.maxmovie.com/news/437725</guid>
-            <pubDate>Fri, 03 May 2024 02:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437725"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714699647728XmqOt.jpg" alt=""></span><span class="textBox"><h4>박찬욱 감독이 '동조자'로 보여준 다채로운 인간 군상 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714699647728XmqOt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
