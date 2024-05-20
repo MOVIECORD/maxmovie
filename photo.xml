@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 01:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 02:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['트리플 천만' 일군 '범죄도시4'의 생생한 촬영현장 비하인드]]></title>
+            <link>https://www.maxmovie.com/news/437945</link>
+            <guid>https://www.maxmovie.com/news/437945</guid>
+            <pubDate>Mon, 20 May 2024 02:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437945"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716169418833VRkIo.jpg" alt=""></span><span class="textBox"><h4>'트리플 천만' 일군 '범죄도시4'의 생생한 촬영현장 비하인드 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716169418833VRkIo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엘비스 프레슬리의 유일한 사랑... 영화 '프리실라']]></title>
             <link>https://www.maxmovie.com/news/437908</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 May 2024 02:21:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437725"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714699647728XmqOt.jpg" alt=""></span><span class="textBox"><h4>박찬욱 감독이 '동조자'로 보여준 다채로운 인간 군상 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714699647728XmqOt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '1980'가 담은 '1980년 5월 광주'의 이야기]]></title>
-            <link>https://www.maxmovie.com/news/437712</link>
-            <guid>https://www.maxmovie.com/news/437712</guid>
-            <pubDate>Thu, 02 May 2024 06:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437712"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1714617812410mGXVv.jpg" alt=""></span><span class="textBox"><h4>영화 '1980'가 담은 '1980년 5월 광주'의 이야기 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1714617812410mGXVv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
