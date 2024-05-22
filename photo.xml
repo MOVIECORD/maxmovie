@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 05:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 06:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인사이드 아웃2'도 피할 수 없는, 무서운 사춘기]]></title>
+            <link>https://www.maxmovie.com/news/437991</link>
+            <guid>https://www.maxmovie.com/news/437991</guid>
+            <pubDate>Wed, 22 May 2024 06:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437991"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716355108216pvyk1.jpg" alt=""></span><span class="textBox"><h4>'인사이드 아웃2'도 피할 수 없는, 무서운 사춘기 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716355108216pvyk1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인기 유튜버 박주현, 트렁크에 갇힌 이유는? 영화 '드라이브']]></title>
             <link>https://www.maxmovie.com/news/437984</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 08 May 2024 03:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437783"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715131986963VGFZq.jpg" alt=""></span><span class="textBox"><h4>1초씩 어긋나는 로맨스, 영화 '일초 앞, 일초 뒤' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715131986963VGFZq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수지·박보검 그리고 탕웨이가 그린 '원더랜드'의 빛나는 순간들]]></title>
-            <link>https://www.maxmovie.com/news/437771</link>
-            <guid>https://www.maxmovie.com/news/437771</guid>
-            <pubDate>Tue, 07 May 2024 09:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437771"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715065175846pLDgp.jpg" alt=""></span><span class="textBox"><h4>수지·박보검 그리고 탕웨이가 그린 '원더랜드'의 빛나는 순간들 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715065175846pLDgp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
