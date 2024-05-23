@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 01:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 02:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[승무원 커플 수지·박보검, '원더랜드' 호흡 엿보니...]]></title>
+            <link>https://www.maxmovie.com/news/438000</link>
+            <guid>https://www.maxmovie.com/news/438000</guid>
+            <pubDate>Thu, 23 May 2024 02:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438000"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/171642824575266Ndt.jpg" alt=""></span><span class="textBox"><h4>승무원 커플 수지·박보검, '원더랜드' 호흡 엿보니...</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/171642824575266Ndt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박해일의 목소리로 전하는 '판문점'의 의미]]></title>
             <link>https://www.maxmovie.com/news/437999</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 08 May 2024 04:07:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437786"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715135450425UqD4B.jpg" alt=""></span><span class="textBox"><h4>'올바른 욕망'이 무엇인지 묻은, 영화 '정욕'&nbsp; </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715135450425UqD4B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['포켓몬스터: 성도지방 이야기, 최종장' 마침내 공개된 마지막 이야기]]></title>
-            <link>https://www.maxmovie.com/news/437784</link>
-            <guid>https://www.maxmovie.com/news/437784</guid>
-            <pubDate>Wed, 08 May 2024 03:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437784"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715133480503EHcav.jpg" alt=""></span><span class="textBox"><h4>'포켓몬스터: 성도지방 이야기, 최종장' 마침내 공개된 마지막 이야기</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715133480503EHcav.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
