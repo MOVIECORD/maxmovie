@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 04:09:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 05:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거짓말로 무너진 어른, 거짓말로 살아난 아이...영화 '양치기']]></title>
+            <link>https://www.maxmovie.com/news/438001</link>
+            <guid>https://www.maxmovie.com/news/438001</guid>
+            <pubDate>Thu, 23 May 2024 05:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438001"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17164310078186Quzd.jpg" alt=""></span><span class="textBox"><h4>거짓말로 무너진 어른, 거짓말로 살아난 아이...영화 '양치기' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17164310078186Quzd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[승무원 커플 수지·박보검, '원더랜드' 호흡 엿보니...]]></title>
             <link>https://www.maxmovie.com/news/438000</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 May 2024 02:23:26 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437800"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715218280211C3c42.jpg" alt=""></span><span class="textBox"><h4>이정재의 제다이 마스터 '애콜라이트' , 결정적 장면들</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715218280211C3c42.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['올바른 욕망'이 무엇인지 묻은, 영화 '정욕']]></title>
-            <link>https://www.maxmovie.com/news/437786</link>
-            <guid>https://www.maxmovie.com/news/437786</guid>
-            <pubDate>Wed, 08 May 2024 04:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437786"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715135450425UqD4B.jpg" alt=""></span><span class="textBox"><h4>'올바른 욕망'이 무엇인지 묻은, 영화 '정욕'&nbsp; </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715135450425UqD4B.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
