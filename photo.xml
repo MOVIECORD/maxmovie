@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 00:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 01:47:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박해일의 목소리로 전하는 '판문점'의 의미]]></title>
+            <link>https://www.maxmovie.com/news/437999</link>
+            <guid>https://www.maxmovie.com/news/437999</guid>
+            <pubDate>Thu, 23 May 2024 01:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/437999"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716427240600Jn6S9.png" alt=""></span><span class="textBox"><h4>박해일의 목소리로 전하는 '판문점'의 의미</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716427240600Jn6S9.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['인사이드 아웃2'도 피할 수 없는, 무서운 사춘기]]></title>
             <link>https://www.maxmovie.com/news/437991</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 08 May 2024 03:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437784"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715133480503EHcav.jpg" alt=""></span><span class="textBox"><h4>'포켓몬스터: 성도지방 이야기, 최종장' 마침내 공개된 마지막 이야기</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715133480503EHcav.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1초씩 어긋나는 로맨스, 영화 '일초 앞, 일초 뒤']]></title>
-            <link>https://www.maxmovie.com/news/437783</link>
-            <guid>https://www.maxmovie.com/news/437783</guid>
-            <pubDate>Wed, 08 May 2024 03:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437783"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715131986963VGFZq.jpg" alt=""></span><span class="textBox"><h4>1초씩 어긋나는 로맨스, 영화 '일초 앞, 일초 뒤' </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715131986963VGFZq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
