@@ -1,8 +1,228 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.maxmovie.com/</id>
-    <title>맥스무비</title>
-    <updated>2024-05-24T11:08:25.521Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.maxmovie.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>맥스무비</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 24 May 2024 12:13:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[0]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[3]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[8]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰: 포테이토 지수 84%] '설계자', 진실 가리는 정교함 아쉽지만 '시간 순삭']]></title>
+            <link>https://www.maxmovie.com/news/438015</link>
+            <guid>https://www.maxmovie.com/news/438015</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[청부 살인 사고사로 조작하는 설계자
+홍콩영화 '엑시던트' 리메이크 작품]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716517012946FVMqo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 박서준, 모델 로렌 사이와 열애설... 해외발 목격담]]></title>
+            <link>https://www.maxmovie.com/news/438026</link>
+            <guid>https://www.maxmovie.com/news/438026</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[대만 매체 통해 열애설 처음 제기 
+박서준 측 "사생활 확인 어렵다"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716533862279CJNn6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이브 VS 민희진 극한 갈등 속 뉴진스 컴백 "안무에 주목"]]></title>
+            <link>https://www.maxmovie.com/news/438016</link>
+            <guid>https://www.maxmovie.com/news/438016</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[24일 싱글 '하우 스위트' 발매
+"집중해 신경을 많이 쓴 앨범"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716516359915HF2Ry.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 강동원은 등용문? 신인감독 선호하는 이유]]></title>
+            <link>https://www.maxmovie.com/news/438028</link>
+            <guid>https://www.maxmovie.com/news/438028</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[청부살인업자로 차가운 얼굴 선사
+"시장 어렵지만 극장서 봐야할 작품"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716541783095Grnga.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강동원, 영화 '설계자'로 41개국 관객과 만난다]]></title>
+            <link>https://www.maxmovie.com/news/438012</link>
+            <guid>https://www.maxmovie.com/news/438012</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 전 일본·대만·태국 등 선판매
+사고로 조작된 청부살인 소재 영화]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716519469801I3IHj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['애콜라이트' 이정재, 6월 세계적 권위 몬테카를로 TV페스티벌 간다]]></title>
+            <link>https://www.maxmovie.com/news/438011</link>
+            <guid>https://www.maxmovie.com/news/438011</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[6월5일 전 세계 공개 이후 현지 소개
+'스타워즈' 시리즈의 새로운 이야기
+KBS '어떤 가족, 고립을 넘다'도 초청]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716509871110VUhRA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[칸 인터뷰]  '여성 연대' 이야기로 칸 초청..."나약한 소녀의 꿈이 출발이었죠"]]></title>
+            <link>https://www.maxmovie.com/news/438010</link>
+            <guid>https://www.maxmovie.com/news/438010</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[한예종 영화과 재학 임유리 감독
+단편 '메아리' 칸 학생 부문 상영]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716388385867nwH2H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데일리 핫이슈] 박보람 급성알코올중독 추정·임영웅 200억 넘게 벌었다·'선재 업고 튀어' 암표 극성]]></title>
+            <link>https://www.maxmovie.com/news/438004</link>
+            <guid>https://www.maxmovie.com/news/438004</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716470387781I9weS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 류준열, 그동안 참았던 이야기를 숨김없이 풀어낸 1시간]]></title>
+            <link>https://www.maxmovie.com/news/438007</link>
+            <guid>https://www.maxmovie.com/news/438007</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA["스스로 돌아보고 점검하는 시간 가졌다"
+'더 에이트 쇼' 주연으로 새로운 도전까지]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17164655336631Tcu8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['1000만..1000만...' 그 사이 '중박' 영화가 사라졌다!]]></title>
+            <link>https://www.maxmovie.com/news/438008</link>
+            <guid>https://www.maxmovie.com/news/438008</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[중소규모 제작에 300~500만 관객 영화 없다
+감염병 확산 이후 더욱 악화..흥행작 쏠림 강화
+"다양성 훼손..빈익빈 부익부 탈피 대안 찾아야"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716455011532bFye6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토르 지워냈다…'퓨리오사' 크리스 헴스워스의 빌런 도전, 성공적]]></title>
+            <link>https://www.maxmovie.com/news/438006</link>
+            <guid>https://www.maxmovie.com/news/438006</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[바이커 군단의 폭군, 디멘투스 역
+슈퍼히어로 이미지 벗고 180도 변신]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716450903268DbSoV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 독일 역사 속 충격 실화, 영화 '스텔라']]></title>
+            <link>https://www.maxmovie.com/news/438005</link>
+            <guid>https://www.maxmovie.com/news/438005</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[실존인물 스텔라 골드슐락 이야기
+홀로코스트에 휘말린 유대인 소재]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17164439872881nFby.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['FDA' 장이수, 이번엔 진짜 경찰...박지환 '핸섬가이즈' 출격]]></title>
+            <link>https://www.maxmovie.com/news/438002</link>
+            <guid>https://www.maxmovie.com/news/438002</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[6월26일 개봉 오싹한 코미디 영화 
+이성민·이희준 의심하는 시골 경찰]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716429718870hkSdd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변우석이 밝힌 #선재 #심장 #김혜윤 #할머니 #눈물]]></title>
+            <link>https://www.maxmovie.com/news/437998</link>
+            <guid>https://www.maxmovie.com/news/437998</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[22일 tvN '유퀴즈' 출연 
+"지금 상황, 심장이 뛴다"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17164343042729ldx7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['퓨리오사: 매드맥스 사가' 흥행 질주 시작! 개봉일 흥행 1위]]></title>
+            <link>https://www.maxmovie.com/news/437997</link>
+            <guid>https://www.maxmovie.com/news/437997</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[22일 개봉..'범죄도시4' 2배 차이로 제쳤다
+예매율도 1위..개봉 첫 주말 흥행 겨냥한다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716419923737I0mpW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[칸 리뷰:포테이토 지수 83%] '영화 청년, 동호' 공무원은 어떻게 '영화인'이 됐나]]></title>
+            <link>https://www.maxmovie.com/news/437956</link>
+            <guid>https://www.maxmovie.com/news/437956</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[칸 국제영화제 칸 클래식 섹션 초청 상영
+김동호 전 부산영화제 집행위원장 이야기
+조인성·임권택·이창동 감독 등 출연]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716226993972kYAzz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데일리 핫이슈] '음주 뺑소니' 김호중 구속 기로·'트럼프 영화'에 뿔난 트럼프 외]]></title>
+            <link>https://www.maxmovie.com/news/437981</link>
+            <guid>https://www.maxmovie.com/news/437981</guid>
+            <pubDate>Fri, 24 May 2024 12:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17163826970482Zsin.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
