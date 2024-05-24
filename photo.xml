@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 01:50:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 02:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변요한·신혜선의 '그녀가 죽었다'... 촬영 현장 엿보니]]></title>
+            <link>https://www.maxmovie.com/news/438014</link>
+            <guid>https://www.maxmovie.com/news/438014</guid>
+            <pubDate>Fri, 24 May 2024 02:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438014"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716514773226wAeLT.jpg" alt=""></span><span class="textBox"><h4>변요한·신혜선의 '그녀가 죽었다'... 촬영 현장 엿보니 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716514773226wAeLT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['맑광눈' 천우희의 하드캐리, '더 에이트 쇼' 촬영 현장 비하인드]]></title>
             <link>https://www.maxmovie.com/news/438013</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 May 2024 04:10:53 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437803"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715221664648PaE3j.jpg" alt=""></span><span class="textBox"><h4>이소룡이 되고 싶었던 그 시절의 나... '이소룡-들' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715221664648PaE3j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강동원부터 이동휘·이무생까지, 영화 '설계자'의 캐릭터 열전]]></title>
-            <link>https://www.maxmovie.com/news/437802</link>
-            <guid>https://www.maxmovie.com/news/437802</guid>
-            <pubDate>Thu, 09 May 2024 02:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437802"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715220023455gGIrt.jpg" alt=""></span><span class="textBox"><h4>강동원부터 이동휘·이무생까지, 영화 '설계자'의 캐릭터 열전 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715220023455gGIrt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
