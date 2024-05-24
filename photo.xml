@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 03:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 04:09:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지브리 애니 작화 감독의 신작 '북극백화점의 안내원']]></title>
+            <link>https://www.maxmovie.com/news/438017</link>
+            <guid>https://www.maxmovie.com/news/438017</guid>
+            <pubDate>Fri, 24 May 2024 04:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438017"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17165191559287WS2T.jpg" alt=""></span><span class="textBox"><h4>지브리 애니 작화 감독의 신작 '북극백화점의 안내원'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17165191559287WS2T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[변요한·신혜선의 '그녀가 죽었다'... 촬영 현장 엿보니]]></title>
             <link>https://www.maxmovie.com/news/438014</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 May 2024 01:51:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437814"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715302944505U9Pxe.jpg" alt=""></span><span class="textBox"><h4>'명탐정 코난 VS 괴도 키드'... 세기의 첫 대결이 시작된다 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715302944505U9Pxe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이소룡이 되고 싶었던 그 시절의 나... '이소룡-들']]></title>
-            <link>https://www.maxmovie.com/news/437803</link>
-            <guid>https://www.maxmovie.com/news/437803</guid>
-            <pubDate>Thu, 09 May 2024 04:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437803"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715221664648PaE3j.jpg" alt=""></span><span class="textBox"><h4>이소룡이 되고 싶었던 그 시절의 나... '이소룡-들' </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715221664648PaE3j.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
