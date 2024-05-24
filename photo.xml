@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 09:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 10:07:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칸 영화제 누빈, '베테랑2' 황정민·정해인·류승완 감독...현장 포착]]></title>
+            <link>https://www.maxmovie.com/news/438027</link>
+            <guid>https://www.maxmovie.com/news/438027</guid>
+            <pubDate>Fri, 24 May 2024 10:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438027"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716538208255URk6U.jpg" alt=""></span><span class="textBox"><h4>칸 영화제 누빈, '베테랑2' 황정민·정해인·류승완 감독...현장 포착</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716538208255URk6U.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지브리 애니 작화 감독의 신작 '북극백화점의 안내원']]></title>
             <link>https://www.maxmovie.com/news/438017</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 May 2024 02:25:40 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437816"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715304992564MEsxY.jpg" alt=""></span><span class="textBox"><h4>길 잃은 야생동물들은 어디로 갈까...다큐 '생츄어리'  </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715304992564MEsxY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['명탐정 코난 VS 괴도 키드'... 세기의 첫 대결이 시작된다]]></title>
-            <link>https://www.maxmovie.com/news/437814</link>
-            <guid>https://www.maxmovie.com/news/437814</guid>
-            <pubDate>Fri, 10 May 2024 01:51:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437814"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715302944505U9Pxe.jpg" alt=""></span><span class="textBox"><h4>'명탐정 코난 VS 괴도 키드'... 세기의 첫 대결이 시작된다 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715302944505U9Pxe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
