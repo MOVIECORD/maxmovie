@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 00:34:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 01:52:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[덱스와 조여정의 만남, 영화 '타로' 어떤 이야기?]]></title>
+            <link>https://www.maxmovie.com/news/438047</link>
+            <guid>https://www.maxmovie.com/news/438047</guid>
+            <pubDate>Mon, 27 May 2024 01:52:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438047"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716772085731FwD5C.jpg" alt=""></span><span class="textBox"><h4>덱스와 조여정의 만남, 영화 '타로' 어떤 이야기?</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716772085731FwD5C.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칸 영화제 누빈, '베테랑2' 황정민·정해인·류승완 감독...현장 포착]]></title>
             <link>https://www.maxmovie.com/news/438027</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 May 2024 06:10:26 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437818"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715306306362tYA3b.jpg" alt=""></span><span class="textBox"><h4>1940년대 독일의 비극을 관통한 재즈가수, 영화 '스텔라'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715306306362tYA3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[길 잃은 야생동물들은 어디로 갈까...다큐 '생츄어리']]></title>
-            <link>https://www.maxmovie.com/news/437816</link>
-            <guid>https://www.maxmovie.com/news/437816</guid>
-            <pubDate>Fri, 10 May 2024 02:25:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437816"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715304992564MEsxY.jpg" alt=""></span><span class="textBox"><h4>길 잃은 야생동물들은 어디로 갈까...다큐 '생츄어리'  </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715304992564MEsxY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
