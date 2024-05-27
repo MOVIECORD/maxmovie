@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 05:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 06:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 27 May 2024 03:10:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438050"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716776798501lO2xg.jpg" alt=""></span><span class="textBox"><h4>송강호부터 변요한까지... '삼식이 삼촌' 촬영장 비하인드</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716776798501lO2xg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['주온' 감독이 쓴 '기괴도', 초여름에 찾아오는 공포]]></title>
+            <link>https://www.maxmovie.com/news/438049</link>
+            <guid>https://www.maxmovie.com/news/438049</guid>
+            <pubDate>Mon, 27 May 2024 06:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438049"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716774947587imv7Z.jpg" alt=""></span><span class="textBox"><h4>'주온' 감독이 쓴 '기괴도', 초여름에 찾아오는 공포 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716774947587imv7Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[덱스와 조여정의 만남, 영화 '타로' 어떤 이야기?]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 May 2024 02:24:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437842"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715563152020DdxBO.jpg" alt=""></span><span class="textBox"><h4>'노팅 힐' 감독이 담은 '여왕'의 진짜 삶... 다큐 '퀸 엘리자베스' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715563152020DdxBO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['하이재킹' 하정우, 이번엔 납치된 여객기의 부기장]]></title>
-            <link>https://www.maxmovie.com/news/437839</link>
-            <guid>https://www.maxmovie.com/news/437839</guid>
-            <pubDate>Mon, 13 May 2024 01:51:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437839"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715561545550DHVrO.jpg" alt=""></span><span class="textBox"><h4>'하이재킹' 하정우, 이번엔 납치된 여객기의 부기장 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715561545550DHVrO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
