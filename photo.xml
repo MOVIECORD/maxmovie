@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 02:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 03:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송강호부터 변요한까지... '삼식이 삼촌' 촬영장 비하인드]]></title>
+            <link>https://www.maxmovie.com/news/438050</link>
+            <guid>https://www.maxmovie.com/news/438050</guid>
+            <pubDate>Mon, 27 May 2024 03:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438050"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716776798501lO2xg.jpg" alt=""></span><span class="textBox"><h4>송강호부터 변요한까지... '삼식이 삼촌' 촬영장 비하인드</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716776798501lO2xg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[덱스와 조여정의 만남, 영화 '타로' 어떤 이야기?]]></title>
             <link>https://www.maxmovie.com/news/438047</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 May 2024 01:51:06 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437839"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715561545550DHVrO.jpg" alt=""></span><span class="textBox"><h4>'하이재킹' 하정우, 이번엔 납치된 여객기의 부기장 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715561545550DHVrO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1940년대 독일의 비극을 관통한 재즈가수, 영화 '스텔라']]></title>
-            <link>https://www.maxmovie.com/news/437818</link>
-            <guid>https://www.maxmovie.com/news/437818</guid>
-            <pubDate>Fri, 10 May 2024 06:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437818"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715306306362tYA3b.jpg" alt=""></span><span class="textBox"><h4>1940년대 독일의 비극을 관통한 재즈가수, 영화 '스텔라'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715306306362tYA3b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
