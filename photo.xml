@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 00:32:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 01:52:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[냉탕 온탕 오가는 '원더랜드' 박보검의 두 얼굴]]></title>
+            <link>https://www.maxmovie.com/news/438061</link>
+            <guid>https://www.maxmovie.com/news/438061</guid>
+            <pubDate>Tue, 28 May 2024 01:52:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438061"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716857774866p2niJ.jpg" alt=""></span><span class="textBox"><h4>냉탕 온탕 오가는 '원더랜드' 박보검의 두 얼굴</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716857774866p2niJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송강호부터 변요한까지... '삼식이 삼촌' 촬영장 비하인드]]></title>
             <link>https://www.maxmovie.com/news/438050</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 May 2024 06:10:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437844"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715565836332AGmVK.jpg" alt=""></span><span class="textBox"><h4>라이언 고슬링·에밀리 블런트가 완성한 '스턴트맨'의 순간들 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715565836332AGmVK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['노팅 힐' 감독이 담은 '여왕'의 진짜 삶... 다큐 '퀸 엘리자베스']]></title>
-            <link>https://www.maxmovie.com/news/437842</link>
-            <guid>https://www.maxmovie.com/news/437842</guid>
-            <pubDate>Mon, 13 May 2024 02:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437842"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715563152020DdxBO.jpg" alt=""></span><span class="textBox"><h4>'노팅 힐' 감독이 담은 '여왕'의 진짜 삶... 다큐 '퀸 엘리자베스' </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715563152020DdxBO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
