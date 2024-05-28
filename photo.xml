@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 02:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 03:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니+로 돌아온 북산고 농구부의 도전... '더 퍼스트 슬램덩크']]></title>
+            <link>https://www.maxmovie.com/news/438063</link>
+            <guid>https://www.maxmovie.com/news/438063</guid>
+            <pubDate>Tue, 28 May 2024 03:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438063"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716861590042TkhuR.jpg" alt=""></span><span class="textBox"><h4>디즈니+로 돌아온 북산고 농구부의 도전... '더 퍼스트 슬램덩크'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716861590042TkhuR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[냉탕 온탕 오가는 '원더랜드' 박보검의 두 얼굴]]></title>
             <link>https://www.maxmovie.com/news/438061</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 14 May 2024 01:45:40 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437856"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715646421028KB8ym.jpg" alt=""></span><span class="textBox"><h4>"이 비행기 이북 간다!" 여진구의 첫 악역 '하이재킹' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715646421028KB8ym.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이언 고슬링·에밀리 블런트가 완성한 '스턴트맨'의 순간들]]></title>
-            <link>https://www.maxmovie.com/news/437844</link>
-            <guid>https://www.maxmovie.com/news/437844</guid>
-            <pubDate>Mon, 13 May 2024 06:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437844"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715565836332AGmVK.jpg" alt=""></span><span class="textBox"><h4>라이언 고슬링·에밀리 블런트가 완성한 '스턴트맨'의 순간들 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715565836332AGmVK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
