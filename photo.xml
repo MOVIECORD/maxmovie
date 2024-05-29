@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 04:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 05:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화도 숏폼처럼... 손석구의 신작 '밤낚시']]></title>
+            <link>https://www.maxmovie.com/news/438080</link>
+            <guid>https://www.maxmovie.com/news/438080</guid>
+            <pubDate>Wed, 29 May 2024 05:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438080"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716958645391sqHh6.jpg" alt=""></span><span class="textBox"><h4>영화도 숏폼처럼... 손석구의 신작 '밤낚시'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716958645391sqHh6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['탈주' 이제훈, 이번엔 북한 병사다!]]></title>
             <link>https://www.maxmovie.com/news/438079</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 May 2024 07:04:59 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437887"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715833352602XdSyJ.jpg" alt=""></span><span class="textBox"><h4>마동석부터 박지환까지, '범죄도시4' 1000만 주역들의 말말말</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715833352602XdSyJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오컬트 애니 '키타로 탄생 게게게의 수수께끼' 저주받은 마을의 비밀은?]]></title>
-            <link>https://www.maxmovie.com/news/437860</link>
-            <guid>https://www.maxmovie.com/news/437860</guid>
-            <pubDate>Tue, 14 May 2024 02:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437860"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715650212558e3i2c.jpg" alt=""></span><span class="textBox"><h4>오컬트 애니 '키타로 탄생 게게게의 수수께끼' 저주받은 마을의 비밀은?</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715650212558e3i2c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
