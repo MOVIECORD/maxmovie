@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 00:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 01:53:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['탈주' 이제훈 쫓는 구교환... 어떤 사연이길래]]></title>
+            <link>https://www.maxmovie.com/news/438091</link>
+            <guid>https://www.maxmovie.com/news/438091</guid>
+            <pubDate>Thu, 30 May 2024 01:53:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438091"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1717031089640aJ8Qz.jpg" alt=""></span><span class="textBox"><h4>'탈주' 이제훈 쫓는 구교환... 어떤 사연이길래</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1717031089640aJ8Qz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도파민 터지는 하이틴 스캔들 '하이라키']]></title>
             <link>https://www.maxmovie.com/news/438081</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 May 2024 07:04:59 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437894"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715834789796ESqZD.jpg" alt=""></span><span class="textBox"><h4>메인 캐릭터 성장 '괴도 키드', 명탐정 코난과의 대결은? </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715834789796ESqZD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['그녀가 죽었다' 변요한, '감정 롤러코스터' 탄 이유]]></title>
-            <link>https://www.maxmovie.com/news/437888</link>
-            <guid>https://www.maxmovie.com/news/437888</guid>
-            <pubDate>Thu, 16 May 2024 03:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437888"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715822849867zQO5A.jpg" alt=""></span><span class="textBox"><h4>'그녀가 죽었다' 변요한, '감정 롤러코스터' 탄 이유</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715822849867zQO5A.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
