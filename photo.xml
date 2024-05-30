@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 05:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 06:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주성치·오맹달 잇는 이성민·이희준? '핸섬가이즈' 도대체 어떤 영화?]]></title>
+            <link>https://www.maxmovie.com/news/438094</link>
+            <guid>https://www.maxmovie.com/news/438094</guid>
+            <pubDate>Thu, 30 May 2024 06:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438094"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1717034787428Gvq6Y.jpg" alt=""></span><span class="textBox"><h4>주성치·오맹달 잇는 이성민·이희준? '핸섬가이즈' 도대체 어떤 영화? </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1717034787428Gvq6Y.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['대치동 스캔들' 휘말린 안소희]]></title>
             <link>https://www.maxmovie.com/news/438092</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 May 2024 03:08:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437907"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715911420741iBdiG.jpg" alt=""></span><span class="textBox"><h4>너드걸의 청춘·성장·사랑...영화 '마거리트의 정리'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715911420741iBdiG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[류준열의 '더 에이트 쇼', 글로벌 시청자 마음 훔칠 수 있을까]]></title>
-            <link>https://www.maxmovie.com/news/437905</link>
-            <guid>https://www.maxmovie.com/news/437905</guid>
-            <pubDate>Fri, 17 May 2024 02:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437905"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715909411750f637V.jpg" alt=""></span><span class="textBox"><h4>류준열의 '더 에이트 쇼', 글로벌 시청자 마음 훔칠 수 있을까 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715909411750f637V.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
