@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 00:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 01:52:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2년 만에 돌아온 이민호의 '파친코' 시즌2, 결정적 장면들]]></title>
+            <link>https://www.maxmovie.com/news/438104</link>
+            <guid>https://www.maxmovie.com/news/438104</guid>
+            <pubDate>Fri, 31 May 2024 01:52:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438104"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1717115836648wXykM.jpg" alt=""></span><span class="textBox"><h4>2년 만에 돌아온 이민호의 '파친코' 시즌2, 결정적 장면들 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1717115836648wXykM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주성치·오맹달 잇는 이성민·이희준? '핸섬가이즈' 도대체 어떤 영화?]]></title>
             <link>https://www.maxmovie.com/news/438094</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 May 2024 07:08:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437908"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715917036977OMbPL.jpg" alt=""></span><span class="textBox"><h4>엘비스 프레슬리의 유일한 사랑... 영화 '프리실라'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715917036977OMbPL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너드걸의 청춘·성장·사랑...영화 '마거리트의 정리']]></title>
-            <link>https://www.maxmovie.com/news/437907</link>
-            <guid>https://www.maxmovie.com/news/437907</guid>
-            <pubDate>Fri, 17 May 2024 03:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437907"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715911420741iBdiG.jpg" alt=""></span><span class="textBox"><h4>너드걸의 청춘·성장·사랑...영화 '마거리트의 정리'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715911420741iBdiG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
