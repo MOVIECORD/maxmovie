@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 04:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 05:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['탈주' 홍사빈, 이제훈·구교환과 험난한 여정의 끝은?]]></title>
+            <link>https://www.maxmovie.com/news/438106</link>
+            <guid>https://www.maxmovie.com/news/438106</guid>
+            <pubDate>Fri, 31 May 2024 05:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438106"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1717117255943KxNZY.jpg" alt=""></span><span class="textBox"><h4>'탈주' 홍사빈, 이제훈·구교환과 험난한 여정의 끝은? </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1717117255943KxNZY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2년 만에 돌아온 이민호의 '파친코' 시즌2, 결정적 장면들]]></title>
             <link>https://www.maxmovie.com/news/438104</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 May 2024 02:24:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437945"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716169418833VRkIo.jpg" alt=""></span><span class="textBox"><h4>'트리플 천만' 일군 '범죄도시4'의 생생한 촬영현장 비하인드 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716169418833VRkIo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘비스 프레슬리의 유일한 사랑... 영화 '프리실라']]></title>
-            <link>https://www.maxmovie.com/news/437908</link>
-            <guid>https://www.maxmovie.com/news/437908</guid>
-            <pubDate>Fri, 17 May 2024 07:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437908"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1715917036977OMbPL.jpg" alt=""></span><span class="textBox"><h4>엘비스 프레슬리의 유일한 사랑... 영화 '프리실라'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1715917036977OMbPL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
