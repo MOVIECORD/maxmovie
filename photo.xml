@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 06:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 07:07:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멀티버스 코미디 '보통의 우주는 찬란함을 꿈꾸는가?' 어떤 이야기?]]></title>
+            <link>https://www.maxmovie.com/news/438108</link>
+            <guid>https://www.maxmovie.com/news/438108</guid>
+            <pubDate>Fri, 31 May 2024 07:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438108"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1717119210392QN3u6.jpg" alt=""></span><span class="textBox"><h4>멀티버스 코미디 '보통의 우주는 찬란함을 꿈꾸는가?' 어떤 이야기?</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1717119210392QN3u6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['탈주' 홍사빈, 이제훈·구교환과 험난한 여정의 끝은?]]></title>
             <link>https://www.maxmovie.com/news/438106</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 May 2024 03:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437946"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716171303128EQZBt.jpg" alt=""></span><span class="textBox"><h4>위대한 예술가 라파엘로의 삶, 영화 '라파엘로. 예술의 군주' 미리 봤더니</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716171303128EQZBt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['트리플 천만' 일군 '범죄도시4'의 생생한 촬영현장 비하인드]]></title>
-            <link>https://www.maxmovie.com/news/437945</link>
-            <guid>https://www.maxmovie.com/news/437945</guid>
-            <pubDate>Mon, 20 May 2024 02:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437945"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716169418833VRkIo.jpg" alt=""></span><span class="textBox"><h4>'트리플 천만' 일군 '범죄도시4'의 생생한 촬영현장 비하인드 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716169418833VRkIo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
