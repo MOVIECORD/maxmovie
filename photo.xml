@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 02:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 03:09:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['명탐정 코난 VS 괴도 키드' 짜릿한 첫 대결의 순간]]></title>
+            <link>https://www.maxmovie.com/news/438134</link>
+            <guid>https://www.maxmovie.com/news/438134</guid>
+            <pubDate>Mon, 03 Jun 2024 03:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438134"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1717379344798arRXZ.jpg" alt=""></span><span class="textBox"><h4>'명탐정 코난 VS 괴도 키드' 짜릿한 첫 대결의 순간</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1717379344798arRXZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이제훈·구교환의 '탈주'...결정적 순간들]]></title>
             <link>https://www.maxmovie.com/news/438132</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 May 2024 03:08:43 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437963"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716257781457Z5QSi.jpg" alt=""></span><span class="textBox"><h4>상위 0.01% 고등학교 '하이라키', 베일 벗는 하이틴 스캔들 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716257781457Z5QSi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김준수 콘서트 실황 영화, 드디어 온다!]]></title>
-            <link>https://www.maxmovie.com/news/437961</link>
-            <guid>https://www.maxmovie.com/news/437961</guid>
-            <pubDate>Tue, 21 May 2024 02:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437961"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716255856341xJyDK.jpg" alt=""></span><span class="textBox"><h4>김준수 콘서트 실황 영화, 드디어 온다! </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716255856341xJyDK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
