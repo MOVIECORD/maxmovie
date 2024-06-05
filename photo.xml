@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 00:33:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 01:53:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['극장판 도라에몽: 진구의 지구 교향곡' 미리 엿보니...]]></title>
+            <link>https://www.maxmovie.com/news/438164</link>
+            <guid>https://www.maxmovie.com/news/438164</guid>
+            <pubDate>Wed, 05 Jun 2024 01:53:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438164"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17175493314553EHz1.jpg" alt=""></span><span class="textBox"><h4>'극장판 도라에몽: 진구의 지구 교향곡' 미리 엿보니...</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17175493314553EHz1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손톱으로 찾는 사랑? 애플TV+ 이색 로맨스 '핑거네일']]></title>
             <link>https://www.maxmovie.com/news/438148</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 May 2024 02:23:26 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437984"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17163419945977vUjK.jpg" alt=""></span><span class="textBox"><h4>인기 유튜버 박주현, 트렁크에 갇힌 이유는? 영화 '드라이브' &nbsp;</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17163419945977vUjK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하정우‧여진구의 비행기 납치 실화, '하이재킹' 관객 사로잡을까]]></title>
-            <link>https://www.maxmovie.com/news/437982</link>
-            <guid>https://www.maxmovie.com/news/437982</guid>
-            <pubDate>Wed, 22 May 2024 01:48:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437982"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716340421353Jy3II.jpg" alt=""></span><span class="textBox"><h4>하정우‧여진구의 비행기 납치 실화, '하이재킹' 관객 사로잡을까</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716340421353Jy3II.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
