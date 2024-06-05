@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 01:53:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 02:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로맨스 벗은 허광한의 새 얼굴, 영화 '만천과해' 어떤 이야기?]]></title>
+            <link>https://www.maxmovie.com/news/438166</link>
+            <guid>https://www.maxmovie.com/news/438166</guid>
+            <pubDate>Wed, 05 Jun 2024 02:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438166"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1717551256575zDyBd.jpg" alt=""></span><span class="textBox"><h4>로맨스 벗은 허광한의 새 얼굴, 영화 '만천과해' 어떤 이야기?  </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1717551256575zDyBd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['극장판 도라에몽: 진구의 지구 교향곡' 미리 엿보니...]]></title>
             <link>https://www.maxmovie.com/news/438164</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 May 2024 06:11:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437991"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716355108216pvyk1.jpg" alt=""></span><span class="textBox"><h4>'인사이드 아웃2'도 피할 수 없는, 무서운 사춘기 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716355108216pvyk1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인기 유튜버 박주현, 트렁크에 갇힌 이유는? 영화 '드라이브']]></title>
-            <link>https://www.maxmovie.com/news/437984</link>
-            <guid>https://www.maxmovie.com/news/437984</guid>
-            <pubDate>Wed, 22 May 2024 02:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437984"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17163419945977vUjK.jpg" alt=""></span><span class="textBox"><h4>인기 유튜버 박주현, 트렁크에 갇힌 이유는? 영화 '드라이브' &nbsp;</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17163419945977vUjK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
