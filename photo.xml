@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 23:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 00:33:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[날카롭지만 외로운 강동원의 눈...'설계자' 촬영 비하인드]]></title>
+            <link>https://www.maxmovie.com/news/438169</link>
+            <guid>https://www.maxmovie.com/news/438169</guid>
+            <pubDate>Thu, 06 Jun 2024 00:33:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438169"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1717553613064axq5n.jpg" alt=""></span><span class="textBox"><h4>날카롭지만 외로운 강동원의 눈...'설계자' 촬영 비하인드 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1717553613064axq5n.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로맨스 벗은 허광한의 새 얼굴, 영화 '만천과해' 어떤 이야기?]]></title>
             <link>https://www.maxmovie.com/news/438166</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 May 2024 01:47:28 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/437999"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716427240600Jn6S9.png" alt=""></span><span class="textBox"><h4>박해일의 목소리로 전하는 '판문점'의 의미</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716427240600Jn6S9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['인사이드 아웃2'도 피할 수 없는, 무서운 사춘기]]></title>
-            <link>https://www.maxmovie.com/news/437991</link>
-            <guid>https://www.maxmovie.com/news/437991</guid>
-            <pubDate>Wed, 22 May 2024 06:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/437991"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716355108216pvyk1.jpg" alt=""></span><span class="textBox"><h4>'인사이드 아웃2'도 피할 수 없는, 무서운 사춘기 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716355108216pvyk1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
