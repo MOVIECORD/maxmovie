@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 05:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 06:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠들면 죽는다? 독특한 공포 스릴러 신작 '더블 블라인드']]></title>
+            <link>https://www.maxmovie.com/news/438225</link>
+            <guid>https://www.maxmovie.com/news/438225</guid>
+            <pubDate>Tue, 11 Jun 2024 06:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438225"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718070308906tBKz3.jpg" alt=""></span><span class="textBox"><h4>잠들면 죽는다? 독특한 공포 스릴러 신작 '더블 블라인드'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718070308906tBKz3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[관객들이 궁금해 한 '원더랜드' 촬영 비하인드]]></title>
             <link>https://www.maxmovie.com/news/438224</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 May 2024 01:52:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438047"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716772085731FwD5C.jpg" alt=""></span><span class="textBox"><h4>덱스와 조여정의 만남, 영화 '타로' 어떤 이야기?</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716772085731FwD5C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칸 영화제 누빈, '베테랑2' 황정민·정해인·류승완 감독...현장 포착]]></title>
-            <link>https://www.maxmovie.com/news/438027</link>
-            <guid>https://www.maxmovie.com/news/438027</guid>
-            <pubDate>Fri, 24 May 2024 10:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438027"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716538208255URk6U.jpg" alt=""></span><span class="textBox"><h4>칸 영화제 누빈, '베테랑2' 황정민·정해인·류승완 감독...현장 포착</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716538208255URk6U.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
