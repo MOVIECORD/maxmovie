@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 06:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 07:08:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 12 Jun 2024 05:08:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438239"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17181599348108oPSL.jpg" alt=""></span><span class="textBox"><h4>영화 '타로' 완성할 조여정·덱스·고규필의 3인3색 이야기 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17181599348108oPSL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전혀 핸섬하지 않은 '핸섬가이즈' 속 불청객 5인방은 누구?]]></title>
+            <link>https://www.maxmovie.com/news/438237</link>
+            <guid>https://www.maxmovie.com/news/438237</guid>
+            <pubDate>Wed, 12 Jun 2024 07:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438237"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718158724634efer1.jpg" alt=""></span><span class="textBox"><h4>전혀 핸섬하지 않은 '핸섬가이즈' 속 불청객 5인방은 누구? </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718158724634efer1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잠들면 죽는다? 독특한 공포 스릴러 신작 '더블 블라인드']]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 May 2024 01:52:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438061"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716857774866p2niJ.jpg" alt=""></span><span class="textBox"><h4>냉탕 온탕 오가는 '원더랜드' 박보검의 두 얼굴</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716857774866p2niJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송강호부터 변요한까지... '삼식이 삼촌' 촬영장 비하인드]]></title>
-            <link>https://www.maxmovie.com/news/438050</link>
-            <guid>https://www.maxmovie.com/news/438050</guid>
-            <pubDate>Mon, 27 May 2024 03:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438050"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716776798501lO2xg.jpg" alt=""></span><span class="textBox"><h4>송강호부터 변요한까지... '삼식이 삼촌' 촬영장 비하인드</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716776798501lO2xg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
