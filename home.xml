@@ -4,97 +4,80 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 08:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 09:09:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[0]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 12 Jun 2024 08:10:06 GMT</pubDate>
+            <pubDate>Wed, 12 Jun 2024 09:08:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 12 Jun 2024 08:10:06 GMT</pubDate>
+            <pubDate>Wed, 12 Jun 2024 09:08:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 12 Jun 2024 08:10:06 GMT</pubDate>
+            <pubDate>Wed, 12 Jun 2024 09:08:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 12 Jun 2024 08:10:06 GMT</pubDate>
+            <pubDate>Wed, 12 Jun 2024 09:08:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 12 Jun 2024 08:10:06 GMT</pubDate>
+            <pubDate>Wed, 12 Jun 2024 09:08:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 12 Jun 2024 08:10:06 GMT</pubDate>
+            <pubDate>Wed, 12 Jun 2024 09:08:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 12 Jun 2024 08:10:06 GMT</pubDate>
+            <pubDate>Wed, 12 Jun 2024 09:08:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 12 Jun 2024 08:10:06 GMT</pubDate>
+            <pubDate>Wed, 12 Jun 2024 09:08:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 12 Jun 2024 08:10:06 GMT</pubDate>
+            <pubDate>Wed, 12 Jun 2024 09:08:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[리뷰: 포테이토 지수 85%] '인사이드 아웃2', 불안한 현대인을 위한 영화치료]]></title>
-            <link>https://www.maxmovie.com/news/438234</link>
-            <guid>https://www.maxmovie.com/news/438234</guid>
-            <pubDate>Wed, 12 Jun 2024 01:54:40 GMT</pubDate>
-            <content:encoded><![CDATA[불안, 당황, 따분, 부럽 출현
-새로운 나를 알아가는 감정여행]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718153770964U4o5m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['하이큐!!'가 '귀멸의 칼날'을 제쳤다]]></title>
-            <link>https://www.maxmovie.com/news/438229</link>
-            <guid>https://www.maxmovie.com/news/438229</guid>
-            <pubDate>Wed, 12 Jun 2024 04:09:12 GMT</pubDate>
-            <content:encoded><![CDATA['쿵푸팬더4'·'위시' 이어 애니 전체 3위
-배구 향한 청춘의 열정과 우정 이야기]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718088823614Zbnus.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["용기를 내지 못했다" 용준형 장문의 심경글 올린 이유]]></title>
-            <link>https://www.maxmovie.com/news/438238</link>
-            <guid>https://www.maxmovie.com/news/438238</guid>
-            <pubDate>Wed, 12 Jun 2024 03:08:56 GMT</pubDate>
-            <content:encoded><![CDATA['정준영 단톡방' 연루 의혹 재차 부인]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718159172559lOQfV.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[리뷰: 포테이토 지수 84%] '핸섬가이즈', 이성민·이희준의 '대환장 파티' 초대장]]></title>
+            <link>https://www.maxmovie.com/news/438231</link>
+            <guid>https://www.maxmovie.com/news/438231</guid>
+            <pubDate>Wed, 12 Jun 2024 09:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[이성민·이희준, 범상치 않은 비주얼 과시
+'터커&amp;데일VS이블' 리메이크, 오컬트 결합]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718079886309UBqgJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['따귀 논란' 윌 스미스의 화려한 비상, 네 번째 '나쁜 녀석들' 흥행]]></title>
@@ -106,13 +89,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718158454834dpLe5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[글로벌에서 타오르는 '선재' 변우석 인기]]></title>
-            <link>https://www.maxmovie.com/news/438241</link>
-            <guid>https://www.maxmovie.com/news/438241</guid>
-            <pubDate>Wed, 12 Jun 2024 04:09:12 GMT</pubDate>
-            <content:encoded><![CDATA['소나기' 빌보드 199→167위 껑충
-'선재' 끝나도 변우석 인기 화력 활활]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718161814952V22eP.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['범죄도시4' 흥행, 한국영화 5월 역대 최고 점유율]]></title>
+            <link>https://www.maxmovie.com/news/438235</link>
+            <guid>https://www.maxmovie.com/news/438235</guid>
+            <pubDate>Wed, 12 Jun 2024 09:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[영진위 '2024년 5월 한국 영화산업 결산'
+매출 점유율 64.2%, 관객수 64.9%로 최고]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718157205049Qg2Jm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["용기를 내지 못했다" 용준형 장문의 심경글 올린 이유]]></title>
+            <link>https://www.maxmovie.com/news/438238</link>
+            <guid>https://www.maxmovie.com/news/438238</guid>
+            <pubDate>Wed, 12 Jun 2024 03:08:56 GMT</pubDate>
+            <content:encoded><![CDATA['정준영 단톡방' 연루 의혹 재차 부인]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718159172559lOQfV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 새로운 감정들이 찾아왔어요! 영화 '인사이드 아웃2']]></title>
@@ -130,6 +121,15 @@
             <pubDate>Wed, 12 Jun 2024 06:10:40 GMT</pubDate>
             <content:encoded><![CDATA[양측 소속사, 외신발 열애설 부인]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718089959172wZOTo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['하이큐!!'가 '귀멸의 칼날'을 제쳤다]]></title>
+            <link>https://www.maxmovie.com/news/438229</link>
+            <guid>https://www.maxmovie.com/news/438229</guid>
+            <pubDate>Wed, 12 Jun 2024 04:09:12 GMT</pubDate>
+            <content:encoded><![CDATA['쿵푸팬더4'·'위시' 이어 애니 전체 3위
+배구 향한 청춘의 열정과 우정 이야기]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718088823614Zbnus.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단 진 전역에…"현장 방문 삼가" 당부]]></title>
