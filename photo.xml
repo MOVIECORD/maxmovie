@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 04:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 05:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['탈주' 홍사빈 "이제훈 덕분에 힘낼 수 있었다"]]></title>
+            <link>https://www.maxmovie.com/news/438253</link>
+            <guid>https://www.maxmovie.com/news/438253</guid>
+            <pubDate>Thu, 13 Jun 2024 05:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438253"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718252882868PaYmz.jpg" alt=""></span><span class="textBox"><h4>'탈주' 홍사빈 "이제훈 덕분에 힘낼 수 있었다" </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718252882868PaYmz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장나라와 남지현이 보여줄 '굿파트너', 어떤 이야기?]]></title>
             <link>https://www.maxmovie.com/news/438250</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 May 2024 03:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438079"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716951724632mrVzy.jpg" alt=""></span><span class="textBox"><h4>'탈주' 이제훈, 이번엔 북한 병사다!</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716951724632mrVzy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니+로 돌아온 북산고 농구부의 도전... '더 퍼스트 슬램덩크']]></title>
-            <link>https://www.maxmovie.com/news/438063</link>
-            <guid>https://www.maxmovie.com/news/438063</guid>
-            <pubDate>Tue, 28 May 2024 03:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438063"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716861590042TkhuR.jpg" alt=""></span><span class="textBox"><h4>디즈니+로 돌아온 북산고 농구부의 도전... '더 퍼스트 슬램덩크'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716861590042TkhuR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
