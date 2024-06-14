@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 06:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 07:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가수 비 아닌 배우 정지훈의 쇼타임! 김하늘과 호흡]]></title>
+            <link>https://www.maxmovie.com/news/438265</link>
+            <guid>https://www.maxmovie.com/news/438265</guid>
+            <pubDate>Fri, 14 Jun 2024 07:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438265"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718338756740tfDnj.jpg" alt=""></span><span class="textBox"><h4>가수 비 아닌 배우 정지훈의 쇼타임! 김하늘과 호흡</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718338756740tfDnj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[탕웨이·공유부터 수지·박보검까지... '원더랜드'의 빛나는 순간들]]></title>
             <link>https://www.maxmovie.com/news/438263</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 May 2024 05:08:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438092"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1717032711766ONAUl.jpg" alt=""></span><span class="textBox"><h4>'대치동 스캔들' 휘말린 안소희</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1717032711766ONAUl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['탈주' 이제훈 쫓는 구교환... 어떤 사연이길래]]></title>
-            <link>https://www.maxmovie.com/news/438091</link>
-            <guid>https://www.maxmovie.com/news/438091</guid>
-            <pubDate>Thu, 30 May 2024 01:53:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438091"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1717031089640aJ8Qz.jpg" alt=""></span><span class="textBox"><h4>'탈주' 이제훈 쫓는 구교환... 어떤 사연이길래</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1717031089640aJ8Qz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
