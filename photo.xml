@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 01:54:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 02:27:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구교환이 붉은색 군복을 입은 이유? '탈주' 프로덕션 비하인드]]></title>
+            <link>https://www.maxmovie.com/news/438262</link>
+            <guid>https://www.maxmovie.com/news/438262</guid>
+            <pubDate>Fri, 14 Jun 2024 02:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438262"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718330352255NcBA1.jpg" alt=""></span><span class="textBox"><h4>구교환이 붉은색 군복을 입은 이유? '탈주' 프로덕션 비하인드</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718330352255NcBA1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['탈주' 홍사빈 "이제훈 덕분에 힘낼 수 있었다"]]></title>
             <link>https://www.maxmovie.com/news/438253</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 May 2024 06:10:53 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438081"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716959956766qtuYg.jpg" alt=""></span><span class="textBox"><h4>도파민 터지는 하이틴 스캔들 '하이라키'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716959956766qtuYg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화도 숏폼처럼... 손석구의 신작 '밤낚시']]></title>
-            <link>https://www.maxmovie.com/news/438080</link>
-            <guid>https://www.maxmovie.com/news/438080</guid>
-            <pubDate>Wed, 29 May 2024 05:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438080"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1716958645391sqHh6.jpg" alt=""></span><span class="textBox"><h4>영화도 숏폼처럼... 손석구의 신작 '밤낚시'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1716958645391sqHh6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
