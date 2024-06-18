@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jun 2024 05:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 06:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 18 Jun 2024 05:09:02 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438303"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718675611376cAmSM.jpg" alt=""></span><span class="textBox"><h4>특별출연도 화려하다... 송강부터 이솜까지 소환한 '탈주'&nbsp; </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718675611376cAmSM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['화인가 스캔들' 정겨운·서이숙이 그려낼 대한민국 상위 1%]]></title>
+            <link>https://www.maxmovie.com/news/438302</link>
+            <guid>https://www.maxmovie.com/news/438302</guid>
+            <pubDate>Tue, 18 Jun 2024 06:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438302"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718674344543t41KM.jpg" alt=""></span><span class="textBox"><h4>'화인가 스캔들' 정겨운·서이숙이 그려낼 대한민국 상위 1% </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718674344543t41KM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[설경구·김희애만?  김미숙→박근형 연기 휘몰아칠 '돌풍']]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 04 Jun 2024 01:53:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438147"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1717462980921AU752.png" alt=""></span><span class="textBox"><h4>혜리와 카리나의 기묘한 사건 추적, '미스터리 수사단' 온다 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1717462980921AU752.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['명탐정 코난 VS 괴도 키드' 짜릿한 첫 대결의 순간]]></title>
-            <link>https://www.maxmovie.com/news/438134</link>
-            <guid>https://www.maxmovie.com/news/438134</guid>
-            <pubDate>Mon, 03 Jun 2024 03:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438134"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1717379344798arRXZ.jpg" alt=""></span><span class="textBox"><h4>'명탐정 코난 VS 괴도 키드' 짜릿한 첫 대결의 순간</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1717379344798arRXZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
