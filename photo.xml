@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 03:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 04:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재난 상황 담은 '탈출: 프로젝트 사일런스'의 타임라인]]></title>
+            <link>https://www.maxmovie.com/news/438320</link>
+            <guid>https://www.maxmovie.com/news/438320</guid>
+            <pubDate>Wed, 19 Jun 2024 04:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438320"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718764374346uNaaR.jpg" alt=""></span><span class="textBox"><h4>재난 상황 담은 '탈출: 프로젝트 사일런스'의 타임라인 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718764374346uNaaR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 히트 중인 '애콜라이트' 4회 공개, 이정재가 쫓는 인물은?]]></title>
             <link>https://www.maxmovie.com/news/438318</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 06 Jun 2024 00:33:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438169"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1717553613064axq5n.jpg" alt=""></span><span class="textBox"><h4>날카롭지만 외로운 강동원의 눈...'설계자' 촬영 비하인드 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1717553613064axq5n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로맨스 벗은 허광한의 새 얼굴, 영화 '만천과해' 어떤 이야기?]]></title>
-            <link>https://www.maxmovie.com/news/438166</link>
-            <guid>https://www.maxmovie.com/news/438166</guid>
-            <pubDate>Wed, 05 Jun 2024 02:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438166"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1717551256575zDyBd.jpg" alt=""></span><span class="textBox"><h4>로맨스 벗은 허광한의 새 얼굴, 영화 '만천과해' 어떤 이야기?  </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1717551256575zDyBd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
