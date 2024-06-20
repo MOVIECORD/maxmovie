@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 01:52:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 02:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우주적 사랑에 빠져버린, 크리스틴 스튜어트의 '러브 라이즈 블리딩']]></title>
+            <link>https://www.maxmovie.com/news/438328</link>
+            <guid>https://www.maxmovie.com/news/438328</guid>
+            <pubDate>Thu, 20 Jun 2024 02:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438328"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17188473307253vkTS.jpg" alt=""></span><span class="textBox"><h4>우주적 사랑에 빠져버린, 크리스틴 스튜어트의 '러브 라이즈 블리딩' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17188473307253vkTS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어서와, 재벌가 시월드는 처음이지? 김하늘 VS 서이숙... '화인가 스캔들']]></title>
             <link>https://www.maxmovie.com/news/438327</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 10 Jun 2024 03:09:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438210"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1717986229391rod0l.jpg" alt=""></span><span class="textBox"><h4>'정직한 사람들'이 담은 대한민국 취준생들의 이야기</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1717986229391rod0l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제훈이 '탈주'를 마지막 작품으로 생각한 까닭]]></title>
-            <link>https://www.maxmovie.com/news/438209</link>
-            <guid>https://www.maxmovie.com/news/438209</guid>
-            <pubDate>Mon, 10 Jun 2024 03:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438209"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1717985174897mRogL.jpg" alt=""></span><span class="textBox"><h4>이제훈이 '탈주'를 마지막 작품으로 생각한 까닭</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1717985174897mRogL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
