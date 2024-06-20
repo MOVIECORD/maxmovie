@@ -4,9 +4,25 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 03:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 04:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인류 최초 달 착륙은 진짜였을까? '플라이 미 투 더 문']]></title>
+            <link>https://www.maxmovie.com/news/438330</link>
+            <guid>https://www.maxmovie.com/news/438330</guid>
+            <pubDate>Thu, 20 Jun 2024 04:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438330"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718849536643fnENf.jpg" alt=""></span><span class="textBox"><h4>인류 최초 달 착륙은 진짜였을까? '플라이 미 투 더 문' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718849536643fnENf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번엔 여장이다! 조정석의 코미디 신작 '파일럿'... 어떤 이야기?]]></title>
+            <link>https://www.maxmovie.com/news/438331</link>
+            <guid>https://www.maxmovie.com/news/438331</guid>
+            <pubDate>Thu, 20 Jun 2024 04:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438331"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718851435297xnMxc.jpg" alt=""></span><span class="textBox"><h4>이번엔 여장이다! 조정석의 코미디 신작 '파일럿'... 어떤 이야기?</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718851435297xnMxc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우주적 사랑에 빠져버린, 크리스틴 스튜어트의 '러브 라이즈 블리딩']]></title>
             <link>https://www.maxmovie.com/news/438328</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 10 Jun 2024 07:08:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438212"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1717987884694C6Xem.jpg" alt=""></span><span class="textBox"><h4>노정의부터 이채민까지... '하이라키' 촬영 비하인드</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1717987884694C6Xem.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파격적인 연상女연하男 커플의 이야기 '파워 오브 러브']]></title>
-            <link>https://www.maxmovie.com/news/438211</link>
-            <guid>https://www.maxmovie.com/news/438211</guid>
-            <pubDate>Mon, 10 Jun 2024 07:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438211"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1717987166401w1I9Y.jpg" alt=""></span><span class="textBox"><h4>파격적인 연상女연하男 커플의 이야기 '파워 오브 러브'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1717987166401w1I9Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['정직한 사람들'이 담은 대한민국 취준생들의 이야기]]></title>
-            <link>https://www.maxmovie.com/news/438210</link>
-            <guid>https://www.maxmovie.com/news/438210</guid>
-            <pubDate>Mon, 10 Jun 2024 03:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438210"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1717986229391rod0l.jpg" alt=""></span><span class="textBox"><h4>'정직한 사람들'이 담은 대한민국 취준생들의 이야기</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1717986229391rod0l.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
