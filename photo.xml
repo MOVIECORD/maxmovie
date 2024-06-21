@@ -4,9 +4,25 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 04:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 05:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 교토로 떠나고 싶어지는, 영화 '일초 앞, 일초 뒤'의 관람 포인트 베스트 3]]></title>
+            <link>https://www.maxmovie.com/news/438346</link>
+            <guid>https://www.maxmovie.com/news/438346</guid>
+            <pubDate>Fri, 21 Jun 2024 05:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438346"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718943121391BVMYo.jpg" alt=""></span><span class="textBox"><h4>일본 교토로 떠나고 싶어지는, 영화 '일초 앞, 일초 뒤'의 관람 포인트 베스트 3 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718943121391BVMYo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['핸섬가이즈' 박지환·이규형이 보여줄 '투캅스' 케미스트리]]></title>
+            <link>https://www.maxmovie.com/news/438347</link>
+            <guid>https://www.maxmovie.com/news/438347</guid>
+            <pubDate>Fri, 21 Jun 2024 05:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438347"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718943348865q5lpK.jpg" alt=""></span><span class="textBox"><h4>'핸섬가이즈' 박지환·이규형이 보여줄 '투캅스' 케미스트리 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718943348865q5lpK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['한정우 ↔ 한정미' 조정석 역대급 캐릭터 탄생 예고한 '파일럿']]></title>
             <link>https://www.maxmovie.com/news/438344</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 12 Jun 2024 05:08:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438239"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17181599348108oPSL.jpg" alt=""></span><span class="textBox"><h4>영화 '타로' 완성할 조여정·덱스·고규필의 3인3색 이야기 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17181599348108oPSL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠들면 죽는다? 독특한 공포 스릴러 신작 '더블 블라인드']]></title>
-            <link>https://www.maxmovie.com/news/438225</link>
-            <guid>https://www.maxmovie.com/news/438225</guid>
-            <pubDate>Tue, 11 Jun 2024 06:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438225"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718070308906tBKz3.jpg" alt=""></span><span class="textBox"><h4>잠들면 죽는다? 독특한 공포 스릴러 신작 '더블 블라인드'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718070308906tBKz3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관객들이 궁금해 한 '원더랜드' 촬영 비하인드]]></title>
-            <link>https://www.maxmovie.com/news/438224</link>
-            <guid>https://www.maxmovie.com/news/438224</guid>
-            <pubDate>Tue, 11 Jun 2024 01:55:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438224"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718067938199PXJj5.jpg" alt=""></span><span class="textBox"><h4>관객들이 궁금해 한 '원더랜드' 촬영 비하인드</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718067938199PXJj5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
