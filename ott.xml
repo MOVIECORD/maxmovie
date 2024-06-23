@@ -1,8 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.maxmovie.com/ott</id>
-    <title>맥스무비 ─ OTT</title>
-    <updated>2024-06-23T02:30:45.187Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.maxmovie.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>맥스무비 ─ OTT</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 23 Jun 2024 03:09:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[0]]></title>
+            <link>https://www.maxmovie.com/ott</link>
+            <guid>https://www.maxmovie.com/ott</guid>
+            <pubDate>Sun, 23 Jun 2024 03:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1]]></title>
+            <link>https://www.maxmovie.com/ott</link>
+            <guid>https://www.maxmovie.com/ott</guid>
+            <pubDate>Sun, 23 Jun 2024 03:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2]]></title>
+            <link>https://www.maxmovie.com/ott</link>
+            <guid>https://www.maxmovie.com/ott</guid>
+            <pubDate>Sun, 23 Jun 2024 03:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[3]]></title>
+            <link>https://www.maxmovie.com/ott</link>
+            <guid>https://www.maxmovie.com/ott</guid>
+            <pubDate>Sun, 23 Jun 2024 03:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4]]></title>
+            <link>https://www.maxmovie.com/ott</link>
+            <guid>https://www.maxmovie.com/ott</guid>
+            <pubDate>Sun, 23 Jun 2024 03:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5]]></title>
+            <link>https://www.maxmovie.com/ott</link>
+            <guid>https://www.maxmovie.com/ott</guid>
+            <pubDate>Sun, 23 Jun 2024 03:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6]]></title>
+            <link>https://www.maxmovie.com/ott</link>
+            <guid>https://www.maxmovie.com/ott</guid>
+            <pubDate>Sun, 23 Jun 2024 03:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7]]></title>
+            <link>https://www.maxmovie.com/ott</link>
+            <guid>https://www.maxmovie.com/ott</guid>
+            <pubDate>Sun, 23 Jun 2024 03:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[8]]></title>
+            <link>https://www.maxmovie.com/ott</link>
+            <guid>https://www.maxmovie.com/ott</guid>
+            <pubDate>Sun, 23 Jun 2024 03:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 첫 욕설 연기 도전 김현주 "'선산', 폭발할 수 있어서 좋았죠"]]></title>
+            <link>https://www.maxmovie.com/news/436285</link>
+            <guid>https://www.maxmovie.com/news/436285</guid>
+            <pubDate>Sun, 23 Jun 2024 03:09:02 GMT</pubDate>
+            <content:encoded><![CDATA['선산'에서 지질하면서 욕망 품은 역할 소화해
+'지옥' '정이'에 이어 연상호 감독과 세 번째 호흡]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705983175793aQDJN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박서준 美 데뷔작 '더 마블스', 이제 방구석 1열로]]></title>
+            <link>https://www.maxmovie.com/news/436291</link>
+            <guid>https://www.maxmovie.com/news/436291</guid>
+            <pubDate>Sun, 23 Jun 2024 03:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[2월7일 디즈니+ 공개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1706000461547Fcisu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['킬러들의 쇼핑몰', 마침내 드러난 S급 킬러 민혜의 정체]]></title>
+            <link>https://www.maxmovie.com/news/436289</link>
+            <guid>https://www.maxmovie.com/news/436289</guid>
+            <pubDate>Sun, 23 Jun 2024 03:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[금해나, S급 킬러로 고난도 액션 선사
+'킬러들의 쇼핑몰', '무빙' 이을까]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705994006025n8tKU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예사롭지 않은 인기 '킬러들의 쇼핑몰'...액션→서사 휘몰아친다]]></title>
+            <link>https://www.maxmovie.com/news/436269</link>
+            <guid>https://www.maxmovie.com/news/436269</guid>
+            <pubDate>Sun, 23 Jun 2024 03:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[1, 2회 공개 이후 한국, 대만, 홍콩 등 1위
+이동욱과 악연 얽힌 조한선 등장 기대]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1705898783736FLKmt.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
