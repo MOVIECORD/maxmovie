@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 00:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 01:55:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애니 열풍 계속? 더 귀엽고 강력한 '슈퍼배드 4' 온다]]></title>
+            <link>https://www.maxmovie.com/news/438378</link>
+            <guid>https://www.maxmovie.com/news/438378</guid>
+            <pubDate>Tue, 25 Jun 2024 01:55:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438378"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1719279520767Rh8fD.jpg" alt=""></span><span class="textBox"><h4>애니 열풍 계속? 더 귀엽고 강력한 '슈퍼배드 4' 온다 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719279520767Rh8fD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 국민그룹 스마프 출신 카토리 싱고, 리얼한 부부 이야기로 컴백]]></title>
             <link>https://www.maxmovie.com/news/438367</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Jun 2024 03:09:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438250"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718246134406EUO9D.jpg" alt=""></span><span class="textBox"><h4>장나라와 남지현이 보여줄 '굿파트너', 어떤 이야기? </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718246134406EUO9D.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혜리·카리나가 말하는 '미스터리 수사단'의 관전 포인트]]></title>
-            <link>https://www.maxmovie.com/news/438249</link>
-            <guid>https://www.maxmovie.com/news/438249</guid>
-            <pubDate>Thu, 13 Jun 2024 03:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438249"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718244949978VCDYD.jpg" alt=""></span><span class="textBox"><h4>혜리·카리나가 말하는 '미스터리 수사단'의 관전 포인트</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718244949978VCDYD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
