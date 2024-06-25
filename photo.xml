@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 01:55:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 02:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['파일럿' 이주명, '여장한' 조정석과 스크린 신고식]]></title>
+            <link>https://www.maxmovie.com/news/438380</link>
+            <guid>https://www.maxmovie.com/news/438380</guid>
+            <pubDate>Tue, 25 Jun 2024 02:27:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438380"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1719280447848xCWBD.jpg" alt=""></span><span class="textBox"><h4>'파일럿' 이주명, '여장한' 조정석과 스크린 신고식 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719280447848xCWBD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애니 열풍 계속? 더 귀엽고 강력한 '슈퍼배드 4' 온다]]></title>
             <link>https://www.maxmovie.com/news/438378</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Jun 2024 05:09:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438253"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718252882868PaYmz.jpg" alt=""></span><span class="textBox"><h4>'탈주' 홍사빈 "이제훈 덕분에 힘낼 수 있었다" </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718252882868PaYmz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장나라와 남지현이 보여줄 '굿파트너', 어떤 이야기?]]></title>
-            <link>https://www.maxmovie.com/news/438250</link>
-            <guid>https://www.maxmovie.com/news/438250</guid>
-            <pubDate>Thu, 13 Jun 2024 03:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438250"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718246134406EUO9D.jpg" alt=""></span><span class="textBox"><h4>장나라와 남지현이 보여줄 '굿파트너', 어떤 이야기? </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718246134406EUO9D.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
