@@ -4,17 +4,9 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 04:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 05:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[추락한 비행기 위협하는 식인 상어, '노 웨이 업' 아찔한 재난]]></title>
-            <link>https://www.maxmovie.com/news/438408</link>
-            <guid>https://www.maxmovie.com/news/438408</guid>
-            <pubDate>Thu, 27 Jun 2024 01:55:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438408"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1719450940212zoGw9.jpg" alt=""></span><span class="textBox"><h4>추락한 비행기 위협하는 식인 상어, '노 웨이 업' 아찔한 재난</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719450940212zoGw9.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[1971년 여객기 공중 납치, 어떻게 이뤄졌나? '하이재킹' 촬영 현장]]></title>
             <link>https://www.maxmovie.com/news/438407</link>
@@ -246,6 +238,14 @@
             <pubDate>Mon, 17 Jun 2024 02:31:21 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438289"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718590352972g1pde.jpg" alt=""></span><span class="textBox"><h4>올여름 극장 공략 코난... '명탐정 코난: 100만 달러의 펜타그램' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718590352972g1pde.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추락한 비행기 위협하는 식인 상어, '노 웨이 업' 아찔한 재난]]></title>
+            <link>https://www.maxmovie.com/news/438408</link>
+            <guid>https://www.maxmovie.com/news/438408</guid>
+            <pubDate>Thu, 27 Jun 2024 01:55:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438408"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1719450940212zoGw9.jpg" alt=""></span><span class="textBox"><h4>추락한 비행기 위협하는 식인 상어, '노 웨이 업' 아찔한 재난</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719450940212zoGw9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
