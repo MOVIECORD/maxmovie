@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 00:34:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 01:55:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[분노와 상실이 교차하는 전도연의 얼굴, 영화 '리볼버']]></title>
+            <link>https://www.maxmovie.com/news/438421</link>
+            <guid>https://www.maxmovie.com/news/438421</guid>
+            <pubDate>Fri, 28 Jun 2024 01:55:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438421"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1719536141116jnZFl.jpg" alt=""></span><span class="textBox"><h4>분노와 상실이 교차하는 전도연의 얼굴, 영화 '리볼버'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719536141116jnZFl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추락한 비행기 위협하는 식인 상어, '노 웨이 업' 아찔한 재난]]></title>
             <link>https://www.maxmovie.com/news/438408</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 17 Jun 2024 03:10:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438290"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718591293298pl4yM.jpg" alt=""></span><span class="textBox"><h4>고 이선균 유작 '탈출: 프로젝트 사일런스' 미리 봤더니 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718591293298pl4yM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 극장 공략 코난... '명탐정 코난: 100만 달러의 펜타그램']]></title>
-            <link>https://www.maxmovie.com/news/438289</link>
-            <guid>https://www.maxmovie.com/news/438289</guid>
-            <pubDate>Mon, 17 Jun 2024 02:31:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438289"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718590352972g1pde.jpg" alt=""></span><span class="textBox"><h4>올여름 극장 공략 코난... '명탐정 코난: 100만 달러의 펜타그램' </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718590352972g1pde.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
