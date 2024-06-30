@@ -1,8 +1,226 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.maxmovie.com/</id>
-    <title>맥스무비</title>
-    <updated>2024-06-30T00:37:32.500Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.maxmovie.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>맥스무비</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 30 Jun 2024 02:01:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[0]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[3]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[8]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[손예진·김성수·두기봉·야기라 유야 BIFAN 레드카펫 빛낸다]]></title>
+            <link>https://www.maxmovie.com/news/438428</link>
+            <guid>https://www.maxmovie.com/news/438428</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[국내외 영화인들 대거 참석
+정수정·장동윤 개막식 사회]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719551472136NThh6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['존 오브 인터레스트' 봤다면...꼭 찾아봐야 할 '사울의 아들']]></title>
+            <link>https://www.maxmovie.com/news/438426</link>
+            <guid>https://www.maxmovie.com/news/438426</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[아우슈비츠의 시체 처리 비밀 작업반 
+처연한 비극의 한 복판으로 관객 안내]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719536952352NdtRO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크 멤버들도 깜짝 놀란, 리사의 파격 홀로서기 '록스타']]></title>
+            <link>https://www.maxmovie.com/news/438433</link>
+            <guid>https://www.maxmovie.com/news/438433</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[28일 솔로 싱글 '록스타' 발표
+능숙한 랩과 폭발적인 에너지]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719575193027Zb4KS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 부패한 정치판에서 만난 설경구·김희애의 '돌풍']]></title>
+            <link>https://www.maxmovie.com/news/438430</link>
+            <guid>https://www.maxmovie.com/news/438430</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[12부작의 넷플릭스 시리즈 신작
+김미숙·김영민·김홍파·임세미 등 출연]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719552309168NdD3r.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[500만 앞둔 '인사이드 아웃2' 독주, 2위 싸움도 치열]]></title>
+            <link>https://www.maxmovie.com/news/438425</link>
+            <guid>https://www.maxmovie.com/news/438425</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[박스오피스 2위부터 4위, 4만명 관람
+'인사이드 아웃2', 전편 기록 넘는다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17195376290494h9E6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수지·박보검 '원더랜드', 이제 안방에서 만날 시간]]></title>
+            <link>https://www.maxmovie.com/news/438422</link>
+            <guid>https://www.maxmovie.com/news/438422</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[27일 극장 동시 IPTV·VOD 서비스 시작
+'만추' 김태용 감독 신작, 인공지능 소재]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719535461028RtnzW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임영웅, 차승원·유해진과 '삼시세끼'로 뭉친다]]></title>
+            <link>https://www.maxmovie.com/news/438420</link>
+            <guid>https://www.maxmovie.com/news/438420</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[하반기 방송 예정 '삼시세끼' 출연
+자연과 어우러지는 모습 시선 집중]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719535015631K1dmS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[또 현대사 열풍 일으킬까…故 이선균 유작 '행복의 나라' 8월14일 개봉]]></title>
+            <link>https://www.maxmovie.com/news/438419</link>
+            <guid>https://www.maxmovie.com/news/438419</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[10·26 대통령 암살사건
+추창민 연출, 이선균·조정석 주연]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719533615779qJ7jk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 세기의 아이콘 이소룡이 그립다면… 영화 '이소룡-들']]></title>
+            <link>https://www.maxmovie.com/news/438415</link>
+            <guid>https://www.maxmovie.com/news/438415</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[리샤오룽 사후 이야기 다룬 다큐멘터리]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719469205438QDNKQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데일리 핫이슈] 지연 황재균 이혼설 계속·진서연 박주현 철인 3종 도전·엔하이픈 제이 무릎 통증]]></title>
+            <link>https://www.maxmovie.com/news/438417</link>
+            <guid>https://www.maxmovie.com/news/438417</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719477921755FvTv7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['정치 도파민' 휘몰아칠 '돌풍'... D-1 관람 포인트]]></title>
+            <link>https://www.maxmovie.com/news/438416</link>
+            <guid>https://www.maxmovie.com/news/438416</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[대통령 시해 그 이후 권력 싸움
+설경구·김희애 주연 치열한 대립 
+'권력 3부작' 박경수 작가 신작]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719465210733GHt8H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[농구선수 허웅 스캔들...예능 '돌싱포맨'에도 불똥]]></title>
+            <link>https://www.maxmovie.com/news/438414</link>
+            <guid>https://www.maxmovie.com/news/438414</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[7월2일 방송 예정 허웅·허훈 형제 특집
+예고편 비공개 전환, 방송 여부 논의]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719466598602t3Mqq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동시 접속자 얼마나 될까, 변우석 서울 팬미팅 추가 오픈 '대란' 예고]]></title>
+            <link>https://www.maxmovie.com/news/438412</link>
+            <guid>https://www.maxmovie.com/news/438412</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[27일 오후 8시 시야제한석 예매
+지난달 티켓 오픈시 70만명 몰려]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719456271249HDqHA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['한계 없는' 변우석 인기, 브랜드 평판 1위→팔로워 1000만 돌파]]></title>
+            <link>https://www.maxmovie.com/news/438411</link>
+            <guid>https://www.maxmovie.com/news/438411</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[27일 서울 팬미팅 시야제한석 예매 오픈 
+광고계 러브콜, 아시아 팬미팅 '바쁜 일정']]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719462841840e7SDh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제시카 알바 '트리거 워닝', 저조한 평점에도 1위 행진]]></title>
+            <link>https://www.maxmovie.com/news/438410</link>
+            <guid>https://www.maxmovie.com/news/438410</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[5일째 넷플릭스 영화 1위
+IMDB 4.6점·로톤토마토 23%]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719451552244joR1Y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어송라이터 모어, 엄태구·한선화의 로맨스 돕는다]]></title>
+            <link>https://www.maxmovie.com/news/438409</link>
+            <guid>https://www.maxmovie.com/news/438409</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA['놀아주는 여자' OST '에브리싱' 발표
+로맨스 감성 자극하는 감미로운 보컬]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719450962492LRB2t.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['26일 흥행 대전' 승자...예상대로 '인사이드 아웃2']]></title>
+            <link>https://www.maxmovie.com/news/438404</link>
+            <guid>https://www.maxmovie.com/news/438404</guid>
+            <pubDate>Sun, 30 Jun 2024 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[신작 '콰플3' 2위, '핸섬가이즈' 4위 출발
+예매율도 접전, 28일~30일 성적 관심]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719449034549s4tA1.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
