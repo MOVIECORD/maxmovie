@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 00:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 01:55:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전도연에 동화되는 임지연의 미묘한 얼굴, 영화 '리볼버']]></title>
+            <link>https://www.maxmovie.com/news/438477</link>
+            <guid>https://www.maxmovie.com/news/438477</guid>
+            <pubDate>Wed, 03 Jul 2024 01:55:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438477"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1719968392675bDMdq.jpg" alt=""></span><span class="textBox"><h4>전도연에 동화되는 임지연의 미묘한 얼굴, 영화 '리볼버' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719968392675bDMdq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로맨스 떠난 허광한의 킬러 변신... '노 웨이 아웃 : 더 룰렛']]></title>
             <link>https://www.maxmovie.com/news/438464</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 19 Jun 2024 04:10:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438320"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718764374346uNaaR.jpg" alt=""></span><span class="textBox"><h4>재난 상황 담은 '탈출: 프로젝트 사일런스'의 타임라인 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718764374346uNaaR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 히트 중인 '애콜라이트' 4회 공개, 이정재가 쫓는 인물은?]]></title>
-            <link>https://www.maxmovie.com/news/438318</link>
-            <guid>https://www.maxmovie.com/news/438318</guid>
-            <pubDate>Wed, 19 Jun 2024 03:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438318"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1718763184362p3Wh1.jpg" alt=""></span><span class="textBox"><h4>글로벌 히트 중인 '애콜라이트' 4회 공개, 이정재가 쫓는 인물은? </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1718763184362p3Wh1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
