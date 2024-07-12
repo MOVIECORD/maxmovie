@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jul 2024 01:56:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 02:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[막시무스 넘을까? 24년 만에 돌아온 '글래디에이터2']]></title>
+            <link>https://www.maxmovie.com/news/438587</link>
+            <guid>https://www.maxmovie.com/news/438587</guid>
+            <pubDate>Fri, 12 Jul 2024 02:28:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438587"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1720747535440k0gcj.jpg" alt=""></span><span class="textBox"><h4>막시무스 넘을까? 24년 만에 돌아온 '글래디에이터2'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1720747535440k0gcj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오직 웃기기 위해...조정석이 온다! '파일럿' 코미디 미리 엿보니]]></title>
             <link>https://www.maxmovie.com/news/438585</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 01 Jul 2024 02:04:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438447"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17197960513947dg3v.jpg" alt=""></span><span class="textBox"><h4>"웃기고 잔인, 가슴도 찡한"...라이언 레이놀즈와 휴 잭맨의 시너지 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17197960513947dg3v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['히메컷' 전도연, 헤어스타일에서 캐릭터가 보인다]]></title>
-            <link>https://www.maxmovie.com/news/438446</link>
-            <guid>https://www.maxmovie.com/news/438446</guid>
-            <pubDate>Mon, 01 Jul 2024 02:04:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438446"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1719794691793Bamrt.jpg" alt=""></span><span class="textBox"><h4>'히메컷' 전도연, 헤어스타일에서 캐릭터가 보인다</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719794691793Bamrt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
