@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jul 2024 00:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 01:56:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오직 웃기기 위해...조정석이 온다! '파일럿' 코미디 미리 엿보니]]></title>
+            <link>https://www.maxmovie.com/news/438585</link>
+            <guid>https://www.maxmovie.com/news/438585</guid>
+            <pubDate>Fri, 12 Jul 2024 01:56:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438585"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/172074637174038DdD.jpg" alt=""></span><span class="textBox"><h4>오직 웃기기 위해...조정석이 온다! '파일럿' 코미디 미리 엿보니 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/172074637174038DdD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[분노하는 전도연 VS 히스테릭 지창욱 VS 미스터리 임지연... 영화 '리볼버']]></title>
             <link>https://www.maxmovie.com/news/438578</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 01 Jul 2024 02:04:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438446"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1719794691793Bamrt.jpg" alt=""></span><span class="textBox"><h4>'히메컷' 전도연, 헤어스타일에서 캐릭터가 보인다</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719794691793Bamrt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['조선인 여공의 노래' 100년 전 오사카로 떠난 강인한 여성의 삶]]></title>
-            <link>https://www.maxmovie.com/news/438424</link>
-            <guid>https://www.maxmovie.com/news/438424</guid>
-            <pubDate>Fri, 28 Jun 2024 03:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438424"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1719538805368orUl3.jpg" alt=""></span><span class="textBox"><h4>'조선인 여공의 노래' 100년 전 오사카로 떠난 강인한 여성의 삶</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1719538805368orUl3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
