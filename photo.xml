@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jul 2024 05:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jul 2024 06:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연기·패션·문학까지...다재다능한 배우 문가영의 새 프로필]]></title>
+            <link>https://www.maxmovie.com/news/438736</link>
+            <guid>https://www.maxmovie.com/news/438736</guid>
+            <pubDate>Wed, 24 Jul 2024 06:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438736"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1721798710276ZV1py.jpg" alt=""></span><span class="textBox"><h4>연기·패션·문학까지...다재다능한 배우 문가영의 새 프로필</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1721798710276ZV1py.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유재석부터 덱스까지...예능 더 존: 버텨야 산다'가 돌아왔다]]></title>
             <link>https://www.maxmovie.com/news/438734</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 23 Jul 2024 06:11:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438578"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1720660878867dZCNt.jpg" alt=""></span><span class="textBox"><h4>분노하는 전도연 VS 히스테릭 지창욱 VS 미스터리 임지연... 영화 '리볼버' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1720660878867dZCNt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제훈·구교환의 '탈주', 집요한 추적기 엿보니...]]></title>
-            <link>https://www.maxmovie.com/news/438577</link>
-            <guid>https://www.maxmovie.com/news/438577</guid>
-            <pubDate>Tue, 23 Jul 2024 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438577"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1720659820733UxzIk.jpg" alt=""></span><span class="textBox"><h4>이제훈·구교환의 '탈주', 집요한 추적기 엿보니...</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1720659820733UxzIk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
