@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 21:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 22:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Thu, 25 Jul 2024 01:58:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438747"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17218698968890lY0D.jpg" alt=""></span><span class="textBox"><h4>웃기러 오는 조정석, 여장 남자 '파일럿' 촬영장 엿보니 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17218698968890lY0D.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개봉 직후 북미 강타...'미나리' 정이삭 감독의 '트위스터스']]></title>
-            <link>https://www.maxmovie.com/news/438746</link>
-            <guid>https://www.maxmovie.com/news/438746</guid>
-            <pubDate>Thu, 25 Jul 2024 01:58:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438746"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1721868643684pmecu.jpg" alt=""></span><span class="textBox"><h4>개봉 직후 북미 강타...'미나리' 정이삭 감독의 '트위스터스' </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1721868643684pmecu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연기·패션·문학까지...다재다능한 배우 문가영의 새 프로필]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Tue, 23 Jul 2024 06:11:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438626"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1721091547866nTBhV.jpg" alt=""></span><span class="textBox"><h4>괴소문의 진원지...공포영화 '늘봄가든' 미리 엿보니</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1721091547866nTBhV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개봉 직후 북미 강타...'미나리' 정이삭 감독의 '트위스터스']]></title>
+            <link>https://www.maxmovie.com/news/438746</link>
+            <guid>https://www.maxmovie.com/news/438746</guid>
+            <pubDate>Thu, 25 Jul 2024 01:58:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438746"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1721868643684pmecu.jpg" alt=""></span><span class="textBox"><h4>개봉 직후 북미 강타...'미나리' 정이삭 감독의 '트위스터스' </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1721868643684pmecu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
