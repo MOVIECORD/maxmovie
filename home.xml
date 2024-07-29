@@ -4,107 +4,71 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jul 2024 02:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jul 2024 03:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[0]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 29 Jul 2024 02:36:38 GMT</pubDate>
+            <pubDate>Mon, 29 Jul 2024 03:09:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 29 Jul 2024 02:36:38 GMT</pubDate>
+            <pubDate>Mon, 29 Jul 2024 03:09:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 29 Jul 2024 02:36:38 GMT</pubDate>
+            <pubDate>Mon, 29 Jul 2024 03:09:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 29 Jul 2024 02:36:38 GMT</pubDate>
+            <pubDate>Mon, 29 Jul 2024 03:09:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 29 Jul 2024 02:36:38 GMT</pubDate>
+            <pubDate>Mon, 29 Jul 2024 03:09:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 29 Jul 2024 02:36:38 GMT</pubDate>
+            <pubDate>Mon, 29 Jul 2024 03:09:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 29 Jul 2024 02:36:38 GMT</pubDate>
+            <pubDate>Mon, 29 Jul 2024 03:09:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 29 Jul 2024 02:36:38 GMT</pubDate>
+            <pubDate>Mon, 29 Jul 2024 03:09:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 29 Jul 2024 02:36:38 GMT</pubDate>
+            <pubDate>Mon, 29 Jul 2024 03:09:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 낭만 찾는 이들의 이야기, 영화 '진주의 진주']]></title>
-            <link>https://www.maxmovie.com/news/438772</link>
-            <guid>https://www.maxmovie.com/news/438772</guid>
-            <pubDate>Sun, 28 Jul 2024 22:07:55 GMT</pubDate>
-            <content:encoded><![CDATA['잔칫날' 김록경 감독의 2번째 연출작
-이지현·문선용·임호준·이정은 등 출연]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1721973012189s6ThU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태원 참사 다큐 '크러쉬', 미 에미상 후보 선정]]></title>
-            <link>https://www.maxmovie.com/news/438780</link>
-            <guid>https://www.maxmovie.com/news/438780</guid>
-            <pubDate>Mon, 29 Jul 2024 00:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 10월 이태원 참사 증언 등 담은 작품
-세계 최고 권위 방송 관련 시상식 수상 관심]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17221323710113AOaN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손석구 제작·주연  단편 '밤낚시', 판타지아국제영화제 수상]]></title>
-            <link>https://www.maxmovie.com/news/438779</link>
-            <guid>https://www.maxmovie.com/news/438779</guid>
-            <pubDate>Mon, 29 Jul 2024 00:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[칸 영화제 단편 황금종려상 문병곤 감독 신작
-자동차 시점 미스터리한 사건 그린 스릴러물]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722130981928STR8n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MCU 위기의 구원투수, 결국 로다주? 환호와 혼란 사이]]></title>
-            <link>https://www.maxmovie.com/news/438791</link>
-            <guid>https://www.maxmovie.com/news/438791</guid>
-            <pubDate>Mon, 29 Jul 2024 02:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[코믹콘에서 슈퍼 빌런 '닥터 둠' 복귀 선언 
-위기 타개책 결국 '과거의 영광' 비판 제기]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722215687425QB8Ok.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[황정민·정해인의 '베테랑2'...개봉 2달 앞두고 흥행 시동]]></title>
@@ -116,13 +80,59 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722214332468Ss8UD.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['데드풀과 울버린' 청불 한계 또 넘었다...첫 주 100만 돌파 1위]]></title>
-            <link>https://www.maxmovie.com/news/438787</link>
-            <guid>https://www.maxmovie.com/news/438787</guid>
-            <pubDate>Mon, 29 Jul 2024 02:00:45 GMT</pubDate>
-            <content:encoded><![CDATA['데드풀과 울버린' 주말동안 72만명 
-'슈퍼배드4'·'탈주' 박스오피스 2·3위]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722211134869yWLOG.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이태원 참사 다큐 '크러쉬', 미 에미상 후보 선정]]></title>
+            <link>https://www.maxmovie.com/news/438780</link>
+            <guid>https://www.maxmovie.com/news/438780</guid>
+            <pubDate>Mon, 29 Jul 2024 00:36:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 10월 이태원 참사 증언 등 담은 작품
+세계 최고 권위 방송 관련 시상식 수상 관심]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17221323710113AOaN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[간토대학살  '박열' 이준익 감독, 또 한번 비극의 역사 전한다]]></title>
+            <link>https://www.maxmovie.com/news/438786</link>
+            <guid>https://www.maxmovie.com/news/438786</guid>
+            <pubDate>Mon, 29 Jul 2024 03:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[다큐 영화 '1923 간토대학살' 관객 만남
+'박열'이 그린 사건의 역사적 진실 공유]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722210970133Z5ngi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하정우의 '하이재킹' 이제 안방에서 본다]]></title>
+            <link>https://www.maxmovie.com/news/438793</link>
+            <guid>https://www.maxmovie.com/news/438793</guid>
+            <pubDate>Mon, 29 Jul 2024 03:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[7월29일 IPTV 및 VOD 서비스 
+극장 개봉 176만 관객 동원]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722217199328MOyZP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['아이언맨' 로버트 다우니 주니어, '빌런' 닥터 둠으로 '어벤져스' 복귀]]></title>
+            <link>https://www.maxmovie.com/news/438782</link>
+            <guid>https://www.maxmovie.com/news/438782</guid>
+            <pubDate>Mon, 29 Jul 2024 03:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 '둠스데이', 2027년 '시크릿 워즈' 공개
+마블 최강 악당 닥터 둠 캐릭터로 기대감 증폭]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722169491047VsGbI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['데드풀과 울버린'은 마블의 "예수"일까..흥행 질주 언제까지]]></title>
+            <link>https://www.maxmovie.com/news/438781</link>
+            <guid>https://www.maxmovie.com/news/438781</guid>
+            <pubDate>Mon, 29 Jul 2024 03:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[28일 100만 관객 돌파 전망..MCU 부활?
+'파일럿' '행복의 나라' 등 한국영화 맞불
+극장가 변수 속 마블 히어로 활약에 주목]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722136173872PdlII.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손석구 제작·주연  단편 '밤낚시', 판타지아국제영화제 수상]]></title>
+            <link>https://www.maxmovie.com/news/438779</link>
+            <guid>https://www.maxmovie.com/news/438779</guid>
+            <pubDate>Mon, 29 Jul 2024 00:36:38 GMT</pubDate>
+            <content:encoded><![CDATA[칸 영화제 단편 황금종려상 문병곤 감독 신작
+자동차 시점 미스터리한 사건 그린 스릴러물]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722130981928STR8n.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까]흑사병 창궐했던 과거, 이탈리아 귀족들은... '데카메론']]></title>
@@ -168,13 +178,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1721975134842Bw3yz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김윤석 17년 만에 드라마 복귀작 '아무도 없는 숲속에서' 공개]]></title>
-            <link>https://www.maxmovie.com/news/438776</link>
-            <guid>https://www.maxmovie.com/news/438776</guid>
-            <pubDate>Mon, 29 Jul 2024 02:00:45 GMT</pubDate>
-            <content:encoded><![CDATA[김윤석·윤계상·고민시·이정은 출연
-'부부의 세계' 모완일 감독 연출]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1721983748532zV4o5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이 조합 실화? 차은우와 박은빈의 특급 만남]]></title>
+            <link>https://www.maxmovie.com/news/438773</link>
+            <guid>https://www.maxmovie.com/news/438773</guid>
+            <pubDate>Mon, 29 Jul 2024 03:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 '더 원더 풀스' 주연 검토 
+초능력자들의 이야기 다룬 작품]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1721976870860Cf5ks.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파리 올림픽 파고든 K팝의 저력...세븐틴부터 BTS 진까지]]></title>
@@ -209,15 +219,6 @@
             <content:encoded><![CDATA['데드풀' '파일럿' 직접적 영향권
 올림픽 종료 이후 극장 '박 터진다']]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1721961483583AIf9m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 강타 '트위스터스' 정이삭 감독과 배우, 한국 관객 만난다]]></title>
-            <link>https://www.maxmovie.com/news/438765</link>
-            <guid>https://www.maxmovie.com/news/438765</guid>
-            <pubDate>Mon, 29 Jul 2024 02:00:45 GMT</pubDate>
-            <content:encoded><![CDATA[8월7일 배우와 내한해 영화 소개
-할리우드 블록버스터 첫 연출작]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1721957970636DXjvW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
