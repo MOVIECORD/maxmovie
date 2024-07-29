@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jul 2024 04:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jul 2024 05:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[독특한 로맨스 '죽고 싶지만 사랑은 하고 싶어'...어떤 이야기?]]></title>
+            <link>https://www.maxmovie.com/news/438792</link>
+            <guid>https://www.maxmovie.com/news/438792</guid>
+            <pubDate>Mon, 29 Jul 2024 05:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438792"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1722217895269C1aZl.jpg" alt=""></span><span class="textBox"><h4>독특한 로맨스 '죽고 싶지만 사랑은 하고 싶어'...어떤 이야기?</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722217895269C1aZl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사무엘  L. 잭슨·뱅상 카셀의 만남...'데미지드'는 어떤 영화?]]></title>
             <link>https://www.maxmovie.com/news/438790</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 23 Jul 2024 06:11:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438640"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1721178120158ar2OP.jpg" alt=""></span><span class="textBox"><h4>'오직 웃기려고' 박성웅·곽시양·윤경호의 '필사의 추격' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1721178120158ar2OP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본이 감춘 역사의 진실, 영화 '1923 간토대학살' 어떤 이야기?]]></title>
-            <link>https://www.maxmovie.com/news/438629</link>
-            <guid>https://www.maxmovie.com/news/438629</guid>
-            <pubDate>Tue, 23 Jul 2024 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438629"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1721094446470q5uon.jpg" alt=""></span><span class="textBox"><h4>일본이 감춘 역사의 진실, 영화 '1923 간토대학살' 어떤 이야기?</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1721094446470q5uon.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
