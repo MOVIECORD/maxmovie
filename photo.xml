@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 04:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 05:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[100만 돌파 '데드풀과 울버린', 기록 어디까지 갈까]]></title>
+            <link>https://www.maxmovie.com/news/438809</link>
+            <guid>https://www.maxmovie.com/news/438809</guid>
+            <pubDate>Tue, 30 Jul 2024 05:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438809"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17223054581630a67I.jpg" alt=""></span><span class="textBox"><h4>100만 돌파 '데드풀과 울버린', 기록 어디까지 갈까</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17223054581630a67I.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칸이 선택한 영화 '러브 달바', 정체성 찾아가는 소녀의 이야기]]></title>
             <link>https://www.maxmovie.com/news/438807</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 23 Jul 2024 06:11:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438655"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1721263434667jTD4i.jpg" alt=""></span><span class="textBox"><h4>'크로스' 부부로 뭉친 황정민·염정아, '유기견'과 '악어'의 만남</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1721263434667jTD4i.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외딴 집 찾아온 살인마들...공포 '스트레인저스: 챕터1' 어떤 이야기?]]></title>
-            <link>https://www.maxmovie.com/news/438642</link>
-            <guid>https://www.maxmovie.com/news/438642</guid>
-            <pubDate>Tue, 23 Jul 2024 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438642"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1721181328560LMSD4.jpg" alt=""></span><span class="textBox"><h4>외딴 집 찾아온 살인마들...공포 '스트레인저스: 챕터1' 어떤 이야기?</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1721181328560LMSD4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
