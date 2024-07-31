@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jul 2024 04:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jul 2024 05:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['명탐정 코난: 100만 달러의 펜타그램' 팬들이 열광한 액션 공개]]></title>
+            <link>https://www.maxmovie.com/news/438823</link>
+            <guid>https://www.maxmovie.com/news/438823</guid>
+            <pubDate>Wed, 31 Jul 2024 05:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438823"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1722390648767JiYSD.jpg" alt=""></span><span class="textBox"><h4>'명탐정 코난: 100만 달러의 펜타그램' 팬들이 열광한 액션 공개 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722390648767JiYSD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베트남 샤머니즘 '마야', '파묘' 오컬트 열풍 이을까]]></title>
             <link>https://www.maxmovie.com/news/438820</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 23 Jul 2024 06:11:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438659"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17212690331503yYE6.jpg" alt=""></span><span class="textBox"><h4>미셸 공드리의  환상 세계 담은 창작 노트, 영화 '공드리의 솔루션북' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17212690331503yYE6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스위트홈' 피날레, 이진욱‧고민시‧이시영이 남긴 말말말]]></title>
-            <link>https://www.maxmovie.com/news/438658</link>
-            <guid>https://www.maxmovie.com/news/438658</guid>
-            <pubDate>Tue, 23 Jul 2024 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438658"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1721267665823xzpUc.jpg" alt=""></span><span class="textBox"><h4>'스위트홈' 피날레, 이진욱‧고민시‧이시영이 남긴 말말말 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1721267665823xzpUc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
