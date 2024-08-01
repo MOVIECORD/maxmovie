@@ -4,79 +4,89 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 03:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 04:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[0]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 01 Aug 2024 03:09:17 GMT</pubDate>
+            <pubDate>Thu, 01 Aug 2024 04:11:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 01 Aug 2024 03:09:17 GMT</pubDate>
+            <pubDate>Thu, 01 Aug 2024 04:11:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 01 Aug 2024 03:09:17 GMT</pubDate>
+            <pubDate>Thu, 01 Aug 2024 04:11:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 01 Aug 2024 03:09:17 GMT</pubDate>
+            <pubDate>Thu, 01 Aug 2024 04:11:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 01 Aug 2024 03:09:17 GMT</pubDate>
+            <pubDate>Thu, 01 Aug 2024 04:11:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 01 Aug 2024 03:09:17 GMT</pubDate>
+            <pubDate>Thu, 01 Aug 2024 04:11:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 01 Aug 2024 03:09:17 GMT</pubDate>
+            <pubDate>Thu, 01 Aug 2024 04:11:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 01 Aug 2024 03:09:17 GMT</pubDate>
+            <pubDate>Thu, 01 Aug 2024 04:11:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 01 Aug 2024 03:09:17 GMT</pubDate>
+            <pubDate>Thu, 01 Aug 2024 04:11:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[데일리 핫이슈] 양재웅 원장 '별밤' 하차, 트와이스 150만 동원 대기록 외]]></title>
-            <link>https://www.maxmovie.com/news/438824</link>
-            <guid>https://www.maxmovie.com/news/438824</guid>
-            <pubDate>Wed, 31 Jul 2024 22:07:35 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722391904217z0Y9q.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[조정석 파격 여장 통했다...'파일럿', 첫날 37만명 관객 동원]]></title>
+            <link>https://www.maxmovie.com/news/438831</link>
+            <guid>https://www.maxmovie.com/news/438831</guid>
+            <pubDate>Thu, 01 Aug 2024 00:38:43 GMT</pubDate>
+            <content:encoded><![CDATA[올여름 개봉작 중 최고 오프닝 스코어
+조정석의 능청스러운 코미디 연기]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722471348961AydyV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[푸바오의 마지막 여정...'안녕, 할부지' 9월4일 개봉]]></title>
+            <link>https://www.maxmovie.com/news/438834</link>
+            <guid>https://www.maxmovie.com/news/438834</guid>
+            <pubDate>Thu, 01 Aug 2024 03:09:17 GMT</pubDate>
+            <content:encoded><![CDATA['국민 판다'와 주키퍼들의 이야기 
+떠나기 전 3개월간의 모습 담아]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722472993609I47NU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에미상이 주목한 한국 이슈...후보 오른 다큐 3편에 시선 집중]]></title>
@@ -89,15 +99,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17223902826543jT5G.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[오늘 뭘 볼까] FC안양 서포터즈의 열정과 낭만, 영화 '수카바티: 극락축구단']]></title>
-            <link>https://www.maxmovie.com/news/438826</link>
-            <guid>https://www.maxmovie.com/news/438826</guid>
-            <pubDate>Thu, 01 Aug 2024 00:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[선호빈·나바루 감독 연출 다큐 
-국내 최초 축구 서포터즈 이야기]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722405324797lg89G.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오직 전도연 파워, 영화 '리볼버' 172개국 선판매]]></title>
             <link>https://www.maxmovie.com/news/438840</link>
             <guid>https://www.maxmovie.com/news/438840</guid>
@@ -107,41 +108,38 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722480367405yrws9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공유의 '스포' 맞았다...'오징어 게임2' 12월26일 공개 이유는?]]></title>
-            <link>https://www.maxmovie.com/news/438829</link>
-            <guid>https://www.maxmovie.com/news/438829</guid>
-            <pubDate>Thu, 01 Aug 2024 02:05:03 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 연중 최대 빅시즌 공략
-1편의 성공 잇는 최적의 시기 
-시즌3 통해 시리즈 완결 선언]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722469464966bNt1b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['오징어 게임2', 12월26일 전 세계 공개..시즌3도 내년 제작]]></title>
+            <link>https://www.maxmovie.com/news/438830</link>
+            <guid>https://www.maxmovie.com/news/438830</guid>
+            <pubDate>Thu, 01 Aug 2024 04:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 공개 일정 확정..파이널 시즌도 예고]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722470687220qhYzZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[푸바오의 마지막 여정...'안녕, 할부지' 9월4일 개봉]]></title>
-            <link>https://www.maxmovie.com/news/438834</link>
-            <guid>https://www.maxmovie.com/news/438834</guid>
-            <pubDate>Thu, 01 Aug 2024 03:09:17 GMT</pubDate>
-            <content:encoded><![CDATA['국민 판다'와 주키퍼들의 이야기 
-떠나기 전 3개월간의 모습 담아]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722472993609I47NU.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[데일리 핫이슈] 양재웅 원장 '별밤' 하차, 트와이스 150만 동원 대기록 외]]></title>
+            <link>https://www.maxmovie.com/news/438824</link>
+            <guid>https://www.maxmovie.com/news/438824</guid>
+            <pubDate>Wed, 31 Jul 2024 22:07:35 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722391904217z0Y9q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[10월 정규앨범 존박, 8일 수록곡 선공개]]></title>
-            <link>https://www.maxmovie.com/news/438833</link>
-            <guid>https://www.maxmovie.com/news/438833</guid>
+            <title><![CDATA[[오늘 뭘 볼까] FC안양 서포터즈의 열정과 낭만, 영화 '수카바티: 극락축구단']]></title>
+            <link>https://www.maxmovie.com/news/438826</link>
+            <guid>https://www.maxmovie.com/news/438826</guid>
             <pubDate>Thu, 01 Aug 2024 00:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[‘이너 차일드’ 이후 11년 만 정규
-'비스타'‘·'나이트크롤러' 등 두 곡]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722472431506pfpGD.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[선호빈·나바루 감독 연출 다큐 
+국내 최초 축구 서포터즈 이야기]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722405324797lg89G.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조정석 파격 여장 통했다...'파일럿', 첫날 37만명 관객 동원]]></title>
-            <link>https://www.maxmovie.com/news/438831</link>
-            <guid>https://www.maxmovie.com/news/438831</guid>
-            <pubDate>Thu, 01 Aug 2024 00:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[올여름 개봉작 중 최고 오프닝 스코어
-조정석의 능청스러운 코미디 연기]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722471348961AydyV.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['리볼버' 전도연 "돈보다 결국 자신을 찾아가는 과정"]]></title>
+            <link>https://www.maxmovie.com/news/438828</link>
+            <guid>https://www.maxmovie.com/news/438828</guid>
+            <pubDate>Thu, 01 Aug 2024 04:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[하나의 목적을 향해 직진하는 이야기
+이정재·전혜진, 특별출연으로 보탠 힘]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17224120972085Opj7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['화인가 스캔들' 피날레...정지훈·김하늘이 남긴 말은?]]></title>
