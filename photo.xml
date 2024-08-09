@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Aug 2024 03:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 04:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또 한번 팀 버튼의 세계...36년 만에 돌아온 '비틀쥬스 비틀쥬스']]></title>
+            <link>https://www.maxmovie.com/news/438937</link>
+            <guid>https://www.maxmovie.com/news/438937</guid>
+            <pubDate>Fri, 09 Aug 2024 04:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438937"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1723167554472bzpvc.jpg" alt=""></span><span class="textBox"><h4>또 한번 팀 버튼의 세계...36년 만에 돌아온 '비틀쥬스 비틀쥬스'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1723167554472bzpvc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아직 보여주지 않았던 전도연과 임지연의 얼굴, 영화 '리볼버']]></title>
             <link>https://www.maxmovie.com/news/438936</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 29 Jul 2024 02:01:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438790"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1722215971729im0m6.jpg" alt=""></span><span class="textBox"><h4>사무엘  L. 잭슨·뱅상 카셀의 만남...'데미지드'는 어떤 영화?</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722215971729im0m6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 휩쓴 '블루 록' 열풍, 첫 번째 극장판 온다]]></title>
-            <link>https://www.maxmovie.com/news/438788</link>
-            <guid>https://www.maxmovie.com/news/438788</guid>
-            <pubDate>Mon, 29 Jul 2024 02:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438788"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1722215029086phGug.jpg" alt=""></span><span class="textBox"><h4>일본 휩쓴 '블루 록' 열풍, 첫 번째 극장판 온다 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722215029086phGug.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
