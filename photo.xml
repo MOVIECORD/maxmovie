@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 02:02:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 03:09:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[푸바오 가족 돌본, 주키퍼들의 육아 스타일 전격 비교]]></title>
+            <link>https://www.maxmovie.com/news/438979</link>
+            <guid>https://www.maxmovie.com/news/438979</guid>
+            <pubDate>Tue, 13 Aug 2024 03:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438979"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1723513967330zllN7.jpg" alt=""></span><span class="textBox"><h4>푸바오 가족 돌본, 주키퍼들의 육아 스타일 전격 비교 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1723513967330zllN7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화로 탄생한 뮤지컬 '영웅: 라이브 인 시네마']]></title>
             <link>https://www.maxmovie.com/news/438977</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 31 Jul 2024 01:37:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438818"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1722387501252SluTB.jpg" alt=""></span><span class="textBox"><h4>정만식부터 전혜진·옥자연까지... '크로스' 완성한 배우들</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722387501252SluTB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[100만 돌파 '데드풀과 울버린', 기록 어디까지 갈까]]></title>
-            <link>https://www.maxmovie.com/news/438809</link>
-            <guid>https://www.maxmovie.com/news/438809</guid>
-            <pubDate>Tue, 30 Jul 2024 05:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438809"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17223054581630a67I.jpg" alt=""></span><span class="textBox"><h4>100만 돌파 '데드풀과 울버린', 기록 어디까지 갈까</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17223054581630a67I.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
