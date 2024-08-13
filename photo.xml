@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 05:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 06:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722905912092bT8DS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[문경에서 만난 뜻밖의 힐링... 영화 '문경' 어떤 이야기?]]></title>
-            <link>https://www.maxmovie.com/news/438874</link>
-            <guid>https://www.maxmovie.com/news/438874</guid>
-            <pubDate>Mon, 05 Aug 2024 08:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438874"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1722825819851fbyRK.jpg" alt=""></span><span class="textBox"><h4>문경에서 만난 뜻밖의 힐링... 영화 '문경' 어떤 이야기?</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722825819851fbyRK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['사랑의 하츄핑', 여름 극장가 복병 주목받는 이유]]></title>
             <link>https://www.maxmovie.com/news/438871</link>
             <guid>https://www.maxmovie.com/news/438871</guid>
@@ -240,12 +232,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722388749941b1vrq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정만식부터 전혜진·옥자연까지... '크로스' 완성한 배우들]]></title>
-            <link>https://www.maxmovie.com/news/438818</link>
-            <guid>https://www.maxmovie.com/news/438818</guid>
-            <pubDate>Wed, 31 Jul 2024 01:37:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438818"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1722387501252SluTB.jpg" alt=""></span><span class="textBox"><h4>정만식부터 전혜진·옥자연까지... '크로스' 완성한 배우들</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722387501252SluTB.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[문경에서 만난 뜻밖의 힐링... 영화 '문경' 어떤 이야기?]]></title>
+            <link>https://www.maxmovie.com/news/438874</link>
+            <guid>https://www.maxmovie.com/news/438874</guid>
+            <pubDate>Mon, 05 Aug 2024 08:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438874"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1722825819851fbyRK.jpg" alt=""></span><span class="textBox"><h4>문경에서 만난 뜻밖의 힐링... 영화 '문경' 어떤 이야기?</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722825819851fbyRK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남진 데뷔 60주년 기념 영화 '오빠, 남진'... 미리 봤더니]]></title>
+            <link>https://www.maxmovie.com/news/438981</link>
+            <guid>https://www.maxmovie.com/news/438981</guid>
+            <pubDate>Tue, 13 Aug 2024 06:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438981"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17235153275295zwDn.jpg" alt=""></span><span class="textBox"><h4>남진 데뷔 60주년 기념 영화 '오빠, 남진'... 미리 봤더니</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17235153275295zwDn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
