@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 04:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 05:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반 고흐의 예술 세계, 다시 보는 영화 '러빙 빈센트']]></title>
+            <link>https://www.maxmovie.com/news/438994</link>
+            <guid>https://www.maxmovie.com/news/438994</guid>
+            <pubDate>Wed, 14 Aug 2024 05:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438994"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1723600471980nEduf.jpg" alt=""></span><span class="textBox"><h4>반 고흐의 예술 세계, 다시 보는 영화 '러빙 빈센트'&nbsp;</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1723600471980nEduf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김윤석부터 고민시까지... '아무도 없는 숲속에서' 어떤 이야기?]]></title>
             <link>https://www.maxmovie.com/news/438990</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 31 Jul 2024 07:05:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438825"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1722402414273g9hnc.jpg" alt=""></span><span class="textBox"><h4>이혜리·박세완의 세기말 감성...영화 '빅토리' 관객과 통할까 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722402414273g9hnc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['명탐정 코난: 100만 달러의 펜타그램' 팬들이 열광한 액션 공개]]></title>
-            <link>https://www.maxmovie.com/news/438823</link>
-            <guid>https://www.maxmovie.com/news/438823</guid>
-            <pubDate>Wed, 31 Jul 2024 05:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438823"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1722390648767JiYSD.jpg" alt=""></span><span class="textBox"><h4>'명탐정 코난: 100만 달러의 펜타그램' 팬들이 열광한 액션 공개 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722390648767JiYSD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
