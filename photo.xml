@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 02:00:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 02:36:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김윤석부터 고민시까지... '아무도 없는 숲속에서' 어떤 이야기?]]></title>
+            <link>https://www.maxmovie.com/news/438990</link>
+            <guid>https://www.maxmovie.com/news/438990</guid>
+            <pubDate>Wed, 14 Aug 2024 02:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438990"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1723596488432bzYEo.jpg" alt=""></span><span class="textBox"><h4>김윤석부터 고민시까지... '아무도 없는 숲속에서' 어떤 이야기? &nbsp;&nbsp;</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1723596488432bzYEo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남진 데뷔 60주년 기념 영화 '오빠, 남진'... 미리 봤더니]]></title>
             <link>https://www.maxmovie.com/news/438981</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 31 Jul 2024 05:08:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438823"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1722390648767JiYSD.jpg" alt=""></span><span class="textBox"><h4>'명탐정 코난: 100만 달러의 펜타그램' 팬들이 열광한 액션 공개 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722390648767JiYSD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베트남 샤머니즘 '마야', '파묘' 오컬트 열풍 이을까]]></title>
-            <link>https://www.maxmovie.com/news/438820</link>
-            <guid>https://www.maxmovie.com/news/438820</guid>
-            <pubDate>Wed, 31 Jul 2024 02:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438820"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1722388749941b1vrq.jpg" alt=""></span><span class="textBox"><h4>베트남 샤머니즘 '마야', '파묘' 오컬트 열풍 이을까</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722388749941b1vrq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
