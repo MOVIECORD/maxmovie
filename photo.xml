@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Aug 2024 00:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Aug 2024 01:53:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위스키 지키려는 가족 이야기...애니메이션 '코마다 위스키 패밀리']]></title>
+            <link>https://www.maxmovie.com/news/438993</link>
+            <guid>https://www.maxmovie.com/news/438993</guid>
+            <pubDate>Thu, 15 Aug 2024 01:53:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438993"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1723599081151ApCVD.jpg" alt=""></span><span class="textBox"><h4>위스키 지키려는 가족 이야기...애니메이션 '코마다 위스키 패밀리'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1723599081151ApCVD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반 고흐의 예술 세계, 다시 보는 영화 '러빙 빈센트']]></title>
             <link>https://www.maxmovie.com/news/438994</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 01 Aug 2024 02:05:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438835"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1722474319101yMkfY.jpg" alt=""></span><span class="textBox"><h4>임영웅의 스타디움 실황 영화, 결정적 장면들 미리 엿보니...</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722474319101yMkfY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이혜리·박세완의 세기말 감성...영화 '빅토리' 관객과 통할까]]></title>
-            <link>https://www.maxmovie.com/news/438825</link>
-            <guid>https://www.maxmovie.com/news/438825</guid>
-            <pubDate>Wed, 31 Jul 2024 07:05:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438825"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1722402414273g9hnc.jpg" alt=""></span><span class="textBox"><h4>이혜리·박세완의 세기말 감성...영화 '빅토리' 관객과 통할까 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722402414273g9hnc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
