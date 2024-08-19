@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Aug 2024 00:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 02:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전자발찌 범죄자 응징하는 김우빈·김성균의 '무도실무관']]></title>
+            <link>https://www.maxmovie.com/news/439036</link>
+            <guid>https://www.maxmovie.com/news/439036</guid>
+            <pubDate>Mon, 19 Aug 2024 02:02:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439036"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1724029048696G3Sv7.jpg" alt=""></span><span class="textBox"><h4>전자발찌 범죄자 응징하는 김우빈·김성균의 '무도실무관'&nbsp;</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1724029048696G3Sv7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['안녕, 할부지' 속 바오패밀리, 어떻게 구분할까...]]></title>
             <link>https://www.maxmovie.com/news/439013</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 02 Aug 2024 03:09:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438850"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17225622768515xqHk.jpg" alt=""></span><span class="textBox"><h4>이제훈·구교환부터 송강까지... '탈주' 놓쳐선 안 될 순간들</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17225622768515xqHk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조진웅과 유재명의 대결...'노 웨이 아웃' 공개 살인청부 전말은?]]></title>
-            <link>https://www.maxmovie.com/news/438847</link>
-            <guid>https://www.maxmovie.com/news/438847</guid>
-            <pubDate>Fri, 02 Aug 2024 01:59:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438847"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/172256052822156RyX.jpg" alt=""></span><span class="textBox"><h4>조진웅과 유재명의 대결...'노 웨이 아웃' 공개 살인청부 전말은? </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/172256052822156RyX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
