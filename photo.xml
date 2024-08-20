@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 00:35:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 02:00:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블룸하우스와 제임스 맥어보이의 만남 '스픽 노 이블']]></title>
+            <link>https://www.maxmovie.com/news/439052</link>
+            <guid>https://www.maxmovie.com/news/439052</guid>
+            <pubDate>Tue, 20 Aug 2024 02:00:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439052"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1724115763035O4ggu.jpg" alt=""></span><span class="textBox"><h4>블룸하우스와 제임스 맥어보이의 만남 '스픽 노 이블'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1724115763035O4ggu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[30년 만에 공개 에드워드 양 감독의 '독립시대', 어떤 작품?]]></title>
             <link>https://www.maxmovie.com/news/439041</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 05 Aug 2024 04:10:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438871"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1722821958574eKDuc.jpg" alt=""></span><span class="textBox"><h4>'사랑의 하츄핑', 여름 극장가 복병 주목받는 이유 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722821958574eKDuc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김선호와 맞붙는 무진성·김주헌, '폭군'의 얼굴들]]></title>
-            <link>https://www.maxmovie.com/news/438868</link>
-            <guid>https://www.maxmovie.com/news/438868</guid>
-            <pubDate>Mon, 05 Aug 2024 02:01:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438868"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1722819829242g2GvO.jpg" alt=""></span><span class="textBox"><h4>김선호와 맞붙는 무진성·김주헌, '폭군'의 얼굴들 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1722819829242g2GvO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
