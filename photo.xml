@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 13:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 14:09:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,14 +184,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1723596488432bzYEo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[남진 데뷔 60주년 기념 영화 '오빠, 남진'... 미리 봤더니]]></title>
-            <link>https://www.maxmovie.com/news/438981</link>
-            <guid>https://www.maxmovie.com/news/438981</guid>
-            <pubDate>Tue, 13 Aug 2024 06:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438981"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17235153275295zwDn.jpg" alt=""></span><span class="textBox"><h4>남진 데뷔 60주년 기념 영화 '오빠, 남진'... 미리 봤더니</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17235153275295zwDn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[푸바오 가족 돌본, 주키퍼들의 육아 스타일 전격 비교]]></title>
             <link>https://www.maxmovie.com/news/438979</link>
             <guid>https://www.maxmovie.com/news/438979</guid>
@@ -246,6 +238,14 @@
             <pubDate>Fri, 09 Aug 2024 02:01:19 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438936"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1723166345812gd6HI.jpg" alt=""></span><span class="textBox"><h4>아직 보여주지 않았던 전도연과 임지연의 얼굴, 영화 '리볼버' </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1723166345812gd6HI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남진 데뷔 60주년 기념 영화 '오빠, 남진'... 미리 봤더니]]></title>
+            <link>https://www.maxmovie.com/news/438981</link>
+            <guid>https://www.maxmovie.com/news/438981</guid>
+            <pubDate>Tue, 13 Aug 2024 06:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/438981"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17235153275295zwDn.jpg" alt=""></span><span class="textBox"><h4>남진 데뷔 60주년 기념 영화 '오빠, 남진'... 미리 봤더니</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17235153275295zwDn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
