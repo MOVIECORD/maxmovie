@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 02:02:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 03:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쟈니 리부터 설운도까지! 그들이 말하는 '오빠, 남진']]></title>
+            <link>https://www.maxmovie.com/news/439105</link>
+            <guid>https://www.maxmovie.com/news/439105</guid>
+            <pubDate>Thu, 22 Aug 2024 03:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439105"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17242918936817scHB.jpg" alt=""></span><span class="textBox"><h4>쟈니 리부터 설운도까지! 그들이 말하는 '오빠, 남진'&nbsp;</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17242918936817scHB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[맥스포토] '한국이 싫어서' 주종혁, 환한 건치 미소]]></title>
             <link>https://www.maxmovie.com/news/439094</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 13 Aug 2024 06:12:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/438981"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17235153275295zwDn.jpg" alt=""></span><span class="textBox"><h4>남진 데뷔 60주년 기념 영화 '오빠, 남진'... 미리 봤더니</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17235153275295zwDn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸바오 가족 돌본, 주키퍼들의 육아 스타일 전격 비교]]></title>
-            <link>https://www.maxmovie.com/news/438979</link>
-            <guid>https://www.maxmovie.com/news/438979</guid>
-            <pubDate>Tue, 13 Aug 2024 03:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/438979"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1723513967330zllN7.jpg" alt=""></span><span class="textBox"><h4>푸바오 가족 돌본, 주키퍼들의 육아 스타일 전격 비교 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1723513967330zllN7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
