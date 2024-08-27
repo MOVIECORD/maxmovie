@@ -2,70 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.maxmovie.com/ott</id>
     <title>맥스무비 ─ OTT</title>
-    <updated>2024-08-27T02:02:41.810Z</updated>
+    <updated>2024-08-27T03:09:49.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.maxmovie.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://www.maxmovie.com/ott</id>
         <link href="https://www.maxmovie.com/ott"/>
-        <updated>2024-08-27T02:02:34.530Z</updated>
+        <updated>2024-08-27T03:09:42.562Z</updated>
         <content type="html"><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://www.maxmovie.com/ott</id>
         <link href="https://www.maxmovie.com/ott"/>
-        <updated>2024-08-27T02:02:34.531Z</updated>
+        <updated>2024-08-27T03:09:42.563Z</updated>
         <content type="html"><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.maxmovie.com/ott</id>
         <link href="https://www.maxmovie.com/ott"/>
-        <updated>2024-08-27T02:02:34.532Z</updated>
+        <updated>2024-08-27T03:09:42.564Z</updated>
         <content type="html"><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>https://www.maxmovie.com/ott</id>
         <link href="https://www.maxmovie.com/ott"/>
-        <updated>2024-08-27T02:02:34.534Z</updated>
+        <updated>2024-08-27T03:09:42.566Z</updated>
         <content type="html"><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>https://www.maxmovie.com/ott</id>
         <link href="https://www.maxmovie.com/ott"/>
-        <updated>2024-08-27T02:02:34.535Z</updated>
+        <updated>2024-08-27T03:09:42.566Z</updated>
         <content type="html"><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
         <id>https://www.maxmovie.com/ott</id>
         <link href="https://www.maxmovie.com/ott"/>
-        <updated>2024-08-27T02:02:34.536Z</updated>
+        <updated>2024-08-27T03:09:42.570Z</updated>
         <content type="html"><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
         <id>https://www.maxmovie.com/ott</id>
         <link href="https://www.maxmovie.com/ott"/>
-        <updated>2024-08-27T02:02:34.537Z</updated>
+        <updated>2024-08-27T03:09:42.573Z</updated>
         <content type="html"><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
         <id>https://www.maxmovie.com/ott</id>
         <link href="https://www.maxmovie.com/ott"/>
-        <updated>2024-08-27T02:02:34.541Z</updated>
+        <updated>2024-08-27T03:09:42.577Z</updated>
         <content type="html"><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
         <id>https://www.maxmovie.com/ott</id>
         <link href="https://www.maxmovie.com/ott"/>
-        <updated>2024-08-27T02:02:34.543Z</updated>
+        <updated>2024-08-27T03:09:42.578Z</updated>
         <content type="html"><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content>
     </entry>
 </feed>
