@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 07:09:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 08:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[맥스포토] 김지영, 화사한 꽃무늬 원피스 패션]]></title>
+            <link>https://www.maxmovie.com/news/439238</link>
+            <guid>https://www.maxmovie.com/news/439238</guid>
+            <pubDate>Thu, 29 Aug 2024 08:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439238"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1724918776527vUADu.png" alt=""></span><span class="textBox"><h4>[맥스포토] 김지영, 화사한 꽃무늬 원피스 패션</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1724918776527vUADu.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[맥스포토] 전종서, 학폭 논란 사실무근]]></title>
             <link>https://www.maxmovie.com/news/439191</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 22 Aug 2024 11:08:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439120"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1724322522789vUsEt.png" alt=""></span><span class="textBox"><h4>[맥스포토] 임영웅, 잘생긴 히어로</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1724322522789vUsEt.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 임영웅, 늠름하게 입장하는 히어로]]></title>
-            <link>https://www.maxmovie.com/news/439119</link>
-            <guid>https://www.maxmovie.com/news/439119</guid>
-            <pubDate>Thu, 22 Aug 2024 11:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439119"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17243220776925UkEb.png" alt=""></span><span class="textBox"><h4>[맥스포토] 임영웅, 늠름하게 입장하는 히어로</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17243220776925UkEb.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
