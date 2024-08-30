@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 22:08:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 23:09:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[위클리 포토] 전종서·이수혁·정유미·김지영...K하트는 진화 중]]></title>
+            <link>https://www.maxmovie.com/news/439251</link>
+            <guid>https://www.maxmovie.com/news/439251</guid>
+            <pubDate>Fri, 30 Aug 2024 23:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439251"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1725001890643xvFec.png" alt=""></span><span class="textBox"><h4>[위클리 포토] 전종서·이수혁·정유미·김지영...K하트는 진화 중 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1725001890643xvFec.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[맥스포토] '겨울연가' 윤석호의 첫 한국영화 주역들 한 자리에]]></title>
             <link>https://www.maxmovie.com/news/439240</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 23 Aug 2024 04:11:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439129"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1724385784024VbEBv.png" alt=""></span><span class="textBox"><h4>[맥스포토] '파친코2' 김민하, 핑크빛 미모</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1724385784024VbEBv.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 이민호, 조각 같은 옆모습]]></title>
-            <link>https://www.maxmovie.com/news/439128</link>
-            <guid>https://www.maxmovie.com/news/439128</guid>
-            <pubDate>Fri, 23 Aug 2024 04:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439128"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1724385534386vfL1O.png" alt=""></span><span class="textBox"><h4>[맥스포토] 이민호, 조각 같은 옆모습</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1724385534386vfL1O.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
