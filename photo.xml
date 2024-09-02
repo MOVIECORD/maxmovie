@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 04:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 05:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[맥스포토] '대도시의 사랑법' 노상현·김고은,  하트 대신 주먹~]]></title>
+            <link>https://www.maxmovie.com/news/439274</link>
+            <guid>https://www.maxmovie.com/news/439274</guid>
+            <pubDate>Mon, 02 Sep 2024 05:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439274"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1725248962836fPjAE.png" alt=""></span><span class="textBox"><h4>[맥스포토] '대도시의 사랑법' 노상현·김고은,  하트 대신 주먹~</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1725248962836fPjAE.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[맥스포토] '대도시의 사랑법' 노상현, 스크린 첫 주연!]]></title>
             <link>https://www.maxmovie.com/news/439273</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 23 Aug 2024 06:11:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439136"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1724389600868ALrti.png" alt=""></span><span class="textBox"><h4>[맥스포토] '파친코2' 윤여정, 기대되는 열연 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1724389600868ALrti.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] '파친코2' 김민하, 사랑스러운 하트]]></title>
-            <link>https://www.maxmovie.com/news/439135</link>
-            <guid>https://www.maxmovie.com/news/439135</guid>
-            <pubDate>Fri, 23 Aug 2024 05:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439135"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/172438781740107sNd.png" alt=""></span><span class="textBox"><h4>[맥스포토] '파친코2' 김민하, 사랑스러운 하트</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/172438781740107sNd.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
