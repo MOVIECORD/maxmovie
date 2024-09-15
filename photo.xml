@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Sep 2024 23:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 00:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변우석, 추석에도 '열일'하는 잘생김…사진 대방출]]></title>
+            <link>https://www.maxmovie.com/news/439449</link>
+            <guid>https://www.maxmovie.com/news/439449</guid>
+            <pubDate>Sun, 15 Sep 2024 00:42:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439449"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17263598250790AwbF.jpg" alt=""></span><span class="textBox"><h4>변우석, 추석에도 '열일'하는 잘생김…사진 대방출</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17263598250790AwbF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[위클리 포토]  정해인 VS 김우빈...'무해한' 미소 대결]]></title>
             <link>https://www.maxmovie.com/news/439434</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 04 Sep 2024 07:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439309"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1725422076600N8yo6.png" alt=""></span><span class="textBox"><h4>[맥스포토] '보통의 가족' 김희애, 우아함의 대명사</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1725422076600N8yo6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 장동건, 범접불가 존재감]]></title>
-            <link>https://www.maxmovie.com/news/439308</link>
-            <guid>https://www.maxmovie.com/news/439308</guid>
-            <pubDate>Wed, 04 Sep 2024 04:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439308"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1725421673698LuTdl.png" alt=""></span><span class="textBox"><h4>[맥스포토] 장동건, 범접불가 존재감</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1725421673698LuTdl.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
