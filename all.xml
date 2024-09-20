@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 03:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 04:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 20 Sep 2024 03:11:55 GMT</pubDate>
+            <pubDate>Fri, 20 Sep 2024 04:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 20 Sep 2024 03:11:55 GMT</pubDate>
+            <pubDate>Fri, 20 Sep 2024 04:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 20 Sep 2024 03:11:55 GMT</pubDate>
+            <pubDate>Fri, 20 Sep 2024 04:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 20 Sep 2024 03:11:55 GMT</pubDate>
+            <pubDate>Fri, 20 Sep 2024 04:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 20 Sep 2024 03:11:55 GMT</pubDate>
+            <pubDate>Fri, 20 Sep 2024 04:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 20 Sep 2024 03:11:55 GMT</pubDate>
+            <pubDate>Fri, 20 Sep 2024 04:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 20 Sep 2024 03:11:55 GMT</pubDate>
+            <pubDate>Fri, 20 Sep 2024 04:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 20 Sep 2024 03:11:55 GMT</pubDate>
+            <pubDate>Fri, 20 Sep 2024 04:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 20 Sep 2024 03:11:55 GMT</pubDate>
+            <pubDate>Fri, 20 Sep 2024 04:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -97,13 +97,22 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1726781823006Lrz4B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['베테랑2' 전 세계 163개국 관객과 만난다 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439496</link>
-            <guid>https://www.maxmovie.com/news/439496</guid>
-            <pubDate>Fri, 20 Sep 2024 00:38:20 GMT</pubDate>
-            <content:encoded><![CDATA[미국·홍콩·태국·호주·베트남 등 판매
-13일 개봉 19일까지 468만명 동원]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1726791535947wQQAm.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[인터뷰] 사카구치 켄타로 "5년간 한 사람만? 나라면…" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439500</link>
+            <guid>https://www.maxmovie.com/news/439500</guid>
+            <pubDate>Fri, 20 Sep 2024 04:10:39 GMT</pubDate>
+            <content:encoded><![CDATA['사랑 후에 오는 것들'로 첫 한국 작품 출연
+서강준 닮은꼴 일본 모델 겸 배우로 주목]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1726803273358G4Aed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰]  김우빈이 '지금'을 살아가는 방식 "하루 하루 충실하게" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439488</link>
+            <guid>https://www.maxmovie.com/news/439488</guid>
+            <pubDate>Fri, 20 Sep 2024 04:10:39 GMT</pubDate>
+            <content:encoded><![CDATA['무도실무관'에서 이정도 역할 존재감
+"영화에서 새로운 얼굴 보여주고 싶다"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1726724984092qvex0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장나라의 '굿파트너' D-1,  최고 시청률 한 번 더? (맥스무비)]]></title>
@@ -132,13 +141,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17267182760835c5op.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[손익분기점 도달 '베테랑2', 가능성 높은 3편의 탄생 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439484</link>
-            <guid>https://www.maxmovie.com/news/439484</guid>
-            <pubDate>Thu, 19 Sep 2024 22:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[류승완 감독 '흥행' 전제로 3편 시사
-"해치의 탄생 명확하게 볼 수 있어"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1726707342073knKLC.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['살아있는 전설'의 음악영화 다시 감성을..'원스' 그리고 '비긴 어게인' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439486</link>
+            <guid>https://www.maxmovie.com/news/439486</guid>
+            <pubDate>Fri, 20 Sep 2024 04:10:39 GMT</pubDate>
+            <content:encoded><![CDATA['원스' 19일·'비긴 어게인' 18일 재개봉 눈길
+존 카니 감독의 대표작..애틋한 남녀 이야기]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1726710874009xhKSz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이선균·조정석의 '행복의 나라' 이제 안방에서 본다 (맥스무비)]]></title>
@@ -168,13 +177,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1726670658995bLf7K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[오늘 뭘 볼까] 연쇄살인마  앞에 놓인 덫..영화 '트랩' (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439481</link>
-            <guid>https://www.maxmovie.com/news/439481</guid>
-            <pubDate>Fri, 20 Sep 2024 02:08:44 GMT</pubDate>
-            <content:encoded><![CDATA['식스 센스' M. 나이트 샤말란 감독 신작
-조시 허트넷의 섬뜩한 연쇄살인마 변신]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1726650568280QzYQX.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['경성크리처' 시즌2, 1945년 경성→2024년 서울로...어떻게 이어질까 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439480</link>
+            <guid>https://www.maxmovie.com/news/439480</guid>
+            <pubDate>Fri, 20 Sep 2024 04:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[과거에서 현재로 이어진 두 청춘의 이야기
+박서준 "한소희, 파트너로서 많이 의지했다"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17266470304123wBWx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['김삼순' 이어 20년 만에 돌아오는 '미안하다, 사랑한다' (맥스무비)]]></title>
@@ -211,15 +220,6 @@
             <content:encoded><![CDATA[에드워드 애슈턴 소설 '미키 7' 원작
 한국에서 2025년 1월28일 개봉]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1726626740746yRWi9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[추석 극장가는 '베테랑2' 세상, 손익분기점 400만 돌파 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439475</link>
-            <guid>https://www.maxmovie.com/news/439475</guid>
-            <pubDate>Fri, 20 Sep 2024 02:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 6일 만에 누적 관객  400만
-2015년 개봉한 '베테랑' 속편]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1726623352736J41cn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[변우석, 추석에도 '열일'하는 잘생김…사진 대방출 (맥스무비 ─ 포토)]]></title>
