@@ -4,9 +4,25 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Sep 2024 04:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 05:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[맥스포토] 진선규, 변신의 귀재]]></title>
+            <link>https://www.maxmovie.com/news/439549</link>
+            <guid>https://www.maxmovie.com/news/439549</guid>
+            <pubDate>Tue, 24 Sep 2024 05:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439549"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727152969399Bvgkx.png" alt=""></span><span class="textBox"><h4>[맥스포토] 진선규, 변신의 귀재</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727152969399Bvgkx.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 류승룡, 영화 '아마존 활명수'로 웃음 정조준]]></title>
+            <link>https://www.maxmovie.com/news/439550</link>
+            <guid>https://www.maxmovie.com/news/439550</guid>
+            <pubDate>Tue, 24 Sep 2024 05:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439550"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17271535572810QMDk.jpg" alt=""></span><span class="textBox"><h4>[맥스포토] 류승룡, 영화 '아마존 활명수'로 웃음 정조준</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17271535572810QMDk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[맥스포토] 류승룡·진선규, '케미' 말해뭐해~]]></title>
             <link>https://www.maxmovie.com/news/439548</link>
@@ -216,14 +232,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/172586749465959VTH.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[맥스포토] 변우석, 잔망미 넘치는 브이~]]></title>
-            <link>https://www.maxmovie.com/news/439373</link>
-            <guid>https://www.maxmovie.com/news/439373</guid>
-            <pubDate>Mon, 09 Sep 2024 06:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439373"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1725860121374HGLSs.png" alt=""></span><span class="textBox"><h4>[맥스포토] 변우석, 잔망미 넘치는 브이~</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1725860121374HGLSs.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[맥스포토] 변우석, 윙크는 못해요~]]></title>
             <link>https://www.maxmovie.com/news/439375</link>
             <guid>https://www.maxmovie.com/news/439375</guid>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 09 Sep 2024 06:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439374"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1725860440568An5nM.png" alt=""></span><span class="textBox"><h4>[맥스포토] 변우석, 모델 출신 배우다운 비율</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1725860440568An5nM.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 변우석, 앵두 같은 입술~]]></title>
-            <link>https://www.maxmovie.com/news/439372</link>
-            <guid>https://www.maxmovie.com/news/439372</guid>
-            <pubDate>Mon, 09 Sep 2024 06:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439372"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17258599463892aLl3.png" alt=""></span><span class="textBox"><h4>[맥스포토] 변우석, 앵두 같은 입술~</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17258599463892aLl3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
