@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Sep 2024 05:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 06:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[맥스포토] 염혜란 '집안 실세 아내 연기해요']]></title>
+            <link>https://www.maxmovie.com/news/439551</link>
+            <guid>https://www.maxmovie.com/news/439551</guid>
+            <pubDate>Tue, 24 Sep 2024 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439551"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727154490435jEusx.png" alt=""></span><span class="textBox"><h4>[맥스포토] 염혜란 '집안 실세 아내 연기해요'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727154490435jEusx.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[맥스포토] 진선규, 변신의 귀재]]></title>
             <link>https://www.maxmovie.com/news/439549</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 09 Sep 2024 06:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439375"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1725872799744wAGz3.jpg" alt=""></span><span class="textBox"><h4>[맥스포토] 변우석, 윙크는 못해요~</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1725872799744wAGz3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 변우석, 모델 출신 배우다운 비율]]></title>
-            <link>https://www.maxmovie.com/news/439374</link>
-            <guid>https://www.maxmovie.com/news/439374</guid>
-            <pubDate>Mon, 09 Sep 2024 06:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439374"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1725860440568An5nM.png" alt=""></span><span class="textBox"><h4>[맥스포토] 변우석, 모델 출신 배우다운 비율</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1725860440568An5nM.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
