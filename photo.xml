@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Sep 2024 04:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 05:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[맥스포토] 배현성, 여심 녹이는 볼하트]]></title>
+            <link>https://www.maxmovie.com/news/439577</link>
+            <guid>https://www.maxmovie.com/news/439577</guid>
+            <pubDate>Wed, 25 Sep 2024 04:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439577"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727234898565T0kp1.png" alt=""></span><span class="textBox"><h4>[맥스포토] 배현성, 여심 녹이는 볼하트</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727234898565T0kp1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[맥스포토] 배현성, 실물이 '조각']]></title>
             <link>https://www.maxmovie.com/news/439576</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 15 Sep 2024 00:42:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439449"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17263598250790AwbF.jpg" alt=""></span><span class="textBox"><h4>변우석, 추석에도 '열일'하는 잘생김…사진 대방출</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17263598250790AwbF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 배현성, 여심 녹이는 볼하트]]></title>
-            <link>https://www.maxmovie.com/news/439577</link>
-            <guid>https://www.maxmovie.com/news/439577</guid>
-            <pubDate>Wed, 25 Sep 2024 04:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439577"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727234898565T0kp1.png" alt=""></span><span class="textBox"><h4>[맥스포토] 배현성, 여심 녹이는 볼하트</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727234898565T0kp1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
