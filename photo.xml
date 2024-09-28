@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Sep 2024 11:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Sep 2024 12:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,28 +48,12 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727252075356bq7lf.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[맥스포토] 김동준, 전우성 감독과 '서울드라마어워즈 2024' 참석]]></title>
-            <link>https://www.maxmovie.com/news/439582</link>
-            <guid>https://www.maxmovie.com/news/439582</guid>
-            <pubDate>Wed, 25 Sep 2024 10:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439582"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727247213343kH4Tq.png" alt=""></span><span class="textBox"><h4>[맥스포토] 김동준, 전우성 감독과 '서울드라마어워즈 2024' 참석</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727247213343kH4Tq.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[맥스포토] 박찬욱 감독, 연출작 '동조자' 수상]]></title>
             <link>https://www.maxmovie.com/news/439589</link>
             <guid>https://www.maxmovie.com/news/439589</guid>
             <pubDate>Wed, 25 Sep 2024 10:10:28 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439589"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727252754947zPxtU.jpg" alt=""></span><span class="textBox"><h4>[맥스포토] 박찬욱 감독, 연출작 '동조자' 수상</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727252754947zPxtU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 안재홍 '아이시떼루~']]></title>
-            <link>https://www.maxmovie.com/news/439590</link>
-            <guid>https://www.maxmovie.com/news/439590</guid>
-            <pubDate>Wed, 25 Sep 2024 10:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439590"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727253344341lmcVX.png" alt=""></span><span class="textBox"><h4>[맥스포토] 안재홍 '아이시떼루~'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727253344341lmcVX.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] '서울드라마어워즈'에 뜬 '삼체' 주역들]]></title>
@@ -246,6 +230,22 @@
             <pubDate>Tue, 24 Sep 2024 04:11:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439547"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727148955327YGhdc.png" alt=""></span><span class="textBox"><h4>[맥스포토] 류승룡·염혜란·진선규 '류진스에염~'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727148955327YGhdc.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 안재홍 '아이시떼루~']]></title>
+            <link>https://www.maxmovie.com/news/439590</link>
+            <guid>https://www.maxmovie.com/news/439590</guid>
+            <pubDate>Wed, 25 Sep 2024 10:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439590"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727253344341lmcVX.png" alt=""></span><span class="textBox"><h4>[맥스포토] 안재홍 '아이시떼루~'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727253344341lmcVX.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 김동준, 전우성 감독과 '서울드라마어워즈 2024' 참석]]></title>
+            <link>https://www.maxmovie.com/news/439582</link>
+            <guid>https://www.maxmovie.com/news/439582</guid>
+            <pubDate>Wed, 25 Sep 2024 10:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439582"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727247213343kH4Tq.png" alt=""></span><span class="textBox"><h4>[맥스포토] 김동준, 전우성 감독과 '서울드라마어워즈 2024' 참석</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727247213343kH4Tq.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
