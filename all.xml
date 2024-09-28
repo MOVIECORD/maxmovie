@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Sep 2024 03:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Sep 2024 04:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 28 Sep 2024 03:13:44 GMT</pubDate>
+            <pubDate>Sat, 28 Sep 2024 04:10:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 28 Sep 2024 03:13:44 GMT</pubDate>
+            <pubDate>Sat, 28 Sep 2024 04:10:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 28 Sep 2024 03:13:44 GMT</pubDate>
+            <pubDate>Sat, 28 Sep 2024 04:10:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 28 Sep 2024 03:13:44 GMT</pubDate>
+            <pubDate>Sat, 28 Sep 2024 04:10:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 28 Sep 2024 03:13:44 GMT</pubDate>
+            <pubDate>Sat, 28 Sep 2024 04:10:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 28 Sep 2024 03:13:44 GMT</pubDate>
+            <pubDate>Sat, 28 Sep 2024 04:10:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 28 Sep 2024 03:13:44 GMT</pubDate>
+            <pubDate>Sat, 28 Sep 2024 04:10:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 28 Sep 2024 03:13:44 GMT</pubDate>
+            <pubDate>Sat, 28 Sep 2024 04:10:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 28 Sep 2024 03:13:44 GMT</pubDate>
+            <pubDate>Sat, 28 Sep 2024 04:10:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -97,12 +97,24 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727423197338tc6VD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[위클리 이슈 모음zip] 백현 5천만원 기부·넷플릭스 '크라임씬' 제작·남궁민·전여빈 호흡 외 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439626</link>
-            <guid>https://www.maxmovie.com/news/439626</guid>
-            <pubDate>Fri, 27 Sep 2024 22:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[한 주간 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727428005263PC3Rp.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[미국 개봉 '잠' 유재선 감독 "이선균은 큰형 같은 존재" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439631</link>
+            <guid>https://www.maxmovie.com/news/439631</guid>
+            <pubDate>Sat, 28 Sep 2024 04:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[27일 개봉, 현지 언론 인터뷰 및 리뷰 게재 
+"이선균, 깊은 영향 준 사람..봉준호 감독은 멘토"
+영화 "플롯 반전 인상적..영리하고 깔끔한 스릴러"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17274876482389xVd5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이민자 이철수의 억울함..다큐 '프리 철수 리' 에미상 수상 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439629</link>
+            <guid>https://www.maxmovie.com/news/439629</guid>
+            <pubDate>Sat, 28 Sep 2024 04:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스 &amp; 다큐멘터리 에미상 최우수 역사 다큐상
+살인사건 피의자로 내몰린 한인 이철수 이야기
+그를 살리려는 한인들과 이민자들의 구명운동]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17274273725182G1G8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['존 윅 유니버스' 아니랄까 봐...쏟아지는 액션 '발레리나' (맥스무비)]]></title>
@@ -131,13 +143,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727415551528JnuZr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가을, 사랑하기 좋은 계절...사카구치 켄타로·이세영의 멜로 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439621</link>
-            <guid>https://www.maxmovie.com/news/439621</guid>
-            <pubDate>Sat, 28 Sep 2024 00:39:13 GMT</pubDate>
-            <content:encoded><![CDATA['사랑 후에 오는 것들' 27일 공개 
-5년에 걸친 한·일 커플의 사랑]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727408891827w5P5I.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['우나기'와 '동경 이야기' ..일본영화 거장들이 다시 온다 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439619</link>
+            <guid>https://www.maxmovie.com/news/439619</guid>
+            <pubDate>Sat, 28 Sep 2024 04:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[이마무라 쇼헤이·오즈 야스지로 대표작 
+전후 일본영화 상징 거목들..10월 재개봉]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17274065903530Uaqr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[600만 돌파 '베테랑2', 10월 흥행 2라운드 시작 (맥스무비)]]></title>
@@ -166,13 +178,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17273549046805bmML.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[오늘 뭘 볼까]  영화는 힘이 세다...'파벨만스' (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439610</link>
-            <guid>https://www.maxmovie.com/news/439610</guid>
-            <pubDate>Sat, 28 Sep 2024 00:39:13 GMT</pubDate>
-            <content:encoded><![CDATA[27일 넷플릭스 공개..소년과 영화와 세상
-스티븐 스필버그 감독의 자전적 이야기]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727344349771xFvKh.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국내는 좁다…임영웅 공연 실황 영화, 이제 해외로 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439614</link>
+            <guid>https://www.maxmovie.com/news/439614</guid>
+            <pubDate>Sat, 28 Sep 2024 04:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[미국·태국서 10월 개봉
+싱어롱 위크 '한 번 더']]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727373231760ovqJ2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['조커'의 컴백...호아킨 피닉스‧토드 필립스가 밝힌 '폴리 아 되' (맥스무비)]]></title>
@@ -210,15 +222,6 @@
 늙지 않는 채옥...괴생명체 '나진' 
 새 인물들...이무생·배현성의 비밀]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17273302462834g3io.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[턱선 날렵해진 김대명, 몸무게 10kg 감량…무슨 일? (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439607</link>
-            <guid>https://www.maxmovie.com/news/439607</guid>
-            <pubDate>Sat, 28 Sep 2024 00:39:13 GMT</pubDate>
-            <content:encoded><![CDATA['더러운 돈에 손대지 마라' 위해 체중 감량
-"동혁은 죄책감에 고통스러워하는 인물"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727331409386YOhtF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[위클리 포토] 장동건‧설경구‧류승룡...'믿고 보는' 10월 출격 (맥스무비 ─ 포토)]]></title>
@@ -261,12 +264,28 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727252075356bq7lf.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[맥스포토] 김동준, 전우성 감독과 '서울드라마어워즈 2024' 참석 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/439582</link>
+            <guid>https://www.maxmovie.com/news/439582</guid>
+            <pubDate>Wed, 25 Sep 2024 10:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439582"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727247213343kH4Tq.png" alt=""></span><span class="textBox"><h4>[맥스포토] 김동준, 전우성 감독과 '서울드라마어워즈 2024' 참석</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727247213343kH4Tq.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[맥스포토] 박찬욱 감독, 연출작 '동조자' 수상 (맥스무비 ─ 포토)]]></title>
             <link>https://www.maxmovie.com/news/439589</link>
             <guid>https://www.maxmovie.com/news/439589</guid>
             <pubDate>Wed, 25 Sep 2024 10:10:28 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439589"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727252754947zPxtU.jpg" alt=""></span><span class="textBox"><h4>[맥스포토] 박찬욱 감독, 연출작 '동조자' 수상</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727252754947zPxtU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 안재홍 '아이시떼루~' (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/439590</link>
+            <guid>https://www.maxmovie.com/news/439590</guid>
+            <pubDate>Wed, 25 Sep 2024 10:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439590"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727253344341lmcVX.png" alt=""></span><span class="textBox"><h4>[맥스포토] 안재홍 '아이시떼루~'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727253344341lmcVX.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] '서울드라마어워즈'에 뜬 '삼체' 주역들 (맥스무비 ─ 포토)]]></title>
@@ -443,22 +462,6 @@
             <pubDate>Tue, 24 Sep 2024 04:11:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439547"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727148955327YGhdc.png" alt=""></span><span class="textBox"><h4>[맥스포토] 류승룡·염혜란·진선규 '류진스에염~'</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727148955327YGhdc.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 안재홍 '아이시떼루~' (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/439590</link>
-            <guid>https://www.maxmovie.com/news/439590</guid>
-            <pubDate>Wed, 25 Sep 2024 10:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439590"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727253344341lmcVX.png" alt=""></span><span class="textBox"><h4>[맥스포토] 안재홍 '아이시떼루~'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727253344341lmcVX.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 김동준, 전우성 감독과 '서울드라마어워즈 2024' 참석 (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/439582</link>
-            <guid>https://www.maxmovie.com/news/439582</guid>
-            <pubDate>Wed, 25 Sep 2024 10:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439582"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727247213343kH4Tq.png" alt=""></span><span class="textBox"><h4>[맥스포토] 김동준, 전우성 감독과 '서울드라마어워즈 2024' 참석</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727247213343kH4Tq.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
