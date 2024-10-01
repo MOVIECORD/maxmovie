@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 06:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 07:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 01 Oct 2024 06:13:12 GMT</pubDate>
+            <pubDate>Tue, 01 Oct 2024 07:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 01 Oct 2024 06:13:12 GMT</pubDate>
+            <pubDate>Tue, 01 Oct 2024 07:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 01 Oct 2024 06:13:12 GMT</pubDate>
+            <pubDate>Tue, 01 Oct 2024 07:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 01 Oct 2024 06:13:12 GMT</pubDate>
+            <pubDate>Tue, 01 Oct 2024 07:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 01 Oct 2024 06:13:12 GMT</pubDate>
+            <pubDate>Tue, 01 Oct 2024 07:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 01 Oct 2024 06:13:12 GMT</pubDate>
+            <pubDate>Tue, 01 Oct 2024 07:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 01 Oct 2024 06:13:12 GMT</pubDate>
+            <pubDate>Tue, 01 Oct 2024 07:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 01 Oct 2024 06:13:12 GMT</pubDate>
+            <pubDate>Tue, 01 Oct 2024 07:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 01 Oct 2024 06:13:12 GMT</pubDate>
+            <pubDate>Tue, 01 Oct 2024 07:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -99,13 +99,22 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727676774080KVgOq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['레블 리지'로 눈도장 찍은 매력적인 액션배우, 에런 피어 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439659</link>
-            <guid>https://www.maxmovie.com/news/439659</guid>
-            <pubDate>Tue, 01 Oct 2024 04:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[부패 경찰 응징하는 전직 해병대원 이야기
-'무파사: 라이온 킹'서 무파사 목소리 연기]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727700553829uXoi2.png" length="0" type="image/png"/>
+            <title><![CDATA[강동원 VS 박정민 VS 차승원...'전,란' 3색 캐릭터 열전 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439660</link>
+            <guid>https://www.maxmovie.com/news/439660</guid>
+            <pubDate>Tue, 01 Oct 2024 07:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[혼돈의 시기에 맞붙는 의병·무관·왕
+액션 가미한 정통 사극, 시대상 담아
+2일 부국제 개막작으로 베일 벗어]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727729770294UF3pV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데일리 핫이슈]  김호중 3년6개월 구형, RM 뮤비 '로스트!' 성과 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439652</link>
+            <guid>https://www.maxmovie.com/news/439652</guid>
+            <pubDate>Tue, 01 Oct 2024 07:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727679552339rv2Ao.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리뷰: 포테이토 지수 83%] '경성크리처2', 청산되지 않은 과거와 고통 (맥스무비)]]></title>
@@ -135,13 +144,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727675178776ftvPj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[700만 향해 가는 '베테랑2', 5주차 무대인사도 확정 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439647</link>
-            <guid>https://www.maxmovie.com/news/439647</guid>
-            <pubDate>Tue, 01 Oct 2024 06:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[국군의 날·개천절 징검다리 휴일에도 계속 
-정해인 쉼 없는 소통의지…700만 돌파 눈앞]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727674110744yVDo0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[문소리·영화 '부산행' 이동하 대표, 프랑스 '에투알  뒤 시네마' 수상 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439649</link>
+            <guid>https://www.maxmovie.com/news/439649</guid>
+            <pubDate>Tue, 01 Oct 2024 07:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[주한 프랑스 대사관 "韓·佛 영화 교류 기여" 
+부산국제영화제 기간 '프랑스의 밤'서 수여]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727674696186eLBIb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 미야케 쇼 감독이 '새벽의 모든' 원작에 끌렸던 이유 (맥스무비)]]></title>
@@ -171,13 +180,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727655185369RfJuj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["영화의 꿈을 키운 곳" 대한극장,  '충무로'와 함께 사라지다 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439642</link>
-            <guid>https://www.maxmovie.com/news/439642</guid>
-            <pubDate>Tue, 01 Oct 2024 06:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[30일 "상영 사업 패러다임 변화..영업 종료"
-1958년 이후 66년 동안 한국 영화산업 상징]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727684025554qgoB6.png" length="0" type="image/png"/>
+            <title><![CDATA['장손' ‧ '그녀에게' 값진 성과...나란히 2만 돌파 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439641</link>
+            <guid>https://www.maxmovie.com/news/439641</guid>
+            <pubDate>Tue, 01 Oct 2024 07:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[현실과 밀접한 이야기로 관심 확산 
+독립‧예술영화로 꾸준히 관객 모아]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727649192386WguPt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 낭만과 힐링의 공간을 찾아..다큐 '김석훈의 어! 여기봐라' (맥스무비)]]></title>
@@ -214,15 +223,6 @@
 김태리의 새로운 연기 도전 주목 
 공개 직전  MBC VS 제작사들 분쟁]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727587444205mofF7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한석규를 긴장하게 만든 새 얼굴, 채원빈은 누구? (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439636</link>
-            <guid>https://www.maxmovie.com/news/439636</guid>
-            <pubDate>Tue, 01 Oct 2024 02:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[MBC '이토록 친밀한 배신자' 부녀 호흡
-치열한 오디션으로  발탁된 신예 연기자]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727603097359jaavE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[위클리 포토] 장동건‧설경구‧류승룡...'믿고 보는' 10월 출격 (맥스무비 ─ 포토)]]></title>
