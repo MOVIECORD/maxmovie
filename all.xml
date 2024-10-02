@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 10:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 11:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Wed, 02 Oct 2024 10:09:23 GMT</pubDate>
+            <pubDate>Wed, 02 Oct 2024 11:07:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Wed, 02 Oct 2024 10:09:23 GMT</pubDate>
+            <pubDate>Wed, 02 Oct 2024 11:07:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Wed, 02 Oct 2024 10:09:23 GMT</pubDate>
+            <pubDate>Wed, 02 Oct 2024 11:07:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Wed, 02 Oct 2024 10:09:23 GMT</pubDate>
+            <pubDate>Wed, 02 Oct 2024 11:07:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Wed, 02 Oct 2024 10:09:23 GMT</pubDate>
+            <pubDate>Wed, 02 Oct 2024 11:07:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Wed, 02 Oct 2024 10:09:23 GMT</pubDate>
+            <pubDate>Wed, 02 Oct 2024 11:07:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Wed, 02 Oct 2024 10:09:23 GMT</pubDate>
+            <pubDate>Wed, 02 Oct 2024 11:07:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Wed, 02 Oct 2024 10:09:23 GMT</pubDate>
+            <pubDate>Wed, 02 Oct 2024 11:07:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Wed, 02 Oct 2024 10:09:23 GMT</pubDate>
+            <pubDate>Wed, 02 Oct 2024 11:07:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -222,6 +222,14 @@ OTT 영화 개막작·K팝 다큐 초청]]></content:encoded>
             <content:encoded><![CDATA[아카데미상 후보 크리스 샌더스 감독 신작
 로봇과 아기 기러기의 우정과 관계의 진심]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727685771829l3Fbc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 송중기, 볼하트 날리며 BIFF 레드카펫 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/439687</link>
+            <guid>https://www.maxmovie.com/news/439687</guid>
+            <pubDate>Wed, 02 Oct 2024 11:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439687"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727865540143Va5TI.png" alt=""></span><span class="textBox"><h4>[맥스포토] 송중기, 볼하트 날리며 BIFF 레드카펫</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727865540143Va5TI.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 차승원, 박찬욱 감독에 인정받은 열연 (맥스무비 ─ 포토)]]></title>
@@ -414,14 +422,6 @@ OTT 영화 개막작·K팝 다큐 초청]]></content:encoded>
             <pubDate>Wed, 25 Sep 2024 04:12:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439568"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727230670546HfW5u.png" alt=""></span><span class="textBox"><h4>[맥스포토] 한소희·박서준, 커플 볼하트</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727230670546HfW5u.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 장동건, 한층 깊어진 분위기 (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/439556</link>
-            <guid>https://www.maxmovie.com/news/439556</guid>
-            <pubDate>Tue, 24 Sep 2024 09:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439556"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727162926517Bop67.png" alt=""></span><span class="textBox"><h4>[맥스포토] 장동건, 한층 깊어진 분위기</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727162926517Bop67.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 장동건, 세월 거스른 잘생김 (맥스무비 ─ 포토)]]></title>
