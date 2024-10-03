@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 23:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2024 00:40:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 02 Oct 2024 14:08:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439702"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727875567045gYsh3.png" alt=""></span><span class="textBox"><h4>[맥스포토] 김현주, '지옥2'로 부산 왔어요</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727875567045gYsh3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 김민하, 과감한 블랙드레스]]></title>
+            <link>https://www.maxmovie.com/news/439701</link>
+            <guid>https://www.maxmovie.com/news/439701</guid>
+            <pubDate>Thu, 03 Oct 2024 00:40:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439701"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727875194654M7EUA.png" alt=""></span><span class="textBox"><h4>[맥스포토] 김민하, 과감한 블랙드레스</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727875194654M7EUA.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 이정재, 말이 필요없는 월드스타]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 27 Sep 2024 22:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439617"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727402662741gnIZG.png" alt=""></span><span class="textBox"><h4>[위클리 포토] 지금 가장 핫한 이름...한소희 VS 김혜윤 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727402662741gnIZG.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 김혜윤, 러블리 예쁨 모먼트]]></title>
-            <link>https://www.maxmovie.com/news/439586</link>
-            <guid>https://www.maxmovie.com/news/439586</guid>
-            <pubDate>Wed, 25 Sep 2024 10:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439586"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727251720091Kslpc.png" alt=""></span><span class="textBox"><h4>[맥스포토] 김혜윤, 러블리 예쁨 모먼트</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727251720091Kslpc.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 송강호, '서울드라마어워즈' 첫 참석]]></title>
