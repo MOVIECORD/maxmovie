@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 17:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 18:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,12 +40,12 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728022829503e6IqB.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[맥스포토] 트와이스 다현, 과감하고 사랑스러운 시상식 포즈]]></title>
-            <link>https://www.maxmovie.com/news/439728</link>
-            <guid>https://www.maxmovie.com/news/439728</guid>
+            <title><![CDATA[[맥스포토] 고아성, 신나는 시상식 나들이]]></title>
+            <link>https://www.maxmovie.com/news/439729</link>
+            <guid>https://www.maxmovie.com/news/439729</guid>
             <pubDate>Thu, 03 Oct 2024 23:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439728"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727972273057FWQHz.png" alt=""></span><span class="textBox"><h4>[맥스포토] 트와이스 다현, 과감하고 사랑스러운 시상식 포즈 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727972273057FWQHz.png" length="0" type="image/png"/>
+            <content:encoded><![CDATA[<a href="/news/439729"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727972852300PftXv.png" alt=""></span><span class="textBox"><h4>[맥스포토] 고아성, 신나는 시상식 나들이</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727972852300PftXv.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 박서준·김민하, 시상식 빛내는 핑크룩]]></title>
@@ -70,6 +70,14 @@
             <pubDate>Thu, 03 Oct 2024 23:09:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439725"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17279657912540s03c.png" alt=""></span><span class="textBox"><h4>[맥스포토] 임시완·공명·안재홍, 시상식 빛내는 3색 수트핏</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17279657912540s03c.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 트와이스 다현, 과감하고 사랑스러운 시상식 포즈]]></title>
+            <link>https://www.maxmovie.com/news/439728</link>
+            <guid>https://www.maxmovie.com/news/439728</guid>
+            <pubDate>Thu, 03 Oct 2024 23:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439728"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727972273057FWQHz.png" alt=""></span><span class="textBox"><h4>[맥스포토] 트와이스 다현, 과감하고 사랑스러운 시상식 포즈 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727972273057FWQHz.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 설경구·수현, 특별한 부부의 시상식 외출]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 02 Oct 2024 12:15:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439693"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17278686716904fgnM.png" alt=""></span><span class="textBox"><h4>[맥스포토] 조진웅,  부산국제영화제 레드카펫 힘차게</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17278686716904fgnM.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 고아성, 신나는 시상식 나들이]]></title>
-            <link>https://www.maxmovie.com/news/439729</link>
-            <guid>https://www.maxmovie.com/news/439729</guid>
-            <pubDate>Thu, 03 Oct 2024 23:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439729"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727972852300PftXv.png" alt=""></span><span class="textBox"><h4>[맥스포토] 고아성, 신나는 시상식 나들이</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727972852300PftXv.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
