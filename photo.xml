@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Oct 2024 10:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 11:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728542118608DjEHU.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[맥스포토] 정은채·김윤혜, 매란국극단의 왕자와 공주]]></title>
-            <link>https://www.maxmovie.com/news/439817</link>
-            <guid>https://www.maxmovie.com/news/439817</guid>
-            <pubDate>Thu, 10 Oct 2024 07:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439817"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1728541749669UNTwi.png" alt=""></span><span class="textBox"><h4>[맥스포토] 정은채·김윤혜, 매란국극단의 왕자와 공주</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728541749669UNTwi.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[맥스포토] 라미란, 드라마 '정년이'로 인사]]></title>
             <link>https://www.maxmovie.com/news/439815</link>
             <guid>https://www.maxmovie.com/news/439815</guid>
@@ -62,14 +54,6 @@
             <pubDate>Thu, 10 Oct 2024 07:09:51 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439813"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1728545035855vcGYg.png" alt=""></span><span class="textBox"><h4>[맥스포토] 김태리, 우아한 볼륨 드레스 자태</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728545035855vcGYg.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 강동원, 놓치기 아까운 잘생김 모먼트]]></title>
-            <link>https://www.maxmovie.com/news/439810</link>
-            <guid>https://www.maxmovie.com/news/439810</guid>
-            <pubDate>Thu, 10 Oct 2024 06:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439810"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1728531723524l6Kn4.png" alt=""></span><span class="textBox"><h4>[맥스포토] 강동원, 놓치기 아까운 잘생김 모먼트</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728531723524l6Kn4.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 박정민·강동원, 액션대결 기대하세요!]]></title>
@@ -246,6 +230,22 @@
             <pubDate>Sat, 05 Oct 2024 03:13:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439742"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1728034748069agz2j.png" alt=""></span><span class="textBox"><h4>[맥스포토] BIFF 액터스 하우스 박보영, 별을 닮은 눈빛 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728034748069agz2j.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 정은채·김윤혜, 매란국극단의 왕자와 공주]]></title>
+            <link>https://www.maxmovie.com/news/439817</link>
+            <guid>https://www.maxmovie.com/news/439817</guid>
+            <pubDate>Thu, 10 Oct 2024 07:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439817"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1728541749669UNTwi.png" alt=""></span><span class="textBox"><h4>[맥스포토] 정은채·김윤혜, 매란국극단의 왕자와 공주</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728541749669UNTwi.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 강동원, 놓치기 아까운 잘생김 모먼트]]></title>
+            <link>https://www.maxmovie.com/news/439810</link>
+            <guid>https://www.maxmovie.com/news/439810</guid>
+            <pubDate>Thu, 10 Oct 2024 06:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439810"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1728531723524l6Kn4.png" alt=""></span><span class="textBox"><h4>[맥스포토] 강동원, 놓치기 아까운 잘생김 모먼트</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728531723524l6Kn4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
