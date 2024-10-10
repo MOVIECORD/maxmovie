@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Oct 2024 02:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 03:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[맥스포토] 강동원, 자체발광 은빛 수트룩]]></title>
+            <link>https://www.maxmovie.com/news/439802</link>
+            <guid>https://www.maxmovie.com/news/439802</guid>
+            <pubDate>Thu, 10 Oct 2024 03:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439802"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17285283279578s8oJ.png" alt=""></span><span class="textBox"><h4>[맥스포토] 강동원, 자체발광 은빛 수트룩</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17285283279578s8oJ.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[맥스포토] 가진동, 스타일리시한 시상식 패션]]></title>
             <link>https://www.maxmovie.com/news/439766</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 03 Oct 2024 11:08:51 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439719"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1727947463832Emqkn.png" alt=""></span><span class="textBox"><h4>[맥스포토] 아이즈원 출신 김민주, 배우로 BIFF 왔어요</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727947463832Emqkn.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 노윤서·홍경, 풋풋한 첫사랑 로맨스 주인공들]]></title>
-            <link>https://www.maxmovie.com/news/439718</link>
-            <guid>https://www.maxmovie.com/news/439718</guid>
-            <pubDate>Thu, 03 Oct 2024 10:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439718"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/172794625680148vCD.png" alt=""></span><span class="textBox"><h4>[맥스포토] 노윤서·홍경, 풋풋한 첫사랑 로맨스 주인공들</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/172794625680148vCD.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
