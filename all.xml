@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Oct 2024 18:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 20:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Mon, 14 Oct 2024 18:11:47 GMT</pubDate>
+            <pubDate>Mon, 14 Oct 2024 20:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Mon, 14 Oct 2024 18:11:47 GMT</pubDate>
+            <pubDate>Mon, 14 Oct 2024 20:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Mon, 14 Oct 2024 18:11:47 GMT</pubDate>
+            <pubDate>Mon, 14 Oct 2024 20:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Mon, 14 Oct 2024 18:11:47 GMT</pubDate>
+            <pubDate>Mon, 14 Oct 2024 20:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Mon, 14 Oct 2024 18:11:47 GMT</pubDate>
+            <pubDate>Mon, 14 Oct 2024 20:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Mon, 14 Oct 2024 18:11:47 GMT</pubDate>
+            <pubDate>Mon, 14 Oct 2024 20:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Mon, 14 Oct 2024 18:11:47 GMT</pubDate>
+            <pubDate>Mon, 14 Oct 2024 20:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Mon, 14 Oct 2024 18:11:47 GMT</pubDate>
+            <pubDate>Mon, 14 Oct 2024 20:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Mon, 14 Oct 2024 18:11:47 GMT</pubDate>
+            <pubDate>Mon, 14 Oct 2024 20:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -246,6 +246,14 @@ CJ ENM 드라마 프로젝트의 6번째]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728542118608DjEHU.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[맥스포토] 정은채·김윤혜, 매란국극단의 왕자와 공주 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/439817</link>
+            <guid>https://www.maxmovie.com/news/439817</guid>
+            <pubDate>Thu, 10 Oct 2024 07:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439817"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1728541749669UNTwi.png" alt=""></span><span class="textBox"><h4>[맥스포토] 정은채·김윤혜, 매란국극단의 왕자와 공주</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728541749669UNTwi.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[맥스포토] 라미란, 드라마 '정년이'로 인사 (맥스무비 ─ 포토)]]></title>
             <link>https://www.maxmovie.com/news/439815</link>
             <guid>https://www.maxmovie.com/news/439815</guid>
@@ -268,6 +276,14 @@ CJ ENM 드라마 프로젝트의 6번째]]></content:encoded>
             <pubDate>Thu, 10 Oct 2024 07:09:51 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439813"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1728545035855vcGYg.png" alt=""></span><span class="textBox"><h4>[맥스포토] 김태리, 우아한 볼륨 드레스 자태</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728545035855vcGYg.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 강동원, 놓치기 아까운 잘생김 모먼트 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/439810</link>
+            <guid>https://www.maxmovie.com/news/439810</guid>
+            <pubDate>Thu, 10 Oct 2024 06:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439810"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1728531723524l6Kn4.png" alt=""></span><span class="textBox"><h4>[맥스포토] 강동원, 놓치기 아까운 잘생김 모먼트</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728531723524l6Kn4.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 박정민·강동원, 액션대결 기대하세요! (맥스무비 ─ 포토)]]></title>
@@ -444,22 +460,6 @@ CJ ENM 드라마 프로젝트의 6번째]]></content:encoded>
             <pubDate>Sat, 05 Oct 2024 03:13:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439742"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1728034748069agz2j.png" alt=""></span><span class="textBox"><h4>[맥스포토] BIFF 액터스 하우스 박보영, 별을 닮은 눈빛 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728034748069agz2j.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 정은채·김윤혜, 매란국극단의 왕자와 공주 (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/439817</link>
-            <guid>https://www.maxmovie.com/news/439817</guid>
-            <pubDate>Thu, 10 Oct 2024 07:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439817"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1728541749669UNTwi.png" alt=""></span><span class="textBox"><h4>[맥스포토] 정은채·김윤혜, 매란국극단의 왕자와 공주</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728541749669UNTwi.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 강동원, 놓치기 아까운 잘생김 모먼트 (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/439810</link>
-            <guid>https://www.maxmovie.com/news/439810</guid>
-            <pubDate>Thu, 10 Oct 2024 06:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439810"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1728531723524l6Kn4.png" alt=""></span><span class="textBox"><h4>[맥스포토] 강동원, 놓치기 아까운 잘생김 모먼트</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728531723524l6Kn4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
