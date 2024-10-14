@@ -1,8 +1,222 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.maxmovie.com/</id>
-    <title>맥스무비</title>
-    <updated>2024-10-14T21:08:36.802Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.maxmovie.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>맥스무비</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 14 Oct 2024 22:09:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[0]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[3]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[8]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[13만 관객 동원 '길위에 김대중' 후속 '대통령 김대중', 제작비 후원 모금]]></title>
+            <link>https://www.maxmovie.com/news/439856</link>
+            <guid>https://www.maxmovie.com/news/439856</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[올해 연말까지 진행..국내외 국민 대상
+1만원 이상 후원자, 엔드 크레딧 기재]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728875596497sziHX.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[장동건의 부성애냐, 정우의 부성애냐]]></title>
+            <link>https://www.maxmovie.com/news/439853</link>
+            <guid>https://www.maxmovie.com/news/439853</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA['보통의 가족' 16일, '더러운 돈' 17일 개봉
+아이 범죄 안 부모와 범죄 저지르는 부모]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17288689458218fn7Z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['인맥 부자' 이진호의 추락,불법 도박에 BTS 지민도 1억원 피해]]></title>
+            <link>https://www.maxmovie.com/news/439859</link>
+            <guid>https://www.maxmovie.com/news/439859</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[14일 인터넷 불법 도박 사실 고백
+경찰 조사 임박했다는 시선 제기]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728888926344sa7Cn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데일리 핫이슈] '불법 도박' 이진호 파장, 한강 소설 원작 영화 재개봉 외]]></title>
+            <link>https://www.maxmovie.com/news/439860</link>
+            <guid>https://www.maxmovie.com/news/439860</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17288924280935xmkZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이승만' 역 낯익은 원로배우 권성덕 별세]]></title>
+            <link>https://www.maxmovie.com/news/439861</link>
+            <guid>https://www.maxmovie.com/news/439861</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[13일 타계..한국연극계 대표 배우
+국립극단 단장 겸 예술감독 역임]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728893005350wPnDu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티아라 출신 지연, 황재균과 결혼 2년 만에 파경]]></title>
+            <link>https://www.maxmovie.com/news/439754</link>
+            <guid>https://www.maxmovie.com/news/439754</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[서울가정법원에 이혼 조정 신청
+지연 "좋지 않은 소식 전해 죄송"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17281837826212c6Lv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[BIFF] 이준혁 "마음껏 욕해도 좋다"고 한 사연은]]></title>
+            <link>https://www.maxmovie.com/news/439751</link>
+            <guid>https://www.maxmovie.com/news/439751</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA['좋거나 나쁜 동재'로 돌아온 이준혁
+"서동재 팬들이 그렇게 많은지 몰랐다"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17281151347222rY1p.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[BIFF] "전쟁터 같았다"…'더러운 돈에 손대지 마라' 어땠길래]]></title>
+            <link>https://www.maxmovie.com/news/439747</link>
+            <guid>https://www.maxmovie.com/news/439747</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA['한국영화의 오늘-스페셜 프리미어'
+정우·박병은·김민수 감독 오픈토크]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728108990242hLzPB.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스무비레터 #71번째 편지] 강동원부터 송중기까지 다 모인 부산국제영화제 특집 준비했어요🎬]]></title>
+            <link>https://www.maxmovie.com/news/439743</link>
+            <guid>https://www.maxmovie.com/news/439743</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728036676442TLChX.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[위클리 이슈 모음zip] 나훈아 "내년 1월 마지막 공연"·백예린 '엄친아' OST곡 표절 의혹 제기·쯔양 근황 외]]></title>
+            <link>https://www.maxmovie.com/news/439745</link>
+            <guid>https://www.maxmovie.com/news/439745</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[한 주간 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728068006612KmQ0E.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[BIFF] 지창욱이 그려낼 '강남 비-사이드' 새 얼굴은]]></title>
+            <link>https://www.maxmovie.com/news/439739</link>
+            <guid>https://www.maxmovie.com/news/439739</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[용의선상에 오르는 강남의 무법자
+"아이디어 직접 내"며 캐릭터 완성]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728030786664xsGVw.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[BIFF] 실험정신 가득한 미겔 고메스 감독 "영화는 현실과 픽션의 설계"]]></title>
+            <link>https://www.maxmovie.com/news/439734</link>
+            <guid>https://www.maxmovie.com/news/439734</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA['그랜드 투어' 갈라 프레젠테이션 초청
+전작 6편 소개하는 특별 기획 프로그램]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17280315650596TwWt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['영웅' 윤제균 감독, 합천에서 '아주 특별한 영화제']]></title>
+            <link>https://www.maxmovie.com/news/439735</link>
+            <guid>https://www.maxmovie.com/news/439735</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[영상테마파크 등 촬영지 합천 관객 만남]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17280268569461MW0g.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[BIFF] 조진웅·박보영·송중기가 기억하는 '배우 이선균']]></title>
+            <link>https://www.maxmovie.com/news/439731</link>
+            <guid>https://www.maxmovie.com/news/439731</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제영화제 한국영화공로상 수여
+고인과 영화 작업 함께한 이들의 눈물]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/172799498253324uFc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 인연에도 '만약'이 있을까..영화 '패스트 라이브즈']]></title>
+            <link>https://www.maxmovie.com/news/439724</link>
+            <guid>https://www.maxmovie.com/news/439724</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[첫사랑의 아련한 추억과 벅찬 눈물
+한국계 셀린 송 감독의 데뷔 수작]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1727967085151S0oKa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데일리 핫이슈] 변우석 부국제 아쉬운 불참, 리사 결혼설 제기되는 이유 외]]></title>
+            <link>https://www.maxmovie.com/news/439720</link>
+            <guid>https://www.maxmovie.com/news/439720</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17279504881512bA83.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['에이리언: 로물루스', 국내서 '데드풀과 울버린' 제쳤다]]></title>
+            <link>https://www.maxmovie.com/news/439730</link>
+            <guid>https://www.maxmovie.com/news/439730</guid>
+            <pubDate>Mon, 14 Oct 2024 22:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[200만명 돌파까지 단 300명
+올해 개봉 외화 흥행 4위 등극]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17279868116357OnV3.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
