@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 11:08:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 12:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 15 Oct 2024 11:07:39 GMT</pubDate>
+            <pubDate>Tue, 15 Oct 2024 12:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 15 Oct 2024 11:07:39 GMT</pubDate>
+            <pubDate>Tue, 15 Oct 2024 12:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 15 Oct 2024 11:07:39 GMT</pubDate>
+            <pubDate>Tue, 15 Oct 2024 12:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 15 Oct 2024 11:07:39 GMT</pubDate>
+            <pubDate>Tue, 15 Oct 2024 12:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 15 Oct 2024 11:07:39 GMT</pubDate>
+            <pubDate>Tue, 15 Oct 2024 12:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 15 Oct 2024 11:07:39 GMT</pubDate>
+            <pubDate>Tue, 15 Oct 2024 12:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 15 Oct 2024 11:07:39 GMT</pubDate>
+            <pubDate>Tue, 15 Oct 2024 12:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 15 Oct 2024 11:07:39 GMT</pubDate>
+            <pubDate>Tue, 15 Oct 2024 12:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 15 Oct 2024 11:07:39 GMT</pubDate>
+            <pubDate>Tue, 15 Oct 2024 12:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -80,40 +80,30 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728954808498fZlZb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['첫사랑 아이콘' 노리는 김민주, 수어·수영 훈련까지 올인 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439869</link>
-            <guid>https://www.maxmovie.com/news/439869</guid>
-            <pubDate>Tue, 15 Oct 2024 08:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[11월6일 개봉 영화 '청설' 주연 
-청각장애 지닌 수영선수 역할]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728953159161dJtYd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[처음부터 끝까지 오직 김태리...'정년이' 날아 올랐다 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439871</link>
+            <guid>https://www.maxmovie.com/news/439871</guid>
+            <pubDate>Tue, 15 Oct 2024 12:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[방송 2회 만에 시청률 8.2% 기록 
+국극 배우 꿈꾸는 정년이의 도전]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728954903847kOwTN.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[배우 황정민·신민아, 올해의 '아름다운예술인상' (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439872</link>
-            <guid>https://www.maxmovie.com/news/439872</guid>
-            <pubDate>Tue, 15 Oct 2024 05:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[신영균문화예술문화재단 주관 선정
-김동호 BIFF 전 집행위원장도 수상]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728958492713Nd5fM.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[맥스포토] 베일 벗은 영화 '최소한의 선의'...장윤주와 최수인 앙상블 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439881</link>
+            <guid>https://www.maxmovie.com/news/439881</guid>
+            <pubDate>Tue, 15 Oct 2024 11:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[10대가 처한 냉혹한 현실 그려]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728982707427FtVMW.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['최소한의 선의' 장윤주, 봉 형사 아닌 "다른 연기도" (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439876</link>
-            <guid>https://www.maxmovie.com/news/439876</guid>
-            <pubDate>Tue, 15 Oct 2024 09:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[난임 스트레스 시달리는 교사 역
-"딸을 둔 엄마여서 배역에 더 공감"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728981754012pqMCM.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[티아라 출신 지연, 황재균과 결혼 2년 만에 파경 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439754</link>
-            <guid>https://www.maxmovie.com/news/439754</guid>
-            <pubDate>Tue, 15 Oct 2024 11:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[서울가정법원에 이혼 조정 신청
-지연 "좋지 않은 소식 전해 죄송"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17281837826212c6Lv.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['이승만' 역 낯익은 원로배우 권성덕 별세 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439861</link>
+            <guid>https://www.maxmovie.com/news/439861</guid>
+            <pubDate>Tue, 15 Oct 2024 12:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[13일 타계..한국연극계 대표 배우
+국립극단 단장 겸 예술감독 역임]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728893005350wPnDu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[BIFF] 이준혁 "마음껏 욕해도 좋다"고 한 사연은 (맥스무비)]]></title>
@@ -143,12 +133,12 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728085363242mldBy.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[위클리 이슈 모음zip] 나훈아 "내년 1월 마지막 공연"·백예린 '엄친아' OST곡 표절 의혹 제기·쯔양 근황 외 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439745</link>
-            <guid>https://www.maxmovie.com/news/439745</guid>
-            <pubDate>Tue, 15 Oct 2024 11:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[한 주간 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728068006612KmQ0E.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[맥스무비레터 #71번째 편지] 강동원부터 송중기까지 다 모인 부산국제영화제 특집 준비했어요🎬 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439743</link>
+            <guid>https://www.maxmovie.com/news/439743</guid>
+            <pubDate>Tue, 15 Oct 2024 12:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728036676442TLChX.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[BIFF] 지창욱이 그려낼 '강남 비-사이드' 새 얼굴은 (맥스무비)]]></title>
@@ -176,6 +166,14 @@
             <content:encoded><![CDATA[낯선 땅 보고타에 정착한 한인들의 생존기 
 김성제 감독 "인물의 서사에 더 집중한 영화"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728031520156QIsLA.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['영웅' 윤제균 감독, 합천에서 '아주 특별한 영화제' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439735</link>
+            <guid>https://www.maxmovie.com/news/439735</guid>
+            <pubDate>Tue, 15 Oct 2024 12:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[영상테마파크 등 촬영지 합천 관객 만남]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17280268569461MW0g.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[BIFF] 조진웅·박보영·송중기가 기억하는 '배우 이선균' (맥스무비)]]></title>
