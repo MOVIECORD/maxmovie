@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Oct 2024 12:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 13:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 17 Oct 2024 00:40:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439896"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1729064596452GMQze.png" alt=""></span><span class="textBox"><h4>[맥스포토] 톱모델 김원중, 첫 연기도전에 떨리는 발걸음</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729064596452GMQze.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 남윤수, 삶과 사랑 배우는 성소수자의 로맨스]]></title>
+            <link>https://www.maxmovie.com/news/439895</link>
+            <guid>https://www.maxmovie.com/news/439895</guid>
+            <pubDate>Thu, 17 Oct 2024 00:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439895"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1729063946119FQw0u.png" alt=""></span><span class="textBox"><h4>[맥스포토] 남윤수, 삶과 사랑 배우는 성소수자의 로맨스 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729063946119FQw0u.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 4명의 감독 6명의 배우 '대도시의 사랑법'을 완성한 사람들]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 06 Oct 2024 13:14:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439759"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1728212396805nvOC9.png" alt=""></span><span class="textBox"><h4>[맥스포토] 채종협·김요한, 글로벌OTT어워즈 신인상 공동수상</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728212396805nvOC9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 남윤수, 삶과 사랑 배우는 성소수자의 로맨스]]></title>
-            <link>https://www.maxmovie.com/news/439895</link>
-            <guid>https://www.maxmovie.com/news/439895</guid>
-            <pubDate>Thu, 17 Oct 2024 00:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439895"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1729063946119FQw0u.png" alt=""></span><span class="textBox"><h4>[맥스포토] 남윤수, 삶과 사랑 배우는 성소수자의 로맨스 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729063946119FQw0u.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
