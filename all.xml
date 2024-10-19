@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Oct 2024 00:39:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Oct 2024 02:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 19 Oct 2024 00:39:03 GMT</pubDate>
+            <pubDate>Sat, 19 Oct 2024 02:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 19 Oct 2024 00:39:03 GMT</pubDate>
+            <pubDate>Sat, 19 Oct 2024 02:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 19 Oct 2024 00:39:03 GMT</pubDate>
+            <pubDate>Sat, 19 Oct 2024 02:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 19 Oct 2024 00:39:03 GMT</pubDate>
+            <pubDate>Sat, 19 Oct 2024 02:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 19 Oct 2024 00:39:03 GMT</pubDate>
+            <pubDate>Sat, 19 Oct 2024 02:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 19 Oct 2024 00:39:03 GMT</pubDate>
+            <pubDate>Sat, 19 Oct 2024 02:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 19 Oct 2024 00:39:03 GMT</pubDate>
+            <pubDate>Sat, 19 Oct 2024 02:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 19 Oct 2024 00:39:03 GMT</pubDate>
+            <pubDate>Sat, 19 Oct 2024 02:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 19 Oct 2024 00:39:03 GMT</pubDate>
+            <pubDate>Sat, 19 Oct 2024 02:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -95,6 +95,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729296005402Prnpc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[맥스무비레터 #73번째 편지] 오직 김태리여서 가능한 '정년이'🪭 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439936</link>
+            <guid>https://www.maxmovie.com/news/439936</guid>
+            <pubDate>Sat, 19 Oct 2024 02:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729241142177RCy4c.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA['핸섬가이즈' 지운 공승연, '데드라인'으로 집요한 변신 선언 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/439917</link>
             <guid>https://www.maxmovie.com/news/439917</guid>
@@ -102,6 +110,24 @@
             <content:encoded><![CDATA[진실 파헤치는 시사교양 피디 역
 "건강하고 발전 가능성 많은 배우"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17292135666115qgL4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김태리의 '정년이', 시청률 10% 과녁 쏜다 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439919</link>
+            <guid>https://www.maxmovie.com/news/439919</guid>
+            <pubDate>Sat, 19 Oct 2024 02:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[19·20일 방송 3·4회 시청률  기대 
+정년이의 국극 도전기 본격  전개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729215199588YEyLz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[입소문 시동 건 '보통의 가족' 주말 흥행 정조준 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439916</link>
+            <guid>https://www.maxmovie.com/news/439916</guid>
+            <pubDate>Sat, 19 Oct 2024 02:09:57 GMT</pubDate>
+            <content:encoded><![CDATA['보통의 가족' 예매율 1위·골든에그지수 93%
+주말 박스오피스 '보통의 가족' VS '더러운 돈']]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729213215361ozD8F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[믿을 수 없는 조합, 로제·브루노 마스 듀엣곡 'APT.' 발표 (맥스무비)]]></title>
@@ -139,13 +165,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729151349835l9pUt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[AI 활용한 영화 제작 논의 활발..관련 심층 세미나 화제 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439910</link>
-            <guid>https://www.maxmovie.com/news/439910</guid>
-            <pubDate>Sat, 19 Oct 2024 00:39:03 GMT</pubDate>
-            <content:encoded><![CDATA[AI기술 기반 영화사 에이아이시네마 개최
-"영화 제작환경 변화 예고..정보 등 공유"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17291504003315cwej.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['이친자' 한석규 VS '정년이'김태리...'웰메이드의 전쟁' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439908</link>
+            <guid>https://www.maxmovie.com/news/439908</guid>
+            <pubDate>Sat, 19 Oct 2024 02:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[주말 안방 호평으로 물들인 대결
+탄탄한 완성도, 캐릭터 서사 눈길]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729154816268xuAKe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['흑백요리사' 열풍 노리나, 드라마·예능도 '맛' 삼매경 (맥스무비)]]></title>
@@ -176,6 +202,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729132077678rN492.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제이홉, 전역 현장에서 "원주 시민"에 거듭 감사한 까닭은? (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439906</link>
+            <guid>https://www.maxmovie.com/news/439906</guid>
+            <pubDate>Sat, 19 Oct 2024 02:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[신병 교육대 조교로 군 복무 
+17일 맏형 진의 축하 속 제대]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729143517559mOc4D.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아껴주시고, 성원해주시고, 사랑해주시고…'베테랑2' 특급 팬서비스 예고 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/439904</link>
             <guid>https://www.maxmovie.com/news/439904</guid>
@@ -183,43 +218,6 @@
             <content:encoded><![CDATA['베테랑2' 황정민부터 김시후까지
 마지막 무대인사 및 스페셜 나잇 행사]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17291333986640Xqw3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["뒤통수 맞는 충격 결말, 올해의 한국영화"…'보통의 가족' 관람 부르는 후기 보니 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439903</link>
-            <guid>https://www.maxmovie.com/news/439903</guid>
-            <pubDate>Sat, 19 Oct 2024 00:39:03 GMT</pubDate>
-            <content:encoded><![CDATA[자녀 범죄 인지한 부모의 고민 그려
-"한국 사회문제 직시하게 하는 작품"
-배우들의 호연·충격적 결말 언급 줄이어]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729129361272B8A47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4년 전 찍은 영화 '소방관'...'곽도원 음주운전 리스크' 어떻게 넘을까 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439902</link>
-            <guid>https://www.maxmovie.com/news/439902</guid>
-            <pubDate>Sat, 19 Oct 2024 00:39:03 GMT</pubDate>
-            <content:encoded><![CDATA[배급사 바꾸고 12월 개봉키로 
-의로운 소방관의 실화 이야기]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729126369756mZW9s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실 관람객 호평 이어진 '보통의 가족', 박스오피스 1위 출발 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439901</link>
-            <guid>https://www.maxmovie.com/news/439901</guid>
-            <pubDate>Sat, 19 Oct 2024 00:39:03 GMT</pubDate>
-            <content:encoded><![CDATA[4만여 관객 동원 박스오피스 정상
-'베테랑2' 마지막 무대인사 예고]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17291245010412qUMQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] '고통의 시간' 지나고 '과정의 즐거움' 되찾은 정우의 이야기 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439900</link>
-            <guid>https://www.maxmovie.com/news/439900</guid>
-            <pubDate>Sat, 19 Oct 2024 00:39:03 GMT</pubDate>
-            <content:encoded><![CDATA['더러운 돈에 손대지 마자' 비리 형사 연기
-"연기 잘해야 한다는 부담감에 짓눌리기도"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729075189268oKcs3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] '더 킬러스' 4명의 감독이 배우 심은경은? (맥스무비 ─ 포토)]]></title>
