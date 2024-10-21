@@ -4,80 +4,89 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Oct 2024 07:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 08:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[0]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 21 Oct 2024 07:10:40 GMT</pubDate>
+            <pubDate>Mon, 21 Oct 2024 08:12:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 21 Oct 2024 07:10:40 GMT</pubDate>
+            <pubDate>Mon, 21 Oct 2024 08:12:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 21 Oct 2024 07:10:40 GMT</pubDate>
+            <pubDate>Mon, 21 Oct 2024 08:12:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 21 Oct 2024 07:10:40 GMT</pubDate>
+            <pubDate>Mon, 21 Oct 2024 08:12:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 21 Oct 2024 07:10:40 GMT</pubDate>
+            <pubDate>Mon, 21 Oct 2024 08:12:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 21 Oct 2024 07:10:40 GMT</pubDate>
+            <pubDate>Mon, 21 Oct 2024 08:12:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 21 Oct 2024 07:10:40 GMT</pubDate>
+            <pubDate>Mon, 21 Oct 2024 08:12:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 21 Oct 2024 07:10:40 GMT</pubDate>
+            <pubDate>Mon, 21 Oct 2024 08:12:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 21 Oct 2024 07:10:40 GMT</pubDate>
+            <pubDate>Mon, 21 Oct 2024 08:12:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['보통의 가족', 웰메이드 입소문 타고 주말 박스오피스 새 정상]]></title>
-            <link>https://www.maxmovie.com/news/439952</link>
-            <guid>https://www.maxmovie.com/news/439952</guid>
-            <pubDate>Mon, 21 Oct 2024 03:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[주말 동안 20만여명 관객 동원
-예매율 1위 '베놈: 라스트 댄스']]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17294692436456eb3y.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[리뷰: 포테이토 지수 82%] 다채로움 빛나는 실험, 영화 '더 킬러스']]></title>
+            <link>https://www.maxmovie.com/news/439957</link>
+            <guid>https://www.maxmovie.com/news/439957</guid>
+            <pubDate>Mon, 21 Oct 2024 08:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[헤밍웨이 단편소설 모티프 작품
+김종관·노덕·장항준·이명세 연출]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729458488852AGBNb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[알립니다] 맥스무비 사칭 사이트에 주의하세요]]></title>
+            <link>https://www.maxmovie.com/news/439969</link>
+            <guid>https://www.maxmovie.com/news/439969</guid>
+            <pubDate>Mon, 21 Oct 2024 07:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[금전 요구, 아르바이트 모집 등 사칭
+영화 예매 및 극장 티켓 판매 등까지]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729494466934kWE4D.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국내선 힘 못쓰는 슈퍼히어로…'베놈3'은 다를까]]></title>
@@ -90,48 +99,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729474303264LeUAD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[오늘 뭘 볼까] 타고 난 낙천성..영화 '빚가리']]></title>
-            <link>https://www.maxmovie.com/news/439951</link>
-            <guid>https://www.maxmovie.com/news/439951</guid>
-            <pubDate>Sun, 20 Oct 2024 23:09:05 GMT</pubDate>
-            <content:encoded><![CDATA['튼튼이의 모험' 고봉수 감독 신작]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729462668895sHpdS.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[알립니다] 맥스무비 사칭 사이트에 주의하세요]]></title>
-            <link>https://www.maxmovie.com/news/439969</link>
-            <guid>https://www.maxmovie.com/news/439969</guid>
-            <pubDate>Mon, 21 Oct 2024 07:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[금전 요구, 아르바이트 모집 등 사칭
-영화 예매 및 극장 티켓 판매 등까지]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729494466934kWE4D.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 열린 지옥문...'3대 인물'로  살펴보는 '지옥2']]></title>
-            <link>https://www.maxmovie.com/news/439967</link>
-            <guid>https://www.maxmovie.com/news/439967</guid>
-            <pubDate>Mon, 21 Oct 2024 07:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[김성철·문소리·문근영 등 새롭게 합류 
-"혼란 속 각자의 의지로 싸우는 인물들"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729487036108kdZVl.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['이적의  노래들'에 1만2천여 관객 위안.."각별한 의미"]]></title>
-            <link>https://www.maxmovie.com/news/439958</link>
-            <guid>https://www.maxmovie.com/news/439958</guid>
-            <pubDate>Mon, 21 Oct 2024 03:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[17~20일 서울 세종문화회관 대극장 무대
-김동률 전 회차 공연 듀엣 공연까지 환호]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729478233615kfjyp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조세호·최영준, 나란히 '장가갑니다']]></title>
-            <link>https://www.maxmovie.com/news/439946</link>
-            <guid>https://www.maxmovie.com/news/439946</guid>
-            <pubDate>Mon, 21 Oct 2024 07:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[20일 연예계 결혼 경사
-동료 축하 속 웨딩마치]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17293918763357DZBM.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[인터뷰] "최고"를 향한 열망을 버린 심은경에게 찾아온 것]]></title>
+            <link>https://www.maxmovie.com/news/439966</link>
+            <guid>https://www.maxmovie.com/news/439966</guid>
+            <pubDate>Mon, 21 Oct 2024 08:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[23일 개봉 '더 킬러스'로 6년 만에 스크린
+일본 아카데미 여우주연상 등 성과 거둬]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729496117279qPxPn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['핸섬가이즈' 지운 공승연, '데드라인'으로 집요한 변신 선언]]></title>
@@ -141,6 +115,15 @@
             <content:encoded><![CDATA[진실 파헤치는 시사교양 피디 역
 "건강하고 발전 가능성 많은 배우"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17292135666115qgL4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김태리의 '정년이', 시청률 10% 과녁 쏜다]]></title>
+            <link>https://www.maxmovie.com/news/439919</link>
+            <guid>https://www.maxmovie.com/news/439919</guid>
+            <pubDate>Mon, 21 Oct 2024 08:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[19·20일 방송 3·4회 시청률  기대 
+정년이의 국극 도전기 본격  전개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729215199588YEyLz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[믿을 수 없는 조합, 로제·브루노 마스 듀엣곡 'APT.' 발표]]></title>
@@ -161,14 +144,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729156432319WH6WR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[데일리 핫이슈] '전,란' 정성일의 쌍칼 액션 비하인드, '음주 운전' 곽도원 소속사와 결별 외]]></title>
-            <link>https://www.maxmovie.com/news/439912</link>
-            <guid>https://www.maxmovie.com/news/439912</guid>
-            <pubDate>Mon, 21 Oct 2024 07:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729152128558zd181.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[다양한 장르와 소재의 퀴어영화 온다..서울국제프라이드영화제 프로그래머 추천작은?]]></title>
             <link>https://www.maxmovie.com/news/439911</link>
             <guid>https://www.maxmovie.com/news/439911</guid>
@@ -176,6 +151,15 @@
             <content:encoded><![CDATA[14회 영화 축제, 11월7~13일 서울 CGV명동
 "현실 기반에 감독의 창의적 새 시도 작품들"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729151349835l9pUt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이친자' 한석규 VS '정년이'김태리...'웰메이드의 전쟁']]></title>
+            <link>https://www.maxmovie.com/news/439908</link>
+            <guid>https://www.maxmovie.com/news/439908</guid>
+            <pubDate>Mon, 21 Oct 2024 08:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[주말 안방 호평으로 물들인 대결
+탄탄한 완성도, 캐릭터 서사 눈길]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729154816268xuAKe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI 활용한 영화 제작 논의 활발..관련 심층 세미나 화제]]></title>
@@ -196,15 +180,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729146303640NIzax.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[류승완이 끌고 임영웅·하츄핑이 밀고..9월 한국영화 매출·관객 올해 최고치]]></title>
-            <link>https://www.maxmovie.com/news/439907</link>
-            <guid>https://www.maxmovie.com/news/439907</guid>
-            <pubDate>Mon, 21 Oct 2024 07:10:40 GMT</pubDate>
-            <content:encoded><![CDATA['베테랑2' 흥행 독주..경쟁작 없는 추석 연휴 성과
-임영웅 공연실황 영화·'사랑의 하츄핑' 흥행 기록]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729144605790hWjVR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[드라마 '대도시의 사랑법'이 혐오에 맞서는 법]]></title>
             <link>https://www.maxmovie.com/news/439905</link>
             <guid>https://www.maxmovie.com/news/439905</guid>
@@ -222,6 +197,34 @@
             <content:encoded><![CDATA[신병 교육대 조교로 군 복무 
 17일 맏형 진의 축하 속 제대]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729143517559mOc4D.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아껴주시고, 성원해주시고, 사랑해주시고…'베테랑2' 특급 팬서비스 예고]]></title>
+            <link>https://www.maxmovie.com/news/439904</link>
+            <guid>https://www.maxmovie.com/news/439904</guid>
+            <pubDate>Mon, 21 Oct 2024 08:12:55 GMT</pubDate>
+            <content:encoded><![CDATA['베테랑2' 황정민부터 김시후까지
+마지막 무대인사 및 스페셜 나잇 행사]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17291333986640Xqw3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["뒤통수 맞는 충격 결말, 올해의 한국영화"…'보통의 가족' 관람 부르는 후기 보니]]></title>
+            <link>https://www.maxmovie.com/news/439903</link>
+            <guid>https://www.maxmovie.com/news/439903</guid>
+            <pubDate>Mon, 21 Oct 2024 08:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[자녀 범죄 인지한 부모의 고민 그려
+"한국 사회문제 직시하게 하는 작품"
+배우들의 호연·충격적 결말 언급 줄이어]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729129361272B8A47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[4년 전 찍은 영화 '소방관'...'곽도원 음주운전 리스크' 어떻게 넘을까]]></title>
+            <link>https://www.maxmovie.com/news/439902</link>
+            <guid>https://www.maxmovie.com/news/439902</guid>
+            <pubDate>Mon, 21 Oct 2024 08:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[배급사 바꾸고 12월 개봉키로 
+의로운 소방관의 실화 이야기]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729126369756mZW9s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
