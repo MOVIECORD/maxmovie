@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 02:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 03:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 22 Oct 2024 02:12:50 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 03:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 22 Oct 2024 02:12:50 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 03:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 22 Oct 2024 02:12:50 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 03:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 22 Oct 2024 02:12:50 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 03:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 22 Oct 2024 02:12:50 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 03:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 22 Oct 2024 02:12:50 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 03:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 22 Oct 2024 02:12:50 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 03:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 22 Oct 2024 02:12:50 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 03:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 22 Oct 2024 02:12:50 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 03:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -98,12 +98,30 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729546942923mmEq5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[리뷰: 포테이토 지수 80%] '최소한의 선의'란 무엇인지 질문하는 영화 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439978</link>
+            <guid>https://www.maxmovie.com/news/439978</guid>
+            <pubDate>Tue, 22 Oct 2024 03:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[임신한 10대 돕는 여교사 이야기
+장윤주에 끌렸다가 최수인 발견]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729564390048uo35A.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[데일리 핫이슈] 로제 '아파트' 돌풍, '흑백요리사' 정지선 셰프 출연료 얼마? 외 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/439970</link>
             <guid>https://www.maxmovie.com/news/439970</guid>
             <pubDate>Tue, 22 Oct 2024 02:12:51 GMT</pubDate>
             <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729495069133uAgJE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['테리파이어3' 제친 '스마일2', 공포가 덮친 북미 박스오피스 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439972</link>
+            <guid>https://www.maxmovie.com/news/439972</guid>
+            <pubDate>Tue, 22 Oct 2024 03:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 첫 주 2300만 달러 수익 1위
+벗어날 수 없는 '스마일의 저주']]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729477754966qvXfs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[알립니다] 맥스무비 사칭 사이트에 주의하세요 (맥스무비)]]></title>
@@ -124,15 +142,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729491455854GX2Ak.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다시 열린 지옥문...'3대 인물'로  살펴보는 '지옥2' (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439967</link>
-            <guid>https://www.maxmovie.com/news/439967</guid>
-            <pubDate>Mon, 21 Oct 2024 22:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[김성철·문소리·문근영 등 새롭게 합류 
-"혼란 속 각자의 의지로 싸우는 인물들"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729487036108kdZVl.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[리뷰: 포테이토 지수 82%] 다채로움 빛나는 실험, 영화 '더 킬러스' (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/439957</link>
             <guid>https://www.maxmovie.com/news/439957</guid>
@@ -140,6 +149,15 @@
             <content:encoded><![CDATA[헤밍웨이 단편소설 모티프 작품
 김종관·노덕·장항준·이명세 연출]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729458488852AGBNb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이적의  노래들'에 1만2천여 관객 위안.."각별한 의미" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439958</link>
+            <guid>https://www.maxmovie.com/news/439958</guid>
+            <pubDate>Tue, 22 Oct 2024 03:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[17~20일 서울 세종문화회관 대극장 무대
+김동률 전 회차 공연 듀엣 공연까지 환호]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729478233615kfjyp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['대도시의 사랑법' 김고은·노상현 매력, 해외서도 통했나 (맥스무비)]]></title>
@@ -160,16 +178,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729473268040YyHtj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국내선 힘 못쓰는 슈퍼히어로…'베놈3'은 다를까 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439954</link>
-            <guid>https://www.maxmovie.com/news/439954</guid>
-            <pubDate>Mon, 21 Oct 2024 02:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[마블·DC 슈피히어로 영화 부진
-'데드풀3'도 200만명 넘지 못해
-'베놈3'은 다를까…예매율 1위]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729474303264LeUAD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[김태리가 만든 '정년이' 돌풍, '미스터 선샤인' 최고 기록 넘을까 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/439953</link>
             <guid>https://www.maxmovie.com/news/439953</guid>
@@ -177,6 +185,15 @@
             <content:encoded><![CDATA[윤정년 그 자체가 된 듯한 맹활약 
 드라마 출연작 최고 기록 18.1%]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729470407756H1RYt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['보통의 가족', 웰메이드 입소문 타고 주말 박스오피스 새 정상 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/439952</link>
+            <guid>https://www.maxmovie.com/news/439952</guid>
+            <pubDate>Tue, 22 Oct 2024 03:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[주말 동안 20만여명 관객 동원
+예매율 1위 '베놈: 라스트 댄스']]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17294692436456eb3y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 타고 난 낙천성..영화 '빚가리' (맥스무비)]]></title>
@@ -204,24 +221,6 @@
             <content:encoded><![CDATA[일본 여행 중 프러포즈 영상 공개
 "행복하게 잘 살겠다" 결혼 발표]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729412992653sRYJV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공개와 동시에 1위…'링컨 차를 타는 변호사3'은 어떤 내용 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439948</link>
-            <guid>https://www.maxmovie.com/news/439948</guid>
-            <pubDate>Mon, 21 Oct 2024 09:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[플릭스패트롤 넷플릭스 시리즈 1위 등극
-친구 살인 용의자 변호로 갈등하는 변호사]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729410402652juyQ2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[박지환, 장이수→최소장→무중력 '마성의 신스틸러' (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/439947</link>
-            <guid>https://www.maxmovie.com/news/439947</guid>
-            <pubDate>Mon, 21 Oct 2024 09:10:44 GMT</pubDate>
-            <content:encoded><![CDATA['범죄도시4'부터 '강매강'까지
-코미디 흥행에 박지환 있었다]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729403475546v9pD2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 세계관 확장한 '지옥2' 베일벗은 신구 주역들 (맥스무비 ─ 포토)]]></title>
