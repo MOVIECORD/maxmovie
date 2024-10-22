@@ -4,17 +4,9 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 21:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 22:09:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[맥스포토] '20집 발표' 조용필, 나이잊은 음악 열정]]></title>
-            <link>https://www.maxmovie.com/news/439991</link>
-            <guid>https://www.maxmovie.com/news/439991</guid>
-            <pubDate>Tue, 22 Oct 2024 09:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439991"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17295833907400wRMz.png" alt=""></span><span class="textBox"><h4>[맥스포토] '20집 발표' 조용필, 나이잊은 음악 열정</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17295833907400wRMz.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[맥스포토] 조용필, 정규 20집으로 돌아온 가왕]]></title>
             <link>https://www.maxmovie.com/news/439989</link>
@@ -246,6 +238,14 @@
             <pubDate>Tue, 15 Oct 2024 11:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439878"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17289810648336INt8.png" alt=""></span><span class="textBox"><h4>[맥스포토] 장윤주, 새로운 연기 변신</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17289810648336INt8.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] '20집 발표' 조용필, 나이잊은 음악 열정]]></title>
+            <link>https://www.maxmovie.com/news/439991</link>
+            <guid>https://www.maxmovie.com/news/439991</guid>
+            <pubDate>Tue, 22 Oct 2024 09:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/439991"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17295833907400wRMz.png" alt=""></span><span class="textBox"><h4>[맥스포토] '20집 발표' 조용필, 나이잊은 음악 열정</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17295833907400wRMz.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
