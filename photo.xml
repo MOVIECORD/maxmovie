@@ -4,9 +4,25 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Oct 2024 14:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 15:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[맥스포토] 이영애, 세월 비켜간 고혹적인 미모]]></title>
+            <link>https://www.maxmovie.com/news/440027</link>
+            <guid>https://www.maxmovie.com/news/440027</guid>
+            <pubDate>Thu, 24 Oct 2024 15:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440027"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1729769969460oTlay.png" alt=""></span><span class="textBox"><h4>[맥스포토] 이영애, 세월 비켜간 고혹적인 미모</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729769969460oTlay.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] '아름다운예술인상' 영광의 주인공들]]></title>
+            <link>https://www.maxmovie.com/news/440026</link>
+            <guid>https://www.maxmovie.com/news/440026</guid>
+            <pubDate>Thu, 24 Oct 2024 15:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440026"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1729769334962XShvY.png" alt=""></span><span class="textBox"><h4>[맥스포토] '아름다운예술인상' 영광의 주인공들</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729769334962XShvY.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[맥스포토] 황정민, 올해의 영화예술인상 수상]]></title>
             <link>https://www.maxmovie.com/news/440025</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 17 Oct 2024 00:40:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439896"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1729064596452GMQze.png" alt=""></span><span class="textBox"><h4>[맥스포토] 톱모델 김원중, 첫 연기도전에 떨리는 발걸음</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729064596452GMQze.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 남윤수, 삶과 사랑 배우는 성소수자의 로맨스]]></title>
-            <link>https://www.maxmovie.com/news/439895</link>
-            <guid>https://www.maxmovie.com/news/439895</guid>
-            <pubDate>Thu, 17 Oct 2024 00:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439895"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1729063946119FQw0u.png" alt=""></span><span class="textBox"><h4>[맥스포토] 남윤수, 삶과 사랑 배우는 성소수자의 로맨스 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729063946119FQw0u.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 4명의 감독 6명의 배우 '대도시의 사랑법'을 완성한 사람들]]></title>
-            <link>https://www.maxmovie.com/news/439894</link>
-            <guid>https://www.maxmovie.com/news/439894</guid>
-            <pubDate>Thu, 17 Oct 2024 00:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439894"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1729061435940rjLRG.png" alt=""></span><span class="textBox"><h4>[맥스포토] 4명의 감독 6명의 배우 '대도시의 사랑법'을 완성한 사람들</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729061435940rjLRG.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
