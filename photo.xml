@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Oct 2024 11:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 12:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[맥스포토] 황정민, 올해의 영화예술인상 수상]]></title>
+            <link>https://www.maxmovie.com/news/440025</link>
+            <guid>https://www.maxmovie.com/news/440025</guid>
+            <pubDate>Thu, 24 Oct 2024 12:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440025"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1729767283498GX5ds.png" alt=""></span><span class="textBox"><h4>[맥스포토] 황정민, 올해의 영화예술인상 수상</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729767283498GX5ds.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[맥스포토] 신민아, 미모만큼 아름다운 선행]]></title>
             <link>https://www.maxmovie.com/news/440024</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Oct 2024 00:40:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/439894"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1729061435940rjLRG.png" alt=""></span><span class="textBox"><h4>[맥스포토] 4명의 감독 6명의 배우 '대도시의 사랑법'을 완성한 사람들</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729061435940rjLRG.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 베일 벗은 영화 '최소한의 선의'...장윤주와 최수인 앙상블]]></title>
-            <link>https://www.maxmovie.com/news/439881</link>
-            <guid>https://www.maxmovie.com/news/439881</guid>
-            <pubDate>Tue, 15 Oct 2024 11:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/439881"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1728982707427FtVMW.png" alt=""></span><span class="textBox"><h4>[맥스포토] 베일 벗은 영화 '최소한의 선의'...장윤주와 최수인 앙상블 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1728982707427FtVMW.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
