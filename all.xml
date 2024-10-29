@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Oct 2024 07:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 08:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 29 Oct 2024 07:09:37 GMT</pubDate>
+            <pubDate>Tue, 29 Oct 2024 08:12:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 29 Oct 2024 07:09:37 GMT</pubDate>
+            <pubDate>Tue, 29 Oct 2024 08:12:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 29 Oct 2024 07:09:37 GMT</pubDate>
+            <pubDate>Tue, 29 Oct 2024 08:12:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 29 Oct 2024 07:09:37 GMT</pubDate>
+            <pubDate>Tue, 29 Oct 2024 08:12:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 29 Oct 2024 07:09:37 GMT</pubDate>
+            <pubDate>Tue, 29 Oct 2024 08:12:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 29 Oct 2024 07:09:37 GMT</pubDate>
+            <pubDate>Tue, 29 Oct 2024 08:12:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 29 Oct 2024 07:09:37 GMT</pubDate>
+            <pubDate>Tue, 29 Oct 2024 08:12:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 29 Oct 2024 07:09:37 GMT</pubDate>
+            <pubDate>Tue, 29 Oct 2024 08:12:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 29 Oct 2024 07:09:37 GMT</pubDate>
+            <pubDate>Tue, 29 Oct 2024 08:12:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -98,14 +98,22 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730146849225HMk5y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[진영·도경수의 '한국판 가진동·주걸륜'..대만 로맨스 영화 리메이크작 봇물 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440085</link>
-            <guid>https://www.maxmovie.com/news/440085</guid>
-            <pubDate>Tue, 29 Oct 2024 07:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[노윤서·홍경 주연 11월6일 개봉  '청설'
-'말할 수 없는 비밀'부터 '상견니'까지
-"사라진 한국 청춘로맨스 영화 대체"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730179338306zZf3g.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[깐깐한 평론가들이 선택한 올해의 영화는 '괴인' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440087</link>
+            <guid>https://www.maxmovie.com/news/440087</guid>
+            <pubDate>Tue, 29 Oct 2024 08:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[영화평론가협회상, '서울의 봄' 김성수 감독상 
+남녀주연상 김재화·이희준..11월20일 시상식]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17301856082583vOeY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[답답한데 눈을 뗄 수 없는 '이친자'...후반부 주목할 세 가지 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440082</link>
+            <guid>https://www.maxmovie.com/news/440082</guid>
+            <pubDate>Tue, 29 Oct 2024 08:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[한석규와 신예 채원빈의 '부녀 스릴러'
+반환점 돈 이야기, 후반부에 시선집중]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730167533309Zl8lM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[데일리 핫이슈] 임영웅 패션 브랜드 론칭 '사실 아니다', 로제 유튜브 1000만 구독자 돌파 (맥스무비)]]></title>
@@ -133,14 +141,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730101104165oMxBh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['임영웅│아임 히어로 더 스타디움’ 100억  매출..공연 실황 영화 최초 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440076</link>
-            <guid>https://www.maxmovie.com/news/440076</guid>
-            <pubDate>Tue, 29 Oct 2024 07:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[28일 100억665만여원..개봉 62일 만의 성과
-그룹 방탄소년단 제치고 공연 실황 영화 1위 
-특수상영·반복관람·중장년 여성층의 지지↑]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17301475151680CFhh.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["서로에게 눈 뗄 수 없었죠", '청설' 홍경·노윤서 청량 로맨스 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440074</link>
+            <guid>https://www.maxmovie.com/news/440074</guid>
+            <pubDate>Tue, 29 Oct 2024 08:12:46 GMT</pubDate>
+            <content:encoded><![CDATA['청설' 기자간담회 현장
+홍경·노윤서의 로맨스]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730106508762JuAZl.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['정년이' 이전에 다큐 영화 '왕자가 된 소녀들' 있었다 (맥스무비)]]></title>
@@ -169,13 +176,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730079840593vZfid.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["꼭 그렇게 다 가져가야만 했냐"..김래원의 '해바라기'  다시 만난다 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440059</link>
-            <guid>https://www.maxmovie.com/news/440059</guid>
-            <pubDate>Tue, 29 Oct 2024 07:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[2006년작 리마스터링 버전 11월 재개봉
-김래원의 액션과 대사, 숱한 패러디 회자]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730077971599CUHNr.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['베놈'의 피날레...1·2편과 비교해 기대치 밑도는 화력 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440057</link>
+            <guid>https://www.maxmovie.com/news/440057</guid>
+            <pubDate>Tue, 29 Oct 2024 08:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[첫 주말 58만명, 시리즈 중 가장 낮아 
+완결인데도 빈약한 서사에 아쉬움]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730074939140xOKyX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장윤주·최수인 '최소한의 선의' 토리노국제영화 경쟁 초청 (맥스무비)]]></title>
@@ -202,15 +209,6 @@
             <content:encoded><![CDATA[류승룡의 양궁 국가대표 후배로 호흡
 '육사오'→'아마존 활명수' 흥행 잇나]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730051260747izDKa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[톰 홀랜드 '스파이더맨4'로 2026년 7월 복귀..."내년 여름 촬영" (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440052</link>
-            <guid>https://www.maxmovie.com/news/440052</guid>
-            <pubDate>Tue, 29 Oct 2024 03:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[2026년 7월26일 '스파이더맨4' 개봉
-"거대한 기계의 작은 톱니바퀴  역할"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730026803149K44tT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 모델·가수·배우까지…멈추지 않는 '장윤주의 도전' (맥스무비)]]></title>
