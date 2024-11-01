@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 04:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 05:10:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 01 Nov 2024 04:11:53 GMT</pubDate>
+            <pubDate>Fri, 01 Nov 2024 05:10:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 01 Nov 2024 04:11:53 GMT</pubDate>
+            <pubDate>Fri, 01 Nov 2024 05:10:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 01 Nov 2024 04:11:53 GMT</pubDate>
+            <pubDate>Fri, 01 Nov 2024 05:10:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 01 Nov 2024 04:11:53 GMT</pubDate>
+            <pubDate>Fri, 01 Nov 2024 05:10:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 01 Nov 2024 04:11:53 GMT</pubDate>
+            <pubDate>Fri, 01 Nov 2024 05:10:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 01 Nov 2024 04:11:53 GMT</pubDate>
+            <pubDate>Fri, 01 Nov 2024 05:10:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 01 Nov 2024 04:11:53 GMT</pubDate>
+            <pubDate>Fri, 01 Nov 2024 05:10:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 01 Nov 2024 04:11:53 GMT</pubDate>
+            <pubDate>Fri, 01 Nov 2024 05:10:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 01 Nov 2024 04:11:53 GMT</pubDate>
+            <pubDate>Fri, 01 Nov 2024 05:10:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -98,12 +98,22 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730362653128GBqHC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[오늘 뭘 볼까] 짧은 만큼 강렬하게...영화 '4분 44초' (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440133</link>
-            <guid>https://www.maxmovie.com/news/440133</guid>
-            <pubDate>Thu, 31 Oct 2024 23:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[4분 44초 분량 8편의 공포영화 묶음]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730413694229uCGi9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[리뷰: 포테이토 지수 87%] '아메바 소녀들과 학교괴담' 웃음이 속출하는 공포영화 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440139</link>
+            <guid>https://www.maxmovie.com/news/440139</guid>
+            <pubDate>Fri, 01 Nov 2024 05:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[귀신과 숨바꼭질 하는 여고생들 이야기
+코미디 단편 주목받은 김민하 감독 작품
+김도연·손주연·강신희·정하담 등 주연]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730434595567SXyQ7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데일리 핫이슈] 윤수일 "로제 덕에 재건축", 지드래곤 '유퀴즈' 상금 기부한 곳은? (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440121</link>
+            <guid>https://www.maxmovie.com/news/440121</guid>
+            <pubDate>Fri, 01 Nov 2024 05:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730361500006wd7aD.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '교복 전문' 벗어난 노윤서의 다짐 "매력 전부 끌어내자!" (맥스무비)]]></title>
@@ -133,14 +143,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730346073876w5TRi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김남길·임수정·김승우, 제작·연출까지 넘보는 다재다능한 배우들 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440117</link>
-            <guid>https://www.maxmovie.com/news/440117</guid>
-            <pubDate>Fri, 01 Nov 2024 03:25:02 GMT</pubDate>
-            <content:encoded><![CDATA['문을 여는 법' 자립준비청년 이야기
-'두 번째 아이' 두 번째 공포영화
-'망원동 브라더스' 인기 소설 원작]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730345440203wE4m3.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김태리만큼 눈부신 '정년이' 신인들, 제작진이 밝힌 '캐스팅 비하인드' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440114</link>
+            <guid>https://www.maxmovie.com/news/440114</guid>
+            <pubDate>Fri, 01 Nov 2024 05:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[새 얼굴 우다비·이세영·오경화 활약
+뛰어난 연기력으로 시청자에 각인]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730336951873prWBS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['마동석의 사람들' 다 모였다...12천사로 뭉친 9명 배우 (맥스무비)]]></title>
@@ -171,13 +180,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730294742275JTiHt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['베놈3' 제친 '아마존 활명수', 박스오피스 1위 유지할 수 있을까 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440112</link>
-            <guid>https://www.maxmovie.com/news/440112</guid>
-            <pubDate>Fri, 01 Nov 2024 03:25:02 GMT</pubDate>
-            <content:encoded><![CDATA[양궁과 아마존 전사의 신선한 만남
-영화 속 유머 코드에 호불호 반응]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730333702198fOkXy.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[인터뷰] '지옥2' 새로운 얼굴, 김성철이 두려움을 극복하는 법 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440108</link>
+            <guid>https://www.maxmovie.com/news/440108</guid>
+            <pubDate>Fri, 01 Nov 2024 05:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[유아인 이어 '지옥2' 합류 
+"부담 없었다면 거짓말"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730278351925jGCW5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[데일리 핫이슈] 로제 '아파트' 뮤비 2억뷰 돌파, 안영미 욕설 논란 사과 (맥스무비)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[30여개 스크린에서 거둔 독립영화 성과
 3대 대가족 이야기..호평과 입소문의 힘]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17302658492066QEUL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전지현, 연상호 감독과 손잡고 K-좀비 열풍 다시 불 지필까 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440104</link>
-            <guid>https://www.maxmovie.com/news/440104</guid>
-            <pubDate>Fri, 01 Nov 2024 03:25:02 GMT</pubDate>
-            <content:encoded><![CDATA[연상호 좀비 신작 '군체' 출연 검토
-한류스타와 케이 좀비 주역의 만남]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730264013990myJm7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 실리카겔·윤성호, 영광의 문체부장관 표창 (맥스무비 ─ 포토)]]></title>
