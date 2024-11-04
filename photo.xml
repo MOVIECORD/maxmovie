@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Nov 2024 08:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Nov 2024 09:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 04 Nov 2024 08:13:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/440168"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1730704140787zdHoC.png" alt=""></span><span class="textBox"><h4>[맥스포토] 백성철·김세정·이종원·신도현, 오늘밤 만나요!</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730704140787zdHoC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 김세정·이종원, 신흥 로코 커플 기대~]]></title>
+            <link>https://www.maxmovie.com/news/440165</link>
+            <guid>https://www.maxmovie.com/news/440165</guid>
+            <pubDate>Mon, 04 Nov 2024 08:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440165"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1730703046521XqoFc.png" alt=""></span><span class="textBox"><h4>[맥스포토] 김세정·이종원, 신흥 로코 커플 기대~</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730703046521XqoFc.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 백성철·신도현, '취하는 로맨스'로 호흡]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Oct 2024 11:08:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/440023"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1729764471561Zogry.png" alt=""></span><span class="textBox"><h4>[맥스포토] 조인성, 순간순간이 영화의 한 장면</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1729764471561Zogry.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 김세정-이종원, 신흥 로코 커플 기대~]]></title>
-            <link>https://www.maxmovie.com/news/440165</link>
-            <guid>https://www.maxmovie.com/news/440165</guid>
-            <pubDate>Mon, 04 Nov 2024 08:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440165"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1730703046521XqoFc.png" alt=""></span><span class="textBox"><h4>[맥스포토] 김세정-이종원, 신흥 로코 커플 기대~</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730703046521XqoFc.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
