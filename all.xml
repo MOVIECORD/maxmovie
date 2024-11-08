@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 19:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 20:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 08 Nov 2024 19:06:23 GMT</pubDate>
+            <pubDate>Fri, 08 Nov 2024 20:09:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 08 Nov 2024 19:06:23 GMT</pubDate>
+            <pubDate>Fri, 08 Nov 2024 20:09:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 08 Nov 2024 19:06:23 GMT</pubDate>
+            <pubDate>Fri, 08 Nov 2024 20:09:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 08 Nov 2024 19:06:23 GMT</pubDate>
+            <pubDate>Fri, 08 Nov 2024 20:09:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 08 Nov 2024 19:06:23 GMT</pubDate>
+            <pubDate>Fri, 08 Nov 2024 20:09:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 08 Nov 2024 19:06:23 GMT</pubDate>
+            <pubDate>Fri, 08 Nov 2024 20:09:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 08 Nov 2024 19:06:23 GMT</pubDate>
+            <pubDate>Fri, 08 Nov 2024 20:09:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 08 Nov 2024 19:06:23 GMT</pubDate>
+            <pubDate>Fri, 08 Nov 2024 20:09:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 08 Nov 2024 19:06:23 GMT</pubDate>
+            <pubDate>Fri, 08 Nov 2024 20:09:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -255,6 +255,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731051097755gh0YQ.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[맥스포토] 이하늬, 첫 방송 놓치지 마세요! (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/440243</link>
+            <guid>https://www.maxmovie.com/news/440243</guid>
+            <pubDate>Fri, 08 Nov 2024 08:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440243"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731050151115w5mI1.png" alt=""></span><span class="textBox"><h4>[맥스포토] 이하늬, 첫 방송 놓치지 마세요!</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731050151115w5mI1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[맥스포토] 김남길, 5년 만에 돌아온 '열혈사제' (맥스무비 ─ 포토)]]></title>
             <link>https://www.maxmovie.com/news/440244</link>
             <guid>https://www.maxmovie.com/news/440244</guid>
@@ -301,6 +309,14 @@
             <pubDate>Fri, 08 Nov 2024 05:09:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/440234"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731039803913zbvyT.png" alt=""></span><span class="textBox"><h4>[맥스포토] 장영남, 자애로운 미소</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731039803913zbvyT.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] "곽도원 밉다" 유재명·김민재·오대환·이준혁이 뭉친 영화 '소방관' (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/440233</link>
+            <guid>https://www.maxmovie.com/news/440233</guid>
+            <pubDate>Fri, 08 Nov 2024 05:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440233"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17310388402078t35V.png" alt=""></span><span class="textBox"><h4>[맥스포토] "곽도원 밉다" 유재명·김민재·오대환·이준혁이 뭉친 영화 '소방관'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17310388402078t35V.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 아이 낳고 돌아온 이유영, 사랑스러운 미소 (맥스무비 ─ 포토)]]></title>
@@ -445,22 +461,6 @@
             <pubDate>Wed, 30 Oct 2024 05:10:21 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/440101"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1730260480066Ba2Dl.png" alt=""></span><span class="textBox"><h4>[맥스포토] 하윤경, 봄날의 햇살 같은 미모</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730260480066Ba2Dl.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 이하늬, 첫 방송 놓치지 마세요! (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/440243</link>
-            <guid>https://www.maxmovie.com/news/440243</guid>
-            <pubDate>Fri, 08 Nov 2024 08:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440243"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731050151115w5mI1.png" alt=""></span><span class="textBox"><h4>[맥스포토] 이하늬, 첫 방송 놓치지 마세요!</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731050151115w5mI1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] "곽도원 밉다" 유재명·김민재·오대환·이준혁이 뭉친 영화 '소방관' (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/440233</link>
-            <guid>https://www.maxmovie.com/news/440233</guid>
-            <pubDate>Fri, 08 Nov 2024 05:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440233"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17310388402078t35V.png" alt=""></span><span class="textBox"><h4>[맥스포토] "곽도원 밉다" 유재명·김민재·오대환·이준혁이 뭉친 영화 '소방관'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17310388402078t35V.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
