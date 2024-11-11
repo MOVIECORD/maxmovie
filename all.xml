@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 11:08:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 12:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Mon, 11 Nov 2024 11:07:48 GMT</pubDate>
+            <pubDate>Mon, 11 Nov 2024 12:15:56 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Mon, 11 Nov 2024 11:07:48 GMT</pubDate>
+            <pubDate>Mon, 11 Nov 2024 12:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Mon, 11 Nov 2024 11:07:48 GMT</pubDate>
+            <pubDate>Mon, 11 Nov 2024 12:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Mon, 11 Nov 2024 11:07:48 GMT</pubDate>
+            <pubDate>Mon, 11 Nov 2024 12:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Mon, 11 Nov 2024 11:07:48 GMT</pubDate>
+            <pubDate>Mon, 11 Nov 2024 12:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Mon, 11 Nov 2024 11:07:48 GMT</pubDate>
+            <pubDate>Mon, 11 Nov 2024 12:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Mon, 11 Nov 2024 11:07:48 GMT</pubDate>
+            <pubDate>Mon, 11 Nov 2024 12:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Mon, 11 Nov 2024 11:07:48 GMT</pubDate>
+            <pubDate>Mon, 11 Nov 2024 12:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Mon, 11 Nov 2024 11:07:48 GMT</pubDate>
+            <pubDate>Mon, 11 Nov 2024 12:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -98,6 +98,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731229929331IX4do.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['이토록 친밀한 배신자'의 결말 향한 관심, 90분 확대 편성으로 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440282</link>
+            <guid>https://www.maxmovie.com/news/440282</guid>
+            <pubDate>Mon, 11 Nov 2024 12:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[한석규·채원빈의 부녀 스릴러 종착지
+90분 확대 편성 "진실 모두 밝혀진다"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731316001982eICWW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이젠 배우가 더 친숙…권유리, 볼링선수 이어 도전한 역할은 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/440276</link>
             <guid>https://www.maxmovie.com/news/440276</guid>
@@ -105,6 +114,15 @@
             <content:encoded><![CDATA[볼링 선수 이어 광수대 형사 변신
 '가석방 심사관 이한신' 18일 공개]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731307767740T3988.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰: 포테이토 지수 85%] '미망', 변하는 것(들)을 기억하는 방법 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440218</link>
+            <guid>https://www.maxmovie.com/news/440218</guid>
+            <pubDate>Mon, 11 Nov 2024 12:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[로맨스 이야기로 풀어낸 삶의 단면
+김태양 감독의 개성 강한  장편 데뷔]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731040190656bpBji.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청춘 로맨스의 힘, '청설' 주말 1위...'글래디에이터2' 예매율 정상 (맥스무비)]]></title>
@@ -124,15 +142,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731231246917IXzGy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["꿈꾸는 여성들의 연대"..'정년이' 그리고 '정숙한 세일즈' (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440268</link>
-            <guid>https://www.maxmovie.com/news/440268</guid>
-            <pubDate>Mon, 11 Nov 2024 11:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[결말 향해가는 두 드라마..절정에 달한 위기
-여성 캐릭터들의 위로와 연대..시청자 눈길]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17312752897667RQxC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['정년이'의 초대장, '춘향전'→'자명고' 잇는 '바보와 공주' (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/440262</link>
             <guid>https://www.maxmovie.com/news/440262</guid>
@@ -140,6 +149,15 @@
             <content:encoded><![CDATA[새로운 극중극으로 '바보와 공주'
 완성도 높은 국극 무대로 시선 집중]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731223947758OK1lp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쾌조의 출발, 김남길의 '열혈사제2' 5년 공백에도 확실한 존재감 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440261</link>
+            <guid>https://www.maxmovie.com/news/440261</guid>
+            <pubDate>Mon, 11 Nov 2024 12:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[정의 구현 위해 부산으로 향한 김해일
+1·2회 시청률 각각 11.9%·10.1% 기록]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731218429823ajaPd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['캡틴 아메리카: 브레이브 뉴 월드', 크리스 에반스의 존재감 넘어설까 (맥스무비)]]></title>
@@ -160,15 +178,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731205530260klULf.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[소리 잃은 소리꾼, '정년이' 몰입하게 만든 김태리의 쉰 목소리 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440258</link>
-            <guid>https://www.maxmovie.com/news/440258</guid>
-            <pubDate>Mon, 11 Nov 2024 11:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[국극단 떠나 고향으로 돌아간 정년이
-정년이의 절망과 괴로움 그린 김태리]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731199176481vbOjS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[박스오피스 정상 탈환한 '베놈: 라스트 댄스' (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/440257</link>
             <guid>https://www.maxmovie.com/news/440257</guid>
@@ -176,6 +185,14 @@
             <content:encoded><![CDATA[개봉 18일 만에 누적 관객 150만명
 안티 히어로 베놈의 마지막 이야기]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731197891987UPiu7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 치열한 연예계의 속내..시리즈 '스포트라이트는 나의 것' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440256</link>
+            <guid>https://www.maxmovie.com/news/440256</guid>
+            <pubDate>Mon, 11 Nov 2024 12:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 오리지널 시리즈..배우들의 꿈]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731190858462tszcC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑소 백현 첫 단독 공연 실황 영화, 27일 글로벌 개봉 (맥스무비)]]></title>
@@ -203,38 +220,12 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731124299168C8MBi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[위클리 포토] 모두가 기다린 김남길‧이하늬, 꿀조합의 귀환 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440252</link>
-            <guid>https://www.maxmovie.com/news/440252</guid>
-            <pubDate>Mon, 11 Nov 2024 11:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[웃기고 통쾌한 '열혈사제'로 재회
-시리즈 드라마의 '좋은 예' 주목]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731067814127PBmrq.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김남길이 밝힌 '열혈사제2'의 차별점 "시즌1보다 경쾌한 느낌" (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440240</link>
-            <guid>https://www.maxmovie.com/news/440240</guid>
-            <pubDate>Mon, 11 Nov 2024 11:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[5년 만에 시즌2로 돌아온 '열혈사제'
-다시 뭉친 김남길·이하늬·김성균]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731056339220BeosT.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[맥스포토]권소현 옆에 권소현, 영화 '딜리버리'로 첫 만남 (맥스무비 ─ 포토)]]></title>
             <link>https://www.maxmovie.com/news/440281</link>
             <guid>https://www.maxmovie.com/news/440281</guid>
             <pubDate>Mon, 11 Nov 2024 09:10:38 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/440281"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731313037799WZqfK.png" alt=""></span><span class="textBox"><h4>[맥스포토]권소현 옆에 권소현, 영화 '딜리버리'로 첫 만남</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731313037799WZqfK.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 강태우·권소현, 철없는 백수 커플 호흡 (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/440280</link>
-            <guid>https://www.maxmovie.com/news/440280</guid>
-            <pubDate>Mon, 11 Nov 2024 09:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440280"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731312610944pljfV.png" alt=""></span><span class="textBox"><h4>[맥스포토] 강태우·권소현, 철없는 백수 커플 호흡</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731312610944pljfV.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] '딜리버리' 김영민·권소현, 부부 호흡 맞춰요 (맥스무비 ─ 포토)]]></title>
@@ -285,14 +276,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731051097755gh0YQ.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[맥스포토] 이하늬, 첫 방송 놓치지 마세요! (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/440243</link>
-            <guid>https://www.maxmovie.com/news/440243</guid>
-            <pubDate>Fri, 08 Nov 2024 08:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440243"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731050151115w5mI1.png" alt=""></span><span class="textBox"><h4>[맥스포토] 이하늬, 첫 방송 놓치지 마세요!</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731050151115w5mI1.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[맥스포토] 김남길, 5년 만에 돌아온 '열혈사제' (맥스무비 ─ 포토)]]></title>
             <link>https://www.maxmovie.com/news/440244</link>
             <guid>https://www.maxmovie.com/news/440244</guid>
@@ -339,14 +322,6 @@
             <pubDate>Fri, 08 Nov 2024 05:09:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/440234"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731039803913zbvyT.png" alt=""></span><span class="textBox"><h4>[맥스포토] 장영남, 자애로운 미소</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731039803913zbvyT.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] "곽도원 밉다" 유재명·김민재·오대환·이준혁이 뭉친 영화 '소방관' (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/440233</link>
-            <guid>https://www.maxmovie.com/news/440233</guid>
-            <pubDate>Fri, 08 Nov 2024 05:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440233"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17310388402078t35V.png" alt=""></span><span class="textBox"><h4>[맥스포토] "곽도원 밉다" 유재명·김민재·오대환·이준혁이 뭉친 영화 '소방관'</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17310388402078t35V.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 아이 낳고 돌아온 이유영, 사랑스러운 미소 (맥스무비 ─ 포토)]]></title>
@@ -459,6 +434,30 @@
             <pubDate>Thu, 31 Oct 2024 13:18:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/440126"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1730369241332UP3w8.png" alt=""></span><span class="textBox"><h4>[맥스포토] 안은진, 스포트라이트 받는 청순미</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730369241332UP3w8.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 강태우·권소현, 철없는 백수 커플 호흡 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/440280</link>
+            <guid>https://www.maxmovie.com/news/440280</guid>
+            <pubDate>Mon, 11 Nov 2024 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440280"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731312610944pljfV.png" alt=""></span><span class="textBox"><h4>[맥스포토] 강태우·권소현, 철없는 백수 커플 호흡</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731312610944pljfV.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 이하늬, 첫 방송 놓치지 마세요! (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/440243</link>
+            <guid>https://www.maxmovie.com/news/440243</guid>
+            <pubDate>Fri, 08 Nov 2024 08:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440243"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731050151115w5mI1.png" alt=""></span><span class="textBox"><h4>[맥스포토] 이하늬, 첫 방송 놓치지 마세요!</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731050151115w5mI1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] "곽도원 밉다" 유재명·김민재·오대환·이준혁이 뭉친 영화 '소방관' (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/440233</link>
+            <guid>https://www.maxmovie.com/news/440233</guid>
+            <pubDate>Fri, 08 Nov 2024 05:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440233"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17310388402078t35V.png" alt=""></span><span class="textBox"><h4>[맥스포토] "곽도원 밉다" 유재명·김민재·오대환·이준혁이 뭉친 영화 '소방관'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17310388402078t35V.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
