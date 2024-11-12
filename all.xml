@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Nov 2024 07:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 08:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 12 Nov 2024 07:09:14 GMT</pubDate>
+            <pubDate>Tue, 12 Nov 2024 08:11:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 12 Nov 2024 07:09:14 GMT</pubDate>
+            <pubDate>Tue, 12 Nov 2024 08:11:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 12 Nov 2024 07:09:14 GMT</pubDate>
+            <pubDate>Tue, 12 Nov 2024 08:11:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 12 Nov 2024 07:09:14 GMT</pubDate>
+            <pubDate>Tue, 12 Nov 2024 08:11:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 12 Nov 2024 07:09:14 GMT</pubDate>
+            <pubDate>Tue, 12 Nov 2024 08:11:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 12 Nov 2024 07:09:14 GMT</pubDate>
+            <pubDate>Tue, 12 Nov 2024 08:11:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 12 Nov 2024 07:09:14 GMT</pubDate>
+            <pubDate>Tue, 12 Nov 2024 08:11:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 12 Nov 2024 07:09:14 GMT</pubDate>
+            <pubDate>Tue, 12 Nov 2024 08:11:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 12 Nov 2024 07:09:14 GMT</pubDate>
+            <pubDate>Tue, 12 Nov 2024 08:11:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -98,13 +98,22 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731314792131RId5u.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안방극장 눈도장 콕, '조립식 가족' 서지혜와 '정숙한 세일즈' 김정진 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440289</link>
-            <guid>https://www.maxmovie.com/news/440289</guid>
-            <pubDate>Tue, 12 Nov 2024 04:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[짝사랑 감정 섬세하게 표현
-두 작품서 상반된 역할 눈길]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731380826822yoz9K.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[박신양, 11년 만의 스크린 복귀작으로 '사흘' 선택한 까닭 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440299</link>
+            <guid>https://www.maxmovie.com/news/440299</guid>
+            <pubDate>Tue, 12 Nov 2024 08:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[딸의 죽음 못 믿는 흉부외과의사 역
+"오컬트 도전하며 회의만 100회 차례"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/173139838527768JVD.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[킬리언 머피가 영화 '이처럼 사소한 것들'을 제작한 이유는? (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440287</link>
+            <guid>https://www.maxmovie.com/news/440287</guid>
+            <pubDate>Tue, 12 Nov 2024 08:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[아일랜드의 '막달레나 수녀원 사건' 모티브 
+석탄 상인 역 "사람들이 문제 들여다보길"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731366036562BgUql.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] '리그 오브 레전드' 원작..애니 시리즈 '아케인' 시즌2 (맥스무비)]]></title>
@@ -132,13 +141,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731312273644WlchE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이젠 배우가 더 친숙…권유리, 볼링선수 이어 도전한 역할은 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440276</link>
-            <guid>https://www.maxmovie.com/news/440276</guid>
-            <pubDate>Mon, 11 Nov 2024 07:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[볼링 선수 이어 광수대 형사 변신
-'가석방 심사관 이한신' 18일 공개]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731307767740T3988.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['정년이' 특별출연 문소리, 이 "최고 명장면"을 위해 1년 바쳤다 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440270</link>
+            <guid>https://www.maxmovie.com/news/440270</guid>
+            <pubDate>Tue, 12 Nov 2024 08:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[김태리 요청으로 '정년이' 특별출연
+'추월만정' 가창 장면  1년 동안 연습]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731293117355RR60y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폐인까지 양산 '미안하다 사랑한다'는 어떤 작품? 소지섭·임수정 출세작! (맥스무비)]]></title>
@@ -168,13 +177,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731290160845hKBtt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[청춘 로맨스의 힘, '청설' 주말 1위...'글래디에이터2' 예매율 정상 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440269</link>
-            <guid>https://www.maxmovie.com/news/440269</guid>
-            <pubDate>Tue, 12 Nov 2024 06:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 첫 주말 17만여 관객 동원
-치고 나가는 '글래디에이터2']]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17312858795158SuMK.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['정년이' 끝낸 김태리의 다음 행보, 첫 애니메이션 목소리 도전 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440266</link>
+            <guid>https://www.maxmovie.com/news/440266</guid>
+            <pubDate>Tue, 12 Nov 2024 08:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 애니 '이 별에 필요한' 주연 
+홍경과 호흡 맞춰 애틋한 사랑 이야기]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731236862184xAxJL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[거대 세트가 벗겨낸 '오징어 게임2'의 베일..'OX'는 왜? (맥스무비)]]></title>
@@ -213,13 +222,52 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17312752897667RQxC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['정년이'의 초대장, '춘향전'→'자명고' 잇는 '바보와 공주' (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440262</link>
-            <guid>https://www.maxmovie.com/news/440262</guid>
-            <pubDate>Tue, 12 Nov 2024 06:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 극중극으로 '바보와 공주'
-완성도 높은 국극 무대로 시선 집중]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731223947758OK1lp.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[맥스포토] 박신양·이레·이민기, 영화 '사흘'로 만났어요! (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/440303</link>
+            <guid>https://www.maxmovie.com/news/440303</guid>
+            <pubDate>Tue, 12 Nov 2024 08:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440303"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731398399861q3yWb.png" alt=""></span><span class="textBox"><h4>[맥스포토] 박신양·이레·이민기, 영화 '사흘'로 만났어요!</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731398399861q3yWb.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 이레, 성인되기 전 마지막 작품 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/440301</link>
+            <guid>https://www.maxmovie.com/news/440301</guid>
+            <pubDate>Tue, 12 Nov 2024 08:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440301"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731397585125i3CwE.png" alt=""></span><span class="textBox"><h4>[맥스포토] 이레, 성인되기 전 마지막 작품</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731397585125i3CwE.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 이민기, 첫 오컬트 장르 도전 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/440302</link>
+            <guid>https://www.maxmovie.com/news/440302</guid>
+            <pubDate>Tue, 12 Nov 2024 08:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440302"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731397941384f5F6O.png" alt=""></span><span class="textBox"><h4>[맥스포토] 이민기, 첫 오컬트 장르 도전</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731397941384f5F6O.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 올 겨울 극장가 접수할 영화 '대가족' 주역들 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/440296</link>
+            <guid>https://www.maxmovie.com/news/440296</guid>
+            <pubDate>Tue, 12 Nov 2024 08:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440296"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731385909677UKRUr.png" alt=""></span><span class="textBox"><h4>[맥스포토] 올 겨울 극장가 접수할 영화 '대가족' 주역들 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731385909677UKRUr.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] '대가족' 김윤석·김성령, 썸타는 비즈니스 관계 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/440294</link>
+            <guid>https://www.maxmovie.com/news/440294</guid>
+            <pubDate>Tue, 12 Nov 2024 08:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440294"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731385196294koUig.png" alt=""></span><span class="textBox"><h4>[맥스포토] '대가족' 김윤석·김성령, 썸타는 비즈니스 관계</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731385196294koUig.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 박신양, 11년 만에 스크린 컴백 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/440300</link>
+            <guid>https://www.maxmovie.com/news/440300</guid>
+            <pubDate>Tue, 12 Nov 2024 08:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440300"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731395889809puKy0.png" alt=""></span><span class="textBox"><h4>[맥스포토] 박신양, 11년 만에 스크린 컴백</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731395889809puKy0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 강한나, 10년 만에 스크린 복귀 (맥스무비 ─ 포토)]]></title>
@@ -412,54 +460,6 @@
             <pubDate>Mon, 04 Nov 2024 08:13:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/440167"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1730703731324880GS.png" alt=""></span><span class="textBox"><h4>[맥스포토] 백성철·신도현, '취하는 로맨스'로 호흡</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730703731324880GS.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 이종원, 샤프한 비주얼 (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/440164</link>
-            <guid>https://www.maxmovie.com/news/440164</guid>
-            <pubDate>Mon, 04 Nov 2024 08:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440164"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1730702693369WsRZp.png" alt=""></span><span class="textBox"><h4>[맥스포토] 이종원, 샤프한 비주얼</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730702693369WsRZp.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 김세정 '로코여신'이라 불리고 파~ (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/440163</link>
-            <guid>https://www.maxmovie.com/news/440163</guid>
-            <pubDate>Mon, 04 Nov 2024 08:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440163"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1730702261071zpP3G.png" alt=""></span><span class="textBox"><h4>[맥스포토] 김세정 '로코여신'이라 불리고 파~</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730702261071zpP3G.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 실리카겔·윤성호, 영광의 문체부장관 표창 (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/440132</link>
-            <guid>https://www.maxmovie.com/news/440132</guid>
-            <pubDate>Thu, 31 Oct 2024 13:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440132"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1730373110431jPETI.png" alt=""></span><span class="textBox"><h4>[맥스포토] 실리카겔·윤성호, 영광의 문체부장관 표창</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730373110431jPETI.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 김한민·염혜란, 대통령 표창 영예! (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/440131</link>
-            <guid>https://www.maxmovie.com/news/440131</guid>
-            <pubDate>Thu, 31 Oct 2024 13:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440131"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17303727223177umF7.png" alt=""></span><span class="textBox"><h4>[맥스포토] 김한민·염혜란, 대통령 표창 영예!</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17303727223177umF7.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 이문세·최수종·김창완, 나란히 문화훈장 수훈 (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/440130</link>
-            <guid>https://www.maxmovie.com/news/440130</guid>
-            <pubDate>Thu, 31 Oct 2024 13:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440130"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1730372021691wv3FJ.png" alt=""></span><span class="textBox"><h4>[맥스포토] 이문세·최수종·김창완, 나란히 문화훈장 수훈</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730372021691wv3FJ.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 신구·강부자, 은관문화훈장의 주인공 (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/440129</link>
-            <guid>https://www.maxmovie.com/news/440129</guid>
-            <pubDate>Thu, 31 Oct 2024 13:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440129"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1730371386259N1eKP.png" alt=""></span><span class="textBox"><h4>[맥스포토] 신구·강부자, 은관문화훈장의 주인공</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1730371386259N1eKP.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
