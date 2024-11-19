@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 04:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 05:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 19 Nov 2024 04:11:27 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 05:09:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 19 Nov 2024 04:11:27 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 05:09:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 19 Nov 2024 04:11:27 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 05:09:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 19 Nov 2024 04:11:27 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 05:09:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 19 Nov 2024 04:11:27 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 05:09:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 19 Nov 2024 04:11:27 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 05:09:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 19 Nov 2024 04:11:27 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 05:09:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 19 Nov 2024 04:11:27 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 05:09:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 19 Nov 2024 04:11:27 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 05:09:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -98,13 +98,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731972019822VzAes.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[부산에서 만들어 부산 시민에게 선보인다..'부산 영화를 만나다' 기획전 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440397</link>
-            <guid>https://www.maxmovie.com/news/440397</guid>
-            <pubDate>Tue, 19 Nov 2024 04:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[부산영상위 29일과 30일 영화의전당 기획전
- '양치기' '원정일기' 등 제작지원작 4편 상영]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731988703170o43dc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[화제작 '장손', 오늘(19일)부터 안방극장에서도 본다 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440399</link>
+            <guid>https://www.maxmovie.com/news/440399</guid>
+            <pubDate>Tue, 19 Nov 2024 05:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[3만 관객 지지 속 IPTV 및 VOD 서비스]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731989610740WtN2j.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데일리 핫이슈] 44세 배우 이정현 둘째 출산, 아일릿 '뉴진스 아류' 주장에 소송 외 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440383</link>
+            <guid>https://www.maxmovie.com/news/440383</guid>
+            <pubDate>Tue, 19 Nov 2024 05:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731916336892Va64k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 각 12분의 쇼트폼 드라마..'수상한 본부장' (맥스무비)]]></title>
@@ -133,13 +140,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731914434517yyuuO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['라이온 킹' 스핀오프 '무파사', 크리스마스 시즌 공략 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440384</link>
-            <guid>https://www.maxmovie.com/news/440384</guid>
-            <pubDate>Tue, 19 Nov 2024 04:11:27 GMT</pubDate>
-            <content:encoded><![CDATA['무파사: 라이온 킹' 12월18일 개봉
-'문라이트' 배리 젠킨스 감독 연출]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731918256183silib.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[리뷰: 포테이토 지수 88%] 진실을 직면할 용기 '디스클레이머' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440378</link>
+            <guid>https://www.maxmovie.com/news/440378</guid>
+            <pubDate>Tue, 19 Nov 2024 05:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[편견에 함몰되어 가는 인물들 
+판단을 가리는 왜곡된 감정들 
+알폰소 쿠아론 감독의 존재감]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731908247228iQrXY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울에 만나는 현실 공포 '원정빌라', 층간 소음이 부른 파국 (맥스무비)]]></title>
@@ -169,14 +177,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731877637645y8oLP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰]  '미망' 김태양 감독 "우연과 필연의 순간(들)" (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440369</link>
-            <guid>https://www.maxmovie.com/news/440369</guid>
-            <pubDate>Tue, 19 Nov 2024 04:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[전 연인들의 우연함 만남과 관계 스케치  
-"종로와 광화문 등 일상적 공간의 흐름"
-"차기작은 손녀와 할머니의 서울 유랑"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731892583538tC5sI.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[넷플릭스 "타이슨 복귀전, 6000만 가구 시청".. 버퍼링 등 기술적 오류 노출 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440371</link>
+            <guid>https://www.maxmovie.com/news/440371</guid>
+            <pubDate>Tue, 19 Nov 2024 05:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[16일 오전 미국 텍사스주 경기 생중계
+"전 세계 6500만 스티리밍 성과 기록"
+화면 정지, 버퍼링 등 오류 해소 과제]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731896742345vFWpU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[아듀 '정년이] 장르가 된 '김태리'라는 이름 (맥스무비)]]></title>
@@ -215,12 +223,28 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731887906301lrPVL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[오늘 뭘 볼까] 속사포 전개..시리즈 '게라 자매의 전쟁' (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440364</link>
-            <guid>https://www.maxmovie.com/news/440364</guid>
-            <pubDate>Tue, 19 Nov 2024 04:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[두 자매의 극단적 대립과 처절한 복수]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731880687542wQThQ.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[맥스포토] 황금촬영상 시상식 참석한 여배우들은 누구? (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/440387</link>
+            <guid>https://www.maxmovie.com/news/440387</guid>
+            <pubDate>Mon, 18 Nov 2024 10:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440387"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731920505125gwICC.png" alt=""></span><span class="textBox"><h4>[맥스포토] 황금촬영상 시상식 참석한 여배우들은 누구?</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731920505125gwICC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 걸스데이 유라, 배우 김하영으로 첫 시상식 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/440388</link>
+            <guid>https://www.maxmovie.com/news/440388</guid>
+            <pubDate>Mon, 18 Nov 2024 10:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440388"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731921290452Ijluy.png" alt=""></span><span class="textBox"><h4>[맥스포토] 걸스데이 유라, 배우 김하영으로 첫 시상식</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731921290452Ijluy.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 원수(?) 로맨스 코미디 '사랑은 외나무 다리에서' 주역들 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/440389</link>
+            <guid>https://www.maxmovie.com/news/440389</guid>
+            <pubDate>Mon, 18 Nov 2024 10:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440389"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731922089077OIs3K.png" alt=""></span><span class="textBox"><h4>[맥스포토] 원수(?) 로맨스 코미디 '사랑은 외나무 다리에서' 주역들</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731922089077OIs3K.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 김민재·조진웅·이제훈·유선호 '4색 수트' 패션 (맥스무비 ─ 포토)]]></title>
@@ -277,6 +301,14 @@
             <pubDate>Thu, 14 Nov 2024 07:10:01 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/440337"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731565285466E92KZ.png" alt=""></span><span class="textBox"><h4>[맥스포토] 권은비, 축제 여신의 미소</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731565285466E92KZ.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 태연, 좀비도 반할 인형미모 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/440336</link>
+            <guid>https://www.maxmovie.com/news/440336</guid>
+            <pubDate>Thu, 14 Nov 2024 07:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440336"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17315648606681Qij4.png" alt=""></span><span class="textBox"><h4>[맥스포토] 태연, 좀비도 반할 인형미모</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17315648606681Qij4.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 이시영, 아들 업고 히말라야 오른 강인한 엄마! (맥스무비 ─ 포토)]]></title>
@@ -351,20 +383,20 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731397941384f5F6O.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[맥스포토] 올 겨울 극장가 접수할 영화 '대가족' 주역들 (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/440296</link>
-            <guid>https://www.maxmovie.com/news/440296</guid>
-            <pubDate>Tue, 12 Nov 2024 08:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440296"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731385909677UKRUr.png" alt=""></span><span class="textBox"><h4>[맥스포토] 올 겨울 극장가 접수할 영화 '대가족' 주역들 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731385909677UKRUr.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[맥스포토] 이레, 성인되기 전 마지막 작품 (맥스무비 ─ 포토)]]></title>
             <link>https://www.maxmovie.com/news/440301</link>
             <guid>https://www.maxmovie.com/news/440301</guid>
             <pubDate>Tue, 12 Nov 2024 08:12:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/440301"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731397585125i3CwE.png" alt=""></span><span class="textBox"><h4>[맥스포토] 이레, 성인되기 전 마지막 작품</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731397585125i3CwE.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 올 겨울 극장가 접수할 영화 '대가족' 주역들 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/440296</link>
+            <guid>https://www.maxmovie.com/news/440296</guid>
+            <pubDate>Tue, 12 Nov 2024 08:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440296"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731385909677UKRUr.png" alt=""></span><span class="textBox"><h4>[맥스포토] 올 겨울 극장가 접수할 영화 '대가족' 주역들 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731385909677UKRUr.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 박신양, 11년 만에 스크린 컴백 (맥스무비 ─ 포토)]]></title>
@@ -415,38 +447,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731313037799WZqfK.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[맥스포토] '딜리버리' 김영민·권소현, 부부 호흡 맞춰요 (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/440278</link>
-            <guid>https://www.maxmovie.com/news/440278</guid>
-            <pubDate>Mon, 11 Nov 2024 08:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440278"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731311443793Bx3iE.png" alt=""></span><span class="textBox"><h4>[맥스포토] '딜리버리' 김영민·권소현, 부부 호흡 맞춰요</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731311443793Bx3iE.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 걸스데이 유라, 배우 김하영으로 첫 시상식 (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/440388</link>
-            <guid>https://www.maxmovie.com/news/440388</guid>
-            <pubDate>Mon, 18 Nov 2024 10:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440388"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731921290452Ijluy.png" alt=""></span><span class="textBox"><h4>[맥스포토] 걸스데이 유라, 배우 김하영으로 첫 시상식</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731921290452Ijluy.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 태연, 좀비도 반할 인형미모 (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/440336</link>
-            <guid>https://www.maxmovie.com/news/440336</guid>
-            <pubDate>Thu, 14 Nov 2024 07:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440336"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17315648606681Qij4.png" alt=""></span><span class="textBox"><h4>[맥스포토] 태연, 좀비도 반할 인형미모</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17315648606681Qij4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 황금촬영상 시상식 참석한 여배우들은 누구? (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/440387</link>
-            <guid>https://www.maxmovie.com/news/440387</guid>
-            <pubDate>Mon, 18 Nov 2024 10:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440387"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731920505125gwICC.png" alt=""></span><span class="textBox"><h4>[맥스포토] 황금촬영상 시상식 참석한 여배우들은 누구?</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731920505125gwICC.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[맥스포토] 강태우·권소현, 철없는 백수 커플 호흡 (맥스무비 ─ 포토)]]></title>
             <link>https://www.maxmovie.com/news/440280</link>
             <guid>https://www.maxmovie.com/news/440280</guid>
@@ -455,12 +455,12 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731312610944pljfV.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[맥스포토] 원수(?) 로맨스 코미디 '사랑은 외나무 다리에서' 주역들 (맥스무비 ─ 포토)]]></title>
-            <link>https://www.maxmovie.com/news/440389</link>
-            <guid>https://www.maxmovie.com/news/440389</guid>
-            <pubDate>Mon, 18 Nov 2024 10:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440389"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731922089077OIs3K.png" alt=""></span><span class="textBox"><h4>[맥스포토] 원수(?) 로맨스 코미디 '사랑은 외나무 다리에서' 주역들</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731922089077OIs3K.png" length="0" type="image/png"/>
+            <title><![CDATA[[맥스포토] '딜리버리' 김영민·권소현, 부부 호흡 맞춰요 (맥스무비 ─ 포토)]]></title>
+            <link>https://www.maxmovie.com/news/440278</link>
+            <guid>https://www.maxmovie.com/news/440278</guid>
+            <pubDate>Mon, 11 Nov 2024 08:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440278"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1731311443793Bx3iE.png" alt=""></span><span class="textBox"><h4>[맥스포토] '딜리버리' 김영민·권소현, 부부 호흡 맞춰요</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1731311443793Bx3iE.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
