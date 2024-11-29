@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 15:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 16:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 29 Nov 2024 14:09:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/440582"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1732887837844bS8DL.png" alt=""></span><span class="textBox"><h4>[맥스포토] 염혜란·임지연, 공주 같은 엘사 드레스 자태</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1732887837844bS8DL.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 한선화·고아성·공승연,  순백의 여신들]]></title>
+            <link>https://www.maxmovie.com/news/440580</link>
+            <guid>https://www.maxmovie.com/news/440580</guid>
+            <pubDate>Fri, 29 Nov 2024 14:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440580"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1732887070565qaABV.png" alt=""></span><span class="textBox"><h4>[맥스포토] 한선화·고아성·공승연,  순백의 여신들</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1732887070565qaABV.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 구교환·정해인, 'D.P.' 인연 청룡에서 재회]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 26 Nov 2024 07:10:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/440501"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1732603115030GOMYx.png" alt=""></span><span class="textBox"><h4>[맥스포토] 로몬·이수현, 비주얼 남매</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1732603115030GOMYx.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 한선화·고아성·공승연,  순백의 여신들]]></title>
-            <link>https://www.maxmovie.com/news/440580</link>
-            <guid>https://www.maxmovie.com/news/440580</guid>
-            <pubDate>Fri, 29 Nov 2024 14:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440580"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1732887070565qaABV.png" alt=""></span><span class="textBox"><h4>[맥스포토] 한선화·고아성·공승연,  순백의 여신들</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1732887070565qaABV.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
