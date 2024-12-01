@@ -4,71 +4,80 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Dec 2024 03:38:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2024 04:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[0]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 01 Dec 2024 03:38:00 GMT</pubDate>
+            <pubDate>Sun, 01 Dec 2024 04:14:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 01 Dec 2024 03:38:00 GMT</pubDate>
+            <pubDate>Sun, 01 Dec 2024 04:14:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 01 Dec 2024 03:38:00 GMT</pubDate>
+            <pubDate>Sun, 01 Dec 2024 04:14:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 01 Dec 2024 03:38:00 GMT</pubDate>
+            <pubDate>Sun, 01 Dec 2024 04:14:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 01 Dec 2024 03:38:00 GMT</pubDate>
+            <pubDate>Sun, 01 Dec 2024 04:14:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 01 Dec 2024 03:38:00 GMT</pubDate>
+            <pubDate>Sun, 01 Dec 2024 04:14:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 01 Dec 2024 03:38:00 GMT</pubDate>
+            <pubDate>Sun, 01 Dec 2024 04:14:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 01 Dec 2024 03:38:00 GMT</pubDate>
+            <pubDate>Sun, 01 Dec 2024 04:14:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 01 Dec 2024 03:38:00 GMT</pubDate>
+            <pubDate>Sun, 01 Dec 2024 04:14:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['모아나2', 1편보다 빠른 속도로 100만 관객 돌파]]></title>
+            <link>https://www.maxmovie.com/news/440592</link>
+            <guid>https://www.maxmovie.com/news/440592</guid>
+            <pubDate>Sun, 01 Dec 2024 04:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 5일 만..1편은 10일 동안 100만 동원
+북미 지역에서도 추수감사절 기간 최고치]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1733016441051ED3qX.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스무비레터 #79번째 편지] 폭설도 녹인 '모아나2' 왜 이렇게 뜨거울까요 ❄️]]></title>
@@ -77,16 +86,6 @@
             <pubDate>Sun, 01 Dec 2024 03:38:00 GMT</pubDate>
             <content:encoded><![CDATA[8년 만에 돌아온 애니메이션 '모아나2'의 한 장면. 사진제공=월트디즈니컴퍼니코리아&nbsp;🐋 돌아온 '모아나'의 예사롭지 않은 열기&nbsp;구독자님 안녕하세요 😉 갑자기 엄청난 폭설이 내린 한주였어요. 첫눈의 반가움도 크지만, 너무 많이 내려서 혹시 피해는 없으셨는지 걱정이에요. ❄️ 모두 괜찮으시죠? 폭설이 와도,&nbsp;날씨가 갑자기 추워져도, 맥스무비레터는 언제나 구]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/173288351772569vQf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['보릿고개' 보낸 11월 극장가, 12월 잇단 신작으로 활력을?]]></title>
-            <link>https://www.maxmovie.com/news/440570</link>
-            <guid>https://www.maxmovie.com/news/440570</guid>
-            <pubDate>Sun, 01 Dec 2024 00:52:54 GMT</pubDate>
-            <content:encoded><![CDATA[11월 관객수 연중 최저치 10월 수준 전망 
-송강호·김윤석·현빈·송중기 등 신작 개봉
-한국영화 대표 배우 및 감독들 활약 기대]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17328642363303IBQf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 반전에 찬사를..영화 '페스터']]></title>
@@ -115,15 +114,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1732962611350aWB3m.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[위클리 포토] '왕들의 컴백' 공유 VS 현빈]]></title>
-            <link>https://www.maxmovie.com/news/440569</link>
-            <guid>https://www.maxmovie.com/news/440569</guid>
-            <pubDate>Sun, 01 Dec 2024 03:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[공유 29일 공개한 '트렁크' 주인공
-현빈 12월25일 개봉 영화 '하얼빈']]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1732862584316tkkey.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA['모아나2'로 보는, 매력적인 여성 캐릭터 애니 BEST 5]]></title>
             <link>https://www.maxmovie.com/news/440567</link>
             <guid>https://www.maxmovie.com/news/440567</guid>
@@ -141,6 +131,15 @@
 관계맺기, 치유에 관한 통찰과 애틋함
 서현진·공유의 입체적 캐릭터 연기력]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17327629361368XKrt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[위클리 포토] '왕들의 컴백' 공유 VS 현빈]]></title>
+            <link>https://www.maxmovie.com/news/440569</link>
+            <guid>https://www.maxmovie.com/news/440569</guid>
+            <pubDate>Sun, 01 Dec 2024 03:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[공유 29일 공개한 '트렁크' 주인공
+현빈 12월25일 개봉 영화 '하얼빈']]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1732862584316tkkey.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[정우성 "모든 질책 안고 아버지로서 책임 다할 것" ..청룡영화상 참석]]></title>
@@ -163,6 +162,16 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1732859941119TbMxU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['보릿고개' 보낸 11월 극장가, 12월 잇단 신작으로 활력을?]]></title>
+            <link>https://www.maxmovie.com/news/440570</link>
+            <guid>https://www.maxmovie.com/news/440570</guid>
+            <pubDate>Sun, 01 Dec 2024 00:52:54 GMT</pubDate>
+            <content:encoded><![CDATA[11월 관객수 연중 최저치 10월 수준 전망 
+송강호·김윤석·현빈·송중기 등 신작 개봉
+한국영화 대표 배우 및 감독들 활약 기대]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17328642363303IBQf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[리뷰: 포테이토 지수 86%] '1승',  스포츠와  닮은 우리의 인생]]></title>
             <link>https://www.maxmovie.com/news/440560</link>
             <guid>https://www.maxmovie.com/news/440560</guid>
@@ -172,14 +181,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1732838827654U8srn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[드라마 '참교육' PD·배우·작가까지..."책임감" 강조한 이유]]></title>
-            <link>https://www.maxmovie.com/news/440568</link>
-            <guid>https://www.maxmovie.com/news/440568</guid>
-            <pubDate>Sun, 01 Dec 2024 03:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[동명의 인기 웹툰 원작 극화
-주연 캐스팅 과정 난항 겪어
-폭력적인 묘사 등 우려 제기]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17328583360940TT12.png" length="0" type="image/png"/>
+            <title><![CDATA[조여정·박지현의 위태로운 욕망...'히든페이스' 개봉 2주차 노린다]]></title>
+            <link>https://www.maxmovie.com/news/440566</link>
+            <guid>https://www.maxmovie.com/news/440566</guid>
+            <pubDate>Sun, 01 Dec 2024 04:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[누적 50만명, 관객의 꾸준한 선택
+노출 화제 넘어 배우들의 활약 주목]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1732857114638w7OfI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['역사에 남을 성적' 예고 '모아나2', 추수감사절 연휴 휩쓰나]]></title>
@@ -216,16 +224,6 @@
             <content:encoded><![CDATA[긴박한 추격전에 담은 역사의 인물들
 최적의 시기 정조준 12월 25일 개봉]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17328412762409Nseq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 "전속계약 해지..위약금 없다" VS 어도어 "계약 유효"..파장 커진다]]></title>
-            <link>https://www.maxmovie.com/news/440559</link>
-            <guid>https://www.maxmovie.com/news/440559</guid>
-            <pubDate>Sun, 01 Dec 2024 03:38:00 GMT</pubDate>
-            <content:encoded><![CDATA['이탈' 뉴진스 멤버들에 소속사 어도어 맞대응
-"전속계약 해지 안돼!..향후에도  함께 해야"
-법적 분쟁 등 정면 충돌 불가피..우려의 전망]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/173283291870008xas.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
