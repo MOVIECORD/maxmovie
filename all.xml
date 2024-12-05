@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 21:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 22:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 05 Dec 2024 21:09:01 GMT</pubDate>
+            <pubDate>Thu, 05 Dec 2024 22:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 05 Dec 2024 21:09:01 GMT</pubDate>
+            <pubDate>Thu, 05 Dec 2024 22:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 05 Dec 2024 21:09:01 GMT</pubDate>
+            <pubDate>Thu, 05 Dec 2024 22:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 05 Dec 2024 21:09:01 GMT</pubDate>
+            <pubDate>Thu, 05 Dec 2024 22:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 05 Dec 2024 21:09:01 GMT</pubDate>
+            <pubDate>Thu, 05 Dec 2024 22:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 05 Dec 2024 21:09:01 GMT</pubDate>
+            <pubDate>Thu, 05 Dec 2024 22:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 05 Dec 2024 21:09:01 GMT</pubDate>
+            <pubDate>Thu, 05 Dec 2024 22:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 05 Dec 2024 21:09:01 GMT</pubDate>
+            <pubDate>Thu, 05 Dec 2024 22:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 05 Dec 2024 21:09:01 GMT</pubDate>
+            <pubDate>Thu, 05 Dec 2024 22:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -98,13 +98,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1733363775569pxJxF.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['지거전' 홍희주 목소리 들은 백사언의 선택은…상승세 탈까 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440662</link>
-            <guid>https://www.maxmovie.com/news/440662</guid>
-            <pubDate>Thu, 05 Dec 2024 09:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[협박 전화로 가까워지는 쇼윈도 부부 이야기
-전작 '이친자' 웃도는 시청률…5회 쏠린 관심]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17333866038147I0U0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[데일리 핫이슈] 나나·채종석 열애설, '오징어 게임2' 최승현 역할, 로제 '아파트' 5억뷰 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440661</link>
+            <guid>https://www.maxmovie.com/news/440661</guid>
+            <pubDate>Thu, 05 Dec 2024 22:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1733388068124PFRdl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['소방관' 보고 119원 기부하고…기부 챌린지 시작 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440647</link>
+            <guid>https://www.maxmovie.com/news/440647</guid>
+            <pubDate>Thu, 05 Dec 2024 22:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[소방관 처우 및 장비 개선 위해
+100만명 보면 1억1900만원 기부]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17333003972029pVRi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리뷰: 포테이토 지수 84%] 'Mr. 플랑크톤'의 '특이한 위로법' (맥스무비)]]></title>
@@ -168,13 +176,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17326957177780f2NG.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[독립영화 향한 유지태의 손길, 사비 털어 관객 200명 초대 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440525</link>
-            <guid>https://www.maxmovie.com/news/440525</guid>
-            <pubDate>Thu, 05 Dec 2024 21:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '언니 유정' '미망' 시사회 마련
-다양하고 실험적인 영화 알리는 자리]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1732694429951tNTQi.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[['소방관' SWOT 분석]  곽도원 리스크의 고비  VS 배급사 교체 전환점 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440517</link>
+            <guid>https://www.maxmovie.com/news/440517</guid>
+            <pubDate>Thu, 05 Dec 2024 22:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[12월4일 개봉 실화 소재 이야기
+2001년 홍제동 화재 참사 극화 
+주연 곽도원 음주운전 걸림돌]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17326847287715btF9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['비혼 출산' 정우성,  과열 호기심 속 사회적 논의  불 지폈다 (맥스무비)]]></title>
@@ -212,15 +221,6 @@
 새 항해 통해 전하는 "언제나 길은 있어"
 2편 흥행의 가장 큰 장벽은 높은 기대치]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1732672763404CuQSH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강력한 '모아나2' 등판...'히든페이스'·'위키드' 향방은? (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440508</link>
-            <guid>https://www.maxmovie.com/news/440508</guid>
-            <pubDate>Thu, 05 Dec 2024 21:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[27일 극장가 본격적인 3파전 돌입
-가족영화 VS 19금 VS 뮤지컬 효과]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1732671292405xPcj6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 김민하·김선화·박혁권 '조명가게'를 찾는 인물들 (맥스무비 ─ 포토)]]></title>
