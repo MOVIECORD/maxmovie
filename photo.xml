@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 02:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 03:31:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[맥스포토] '오징어게임' 시즌2로 돌아온 황동혁 감독]]></title>
+            <link>https://www.maxmovie.com/news/440703</link>
+            <guid>https://www.maxmovie.com/news/440703</guid>
+            <pubDate>Mon, 09 Dec 2024 03:31:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440703"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1733712831712uZRLP.png" alt=""></span><span class="textBox"><h4>[맥스포토] '오징어게임' 시즌2로 돌아온 황동혁 감독</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1733712831712uZRLP.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[맥스포토] 송중기 주연 영화 '보고타: 마지막 기회의 땅' 주역들!]]></title>
             <link>https://www.maxmovie.com/news/440675</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 28 Nov 2024 07:10:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/440544"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1732776144518nyOZy.png" alt=""></span><span class="textBox"><h4>[맥스포토] '하이재킹' 하정우, 관객이 뽑은 올해의 배우</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1732776144518nyOZy.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] '드라마 퀸' 정은지·이하늬, 느낌 다른 시상식 패션]]></title>
-            <link>https://www.maxmovie.com/news/440542</link>
-            <guid>https://www.maxmovie.com/news/440542</guid>
-            <pubDate>Thu, 28 Nov 2024 07:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440542"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1732772498525JaEGk.png" alt=""></span><span class="textBox"><h4>[맥스포토] '드라마 퀸' 정은지·이하늬, 느낌 다른 시상식 패션</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1732772498525JaEGk.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
