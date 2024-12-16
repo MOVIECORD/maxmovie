@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Dec 2024 10:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 11:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 16 Dec 2024 06:14:48 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/440807"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1734326091150KMNNE.png" alt=""></span><span class="textBox"><h4>[맥스포토] '검은 수녀들' 문우진, 박소담 잇는 배우 </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1734326091150KMNNE.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 이진욱, 악령을 믿지 않는 신부로 변신]]></title>
+            <link>https://www.maxmovie.com/news/440804</link>
+            <guid>https://www.maxmovie.com/news/440804</guid>
+            <pubDate>Mon, 16 Dec 2024 05:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/440804"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1734324963750d0Gjz.png" alt=""></span><span class="textBox"><h4>[맥스포토] 이진욱, 악령을 믿지 않는 신부로 변신</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1734324963750d0Gjz.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 전여빈, '열일'하는 미모]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 03 Dec 2024 03:30:38 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/440623"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1733195123892aLKk1.png" alt=""></span><span class="textBox"><h4>[맥스포토] '조명가게'에서 만나는 주지훈</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1733195123892aLKk1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 이진욱, 악령을 믿지 않는 신부로 변신]]></title>
-            <link>https://www.maxmovie.com/news/440804</link>
-            <guid>https://www.maxmovie.com/news/440804</guid>
-            <pubDate>Mon, 16 Dec 2024 05:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/440804"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1734324963750d0Gjz.png" alt=""></span><span class="textBox"><h4>[맥스포토] 이진욱, 악령을 믿지 않는 신부로 변신</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1734324963750d0Gjz.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
