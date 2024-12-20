@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 22:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 23:08:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 20 Dec 2024 22:08:16 GMT</pubDate>
+            <pubDate>Fri, 20 Dec 2024 23:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 20 Dec 2024 22:08:16 GMT</pubDate>
+            <pubDate>Fri, 20 Dec 2024 23:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 20 Dec 2024 22:08:16 GMT</pubDate>
+            <pubDate>Fri, 20 Dec 2024 23:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 20 Dec 2024 22:08:16 GMT</pubDate>
+            <pubDate>Fri, 20 Dec 2024 23:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 20 Dec 2024 22:08:16 GMT</pubDate>
+            <pubDate>Fri, 20 Dec 2024 23:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 20 Dec 2024 22:08:16 GMT</pubDate>
+            <pubDate>Fri, 20 Dec 2024 23:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 20 Dec 2024 22:08:16 GMT</pubDate>
+            <pubDate>Fri, 20 Dec 2024 23:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 20 Dec 2024 22:08:16 GMT</pubDate>
+            <pubDate>Fri, 20 Dec 2024 23:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 20 Dec 2024 22:08:16 GMT</pubDate>
+            <pubDate>Fri, 20 Dec 2024 23:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -100,12 +100,22 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1734654569888jcmcR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[위클리 이슈 모음zip] 미국 타임지 선정 올해 K드라마 '선업튀', 김선호의 행보 궁금증 외 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440876</link>
-            <guid>https://www.maxmovie.com/news/440876</guid>
-            <pubDate>Fri, 20 Dec 2024 22:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[한 주간 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1734672133454zLDBE.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[위클리 포토] 눈부신 배우들의 빅 매치..현빈 VS 송중기 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440875</link>
+            <guid>https://www.maxmovie.com/news/440875</guid>
+            <pubDate>Fri, 20 Dec 2024 23:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[24일 개봉 '하얼빈' 주역 현빈
+31일 개봉 '보고타'의 송중기]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1734670915228DQ8Qb.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[밥 딜런 된 티모시 샬라메, 2월 국내 상륙 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440870</link>
+            <guid>https://www.maxmovie.com/news/440870</guid>
+            <pubDate>Fri, 20 Dec 2024 23:08:13 GMT</pubDate>
+            <content:encoded><![CDATA['컴플리트 언노운' 2월26일 개봉 
+골든글로브 남우주연상 수상 관심]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1734653874862NXfh9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 유일 유색인종 부대의 활약..영화 '6888 중앙우편대대' (맥스무비)]]></title>
@@ -133,13 +143,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1734644761891zL7wS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 현빈이 말하는 #안중근 #현 시국 #아들 #아내 손예진 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440867</link>
-            <guid>https://www.maxmovie.com/news/440867</guid>
-            <pubDate>Fri, 20 Dec 2024 22:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[24일 개봉하는 영화 '하얼빈' 주연
-"독립군 얼마나 외롭고 쓸쓸했을까"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1734600359985iouJm.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[송중기가 낯선 땅 '보고타'로 향한 이유 "주체적이고 욕망 가득" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440861</link>
+            <guid>https://www.maxmovie.com/news/440861</guid>
+            <pubDate>Fri, 20 Dec 2024 23:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[31일 개봉, '보고타: 마지막 기회의 땅' 주연
+"살아 남아야 한다는 일념으로 변하는 과정"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1734596572881xBsEr.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['조명가게'로 재회한 '희수와 일환쌤'...계속되는 '무빙' 세계 (맥스무비)]]></title>
@@ -170,13 +180,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1733906257091aoCWN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['무파사' 배리 젠킨스 감독의 질문 "위대한 리더는 어떻게 탄생하나" (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440858</link>
-            <guid>https://www.maxmovie.com/news/440858</guid>
-            <pubDate>Fri, 20 Dec 2024 22:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[19일 화상 간담회 통해 제작 과정 밝혀 
-공존과 평등을 추구하는 무파사의 여정]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1734578222671DGWF1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[리뷰: 포테이토 지수 92%] '하얼빈', 현 시국에 개봉하는 의미심장한 운명 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440857</link>
+            <guid>https://www.maxmovie.com/news/440857</guid>
+            <pubDate>Fri, 20 Dec 2024 23:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[시대 날카롭게 조명하는 감독의 신작
+안중근과 독립군의 험난한 독립 여정
+웰메이드 프로덕션이 무엇인지 증명]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1734576141793WKkW8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['구덕이'와 '연진이' 이전의 임지연, 반짝이는 데뷔 초기작 모음 zip (맥스무비)]]></title>
@@ -213,15 +224,6 @@
             <content:encoded><![CDATA[스웨덴 사회복지제도 가려진 현실 조명
 베니스국제영화제 수상 등 세계적 호평]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1734561129886gMdy3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[긴급] 김동률과 함께한 그룹 전람회 출신 서동욱, 18일 별세 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440852</link>
-            <guid>https://www.maxmovie.com/news/440852</guid>
-            <pubDate>Fri, 20 Dec 2024 22:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[1993년 MBC '대학가요제' 대상 수상
-전람회 이후 유학, 컨설턴트사  등 근무]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1734518916303FfQ5y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 영화 '보고타 : 마지막 기회의 땅' 기대해주세요! (맥스무비 ─ 포토)]]></title>
