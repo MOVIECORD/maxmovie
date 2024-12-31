@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Dec 2024 08:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 09:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 31 Dec 2024 08:13:04 GMT</pubDate>
+            <pubDate>Tue, 31 Dec 2024 09:09:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 31 Dec 2024 08:13:04 GMT</pubDate>
+            <pubDate>Tue, 31 Dec 2024 09:09:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 31 Dec 2024 08:13:04 GMT</pubDate>
+            <pubDate>Tue, 31 Dec 2024 09:09:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 31 Dec 2024 08:13:04 GMT</pubDate>
+            <pubDate>Tue, 31 Dec 2024 09:09:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 31 Dec 2024 08:13:04 GMT</pubDate>
+            <pubDate>Tue, 31 Dec 2024 09:09:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 31 Dec 2024 08:13:04 GMT</pubDate>
+            <pubDate>Tue, 31 Dec 2024 09:09:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 31 Dec 2024 08:13:04 GMT</pubDate>
+            <pubDate>Tue, 31 Dec 2024 09:09:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 31 Dec 2024 08:13:04 GMT</pubDate>
+            <pubDate>Tue, 31 Dec 2024 09:09:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 31 Dec 2024 08:13:04 GMT</pubDate>
+            <pubDate>Tue, 31 Dec 2024 09:09:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -99,13 +99,22 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735519768423pGQ87.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['브란젤리나'의 완전한 끝, 졸리·피트 이혼 8년만에 소송 종결 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441006</link>
-            <guid>https://www.maxmovie.com/news/441006</guid>
-            <pubDate>Tue, 31 Dec 2024 08:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[2016년 이혼 소송 시작 양육권 등 갈등 
-양측 합의문 작성, 구체적 내용은 비밀]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735629054939NDdXi.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[대표작 갈아치운 데미 무어, '서브스턴스'로 골든글로브에 성큼 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441004</link>
+            <guid>https://www.maxmovie.com/news/441004</guid>
+            <pubDate>Tue, 31 Dec 2024 09:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 20일째 15만명 돌파 
+아카데미 주연상까지 넘봐]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735631120171LvJuO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박지현 '동화지만 청불'도 행사 축소 …영화계 애도 계속 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440997</link>
+            <guid>https://www.maxmovie.com/news/440997</guid>
+            <pubDate>Tue, 31 Dec 2024 09:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[제주항공 참사 국가애도기간 동참
+'하얼빈'·'보고타'도 무대인사 취소]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17356069648797rycu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이현우·문정희의 현실 공포 '원정빌라' 이제 안방서 본다 (맥스무비)]]></title>
@@ -134,13 +143,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735541144541qYNZF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이번엔 로코! '나의 완벽한 비서' 이준혁의 설레는 얼굴 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440984</link>
-            <guid>https://www.maxmovie.com/news/440984</guid>
-            <pubDate>Tue, 31 Dec 2024 07:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[1월3일 SBS '나의 완벽한 비서' 주역,오랜만에 로코 
-'비밀의 숲'·'범죄도시3'·'비질란테' 등 장르물과 대비]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735541517684W4SSp.png" length="0" type="image/png"/>
+            <title><![CDATA[짧은 등장에도 강렬…'하얼빈'의 신스틸러, 릴리 프랭키 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440988</link>
+            <guid>https://www.maxmovie.com/news/440988</guid>
+            <pubDate>Tue, 31 Dec 2024 09:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[시나리오에 매료돼 이토 히로부미 역
+일본 배우들, 한국 작품과 인연은 계속]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17355407466744IQQe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[['오겜2' 최악의 캐스팅] 보는 내내 스트레스가 타노스급, 최승현 (맥스무비)]]></title>
@@ -170,13 +179,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735523277992FAjko.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[현빈의 안중근, 적수 없는 박스오피스 정상 누적 238만명 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440981</link>
-            <guid>https://www.maxmovie.com/news/440981</guid>
-            <pubDate>Tue, 31 Dec 2024 05:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우들의 빛나는 활약 연말연초 겨냥 
-'소방관' '무파사' 나란히 2, 3위 기록]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735516783924ok9AG.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[2024년 엔터테인먼트 결산②] 10대 인물로 보는 10대 이슈 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/440978</link>
+            <guid>https://www.maxmovie.com/news/440978</guid>
+            <pubDate>Tue, 31 Dec 2024 09:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[마동석·임영웅·로제·정우성·김성수 감독 
+흥행 신기록부터 사회 향한 목소리까지]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735470169263VrfXw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2024년 엔터테인먼트 결산①] 10대 인물로 보는 10대 이슈 (맥스무비)]]></title>
@@ -212,15 +221,6 @@
             <content:encoded><![CDATA['솔선커플' 불리며 '선업튀'로 단숨에 스타덤
 베스트커플상 등 수상 성과..신작 컴백 예고]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17354590786789AeWQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어 게임' 시즌2 딱지맨 공유, 짧은 분량 속 강렬한 인상 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440975</link>
-            <guid>https://www.maxmovie.com/news/440975</guid>
-            <pubDate>Tue, 31 Dec 2024 05:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[시즌 2의 1화 '빵과 복권' 딱지맨 활약
-훤칠한 외모의 섬뜩한 분위기 캐릭터]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735466590852YsAzm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 5년 만에 돌아온 '히트맨2' 신구 주역들 (맥스무비 ─ 포토)]]></title>
