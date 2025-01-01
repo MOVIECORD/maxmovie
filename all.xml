@@ -4,71 +4,79 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jan 2025 22:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jan 2025 23:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Wed, 01 Jan 2025 22:08:16 GMT</pubDate>
+            <pubDate>Wed, 01 Jan 2025 23:08:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Wed, 01 Jan 2025 22:08:16 GMT</pubDate>
+            <pubDate>Wed, 01 Jan 2025 23:08:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Wed, 01 Jan 2025 22:08:16 GMT</pubDate>
+            <pubDate>Wed, 01 Jan 2025 23:08:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Wed, 01 Jan 2025 22:08:16 GMT</pubDate>
+            <pubDate>Wed, 01 Jan 2025 23:08:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Wed, 01 Jan 2025 22:08:16 GMT</pubDate>
+            <pubDate>Wed, 01 Jan 2025 23:08:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Wed, 01 Jan 2025 22:08:16 GMT</pubDate>
+            <pubDate>Wed, 01 Jan 2025 23:08:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Wed, 01 Jan 2025 22:08:16 GMT</pubDate>
+            <pubDate>Wed, 01 Jan 2025 23:08:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Wed, 01 Jan 2025 22:08:16 GMT</pubDate>
+            <pubDate>Wed, 01 Jan 2025 23:08:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Wed, 01 Jan 2025 22:08:16 GMT</pubDate>
+            <pubDate>Wed, 01 Jan 2025 23:08:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[데일리 핫이슈] '오겜3' 디캐프리오 출연설 부인, 서현 다리 부상, 박민영 후크엔터와 결별 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441007</link>
+            <guid>https://www.maxmovie.com/news/441007</guid>
+            <pubDate>Wed, 01 Jan 2025 23:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735724070756lrfcG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2025년 한국영화 기대작 10편] '전지적 독자시점'부터 '폭설'까지 (맥스무비)]]></title>
@@ -78,15 +86,6 @@
             <content:encoded><![CDATA[한국영화 경쟁력 확인할 작품들 
 다양한 실험들 어떤 성과 낳을까]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735540745864wj18P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2025년 시리즈 기대작 10편] '21세기 대군 부인'부터 '애마'까지 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/440994</link>
-            <guid>https://www.maxmovie.com/news/440994</guid>
-            <pubDate>Wed, 01 Jan 2025 22:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[다채로운 소재와 배우들의 과감한 변신
-첫 드라마 연출에 나서는 감독들도 눈길]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17356134593663bFJ9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] "무해하고 아름다운"..영화 '총을 든 스님' (맥스무비)]]></title>
