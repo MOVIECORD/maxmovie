@@ -4,108 +4,98 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jan 2025 06:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jan 2025 07:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[0]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 05 Jan 2025 06:11:38 GMT</pubDate>
+            <pubDate>Sun, 05 Jan 2025 07:07:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 05 Jan 2025 06:11:38 GMT</pubDate>
+            <pubDate>Sun, 05 Jan 2025 07:07:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 05 Jan 2025 06:11:38 GMT</pubDate>
+            <pubDate>Sun, 05 Jan 2025 07:07:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 05 Jan 2025 06:11:38 GMT</pubDate>
+            <pubDate>Sun, 05 Jan 2025 07:07:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 05 Jan 2025 06:11:38 GMT</pubDate>
+            <pubDate>Sun, 05 Jan 2025 07:07:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 05 Jan 2025 06:11:38 GMT</pubDate>
+            <pubDate>Sun, 05 Jan 2025 07:07:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 05 Jan 2025 06:11:38 GMT</pubDate>
+            <pubDate>Sun, 05 Jan 2025 07:07:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 05 Jan 2025 06:11:38 GMT</pubDate>
+            <pubDate>Sun, 05 Jan 2025 07:07:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 05 Jan 2025 06:11:38 GMT</pubDate>
+            <pubDate>Sun, 05 Jan 2025 07:07:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 황동혁 감독이 밝힌 '오징어 게임' 시즌2·3 해설집]]></title>
-            <link>https://www.maxmovie.com/news/441024</link>
-            <guid>https://www.maxmovie.com/news/441024</guid>
-            <pubDate>Sun, 05 Jan 2025 03:18:09 GMT</pubDate>
-            <content:encoded><![CDATA["시리즈 작업에 수명 7~8년 줄어든 기분"
-"시즌3에서도 당연히 게임은 계속된다"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735799115125mhhy3.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['소방관' 뒷심 매섭네...박스오피스 상승·350만 흥행까지]]></title>
+            <link>https://www.maxmovie.com/news/441049</link>
+            <guid>https://www.maxmovie.com/news/441049</guid>
+            <pubDate>Sun, 05 Jan 2025 07:07:49 GMT</pubDate>
+            <content:encoded><![CDATA['보고타' 제치고 박스오피스 2위 기록
+소방관들의 고충과 숭고한 희생 그려]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1736047327580uBvkF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[리뷰: 포테이토 지수 75%] '19금 코미디' 장르 매력 못 살린 '동화지만 청불입니다']]></title>
-            <link>https://www.maxmovie.com/news/441045</link>
-            <guid>https://www.maxmovie.com/news/441045</guid>
-            <pubDate>Sun, 05 Jan 2025 03:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[낮에는 공무원, 밤에는 19금 소설가
-우연히 발견한 재능 통해 자아 찾기
-'히든페이스' 박지현의 색다른 매력]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735903314815lQiIy.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[임지연 살린 '순애보' 추영우, '옥씨부인전' 10% 돌파의 결정적 힘]]></title>
+            <link>https://www.maxmovie.com/news/441048</link>
+            <guid>https://www.maxmovie.com/news/441048</guid>
+            <pubDate>Sun, 05 Jan 2025 07:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[임지연 구하기 위해 남편 행세한 추영우
+절절한 순애보 "그 사람이 진짜 네 서방님"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1736045524834NJ9BS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봉준호‧크리스틴 스튜어트와 만난 스티븐 연의 SF영화 도전기]]></title>
-            <link>https://www.maxmovie.com/news/441035</link>
-            <guid>https://www.maxmovie.com/news/441035</guid>
-            <pubDate>Sat, 04 Jan 2025 23:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 선댄스영화제 초청 '러브 미' 
-'옥자' 이어 봉 감독과 만난 '미키 17']]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735888660650xqxEC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공유가 밝힌 '오겜2' 속 딱지남 비하인드 "첫 악역, 애착 생겨"]]></title>
-            <link>https://www.maxmovie.com/news/441050</link>
-            <guid>https://www.maxmovie.com/news/441050</guid>
-            <pubDate>Sun, 05 Jan 2025 06:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[황동혁 감독 "딱지남, 시즌2 대박 캐릭터"
-공유 "악역 하고 싶었는데...아껴 놨었다"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1736053771005vQNzh.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[무중력 속 이끌림...'별들에게 물어봐', 로맨스 싣고 우주정거장行]]></title>
+            <link>https://www.maxmovie.com/news/441047</link>
+            <guid>https://www.maxmovie.com/news/441047</guid>
+            <pubDate>Sun, 05 Jan 2025 07:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[공효진 향해 묘한 감정 느끼는 이민호
+좌충우돌 우주로의 출발 과정과 사연]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1736036069404aik9F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] '서브스턴스'의 실사판...다큐 '브라이언 존스']]></title>
@@ -117,20 +107,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735884597983Aizzd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[봉준호‧크리스틴 스튜어트와 만난 스티븐 연의 SF영화 도전기]]></title>
+            <link>https://www.maxmovie.com/news/441035</link>
+            <guid>https://www.maxmovie.com/news/441035</guid>
+            <pubDate>Sat, 04 Jan 2025 23:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 선댄스영화제 초청 '러브 미' 
+'옥자' 이어 봉 감독과 만난 '미키 17']]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735888660650xqxEC.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[맥스무비레터 #85번째 편지]🧐2025년 뭘 볼까? 한국영화·외화·시리즈 라인업 총정리]]></title>
             <link>https://www.maxmovie.com/news/441043</link>
             <guid>https://www.maxmovie.com/news/441043</guid>
             <pubDate>Sun, 05 Jan 2025 06:11:38 GMT</pubDate>
             <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735891254621Yhqtl.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[위클리 이슈 모음zip] 병산서원 훼손 KBS '아쉬운' 사과, '오겜2' 제작기 공개 외]]></title>
-            <link>https://www.maxmovie.com/news/441044</link>
-            <guid>https://www.maxmovie.com/news/441044</guid>
-            <pubDate>Sun, 05 Jan 2025 06:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[한 주간 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735898798027oZmyi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 짐 캐리와 키아누 리브스의 만남 '수퍼 소닉3']]></title>
@@ -140,6 +131,14 @@
             <content:encoded><![CDATA['수퍼 소닉' 시리즈의 3번째 영화 
 짐 캐리의 흥미로운 1인2역 도전]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735873316687ob7Hv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[위클리 이슈 모음zip] 병산서원 훼손 KBS '아쉬운' 사과, '오겜2' 제작기 공개 외]]></title>
+            <link>https://www.maxmovie.com/news/441044</link>
+            <guid>https://www.maxmovie.com/news/441044</guid>
+            <pubDate>Sun, 05 Jan 2025 06:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[한 주간 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1735898798027oZmyi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1월 빅매치, 김혜수 '트리거' VS 주지훈 '중증외상센터' VS 차주영 '원경']]></title>
