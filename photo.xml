@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 05:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 06:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,22 +30,6 @@
             <pubDate>Mon, 20 Jan 2025 05:11:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/441249"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1737341242641F22Rz.png" alt=""></span><span class="textBox"><h4>[맥스포토] 봉준호·로버트 패틴슨, 기대감 높이는 '손하트' 투 샷</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737341242641F22Rz.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 설 연휴 가족과 함께! '히트맨2' 주역들]]></title>
-            <link>https://www.maxmovie.com/news/441207</link>
-            <guid>https://www.maxmovie.com/news/441207</guid>
-            <pubDate>Wed, 15 Jan 2025 10:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/441207"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1736932128329WbdJk.png" alt=""></span><span class="textBox"><h4>[맥스포토] 설 연휴 가족과 함께! '히트맨2' 주역들</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1736932128329WbdJk.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 김성오·정준호·이이경, '히트맨2'로 호흡]]></title>
-            <link>https://www.maxmovie.com/news/441206</link>
-            <guid>https://www.maxmovie.com/news/441206</guid>
-            <pubDate>Wed, 15 Jan 2025 10:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/441206"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1736931594750vUQOb.png" alt=""></span><span class="textBox"><h4>[맥스포토] 김성오·정준호·이이경, '히트맨2'로 호흡</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1736931594750vUQOb.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 권상우, 돌아온 히트맨!]]></title>
@@ -246,6 +230,22 @@
             <pubDate>Thu, 19 Dec 2024 09:10:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/440864"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1734597583889GlO0s.png" alt=""></span><span class="textBox"><h4>[맥스포토] 이희준·권해효·박지환·김종수, 송중기를 둘러싼 인물들</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1734597583889GlO0s.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 설 연휴 가족과 함께! '히트맨2' 주역들]]></title>
+            <link>https://www.maxmovie.com/news/441207</link>
+            <guid>https://www.maxmovie.com/news/441207</guid>
+            <pubDate>Wed, 15 Jan 2025 10:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/441207"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1736932128329WbdJk.png" alt=""></span><span class="textBox"><h4>[맥스포토] 설 연휴 가족과 함께! '히트맨2' 주역들</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1736932128329WbdJk.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 김성오·정준호·이이경, '히트맨2'로 호흡]]></title>
+            <link>https://www.maxmovie.com/news/441206</link>
+            <guid>https://www.maxmovie.com/news/441206</guid>
+            <pubDate>Wed, 15 Jan 2025 10:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/441206"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1736931594750vUQOb.png" alt=""></span><span class="textBox"><h4>[맥스포토] 김성오·정준호·이이경, '히트맨2'로 호흡</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1736931594750vUQOb.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
