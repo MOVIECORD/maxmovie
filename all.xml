@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 22:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 23:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 24 Jan 2025 22:08:26 GMT</pubDate>
+            <pubDate>Fri, 24 Jan 2025 23:08:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 24 Jan 2025 22:08:26 GMT</pubDate>
+            <pubDate>Fri, 24 Jan 2025 23:08:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 24 Jan 2025 22:08:26 GMT</pubDate>
+            <pubDate>Fri, 24 Jan 2025 23:08:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 24 Jan 2025 22:08:26 GMT</pubDate>
+            <pubDate>Fri, 24 Jan 2025 23:08:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 24 Jan 2025 22:08:26 GMT</pubDate>
+            <pubDate>Fri, 24 Jan 2025 23:08:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 24 Jan 2025 22:08:26 GMT</pubDate>
+            <pubDate>Fri, 24 Jan 2025 23:08:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 24 Jan 2025 22:08:26 GMT</pubDate>
+            <pubDate>Fri, 24 Jan 2025 23:08:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 24 Jan 2025 22:08:26 GMT</pubDate>
+            <pubDate>Fri, 24 Jan 2025 23:08:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 24 Jan 2025 22:08:26 GMT</pubDate>
+            <pubDate>Fri, 24 Jan 2025 23:08:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -98,6 +98,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737683885972Aa68V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[위클리 포토] '포토제닉' 봉준호 감독의 '영화 같은 표정들' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441321</link>
+            <guid>https://www.maxmovie.com/news/441321</guid>
+            <pubDate>Fri, 24 Jan 2025 23:08:24 GMT</pubDate>
+            <content:encoded><![CDATA['기생충' 이후 신작 '미키 17' 기자회견 
+주연 로버트 패틴슨과 '90도 인사' 배틀]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737699493839CYwDZ.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[설 단독 인터뷰] '소방관' 흥행 이끈 주원 "배우 인생에 가장 특별한 작품" (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/441323</link>
             <guid>https://www.maxmovie.com/news/441323</guid>
@@ -106,6 +115,15 @@
 연말 영화 중 유일한 흥행작 주인공 
 "다행스러움과 고마움이 공존해요"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737702282862tOU06.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['오징어 게임', 2024년 한 주간 최고 시청 시간 기록..49억2000만분 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441318</link>
+            <guid>https://www.maxmovie.com/news/441318</guid>
+            <pubDate>Fri, 24 Jan 2025 23:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 12월23일~29일 시즌1·2 포함 성과
+넷플릭스 유료 가입자수 3억명 돌파에 기여]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/173768575802489Zgp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그림책 '알사탕', 한국 아닌 일본 애니로 아카데미상 단편 후보 (맥스무비)]]></title>
@@ -126,14 +144,12 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737682598683tTttU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] '중증외상센터' 주지훈 "나만의 자부심? 허투루 하지 않은 노력" (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441304</link>
-            <guid>https://www.maxmovie.com/news/441304</guid>
-            <pubDate>Fri, 24 Jan 2025 22:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[24일 넷플릭스 공개 '메디컬 활극' 표방
-"현실에서는 어려운 통쾌함 담았어요"
-추영우 등 배우들과 7~8시간씩 스터디]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737628770829SCDTA.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[데일리 핫이슈] 이찬혁 결별설 나자마자 열애설, 변우석 소아암 환우에 기부 외 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441305</link>
+            <guid>https://www.maxmovie.com/news/441305</guid>
+            <pubDate>Fri, 24 Jan 2025 23:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737616596302hvkdJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['설의 남자' 예약한 추영우, '중증외상센터'와 '옥씨부인전' 동시 출격 (맥스무비)]]></title>
@@ -164,15 +180,6 @@ AI 비중 높아질수록 일자리 감소의 불안
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737599708809kSzv0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오컬트 애니 '퇴마록' 극장 4개 면으로 본다...스크린X관의 출발 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441310</link>
-            <guid>https://www.maxmovie.com/news/441310</guid>
-            <pubDate>Fri, 24 Jan 2025 22:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[스크린과 좌·우 벽면, 천장 활용한 상영
-극장에서만 가능한 입체적인 관람 기회]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17376193849998TIix.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[개봉하는 유아인 주연 영화 '승부', 리스크 어떻게 넘을까 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/441296</link>
             <guid>https://www.maxmovie.com/news/441296</guid>
@@ -180,6 +187,16 @@ AI 비중 높아질수록 일자리 감소의 불안
             <content:encoded><![CDATA['소방관' 배급사 맡아 극장 개봉 추진
 살아있는 '바둑 천재'의 실화 이야기]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737622136531KM42W.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[['말할 수 없는 비밀'] 알고 보면 더 흥미로운 몇 가지 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441288</link>
+            <guid>https://www.maxmovie.com/news/441288</guid>
+            <pubDate>Fri, 24 Jan 2025 23:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[원작과 비슷하지만 다른 설정들 
+ 애절하고 간절한 사랑의 이야기
+도경수와 원진아 주연 27일 개봉]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737599908503vXobi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[['말할 수 없는 비밀'] SWOT 분석, 도경수의 첫사랑 VS 설 연휴 공략 (맥스무비)]]></title>
@@ -208,24 +225,6 @@ AI 비중 높아질수록 일자리 감소의 불안
             <content:encoded><![CDATA['나의 아저씨' PD, '동백꽃' 작가의 만남 
 3월7일 넷플릭스 공개 16부작 드라마]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737593230985q6a2k.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '소방관' 설 앞두고 IPTV 공개...이제 안방에서 본다 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441299</link>
-            <guid>https://www.maxmovie.com/news/441299</guid>
-            <pubDate>Fri, 24 Jan 2025 07:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[23일&nbsp;IPTV 및 VOD 서비스 시작
-소방관들의 희생 다룬 실화 소재]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737595561419yfivg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['히트맨2' 첫날 10만 동원...개봉일 반짝 효과? (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441297</link>
-            <guid>https://www.maxmovie.com/news/441297</guid>
-            <pubDate>Fri, 24 Jan 2025 03:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[1편 코미디 강점 살리지 못한 아쉬움 
-24일 '검은 수녀들' 개봉 후 본격 경쟁]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737591549621C7uYd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 영화 '브로큰' 연기파 배우들 총출동 (맥스무비 ─ 포토)]]></title>
