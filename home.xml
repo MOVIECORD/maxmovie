@@ -1,8 +1,226 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.maxmovie.com/</id>
-    <title>맥스무비</title>
-    <updated>2025-01-30T16:10:47.894Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.maxmovie.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>맥스무비</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 30 Jan 2025 17:08:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[0]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[3]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[8]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘임영웅│아임 히어로 더 스타디움', 넷플릭스에서도 본다]]></title>
+            <link>https://www.maxmovie.com/news/441359</link>
+            <guid>https://www.maxmovie.com/news/441359</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[오는 31일 낮 12시 한국 등 공개]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17382044053196uBFC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['히트맨2' 이어 '검은 수녀들'도 100만...제대로 붙은 코미디 VS 오컬트]]></title>
+            <link>https://www.maxmovie.com/news/441356</link>
+            <guid>https://www.maxmovie.com/news/441356</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[전혀 다른 장르, 관객 반응은 엇갈려
+설날 당일 100만 관객 나란히 돌파]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738139132111qxmqP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크 지수의 2월...연기와 솔로 가수로 꽉 채운다]]></title>
+            <link>https://www.maxmovie.com/news/441355</link>
+            <guid>https://www.maxmovie.com/news/441355</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[솔로 컴백 앞두고 워너 레코드와 계약
+'설강화' 이후 4년 만, '뉴토피아' 출연]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738131575404oOUDb.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[레이디 가가, '조커2' 혹평에 내놓은 입장 "계속 나아가야 해"]]></title>
+            <link>https://www.maxmovie.com/news/441357</link>
+            <guid>https://www.maxmovie.com/news/441357</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA["사람들은 때때로 어떤 것을 좋아하지 않는다"
+전작 흥행, '조커2'는 2억 달러 수익에 그쳐]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738143307403v4T8h.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['신의 손' 주지훈의 '중증외상센터', 공개 3일 만에 달성한 기록 보니]]></title>
+            <link>https://www.maxmovie.com/news/441353</link>
+            <guid>https://www.maxmovie.com/news/441353</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 비영어권 TV쇼 3위로 출발
+'천재 의사'된 주지훈의 통쾌한 활약]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/173812072960558RqO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 →진영·다현, 한복 새해 인사 "소망하는 것 이루는 한 해 되길!"]]></title>
+            <link>https://www.maxmovie.com/news/441352</link>
+            <guid>https://www.maxmovie.com/news/441352</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA["소중한 분들과 행복한 시간 보내길"
+임영웅·고현정 등 팬들에게 새해 인사]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/173811536979071KWQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['히트맨2', 설 연휴 100만 돌파...역시 명절엔 코미디?]]></title>
+            <link>https://www.maxmovie.com/news/441351</link>
+            <guid>https://www.maxmovie.com/news/441351</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[호불호에도 올해 첫 100만 관객 동원
+송혜교 주연의 '검은수녀들' 2위 차지]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738110076797E9om3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1000만 흥행 거둔 '파묘'·'범죄도시4', 설 안방극장서 본다]]></title>
+            <link>https://www.maxmovie.com/news/441350</link>
+            <guid>https://www.maxmovie.com/news/441350</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[박스오피스 1~2위 차지한 지난해 최고 흥행작
+오컬트 열풍 '파묘'·트리플 1000만 '범죄도시4']]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17380585897918m58z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[키 호이 콴 합류…'주토피아2' 11월 돌아온다]]></title>
+            <link>https://www.maxmovie.com/news/441348</link>
+            <guid>https://www.maxmovie.com/news/441348</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[토끼 경찰관과 여우 사기꾼의 새 모험
+뱀 캐릭터 게리 역으로 '주토피아2' 합류]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738049589002NkeGy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반짝 스타 아님을 증명한 추영우, '중증외상센터'로 또 도약]]></title>
+            <link>https://www.maxmovie.com/news/441347</link>
+            <guid>https://www.maxmovie.com/news/441347</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA['옥씨부인전'→'중증외상센터' 인기 계속
+주지훈과 티격티격 '사제 케미'로 활력 선사]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738046741898Y3pzh.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['파묘' 장재현 감독은 '검은 수녀들'을 어떻게 봤을까]]></title>
+            <link>https://www.maxmovie.com/news/441346</link>
+            <guid>https://www.maxmovie.com/news/441346</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA['검은 수녀들' 관객과의 대화 참석
+"작지만 강인한 두 여성에 인상적"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738033885832ZdiAF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['히트맨2' VS '검은 수녀들' VS '말할 수 없는 비밀' 설 연휴 격돌]]></title>
+            <link>https://www.maxmovie.com/news/441345</link>
+            <guid>https://www.maxmovie.com/news/441345</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[설 한국영화 4편 모두 개봉…3파전
+'히트맨2' 초반 우세…끝까지 갈까]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738029643687stp2S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰: 포테이토 지수 87%] '옥씨부인전', 자신을 구원하는 것은 무엇인가]]></title>
+            <link>https://www.maxmovie.com/news/441341</link>
+            <guid>https://www.maxmovie.com/news/441341</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[선은 선으로, 악은 악으로 뿌린 대로 거둔 삶
+타이틀롤 임지연의 열연과 추영우의 스타덤]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737940386930O5wHB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이유 공연 실황, 설 연휴 특수 톡톡...벌써 3만여명]]></title>
+            <link>https://www.maxmovie.com/news/441340</link>
+            <guid>https://www.maxmovie.com/news/441340</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[24일 개봉 초반부터 아이유 팬덤 집중 
+첫 실황 '골든아워' 8만명 넘을지 관심]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737955712513Pdm94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['수사반장'·'호랑이 선생님' 등 집필, 대표 극작가 윤대성 교수 별세]]></title>
+            <link>https://www.maxmovie.com/news/441343</link>
+            <guid>https://www.maxmovie.com/news/441343</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[27일 노환으로 별세..국내 대표적 극작가 
+영화 '그들도 우리처럼' 등 시나리오 집필]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737964564878EadOA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 이제훈, 설 맞아선행...어린이 환자 위해 1억원 기부]]></title>
+            <link>https://www.maxmovie.com/news/441342</link>
+            <guid>https://www.maxmovie.com/news/441342</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[서울아산병원 '햇살나무 프로그램'에 관심 
+"어린 환자들과 가족의 고통 덜어드리고자"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737959254187mUIsy.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[김우빈‧수지의 '다 이루어질지니' 이병헌 감독 돌연 하차, 무슨 일?]]></title>
+            <link>https://www.maxmovie.com/news/441339</link>
+            <guid>https://www.maxmovie.com/news/441339</guid>
+            <pubDate>Thu, 30 Jan 2025 17:08:02 GMT</pubDate>
+            <content:encoded><![CDATA['더 글로리' 김은숙 작가와의 만남으로 화제 
+"일신상의 이유로 하차" 구체적인 설명 없어]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737954041902gW2bH.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
