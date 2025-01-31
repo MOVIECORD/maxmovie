@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Jan 2025 05:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 06:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 31 Jan 2025 05:09:09 GMT</pubDate>
+            <pubDate>Fri, 31 Jan 2025 06:12:07 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 31 Jan 2025 05:09:09 GMT</pubDate>
+            <pubDate>Fri, 31 Jan 2025 06:12:07 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 31 Jan 2025 05:09:09 GMT</pubDate>
+            <pubDate>Fri, 31 Jan 2025 06:12:07 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 31 Jan 2025 05:09:09 GMT</pubDate>
+            <pubDate>Fri, 31 Jan 2025 06:12:07 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 31 Jan 2025 05:09:09 GMT</pubDate>
+            <pubDate>Fri, 31 Jan 2025 06:12:07 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 31 Jan 2025 05:09:09 GMT</pubDate>
+            <pubDate>Fri, 31 Jan 2025 06:12:07 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 31 Jan 2025 05:09:09 GMT</pubDate>
+            <pubDate>Fri, 31 Jan 2025 06:12:07 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 31 Jan 2025 05:09:09 GMT</pubDate>
+            <pubDate>Fri, 31 Jan 2025 06:12:07 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 31 Jan 2025 05:09:09 GMT</pubDate>
+            <pubDate>Fri, 31 Jan 2025 06:12:07 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -99,13 +99,22 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738289978812vpEsT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[송중기의 '보고타' 2월3일 넷플릭스 공개, 재평가 노린다 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441372</link>
-            <guid>https://www.maxmovie.com/news/441372</guid>
-            <pubDate>Fri, 31 Jan 2025 04:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[낯선 보고타서 살아남은 국희의 인생
-12월31일 개봉  아쉬운 스코어 그쳐]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738292122804a1rkf.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['중증외상센터' 드라마 VS 원작 웹툰, 싱크로율 전격 비교 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441364</link>
+            <guid>https://www.maxmovie.com/news/441364</guid>
+            <pubDate>Fri, 31 Jan 2025 06:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 '중증외상센터' 인기에 원작 관심도 
+현직 의사가 쓴 웹소설·웹툰과 무엇이 다를까]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738296128649mUtBO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['수사반장'·'호랑이 선생님' 등 집필, 대표 극작가 윤대성 교수 별세 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441343</link>
+            <guid>https://www.maxmovie.com/news/441343</guid>
+            <pubDate>Fri, 31 Jan 2025 06:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[27일 노환으로 별세..국내 대표적 극작가 
+영화 '그들도 우리처럼' 등 시나리오 집필]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737964564878EadOA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부고] 박선주 (에이비오엔터테인먼트 본부장)씨 부친상 (맥스무비)]]></title>
@@ -134,13 +143,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737593230985q6a2k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영화 '소방관' 설 앞두고 IPTV 공개...이제 안방에서 본다 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441299</link>
-            <guid>https://www.maxmovie.com/news/441299</guid>
-            <pubDate>Fri, 31 Jan 2025 02:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[23일&nbsp;IPTV 및 VOD 서비스 시작
-소방관들의 희생 다룬 실화 소재]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737595561419yfivg.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['히트맨2' 첫날 10만 동원...개봉일 반짝 효과? (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441297</link>
+            <guid>https://www.maxmovie.com/news/441297</guid>
+            <pubDate>Fri, 31 Jan 2025 06:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[1편 코미디 강점 살리지 못한 아쉬움 
+24일 '검은 수녀들' 개봉 후 본격 경쟁]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737591549621C7uYd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 도경수에게 사랑이란..."소중함" (맥스무비)]]></title>
@@ -169,13 +178,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17375239032432JUmT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[도경수·원진아→진영·다현, 로맨스 바람 일으킬까 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441295</link>
-            <guid>https://www.maxmovie.com/news/441295</guid>
-            <pubDate>Fri, 31 Jan 2025 02:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[동명의 대만 인기 로맨스 리메이크
-원작 명성, 팬덤 등에 업고 관객 공략]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737532405194pV2Xn.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['나의 완벽한 비서' 이준혁·한지민만큼 궁금한 김도훈·김윤혜 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441289</link>
+            <guid>https://www.maxmovie.com/news/441289</guid>
+            <pubDate>Fri, 31 Jan 2025 06:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[가슴 저릿한 짝사랑하는 정훈과 수현
+"아버님"으로 시작된 인연, 사랑될까]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737524416386a4O0k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손석구·최희서, 미국 독립영화 주연..할리우드로 (맥스무비)]]></title>
@@ -194,15 +203,6 @@
             <content:encoded><![CDATA["안녕하세요" "감사합니다"에 열띤 호응
 서촌서 예능 '런닝맨' 팀과 깜짝 만남도]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737520005501xLKZQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미키17' 봉준호의 차기작? "비주얼에 매혹된 심해생물" (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441285</link>
-            <guid>https://www.maxmovie.com/news/441285</guid>
-            <pubDate>Fri, 31 Jan 2025 04:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[해양 생물과 인간 관계 그린 첫 장편 애니
-제작비 700억원 한국영화 역대 최고 규모]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1737509643857ziBEf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이준혁, 로맨스 남주 벗는다...신혜선 쫓는 강력계 형사 변신 (맥스무비)]]></title>
