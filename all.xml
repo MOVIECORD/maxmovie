@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Feb 2025 02:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Feb 2025 03:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sun, 02 Feb 2025 02:10:54 GMT</pubDate>
+            <pubDate>Sun, 02 Feb 2025 03:12:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sun, 02 Feb 2025 02:10:54 GMT</pubDate>
+            <pubDate>Sun, 02 Feb 2025 03:12:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sun, 02 Feb 2025 02:10:54 GMT</pubDate>
+            <pubDate>Sun, 02 Feb 2025 03:12:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sun, 02 Feb 2025 02:10:54 GMT</pubDate>
+            <pubDate>Sun, 02 Feb 2025 03:12:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sun, 02 Feb 2025 02:10:54 GMT</pubDate>
+            <pubDate>Sun, 02 Feb 2025 03:12:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sun, 02 Feb 2025 02:10:54 GMT</pubDate>
+            <pubDate>Sun, 02 Feb 2025 03:12:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sun, 02 Feb 2025 02:10:54 GMT</pubDate>
+            <pubDate>Sun, 02 Feb 2025 03:12:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sun, 02 Feb 2025 02:10:54 GMT</pubDate>
+            <pubDate>Sun, 02 Feb 2025 03:12:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sun, 02 Feb 2025 02:10:54 GMT</pubDate>
+            <pubDate>Sun, 02 Feb 2025 03:12:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -98,13 +98,21 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738308666085eR0p0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[반환점 돈 '별들에게 물어봐'...중력 잃은 로맨스 반등 가능할까 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441377</link>
-            <guid>https://www.maxmovie.com/news/441377</guid>
-            <pubDate>Sun, 02 Feb 2025 02:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[우주에 둘만 남은 이민호와 공효진의 사랑
-1%대까지 하락한 시청률 올릴 '한방' 절실]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738305973170fXQlj.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[대런 아로노프스키 신작 '코트 스탈링',  8월 북미 개봉 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441383</link>
+            <guid>https://www.maxmovie.com/news/441383</guid>
+            <pubDate>Sun, 02 Feb 2025 03:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[전직 야구선수의 범죄 이야기..소설 원작
+오스카 수상 '엘비스' 오스틴 버틀러 주연]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738460367405tZjAz.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[위클리 이슈 모음zip] 이정재와 프랑스 대통령의 만남? 뉴진스 부모들 SNS 개설, 김대호 아나운서 '프리' 선언 외 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441375</link>
+            <guid>https://www.maxmovie.com/news/441375</guid>
+            <pubDate>Sun, 02 Feb 2025 03:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[한 주간 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738298659938sWnhP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차주영의 본캐는? '원경'의 카리스마 VS  팬들과 어우러진 유쾌함 (맥스무비)]]></title>
@@ -134,13 +142,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738284632818MLbFb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[송중기의 '보고타' 2월3일 넷플릭스 공개, 재평가 노린다 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441372</link>
-            <guid>https://www.maxmovie.com/news/441372</guid>
-            <pubDate>Sun, 02 Feb 2025 02:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[낯선 보고타서 살아남은 국희의 인생
-12월31일 개봉  아쉬운 스코어 그쳐]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738292122804a1rkf.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[마동석의 액션 '범죄도시4' 설 특선영화 최종 승자 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441371</link>
+            <guid>https://www.maxmovie.com/news/441371</guid>
+            <pubDate>Sun, 02 Feb 2025 03:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[설 특선영화 중 유일한 두 자릿수
+마동석, 4월 '거룩한 밤'으로 복귀]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738290412848MAHNN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봉준호 감독, 3월 미국 특별전 연다..아카데미영화박물관 '감독의 영감'전 (맥스무비)]]></title>
@@ -169,13 +177,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738286315125lHT7b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['오징어 게임' 시즌3이 끝나면..스핀오프? 프랜차이즈? (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441367</link>
-            <guid>https://www.maxmovie.com/news/441367</guid>
-            <pubDate>Sun, 02 Feb 2025 02:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[6월27일 시즌3 공개..또 다른 이야기 관심
-황동혁 감독 "스핀오프 아이디어" 등 눈길]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738286890032YZatH.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['유림핑'의 탄생...'중증외상센터' 진짜 주인공은 윤경호? (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441365</link>
+            <guid>https://www.maxmovie.com/news/441365</guid>
+            <pubDate>Sun, 02 Feb 2025 03:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[코믹하고 인간적인 외과과장 한유림 활약
+귀여운 매력까지 발산, 원작자 '연기 천재']]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738283293263qOYdZ.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['오징어 게임3' 6월27일 공개 "인간의 바닥 보여준다" (맥스무비)]]></title>
@@ -214,14 +222,6 @@
             <content:encoded><![CDATA[미 영화전문지  '역대 최고 반파시스트 영화' 선정
 카사블랑카·위대한 독재자·존 오브 인터레스트도]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738205944057PL5Js.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘임영웅│아임 히어로 더 스타디움', 넷플릭스에서도 본다 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441359</link>
-            <guid>https://www.maxmovie.com/news/441359</guid>
-            <pubDate>Sun, 02 Feb 2025 02:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[오는 31일 낮 12시 한국 등 공개]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17382044053196uBFC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 영화 '브로큰' 연기파 배우들 총출동 (맥스무비 ─ 포토)]]></title>
