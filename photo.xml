@@ -4,7 +4,7 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Feb 2025 07:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 08:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Wed, 05 Feb 2025 07:09:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/441435"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1738734622917AOrJ1.png" alt=""></span><span class="textBox"><h4>[맥스포토] 장률 VS 강찬희, 고아라의 선택은?</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738734622917AOrJ1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 고아라, 10년 만에 사극 컴백]]></title>
-            <link>https://www.maxmovie.com/news/441433</link>
-            <guid>https://www.maxmovie.com/news/441433</guid>
-            <pubDate>Wed, 05 Feb 2025 06:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/441433"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1738734057771PEwVm.png" alt=""></span><span class="textBox"><h4>[맥스포토] 고아라, 10년 만에 사극 컴백</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738734057771PEwVm.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 25년 만에 한자리에 모인 '공동경비구역 JSA' 주역들]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Tue, 14 Jan 2025 08:12:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/441185"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1736839458781BTHdb.png" alt=""></span><span class="textBox"><h4>[맥스포토] '스크린 데뷔' 신예은, 음대 여신 미모</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1736839458781BTHdb.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 고아라, 10년 만에 사극 컴백]]></title>
+            <link>https://www.maxmovie.com/news/441433</link>
+            <guid>https://www.maxmovie.com/news/441433</guid>
+            <pubDate>Wed, 05 Feb 2025 06:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/441433"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1738734057771PEwVm.png" alt=""></span><span class="textBox"><h4>[맥스포토] 고아라, 10년 만에 사극 컴백</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738734057771PEwVm.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
