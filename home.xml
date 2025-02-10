@@ -4,71 +4,107 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 00:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 02:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[0]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 10 Feb 2025 00:41:58 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 02:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 10 Feb 2025 00:41:58 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 02:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 10 Feb 2025 00:41:58 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 02:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 10 Feb 2025 00:41:58 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 02:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 10 Feb 2025 00:41:58 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 02:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 10 Feb 2025 00:41:58 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 02:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 10 Feb 2025 00:41:58 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 02:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 10 Feb 2025 00:41:58 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 02:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 10 Feb 2025 00:41:58 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 02:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서강준의 시간, '언더커버 하이스쿨'로 보여줄 '두 얼굴']]></title>
+            <link>https://www.maxmovie.com/news/441484</link>
+            <guid>https://www.maxmovie.com/news/441484</guid>
+            <pubDate>Mon, 10 Feb 2025 02:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[21일 공개 MBC 12부작 금토드라마
+고등학교에 위장 잠입한 국정원 요원]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739080798799jQNBk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봉준호의 '미키 17' 주연 마크 러팔로·스티븐 연·나오미 애키 내한]]></title>
+            <link>https://www.maxmovie.com/news/441488</link>
+            <guid>https://www.maxmovie.com/news/441488</guid>
+            <pubDate>Mon, 10 Feb 2025 02:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[20일 내한 기자간담회 열고 작품 소개
+지난달 로버트 패틴슨 내한 후 두번째]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739147841545NVE2T.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[시리즈로 확장한 '에이리언: 어스', 지구에 불시착한 그것들]]></title>
+            <link>https://www.maxmovie.com/news/441485</link>
+            <guid>https://www.maxmovie.com/news/441485</guid>
+            <pubDate>Mon, 10 Feb 2025 02:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[지구 배경으로 현실적인 공포 예고
+디즈니+ 통해 올여름 공개될 예정]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739087738527laX6c.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이준혁이 한지민에게 미치는 영향, '나의 완벽한 비서'의 원동력]]></title>
+            <link>https://www.maxmovie.com/news/441482</link>
+            <guid>https://www.maxmovie.com/news/441482</guid>
+            <pubDate>Mon, 10 Feb 2025 02:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[대표 강지윤에게 닥친 절체절명의 위기
+진짜 어른으로 성장하는 강지윤의 변화]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739065860711UG9pF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개봉 D-3 '캡틴 아메리카: 브레이브 뉴 월드', 예매율 1위 우뚝]]></title>
@@ -89,31 +125,12 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739060041658PSTLk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[위클리 포토] 이혜리 VS 한승연...과감한 '변신' 선언]]></title>
-            <link>https://www.maxmovie.com/news/441469</link>
-            <guid>https://www.maxmovie.com/news/441469</guid>
-            <pubDate>Sun, 09 Feb 2025 09:08:19 GMT</pubDate>
-            <content:encoded><![CDATA['선의의 경쟁' '춘화연애담' 주연
-아이돌에서 연기자로 자리매김]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738902629704aDGhN.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["대관이 형, 잘가"...'해뜰날'과 함께한 고 송대관 영결식]]></title>
-            <link>https://www.maxmovie.com/news/441483</link>
-            <guid>https://www.maxmovie.com/news/441483</guid>
-            <pubDate>Mon, 10 Feb 2025 00:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[유족·동료 배웅 속 영원한 안식
-후배 가수들 함께 '해뜰날' 합창]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739068433285aHqWv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우영우의 '국민 섭섭남' 강태오가 보여줄 새 얼굴은]]></title>
-            <link>https://www.maxmovie.com/news/441475</link>
-            <guid>https://www.maxmovie.com/news/441475</guid>
-            <pubDate>Mon, 10 Feb 2025 00:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[3년 만의 복귀작 '감자연구소'
-인정사정 없는 원칙주의자 역]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738916664369SW1Os.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[맥스무비레터 #89번째 편지]🥼추영우가 밝힌 🚑'중증외상센터'에 관한 모든 것 (시사회 이벤트)]]></title>
+            <link>https://www.maxmovie.com/news/441474</link>
+            <guid>https://www.maxmovie.com/news/441474</guid>
+            <pubDate>Mon, 10 Feb 2025 02:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738916082564cl9VY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[위클리 이슈 모음zip] 국민 위로한 송대관 별세, 뉴진스 새 팀명 엔제이지, 배성재 아나운서 결혼 외]]></title>
@@ -122,6 +139,15 @@
             <pubDate>Mon, 10 Feb 2025 00:41:58 GMT</pubDate>
             <content:encoded><![CDATA[한 주간 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738916567718310O5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[위클리 포토] 이혜리 VS 한승연...과감한 '변신' 선언]]></title>
+            <link>https://www.maxmovie.com/news/441469</link>
+            <guid>https://www.maxmovie.com/news/441469</guid>
+            <pubDate>Sun, 09 Feb 2025 09:08:19 GMT</pubDate>
+            <content:encoded><![CDATA['선의의 경쟁' '춘화연애담' 주연
+아이돌에서 연기자로 자리매김]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738902629704aDGhN.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['하이틴 스릴러'에 도전장 이혜리 "내 안의 예민함 꺼내"]]></title>
@@ -143,14 +169,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/173891499910437I0D.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[아이유 영화, 6만명 돌파…또 증명한 티켓 파워]]></title>
-            <link>https://www.maxmovie.com/news/441471</link>
-            <guid>https://www.maxmovie.com/news/441471</guid>
-            <pubDate>Mon, 10 Feb 2025 00:41:58 GMT</pubDate>
-            <content:encoded><![CDATA['더 골든 아워'·'더 위닝' 5만명 넘겨
-여 공연실황 영화로서 이례적 성과
-올해 박보검·변우석과 로맨스 호흡]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738908234783AeBNd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이준혁의 사랑 VS 이민호의 위기...주말 안방 격돌]]></title>
+            <link>https://www.maxmovie.com/news/441473</link>
+            <guid>https://www.maxmovie.com/news/441473</guid>
+            <pubDate>Mon, 10 Feb 2025 02:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[최고 시청률 노리는 '나의 완벽한 비서'
+우주 떠나 지구 도착 '별들에게 물어봐']]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17389136218297HAiq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['서브스턴스'의 미친 질주, 어떻게 40만명을 사로잡았나]]></title>
@@ -182,6 +207,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738832594462lXWMW.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA['해뜰날'의 국민가수 송대관 별세]]></title>
+            <link>https://www.maxmovie.com/news/441468</link>
+            <guid>https://www.maxmovie.com/news/441468</guid>
+            <pubDate>Mon, 10 Feb 2025 02:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[7일 오전 심장마비로 하늘로 떠나 
+'트로트 사대천왕' 국민적인 사랑]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738894886596ItPTb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박보검, 극과 극의 얼굴로 '청춘'의 서사 그린다]]></title>
             <link>https://www.maxmovie.com/news/441453</link>
             <guid>https://www.maxmovie.com/news/441453</guid>
@@ -189,43 +223,6 @@
             <content:encoded><![CDATA[올해 '폭싹 속았수다'와 '굿보이' 공개
 순박한 제주 소년부터 정의로운 경찰]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738887073638ARh10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['브로큰'은 1위 내주고, '히트맨2'는 재탈환]]></title>
-            <link>https://www.maxmovie.com/news/441466</link>
-            <guid>https://www.maxmovie.com/news/441466</guid>
-            <pubDate>Mon, 10 Feb 2025 00:41:58 GMT</pubDate>
-            <content:encoded><![CDATA['브로큰', 개봉 이튿 날 2만명 동원에 그쳐
-'검은 수녀들' 이어 '브로큰' 제친 '히트맨2']]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17388919796144cIUl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주말에 극장서 뭐볼까, '9월5일: 위험한 특종' VS '서브스턴스']]></title>
-            <link>https://www.maxmovie.com/news/441465</link>
-            <guid>https://www.maxmovie.com/news/441465</guid>
-            <pubDate>Mon, 10 Feb 2025 00:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[저널리즘의 역할 책임 묻는 '9월5일'
-진정한 아름다움 묻는 '서브스턴스'
-다음 달 열리는 아카데미 후보 지명]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738891619309owjpU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아내 잃은 구준엽 "형언할 수 없는 슬픔, 남은 가족 끝까지 지키겠다"]]></title>
-            <link>https://www.maxmovie.com/news/441463</link>
-            <guid>https://www.maxmovie.com/news/441463</guid>
-            <pubDate>Mon, 10 Feb 2025 00:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[일본 여행 중 아내 쉬시위안 하늘 나라로
-유산 등 억측 루머  "두려움 느낀다" 토로]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738885149020S4rE5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송중기 '보고타'의 힘, 글로벌 1위로 증명]]></title>
-            <link>https://www.maxmovie.com/news/441462</link>
-            <guid>https://www.maxmovie.com/news/441462</guid>
-            <pubDate>Mon, 10 Feb 2025 00:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[4일 넷플릭스 공개 직후 글로벌 정상
-극장 개봉 스코어 아쉬움 달랜 성과]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17388831409271XSmv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
