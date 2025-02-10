@@ -4,71 +4,89 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 09:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 10:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[0]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 10 Feb 2025 09:10:42 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 10:10:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 10 Feb 2025 09:10:42 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 10:10:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 10 Feb 2025 09:10:42 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 10:10:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 10 Feb 2025 09:10:42 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 10:10:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 10 Feb 2025 09:10:42 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 10:10:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 10 Feb 2025 09:10:42 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 10:10:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 10 Feb 2025 09:10:42 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 10:10:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 10 Feb 2025 09:10:42 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 10:10:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 10 Feb 2025 09:10:42 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 10:10:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["뉴진스는 뉴진스" 멤버들의 독자활동에 어도어 '반격' 시작]]></title>
+            <link>https://www.maxmovie.com/news/441496</link>
+            <guid>https://www.maxmovie.com/news/441496</guid>
+            <pubDate>Mon, 10 Feb 2025 10:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[멤버들 새로운 그룹 이름 NJZ로 활동 
+어도어 "전속계약은 유효" 강경 입장]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739169658397dMoPl.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[3시간35분에 인터미션까지...'브루탈리스트'의 고집은 통할까]]></title>
+            <link>https://www.maxmovie.com/news/441493</link>
+            <guid>https://www.maxmovie.com/news/441493</guid>
+            <pubDate>Mon, 10 Feb 2025 10:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[긴 러닝타임에 포함된 '인터미션 15분'
+OTT콘텐츠가 가져온 관람 형태 변화?]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17391565271423P1Gv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[권상우 '히트맨2'·송혜교 '검은 수녀들',  나란히 손익분기점 돌파했지만...]]></title>
@@ -80,13 +98,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739149582755Afx6k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[송혜교·공유, 노희경 작가와 그리는 "야만과 폭력의 시기"]]></title>
-            <link>https://www.maxmovie.com/news/441489</link>
-            <guid>https://www.maxmovie.com/news/441489</guid>
-            <pubDate>Mon, 10 Feb 2025 08:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 시리즈 '천천히 강렬하게'
-1960~80년대 한국 연예계가 배경]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739150889541EjjpA.png" length="0" type="image/png"/>
+            <title><![CDATA[케이트·루니 마라 자매의 첫 동반 출연, '버킹 패스타드' 어떤 영화?]]></title>
+            <link>https://www.maxmovie.com/news/441490</link>
+            <guid>https://www.maxmovie.com/news/441490</guid>
+            <pubDate>Mon, 10 Feb 2025 04:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[스토킹 벌인  채플린 자매 실화 다뤄
+베르너 헤어조크 감독 영화 복귀작]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739156107894mrd6Y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봉준호 감독 "비상계엄 사태, SF 영화보다 초현실적"]]></title>
@@ -97,24 +115,6 @@
 "해외의 배우들이 연락와"
 28일 영화 '미키 17' 개봉]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17391504014277mgOF.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[골든글로브·에미상 휩쓴 '쇼군' 시즌2 계획 첫 공개 "가을 촬영 목표"]]></title>
-            <link>https://www.maxmovie.com/news/441498</link>
-            <guid>https://www.maxmovie.com/news/441498</guid>
-            <pubDate>Mon, 10 Feb 2025 09:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[사나다 히로유키가 밝힌 제작 일정
-크리틱스초이스에서도 4관왕 차지]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739173897061XkbAR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케이트·루니 마라 자매의 첫 동반 출연, '버킹 패스타드' 어떤 영화?]]></title>
-            <link>https://www.maxmovie.com/news/441490</link>
-            <guid>https://www.maxmovie.com/news/441490</guid>
-            <pubDate>Mon, 10 Feb 2025 04:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[스토킹 벌인  채플린 자매 실화 다뤄
-베르너 헤어조크 감독 영화 복귀작]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739156107894mrd6Y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봉준호의 '미키 17' 주연 마크 러팔로·스티븐 연·나오미 애키 내한]]></title>
