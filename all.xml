@@ -4,71 +4,90 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Feb 2025 08:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 09:10:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 13 Feb 2025 08:12:22 GMT</pubDate>
+            <pubDate>Thu, 13 Feb 2025 09:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 13 Feb 2025 08:12:22 GMT</pubDate>
+            <pubDate>Thu, 13 Feb 2025 09:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 13 Feb 2025 08:12:22 GMT</pubDate>
+            <pubDate>Thu, 13 Feb 2025 09:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 13 Feb 2025 08:12:22 GMT</pubDate>
+            <pubDate>Thu, 13 Feb 2025 09:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 13 Feb 2025 08:12:22 GMT</pubDate>
+            <pubDate>Thu, 13 Feb 2025 09:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 13 Feb 2025 08:12:22 GMT</pubDate>
+            <pubDate>Thu, 13 Feb 2025 09:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 13 Feb 2025 08:12:22 GMT</pubDate>
+            <pubDate>Thu, 13 Feb 2025 09:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 13 Feb 2025 08:12:22 GMT</pubDate>
+            <pubDate>Thu, 13 Feb 2025 09:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 13 Feb 2025 08:12:22 GMT</pubDate>
+            <pubDate>Thu, 13 Feb 2025 09:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[베를린영화제 개막] 영화제 호평 후 1000만 흥행, 올해 한국영화는 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441538</link>
+            <guid>https://www.maxmovie.com/news/441538</guid>
+            <pubDate>Thu, 13 Feb 2025 09:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[봉준호, '기생충' 이후 첫 작품 '미키17' 공개
+홍상수 '그 자연이'→박찬욱·찬경 '파란만장'
+'파묘'·'범도4' 영화제 호평받고 1000만 흥행]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739414128372f3i4K.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[베를린영화제 개막] '단골' 홍상수 감독, 황금곰상에 도전장 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441536</link>
+            <guid>https://www.maxmovie.com/news/441536</guid>
+            <pubDate>Thu, 13 Feb 2025 09:09:45 GMT</pubDate>
+            <content:encoded><![CDATA['그 자연이 네게 뭐라고 하니'로 경쟁부문
+홍상수, 김민희와 동반 참석 여부 관심사]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739406456040MVeAZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['서브스턴스' 마가렛 퀄리, 리들리 스콧 신작 '더 독 스타즈' 출연 (맥스무비)]]></title>
@@ -80,13 +99,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739409828333OKswN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밸런타인데이에 뭘 볼까, 애절한 멜로 '말없비' VS 청춘의 사랑 '멜로무비' (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441520</link>
-            <guid>https://www.maxmovie.com/news/441520</guid>
-            <pubDate>Thu, 13 Feb 2025 00:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[원작 그 이상의 감성 '말할 수 없는 비밀' 
-박보영·최우식의 이별과 재회 '멜로무비]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739329268691qlV28.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[곽선영·권유리·이설의 영화 '침범', 의미심장한 출발 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441534</link>
+            <guid>https://www.maxmovie.com/news/441534</guid>
+            <pubDate>Thu, 13 Feb 2025 09:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[믿음직한 여배우 3명이 이끄는 심리 스릴러  
+지난해 부국제서 공개해 호평받아  3월 개봉]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739402640118okgxY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[데일리 핫이슈] 지드래곤 8년 만에 월드투어 시작, 뉴진스 멤버 하니 비자 "정상 발급" 외 (맥스무비)]]></title>
@@ -97,31 +116,32 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/173934947411052kbP.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[종영 1회 남긴 '나의 완벽한 비서'가 풀어낼 이야기는 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441539</link>
-            <guid>https://www.maxmovie.com/news/441539</guid>
-            <pubDate>Thu, 13 Feb 2025 07:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[총 12부작, 14일 최종회 방송
-한지민·이준혁 새로운 전성기]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739413029698Pk5Ij.png" length="0" type="image/png"/>
+            <title><![CDATA[박보영의 고득점 흥행 타율, '멜로무비'에 품은 자신감 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441532</link>
+            <guid>https://www.maxmovie.com/news/441532</guid>
+            <pubDate>Thu, 13 Feb 2025 09:09:45 GMT</pubDate>
+            <content:encoded><![CDATA['정신아'·'콘유' 주연작 잇단 성공 
+오랜만의 로맨스, 최우식과 호흡]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739349443602PLW4Y.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[인도네시아 홀린 진영·다현의 '그 시절'…다현은 눈물까지 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441540</link>
-            <guid>https://www.maxmovie.com/news/441540</guid>
-            <pubDate>Thu, 13 Feb 2025 07:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[특별 프리미어 상영회 개최
-조영명 감독·진영·다현 참석]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739419955512DcqY6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이혜리의 '선의의 경쟁'...관심 높지만 '시청 진입 장벽' 고민 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441524</link>
+            <guid>https://www.maxmovie.com/news/441524</guid>
+            <pubDate>Thu, 13 Feb 2025 09:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[10일부터 &nbsp;U+tv·U+모바일tv 공개 
+동명의 인기 웹툰 원작 '19금' 등급  
+고정관념 깨는 하이틴 스릴러 주목]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739347651233pWTYF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하영, 주지훈·추영우 떠나 정해인과 만날까 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441523</link>
-            <guid>https://www.maxmovie.com/news/441523</guid>
+            <title><![CDATA[밸런타인데이에 뭘 볼까, 애절한 멜로 '말없비' VS 청춘의 사랑 '멜로무비' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441520</link>
+            <guid>https://www.maxmovie.com/news/441520</guid>
             <pubDate>Thu, 13 Feb 2025 00:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[로코 '이런 엿같은 사랑' 주연 물망
-정해인과 연인 호흡 예고 관심집중]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17393314343030fSS3.png" length="0" type="image/png"/>
+            <content:encoded><![CDATA[원작 그 이상의 감성 '말할 수 없는 비밀' 
+박보영·최우식의 이별과 재회 '멜로무비]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739329268691qlV28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['골 때리는' 호러 코미디 '아메바 소녀들' 잇는 '교생실습' 온다 (맥스무비)]]></title>
@@ -142,6 +162,16 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739323106967NoSG3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['마블 정신' 깃든 '썬더볼츠*'...'어벤져스' 대체할까 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441518</link>
+            <guid>https://www.maxmovie.com/news/441518</guid>
+            <pubDate>Thu, 13 Feb 2025 09:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[문제적 히어로 뭉친 새로운 시리즈 
+슈퍼볼 30초 예고편으로 열기 형성
+'썬더볼츠*' 제목의 '*' 표기 이유는?]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739314851424dTvsb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[리뷰: 포테이토 지수 80%] '캡틴 아메리카: 브레이브 뉴 월드', 완성형 아닌 성장형 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/441514</link>
             <guid>https://www.maxmovie.com/news/441514</guid>
@@ -150,15 +180,6 @@
 대체 불가한 인간미 강점 눈길
 새디우스 로스의 변화도 주목]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739325798771VnEDp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티모시 샬라메, 또  빌보드 진입...밥 딜런도 놀란 실력 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441515</link>
-            <guid>https://www.maxmovie.com/news/441515</guid>
-            <pubDate>Wed, 12 Feb 2025 11:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[새 영화 '컴플리트 언노운' 밥 딜런 연기 
-지난해 '웡카' 이어 또 빌보드 차트 올라]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739279471456PaBTm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[385만명 사로잡은 영화 '소방관', 안방으로 옮겨 붙은 인기 (맥스무비)]]></title>
@@ -205,24 +226,6 @@
             <content:encoded><![CDATA[설 연휴에 개봉, 11일  IPTV 및 VOD 공개
 아들로 만난 신현준과 따뜻한 코미디 그려]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17392594509016mcTa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이준혁, 한지민과 로맨스 정점→신혜선과 미스터리 재회 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441510</link>
-            <guid>https://www.maxmovie.com/news/441510</guid>
-            <pubDate>Wed, 12 Feb 2025 11:08:30 GMT</pubDate>
-            <content:encoded><![CDATA['나의 완벽한 비서' 새로운 전성기  
-새 주연작 '레이디 두아' 촬영 돌입]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739256571311vXobA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추영우 '견우와 선녀'로 변우석 '선업튀'에 도전장 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441508</link>
-            <guid>https://www.maxmovie.com/news/441508</guid>
-            <pubDate>Thu, 13 Feb 2025 00:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[6월 첫 방송 판타지 로맨스 드라마 
-tvN 측 "제2의 '선업튀' 예상" 기대]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739253917693ARqSV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] '멜로무비' 연애세포 깨워줄 주역들! (맥스무비 ─ 포토)]]></title>
