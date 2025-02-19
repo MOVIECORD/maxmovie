@@ -4,71 +4,91 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 02:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 03:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[0]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 19 Feb 2025 02:10:29 GMT</pubDate>
+            <pubDate>Wed, 19 Feb 2025 03:14:27 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 19 Feb 2025 02:10:29 GMT</pubDate>
+            <pubDate>Wed, 19 Feb 2025 03:14:27 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 19 Feb 2025 02:10:29 GMT</pubDate>
+            <pubDate>Wed, 19 Feb 2025 03:14:27 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 19 Feb 2025 02:10:29 GMT</pubDate>
+            <pubDate>Wed, 19 Feb 2025 03:14:27 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 19 Feb 2025 02:10:29 GMT</pubDate>
+            <pubDate>Wed, 19 Feb 2025 03:14:27 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 19 Feb 2025 02:10:29 GMT</pubDate>
+            <pubDate>Wed, 19 Feb 2025 03:14:27 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 19 Feb 2025 02:10:29 GMT</pubDate>
+            <pubDate>Wed, 19 Feb 2025 03:14:27 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 19 Feb 2025 02:10:29 GMT</pubDate>
+            <pubDate>Wed, 19 Feb 2025 03:14:27 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Wed, 19 Feb 2025 02:10:29 GMT</pubDate>
+            <pubDate>Wed, 19 Feb 2025 03:14:27 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰: 포테이토 지수 81%] '컴플리트 언노운', 밥 딜런 그 자체가 된 티모시 샬라메]]></title>
+            <link>https://www.maxmovie.com/news/441595</link>
+            <guid>https://www.maxmovie.com/news/441595</guid>
+            <pubDate>Wed, 19 Feb 2025 03:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[1960년대 초 뉴욕 배경 딜런의 청년기 
+티모시 샬라메, 오스카 주연상 후보에 
+특유의 목소리와 표현  절묘하게 재연]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739865897430jvBVF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰: 포테이토 지수 83%] '괜찮아 괜찮아 괜찮아!' 단순한 말에 숨은 단단한 응원]]></title>
+            <link>https://www.maxmovie.com/news/441592</link>
+            <guid>https://www.maxmovie.com/news/441592</guid>
+            <pubDate>Wed, 19 Feb 2025 03:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[이레·진서연의 호흡, 반가운 손석구 
+마음의 빈 공간을 채우는 한집살이
+'멜로가 체질' 김혜영 감독의 데뷔작]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739914323241VNlI3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[데일리 핫이슈] 아이유 변우석과 손잡은 감독은·'나의 소녀시대' 스타의 추락 외]]></title>
@@ -79,16 +99,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739869272731PRLSJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인니서 '파묘' 260만·'검은 수녀들' 100만 돌파, 무슨 일?]]></title>
-            <link>https://www.maxmovie.com/news/441586</link>
-            <guid>https://www.maxmovie.com/news/441586</guid>
-            <pubDate>Tue, 18 Feb 2025 09:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[한국 오컬트 영화 이례적 흥행
-'그 시절', 메인 투자사로 참여
-"한국 영화 투자 및 합작 늘 것"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739845712793euh1n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[오늘 뭘 볼까] 소원을 들어주는 '이상한 과자 가게 전천당' 실사 영화]]></title>
             <link>https://www.maxmovie.com/news/441594</link>
             <guid>https://www.maxmovie.com/news/441594</guid>
@@ -96,15 +106,6 @@
             <content:encoded><![CDATA[동명의 베스트셀러 소설의 실사화 
 나카타 히데오 감독의 기묘한 세계]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739863969931wV0so.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김민하, '시청률 킹' 이준호와 '태풍상사'로 안방 공략]]></title>
-            <link>https://www.maxmovie.com/news/441601</link>
-            <guid>https://www.maxmovie.com/news/441601</guid>
-            <pubDate>Wed, 19 Feb 2025 02:10:29 GMT</pubDate>
-            <content:encoded><![CDATA['파친코'와 '조명가게' 활약해 주목 
-1990년대 배경 중소기업 경리 역할]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739930659134wBbqS.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[크리스토퍼 놀란 '오디세이'에 출연하는 한국계 배우 윌윤리 누구?]]></title>
@@ -143,6 +144,16 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739848206573UvnrR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인니서 '파묘' 260만·'검은 수녀들' 100만 돌파, 무슨 일?]]></title>
+            <link>https://www.maxmovie.com/news/441586</link>
+            <guid>https://www.maxmovie.com/news/441586</guid>
+            <pubDate>Tue, 18 Feb 2025 09:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[한국 오컬트 영화 이례적 흥행
+'그 시절', 메인 투자사로 참여
+"한국 영화 투자 및 합작 늘 것"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739845712793euh1n.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[리뷰: 포테이토 지수 77%] '멜로무비' 사랑보다 중요했던 치유와 성장]]></title>
             <link>https://www.maxmovie.com/news/441583</link>
             <guid>https://www.maxmovie.com/news/441583</guid>
@@ -170,13 +181,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739840080236RqVRu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[리뷰: 포테이토 지수 83%] '미키17', 우주로 확장한 봉준호 감독의 현실 풍자]]></title>
-            <link>https://www.maxmovie.com/news/441581</link>
-            <guid>https://www.maxmovie.com/news/441581</guid>
-            <pubDate>Wed, 19 Feb 2025 02:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[살기 위해 죽어야 하는 하층민 이야기
-'설국열차' '기생충' 관통하는 주제의식]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739820406555ynY7f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[인터뷰] '멜로무비' 최우식 "서로에게 힘이 되어주는 사랑을 꿈꿔요"]]></title>
+            <link>https://www.maxmovie.com/news/441577</link>
+            <guid>https://www.maxmovie.com/news/441577</guid>
+            <pubDate>Wed, 19 Feb 2025 03:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[영화처럼 사랑하는 청춘의 성장 그려
+동갑 친구인 박보영과의 호흡에 만족 
+"동안 이미지 벗고 새로운 연기 고민"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739784450014UwdbV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[데일리 핫이슈] 원빈 등 고 김새론 빈소 찾아 추모, 이하늬 세금 60억원 탈루 해명 외]]></title>
@@ -213,16 +225,6 @@
 감독과 각본까지 맡은 영화 3월19일 개봉  
 성시경과 예능 '미친 맛집' 동반 출연까지]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739767467612wJkvC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이민호·안효섭 '전지적 독자 시점' 여름 개봉 공표한 '자신감'의 배경]]></title>
-            <link>https://www.maxmovie.com/news/441576</link>
-            <guid>https://www.maxmovie.com/news/441576</guid>
-            <pubDate>Wed, 19 Feb 2025 02:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[열혈 팬덤 보유 웹소설 원작의 판타지
-쌍천만 흥행 '신과함께' 제작사의 도전
-게임 회사 스마일게이트 첫 영화 투자]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739761487041EqdBl.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
