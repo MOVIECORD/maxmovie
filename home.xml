@@ -4,71 +4,98 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Feb 2025 00:41:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 02:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[0]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 20 Feb 2025 00:40:56 GMT</pubDate>
+            <pubDate>Thu, 20 Feb 2025 02:11:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 20 Feb 2025 00:40:56 GMT</pubDate>
+            <pubDate>Thu, 20 Feb 2025 02:11:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 20 Feb 2025 00:40:56 GMT</pubDate>
+            <pubDate>Thu, 20 Feb 2025 02:11:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 20 Feb 2025 00:40:56 GMT</pubDate>
+            <pubDate>Thu, 20 Feb 2025 02:11:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 20 Feb 2025 00:40:56 GMT</pubDate>
+            <pubDate>Thu, 20 Feb 2025 02:11:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 20 Feb 2025 00:40:56 GMT</pubDate>
+            <pubDate>Thu, 20 Feb 2025 02:11:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 20 Feb 2025 00:40:56 GMT</pubDate>
+            <pubDate>Thu, 20 Feb 2025 02:11:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 20 Feb 2025 00:40:56 GMT</pubDate>
+            <pubDate>Thu, 20 Feb 2025 02:11:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 20 Feb 2025 00:40:56 GMT</pubDate>
+            <pubDate>Thu, 20 Feb 2025 02:11:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트와이스 다현의 첫 연기 도전, 진영이 놀란 이유]]></title>
+            <link>https://www.maxmovie.com/news/441616</link>
+            <guid>https://www.maxmovie.com/news/441616</guid>
+            <pubDate>Thu, 20 Feb 2025 02:11:05 GMT</pubDate>
+            <content:encoded><![CDATA['그 시절, 우리가 좋아했던 소녀' 주연
+"머릿속에 딱 떠오른 첫사랑 이미지"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739979983577dyDNU.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['트리거' 시즌2 나올까? 정성일·주종혁이 밝힌 '힌트'와 '바람']]></title>
+            <link>https://www.maxmovie.com/news/441604</link>
+            <guid>https://www.maxmovie.com/news/441604</guid>
+            <pubDate>Thu, 20 Feb 2025 02:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[정성일 "'트리거' 배우들과 다시 한번 뭉치고파"
+주종혁 "김혜수, 정성일 선배 스케줄이 중요해"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739958735931piYSS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이 조합 실화' 케이트 블란쳇·마이클 패스벤더의 서스펜스 '블랙 백']]></title>
+            <link>https://www.maxmovie.com/news/441618</link>
+            <guid>https://www.maxmovie.com/news/441618</guid>
+            <pubDate>Thu, 20 Feb 2025 02:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[스티븐 소더버그 연출 3월29일 개봉
+용의자가 된 아내와 의심하는 남편]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740005791086qvdRE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[데일리 핫이슈] 뉴진스 공연 방해? 어도어 입장은, 유재석 다시 만나는 주지훈 외]]></title>
@@ -77,15 +104,6 @@
             <pubDate>Wed, 19 Feb 2025 22:08:30 GMT</pubDate>
             <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739960201399jCvTD.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 한 공간에서 쌓은 50년의 인생, '히어']]></title>
-            <link>https://www.maxmovie.com/news/441605</link>
-            <guid>https://www.maxmovie.com/news/441605</guid>
-            <pubDate>Thu, 20 Feb 2025 00:40:57 GMT</pubDate>
-            <content:encoded><![CDATA['포레스트 검프' 주역들의 재회
-하나의 앵글로만 이뤄진 104분]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739944635876uXEKH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '트리거' 주종혁이 울자, 김혜수와 정성일까지 울었다]]></title>
@@ -107,6 +125,16 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739951353498cAtFE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['미키17' 마크 러팔로에게서 '그들'의 향기가 난다]]></title>
+            <link>https://www.maxmovie.com/news/441603</link>
+            <guid>https://www.maxmovie.com/news/441603</guid>
+            <pubDate>Thu, 20 Feb 2025 02:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[극중 독재자 마셜에 쏠리는 관심
+미국과 한국의 대통령 연상시켜
+"트럼프를 조롱하는 걸작" 평가]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17399363057922KnEb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[인터뷰] '트리거' 정성일 "90년생 한도? 너무하다는 말도 들었죠"]]></title>
             <link>https://www.maxmovie.com/news/441599</link>
             <guid>https://www.maxmovie.com/news/441599</guid>
@@ -115,15 +143,6 @@
 김혜수와 호흡 "든든한 선장 같은 선배"
 연극부터 영화까지 올해 맹활약 예고]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739940924293dSql1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인터스텔라'→'듄', 영화음악의 거장  감독 한스 짐머 내한]]></title>
-            <link>https://www.maxmovie.com/news/441602</link>
-            <guid>https://www.maxmovie.com/news/441602</guid>
-            <pubDate>Wed, 19 Feb 2025 23:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[5월17일 '한스 짐머 라이브 2025' 투어 개최
-크리스토퍼 놀란, 드니 빌뇌브 감독과 협업]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739934423770TIDnl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제작비 회수한 '캡틴 아메리카4', 북미서 평가 엇갈린 이유, 왜?]]></title>
@@ -145,6 +164,16 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739930659134wBbqS.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[할리우드 사상 처음 여주가 남주 추월.. '서브스턴스' 등 주도]]></title>
+            <link>https://www.maxmovie.com/news/441600</link>
+            <guid>https://www.maxmovie.com/news/441600</guid>
+            <pubDate>Thu, 20 Feb 2025 02:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[美 연구소 등 지난해 흥행작 100편 분석
+여성 캐릭터 주인공 영화가 절반 넘겼다
+'위키드' '인사이드 아웃 2' 등 작품 눈길]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17399295323997OWdv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[고 김새론, 가족·동료 배웅 속 영면에 들다]]></title>
             <link>https://www.maxmovie.com/news/441597</link>
             <guid>https://www.maxmovie.com/news/441597</guid>
@@ -152,16 +181,6 @@
             <content:encoded><![CDATA[25세의 젊은 나이로 세상 떠난 배우 
 원빈·한소희·장성규 빈소 찾아 애도]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739926606864YYuXm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰: 포테이토 지수 83%] '괜찮아 괜찮아 괜찮아!' 단순한 말에 숨은 단단한 응원]]></title>
-            <link>https://www.maxmovie.com/news/441592</link>
-            <guid>https://www.maxmovie.com/news/441592</guid>
-            <pubDate>Wed, 19 Feb 2025 23:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[이레·진서연의 호흡, 반가운 손석구 
-마음의 빈 공간을 채우는 한집살이
-'멜로가 체질' 김혜영 감독의 데뷔작]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739914323241VNlI3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리뷰: 포테이토 지수 81%] '컴플리트 언노운', 밥 딜런 그 자체가 된 티모시 샬라메]]></title>
@@ -182,6 +201,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739869272731PRLSJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 소원을 들어주는 '이상한 과자 가게 전천당' 실사 영화]]></title>
+            <link>https://www.maxmovie.com/news/441594</link>
+            <guid>https://www.maxmovie.com/news/441594</guid>
+            <pubDate>Thu, 20 Feb 2025 02:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[동명의 베스트셀러 소설의 실사화 
+나카타 히데오 감독의 기묘한 세계]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739863969931wV0so.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[인터뷰] '멜로무비' 박보영 "배우 인생의 제2막은 이미 시작됐어요"]]></title>
             <link>https://www.maxmovie.com/news/441590</link>
             <guid>https://www.maxmovie.com/news/441590</guid>
@@ -198,33 +226,6 @@
             <content:encoded><![CDATA[로버트 패틴슨·맷 데이먼 호화 출연진 
 미드 '굿닥터'서 숀 머피 동료로 주목]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739863306369Wlw5p.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 유아인 '감형',  집행유예로 석방...영화 '승부'에도 영향 미칠까]]></title>
-            <link>https://www.maxmovie.com/news/441591</link>
-            <guid>https://www.maxmovie.com/news/441591</guid>
-            <pubDate>Wed, 19 Feb 2025 23:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[18일 항소심에서 징역형의 집행유예
-3월26일 이병헌과 주연한 '승부' 개봉]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739867839728pRRLl.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑 향한 지수의 질주, '뉴토피아'부터 '얼스퀘이크'까지]]></title>
-            <link>https://www.maxmovie.com/news/441585</link>
-            <guid>https://www.maxmovie.com/news/441585</guid>
-            <pubDate>Wed, 19 Feb 2025 23:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[블랙핑크 지수의 다채로운 얼굴 주목
-좀비에 맞선 강렬한 용기와 고백까지]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739849992009S3Gqm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[떡밥 회수 시급한 '트리거'에 남은 숙제, 차성욱은 살았을까]]></title>
-            <link>https://www.maxmovie.com/news/441588</link>
-            <guid>https://www.maxmovie.com/news/441588</guid>
-            <pubDate>Wed, 19 Feb 2025 23:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[김혜수 주연 디즈니+ 시리즈 19일 종영
-곳곳에 심어둔 떡밥들 어떻게 연결될까]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739848206573UvnrR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
