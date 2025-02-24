@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 07:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 08:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[맥스포토] 이지훈·최유정·경수진·고규필, '백수아파트'로 만났어요!]]></title>
+            <link>https://www.maxmovie.com/news/441675</link>
+            <guid>https://www.maxmovie.com/news/441675</guid>
+            <pubDate>Mon, 24 Feb 2025 08:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/441675"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1740382384549fB1Vf.png" alt=""></span><span class="textBox"><h4>[맥스포토] 이지훈·최유정·경수진·고규필, '백수아파트'로 만났어요!</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740382384549fB1Vf.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[맥스포토] SBS 금토드라마 '보물섬'의 주역들]]></title>
             <link>https://www.maxmovie.com/news/441647</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Feb 2025 06:13:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/441457"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1738828952347xvi33.png" alt=""></span><span class="textBox"><h4>[맥스포토] 혜리·수빈, 둘의 관계는?</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738828952347xvi33.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 정수빈, 눈길끄는 연기력]]></title>
-            <link>https://www.maxmovie.com/news/441456</link>
-            <guid>https://www.maxmovie.com/news/441456</guid>
-            <pubDate>Fri, 21 Feb 2025 06:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/441456"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1738828368857AdfC7.png" alt=""></span><span class="textBox"><h4>[맥스포토] 정수빈, 눈길끄는 연기력</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738828368857AdfC7.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
