@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Feb 2025 05:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 06:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[맥스포토] 강하늘, 감독과 꿀 떨어지는 포토타임]]></title>
+            <link>https://www.maxmovie.com/news/441703</link>
+            <guid>https://www.maxmovie.com/news/441703</guid>
+            <pubDate>Wed, 26 Feb 2025 06:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/441703"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1740539712356Z9gGv.png" alt=""></span><span class="textBox"><h4>[맥스포토] 강하늘, 감독과 꿀 떨어지는 포토타임  </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740539712356Z9gGv.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[맥스포토] 로운, 여심 녹이는 비주얼]]></title>
             <link>https://www.maxmovie.com/news/441696</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 26 Feb 2025 02:13:48 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/441479"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1738917433369DQ7JA.png" alt=""></span><span class="textBox"><h4>[맥스포토] 영화 ‘써니데이’ 밝고 유쾌한 주역들~</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738917433369DQ7JA.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 김정화·한상진 '써니데이'로 부부 연기]]></title>
-            <link>https://www.maxmovie.com/news/441477</link>
-            <guid>https://www.maxmovie.com/news/441477</guid>
-            <pubDate>Wed, 26 Feb 2025 02:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/441477"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1738917050275M90mr.png" alt=""></span><span class="textBox"><h4>[맥스포토] 김정화·한상진 '써니데이'로 부부 연기</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1738917050275M90mr.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
