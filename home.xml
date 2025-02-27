@@ -4,71 +4,88 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Feb 2025 00:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 02:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[0]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 27 Feb 2025 00:41:22 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 27 Feb 2025 00:41:22 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 27 Feb 2025 00:41:22 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 27 Feb 2025 00:41:22 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 27 Feb 2025 00:41:22 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 27 Feb 2025 00:41:22 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 27 Feb 2025 00:41:22 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 27 Feb 2025 00:41:22 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Thu, 27 Feb 2025 00:41:22 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[데일리 핫이슈] 트와이스 스토킹에 법적 조치, 부활한 '홍김동전' 인기 외]]></title>
+            <link>https://www.maxmovie.com/news/441705</link>
+            <guid>https://www.maxmovie.com/news/441705</guid>
+            <pubDate>Wed, 26 Feb 2025 22:09:12 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740559641543PpHuT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 뭘 볼까] 위로와 희망의 주문 '괜찮아 괜찮아 괜찮아!']]></title>
+            <link>https://www.maxmovie.com/news/441708</link>
+            <guid>https://www.maxmovie.com/news/441708</guid>
+            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[혼자 된 소녀 인영의 힘찬 분투
+이레와 진서연의 유쾌한 호흡]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740559229291McPGr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리뷰: 포테이토 지수 79%] '에밀리아 페레즈' 생경한 뮤지컬영화로 탐구하는 정체성]]></title>
@@ -80,40 +97,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740451043330ChonR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배우 전혜진의 드라마 복귀가 몹시 반가운 이유]]></title>
-            <link>https://www.maxmovie.com/news/441700</link>
-            <guid>https://www.maxmovie.com/news/441700</guid>
-            <pubDate>Wed, 26 Feb 2025 21:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[3월3일 첫 방송 ENA '라이딩 인생'  
-치열한 유아 사교육 다룬 이야기 
-"일하며 아이 키운 경험 녹여냈다"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740531063899vnNms.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['퇴마록'은 '제2의 더퍼슬'이 될 수 있을까]]></title>
-            <link>https://www.maxmovie.com/news/441702</link>
-            <guid>https://www.maxmovie.com/news/441702</guid>
-            <pubDate>Wed, 26 Feb 2025 21:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[주 관객은 3040세대…전체의 66%
-'퇴마록' '슬램덩크' 보고 자란 세대]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740533893442GiDbj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이찬원 첫 공연 실황 영화, 첫날 1만2000명 동원 가뿐한 출발]]></title>
-            <link>https://www.maxmovie.com/news/441710</link>
-            <guid>https://www.maxmovie.com/news/441710</guid>
-            <pubDate>Thu, 27 Feb 2025 00:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[26일 개봉한 영화 5편 가운데 2위 
-3월3일까지 이어지는 연휴 기대감]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740616487013ULOOO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[데일리 핫이슈] 트와이스 스토킹에 법적 조치, 부활한 '홍김동전' 인기 외]]></title>
-            <link>https://www.maxmovie.com/news/441705</link>
-            <guid>https://www.maxmovie.com/news/441705</guid>
-            <pubDate>Wed, 26 Feb 2025 22:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740559641543PpHuT.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[미리 보는 오스카] 최연소 기록 티모시 샬라메, 도약 꿈꾸는 데미 무어]]></title>
+            <link>https://www.maxmovie.com/news/441701</link>
+            <guid>https://www.maxmovie.com/news/441701</guid>
+            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[3월3일 LA 돌비 극장에서 개최
+흥미진진한 배우들의 수상 경쟁]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17405466271637TXES.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['에밀리아 페레즈' 자크 오디아르 감독, 첫 내한해 관객과 만난다]]></title>
@@ -123,6 +113,16 @@
             <content:encoded><![CDATA[올해 아카데미상 최다 부문 후보작
 '예언자'·'디판' 통해 거장으로 인정]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740532142471pGFIg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 전혜진의 드라마 복귀가 몹시 반가운 이유]]></title>
+            <link>https://www.maxmovie.com/news/441700</link>
+            <guid>https://www.maxmovie.com/news/441700</guid>
+            <pubDate>Wed, 26 Feb 2025 21:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[3월3일 첫 방송 ENA '라이딩 인생'  
+치열한 유아 사교육 다룬 이야기 
+"일하며 아이 키운 경험 녹여냈다"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740531063899vnNms.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K오컬트 애니 '퇴마록', 북미부터 유럽까지 이제 세계로 간다]]></title>
