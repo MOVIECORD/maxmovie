@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Feb 2025 02:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 03:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 03:18:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 03:18:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 03:18:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 03:18:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 03:18:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 03:18:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 03:18:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 03:18:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 03:18:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -97,13 +97,23 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740451043330ChonR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[미리 보는 오스카] 최연소 기록 티모시 샬라메, 도약 꿈꾸는 데미 무어 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441701</link>
-            <guid>https://www.maxmovie.com/news/441701</guid>
-            <pubDate>Thu, 27 Feb 2025 02:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[3월3일 LA 돌비 극장에서 개최
-흥미진진한 배우들의 수상 경쟁]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17405466271637TXES.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[['미키 17' D-1] SWOT 분석...봉준호 봉준호 그리고 봉준호 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441711</link>
+            <guid>https://www.maxmovie.com/news/441711</guid>
+            <pubDate>Thu, 27 Feb 2025 03:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 관객 사로잡은 '기생충' 이후 신작
+계층 및 세대 갈등 풍자와 비판 시선 유지
+할리우드 연출작에 국내 관객 어떤 반응?]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740617556430bRtxj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['퇴마록'은 '제2의 더퍼슬'이 될 수 있을까 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441702</link>
+            <guid>https://www.maxmovie.com/news/441702</guid>
+            <pubDate>Thu, 27 Feb 2025 03:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[주 관객은 3040세대…전체의 66%
+'퇴마록' '슬램덩크' 보고 자란 세대]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740533893442GiDbj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['에밀리아 페레즈' 자크 오디아르 감독, 첫 내한해 관객과 만난다 (맥스무비)]]></title>
@@ -135,13 +145,12 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740529410541F4Uqf.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[오늘 뭘 볼까] 남편이 죽기 전으로 되돌린 시간, 영화 '첫 번째 키스' (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441691</link>
-            <guid>https://www.maxmovie.com/news/441691</guid>
-            <pubDate>Wed, 26 Feb 2025 22:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[사카모토 유지 작가가 쓴 새 영화
-판타지 설정 입힌 애틋한 이야기]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17404685527474K6mV.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[데일리 핫이슈] 지드래곤 11년 만에 정규 앨범 발매, 로제 '아파트' 빌보드 장기 진입 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441692</link>
+            <guid>https://www.maxmovie.com/news/441692</guid>
+            <pubDate>Thu, 27 Feb 2025 03:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17404694296088eiEu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[리뷰: 포테이토 지수 85%] '스터디그룹' 황민현이 일군 현실 판타지 (맥스무비)]]></title>
@@ -172,13 +181,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740441000698dArdp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[원작과 비교 부담 딛고 '말없비' 흥행 이끄는 도경수 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441689</link>
-            <guid>https://www.maxmovie.com/news/441689</guid>
-            <pubDate>Thu, 27 Feb 2025 00:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[손익분기점 돌파 앞둔 '말없비'
-'청설' 이어 증명한 로맨스 수요]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740467795575m4zpp.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[대세는 요아정?] 강동원·공유·이준혁·주지훈에게도 '풋풋한' 시절이 있다 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441687</link>
+            <guid>https://www.maxmovie.com/news/441687</guid>
+            <pubDate>Thu, 27 Feb 2025 03:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[스타로 만든 결정적 초기 작품들 살펴보니
+변함 없는 인기와 영향력, 차기작도 꽉 채워]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740451845929AjFwH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대세는 요아정?] '나의 최애' 1위는 주지훈 (맥스무비)]]></title>
@@ -216,15 +225,6 @@
             <content:encoded><![CDATA[3월3일 미국 LA 돌비 극장서 축하 무대 
 지난 7일 발표한 신곡 '본 어게인' 소화]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740444777577ZlbnP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티모시 샬라메 마법 시작되나, 오스카 청신호 밝힌 "야심" (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441679</link>
-            <guid>https://www.maxmovie.com/news/441679</guid>
-            <pubDate>Thu, 27 Feb 2025 00:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[미국배우조합상 최연소 남우주연상
-"위대한 사람 중 한 명이 되고 싶다"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740435003099FLYHf.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 강하늘, 감독과 꿀 떨어지는 포토타임 (맥스무비 ─ 포토)]]></title>
