@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 22:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 23:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[위클리 포토] 손예진의 이 미모는 '어쩔수가없다']]></title>
+            <link>https://www.maxmovie.com/news/441733</link>
+            <guid>https://www.maxmovie.com/news/441733</guid>
+            <pubDate>Fri, 28 Feb 2025 23:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/441733"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17407218297716e3S1.jpg" alt=""></span><span class="textBox"><h4>[위클리 포토] 손예진의 이 미모는 '어쩔수가없다'</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17407218297716e3S1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[맥스포토] '감자연구소' 밝은 에너지 넘치는 주역들]]></title>
             <link>https://www.maxmovie.com/news/441720</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Feb 2025 21:11:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/441527"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17393312193372Iy9m.png" alt=""></span><span class="textBox"><h4>[맥스포토] 전소니, 블랙시스루 자태</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17393312193372Iy9m.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 최우식·박보영 , 멜로왕자와 로맨스 퀸의 만남]]></title>
-            <link>https://www.maxmovie.com/news/441526</link>
-            <guid>https://www.maxmovie.com/news/441526</guid>
-            <pubDate>Fri, 28 Feb 2025 21:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/441526"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1739330871574XVXaU.png" alt=""></span><span class="textBox"><h4>[맥스포토] 최우식·박보영 , 멜로왕자와 로맨스 퀸의 만남</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739330871574XVXaU.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
