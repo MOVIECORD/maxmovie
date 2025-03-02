@@ -4,71 +4,89 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Mar 2025 07:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 08:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[0]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 02 Mar 2025 07:08:18 GMT</pubDate>
+            <pubDate>Sun, 02 Mar 2025 08:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 02 Mar 2025 07:08:18 GMT</pubDate>
+            <pubDate>Sun, 02 Mar 2025 08:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 02 Mar 2025 07:08:18 GMT</pubDate>
+            <pubDate>Sun, 02 Mar 2025 08:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 02 Mar 2025 07:08:18 GMT</pubDate>
+            <pubDate>Sun, 02 Mar 2025 08:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 02 Mar 2025 07:08:18 GMT</pubDate>
+            <pubDate>Sun, 02 Mar 2025 08:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 02 Mar 2025 07:08:18 GMT</pubDate>
+            <pubDate>Sun, 02 Mar 2025 08:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 02 Mar 2025 07:08:18 GMT</pubDate>
+            <pubDate>Sun, 02 Mar 2025 08:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 02 Mar 2025 07:08:18 GMT</pubDate>
+            <pubDate>Sun, 02 Mar 2025 08:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Sun, 02 Mar 2025 07:08:18 GMT</pubDate>
+            <pubDate>Sun, 02 Mar 2025 08:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[3·1절 마라톤 션, 독립유공자 후손에 기부금 전달]]></title>
+            <link>https://www.maxmovie.com/news/441744</link>
+            <guid>https://www.maxmovie.com/news/441744</guid>
+            <pubDate>Sun, 02 Mar 2025 08:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[2021년부터 '3.1런' 꾸준하게 참가 
+2억2400만원 가량 기부금 전달해]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17408946908922RJ65.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['응답하라 1997' 서인국·정은지, 다시 뭉쳐 듀엣송 '커플' 공개]]></title>
+            <link>https://www.maxmovie.com/news/441743</link>
+            <guid>https://www.maxmovie.com/news/441743</guid>
+            <pubDate>Sun, 02 Mar 2025 06:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[2012년 tvN 드라마 '응답하라 1997' 커플 
+잭스키스 '커플' 리메이크 버전 함께 부른다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740891356541SVjhg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[맥스무비레터 #92번째 편지] 봉준호 감독의 '미키 17'에 얽힌 비밀들👨 🚀]]></title>
@@ -79,31 +97,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17407787018319JZ2E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] '그 시절...' 다현, "모든 게 다 처음이라서"]]></title>
-            <link>https://www.maxmovie.com/news/441727</link>
-            <guid>https://www.maxmovie.com/news/441727</guid>
-            <pubDate>Fri, 28 Feb 2025 23:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[지난 21일 개봉 로맨스 영화 주연 
-"연기 경험 소중해 앞으로 더 도전"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740722485748n8Rm9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘 뭘 볼까] 티모시 샬라메의 진가, '컴플리트 언노운']]></title>
-            <link>https://www.maxmovie.com/news/441730</link>
-            <guid>https://www.maxmovie.com/news/441730</guid>
-            <pubDate>Fri, 28 Feb 2025 23:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[1960년대  밥 딜런 초기 활약 그려
-최연소 아카데미 남우주연상 겨냥]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740717797344azbni.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['응답하라 1997' 서인국·정은지, 다시 뭉쳐 듀엣송 '커플' 공개]]></title>
-            <link>https://www.maxmovie.com/news/441743</link>
-            <guid>https://www.maxmovie.com/news/441743</guid>
-            <pubDate>Sun, 02 Mar 2025 06:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[2012년 tvN 드라마 '응답하라 1997' 커플 
-잭스키스 '커플' 리메이크 버전 함께 부른다]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740891356541SVjhg.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김선호, 새 보금자리! 차은우 소속사  '판타지오'로]]></title>
+            <link>https://www.maxmovie.com/news/441745</link>
+            <guid>https://www.maxmovie.com/news/441745</guid>
+            <pubDate>Sun, 02 Mar 2025 08:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[솔트엔터테인먼트→ 판타지오 전속 계약
+올해 '이 사랑 통역 되나요?'로 시청자 만나]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17408979848725iVJG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봉준호 감독의 '미키 17' 첫날 24만 동원, 이변 없는 '연휴 1위' 예약]]></title>
@@ -124,6 +124,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740729528247V0b6M.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오늘 뭘 볼까] 티모시 샬라메의 진가, '컴플리트 언노운']]></title>
+            <link>https://www.maxmovie.com/news/441730</link>
+            <guid>https://www.maxmovie.com/news/441730</guid>
+            <pubDate>Fri, 28 Feb 2025 23:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[1960년대  밥 딜런 초기 활약 그려
+최연소 아카데미 남우주연상 겨냥]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740717797344azbni.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['아노라' 5만명, '브루탈리스트' 6만명…오스카 이후엔 어떨까]]></title>
             <link>https://www.maxmovie.com/news/441736</link>
             <guid>https://www.maxmovie.com/news/441736</guid>
@@ -133,14 +142,22 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740735952041jRsex.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['변곡점' 될까, 박보검·아이유에게 '폭싹 속았수다'가 중요한 이유]]></title>
-            <link>https://www.maxmovie.com/news/441729</link>
-            <guid>https://www.maxmovie.com/news/441729</guid>
-            <pubDate>Sun, 02 Mar 2025 07:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[박보검 5년 만의 드라마 출연
-아이유 첫 시대극 도전도 눈길 
-3월7일 넷플릭스 16부작 공개]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740712913008gq3Rm.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[인터뷰] '그 시절...' 다현, "모든 게 다 처음이라서"]]></title>
+            <link>https://www.maxmovie.com/news/441727</link>
+            <guid>https://www.maxmovie.com/news/441727</guid>
+            <pubDate>Fri, 28 Feb 2025 23:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[지난 21일 개봉 로맨스 영화 주연 
+"연기 경험 소중해 앞으로 더 도전"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740722485748n8Rm9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가수 존박, 한국대중음악상 최우수 팝 음반 부문 수상]]></title>
+            <link>https://www.maxmovie.com/news/441735</link>
+            <guid>https://www.maxmovie.com/news/441735</guid>
+            <pubDate>Sun, 02 Mar 2025 08:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 발표한 정규 2집 'PSST!'의 성과
+"앨범을 기다려준 팬들에게 감사하다"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740724220468hplf8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연휴에 극장서 뭘 볼까, 봉준호의 '미키 17' VS 신인 감독의 '괜괜괜!']]></title>
@@ -161,16 +178,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740703834690XLcN4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세계적 거장과 배우로 재회한 봉준호와 스티븐 연]]></title>
-            <link>https://www.maxmovie.com/news/441728</link>
-            <guid>https://www.maxmovie.com/news/441728</guid>
-            <pubDate>Sun, 02 Mar 2025 07:08:18 GMT</pubDate>
-            <content:encoded><![CDATA['옥자' 이후 '미키 17'로 8년 만에 재회
-선악 구분 모호한 현실적 인물 표현
-"완벽한 준비 보여주고 자율성 존중"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740711006260u4LgE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[인터뷰] '그 시절 우리가 좋아했던 소녀' 진영 "사랑에는 타이밍이 중요하죠"]]></title>
             <link>https://www.maxmovie.com/news/441713</link>
             <guid>https://www.maxmovie.com/news/441713</guid>
@@ -178,6 +185,16 @@
             <content:encoded><![CDATA[지난 21일 개봉 다현과 풋풋한 첫사랑 
 "학창 시절 떠올리면서 나를 녹여냈다"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740651586865rRxhG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미리 보는 오스카] 한국 영화 후보는? 실시간으로 보려면?]]></title>
+            <link>https://www.maxmovie.com/news/441723</link>
+            <guid>https://www.maxmovie.com/news/441723</guid>
+            <pubDate>Sun, 02 Mar 2025 08:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[제97회 아카데미 3월3일 LA 돌비극장
+TV 생중계 OCN→ 스트리밍 디즈니+
+블랙핑크 리사, K팝가수 첫 축하 공연]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740642357365nWvHN.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[데일리 핫이슈] 하츠투하츠 루머에 법적 대응, 이준혁 커피 프랜차이즈 모델 발탁 외]]></title>
@@ -205,23 +222,6 @@
             <content:encoded><![CDATA[향수 자극하는 원작부터 장르의 다변화 
 '미스터 로봇'·'나쁜 계집애: 달려라 하니']]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17405557766182Ew4E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['영화과 입장권 부과금' 부활…국회 본회의 통과]]></title>
-            <link>https://www.maxmovie.com/news/441722</link>
-            <guid>https://www.maxmovie.com/news/441722</guid>
-            <pubDate>Sun, 02 Mar 2025 07:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[입장권 가액의 3% 징수…강행 규정으로 변경]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740642315684sKDJ4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['봉칠'이는 1000만 흥행, '봉팔'이는 어떨까]]></title>
-            <link>https://www.maxmovie.com/news/441721</link>
-            <guid>https://www.maxmovie.com/news/441721</guid>
-            <pubDate>Sun, 02 Mar 2025 07:08:18 GMT</pubDate>
-            <content:encoded><![CDATA['미키17' 개봉 하루 전 30만명 육박
-비수기 극장가 구원투수 역할 할까]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17406370661810DZ6Q.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
