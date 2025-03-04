@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 21:09:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 22:09:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 04 Mar 2025 21:08:29 GMT</pubDate>
+            <pubDate>Tue, 04 Mar 2025 22:09:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 04 Mar 2025 21:08:29 GMT</pubDate>
+            <pubDate>Tue, 04 Mar 2025 22:09:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 04 Mar 2025 21:08:29 GMT</pubDate>
+            <pubDate>Tue, 04 Mar 2025 22:09:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 04 Mar 2025 21:08:29 GMT</pubDate>
+            <pubDate>Tue, 04 Mar 2025 22:09:18 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 04 Mar 2025 21:08:29 GMT</pubDate>
+            <pubDate>Tue, 04 Mar 2025 22:09:18 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 04 Mar 2025 21:08:29 GMT</pubDate>
+            <pubDate>Tue, 04 Mar 2025 22:09:18 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 04 Mar 2025 21:08:29 GMT</pubDate>
+            <pubDate>Tue, 04 Mar 2025 22:09:18 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 04 Mar 2025 21:08:29 GMT</pubDate>
+            <pubDate>Tue, 04 Mar 2025 22:09:18 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Tue, 04 Mar 2025 21:08:29 GMT</pubDate>
+            <pubDate>Tue, 04 Mar 2025 22:09:18 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -99,6 +99,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1741059640402k8mRG.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[데일리 핫이슈] 장재현 '퇴마록' GV 나선다·BTS 뷔 "특급전사 됐다" 외 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441774</link>
+            <guid>https://www.maxmovie.com/news/441774</guid>
+            <pubDate>Tue, 04 Mar 2025 22:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1741096307855NbTDc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아카데미 시상식의 '결정적인 순간들' (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/441755</link>
             <guid>https://www.maxmovie.com/news/441755</guid>
@@ -106,6 +114,16 @@
             <content:encoded><![CDATA[5분 넘게 소감 말한 애드리언 브로디
 LA 산불 위로, 고 진 해크먼 추모까지]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1741063407667lkFD0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최초의 기록 세운 '오스카 4관왕' 숀 베이커 감독의 세계는? (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441761</link>
+            <guid>https://www.maxmovie.com/news/441761</guid>
+            <pubDate>Tue, 04 Mar 2025 22:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[제작·연출·각본·편집까지 모든 작업에 참여
+사회의 가장 약한 고리 집요하게 파고들어
+'아노라'로 황금종려상 이어 오스카 작품상]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1741050689281EkjlW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송혜교의 '검은 수녀들' 이제 안방에서 본다 (맥스무비)]]></title>
@@ -126,15 +144,6 @@ LA 산불 위로, 고 진 해크먼 추모까지]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1741052897785PvoLo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[3·1절 연휴 극장 승자는 봉준호의 '미키 17'...104만명 동원 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441756</link>
-            <guid>https://www.maxmovie.com/news/441756</guid>
-            <pubDate>Tue, 04 Mar 2025 21:08:29 GMT</pubDate>
-            <content:encoded><![CDATA['기생충' 이후 6년만의 봉준호 감독 신작
-올해 개봉작 가운데 최다 오프닝스코어]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17410480194529Ccqn.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[오늘 뭘 볼까] 사이버 테러 배후 추적하는 전직 대통령 '제로 데이' (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/441757</link>
             <guid>https://www.maxmovie.com/news/441757</guid>
@@ -142,6 +151,14 @@ LA 산불 위로, 고 진 해크먼 추모까지]]></content:encoded>
             <content:encoded><![CDATA[로버트 드니로 주연의 정치 스릴러
 관록의 연기로 팽팽한 긴장감 형성]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1741047649836imXDD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데일리 핫이슈] 오스카에서 열창한 블핑 리사, 조정석 데뷔 후 첫 뮤직비디오 출연 외 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441754</link>
+            <guid>https://www.maxmovie.com/news/441754</guid>
+            <pubDate>Tue, 04 Mar 2025 22:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17410085520374rAmN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[칸 이어 오스카까지, '아노라'는 어떻게 시상식의 주인공이 됐나 (맥스무비)]]></title>
@@ -162,15 +179,6 @@ LA 산불 위로, 고 진 해크먼 추모까지]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740990916554P00sO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조인성, 13년 몸담았던 소속사 떠난다 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441751</link>
-            <guid>https://www.maxmovie.com/news/441751</guid>
-            <pubDate>Tue, 04 Mar 2025 21:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[2012년 전속계약 맺고 13년간  동행
-차기작 나홍진 '호프'·류승완 '휴민트']]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740986234232tOt93.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[아카데미] 데미 무어 제친 마이키 매디슨, 오스카 신데렐라 등극 (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/441750</link>
             <guid>https://www.maxmovie.com/news/441750</guid>
@@ -178,6 +186,15 @@ LA 산불 위로, 고 진 해크먼 추모까지]]></content:encoded>
             <content:encoded><![CDATA[모두의 예측 깨고 여우주연상 영예
 성 노동자가 겪는 냉혹한 현실 그려]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740984160202rsG4d.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[아카데미 종합] '아노라' 작품상 등 5관왕 독주, 올해 오스카 주인공 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/441749</link>
+            <guid>https://www.maxmovie.com/news/441749</guid>
+            <pubDate>Tue, 04 Mar 2025 22:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[숀 베이커 감독, 편집상·각본상·감독상
+마이키 매디슨, 오스카 신데렐라 등극]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740973779508XLBAO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이것이 봉준호 파워! 압도적 기세로 100만 사로잡은 '미키 17' (맥스무비)]]></title>
@@ -206,24 +223,6 @@ LA 산불 위로, 고 진 해크먼 추모까지]]></content:encoded>
             <content:encoded><![CDATA[솔트엔터테인먼트→ 판타지오 전속 계약
 올해 '이 사랑 통역 되나요?'로 시청자 만나]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17408979848725iVJG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3·1절 마라톤 션, 독립유공자 후손에 기부금 전달 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441744</link>
-            <guid>https://www.maxmovie.com/news/441744</guid>
-            <pubDate>Tue, 04 Mar 2025 21:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021년부터 '3.1런' 꾸준하게 참가 
-2억2400만원 가량 기부금 전달해]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17408946908922RJ65.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['응답하라 1997' 서인국·정은지, 다시 뭉쳐 듀엣송 '커플' 공개 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/441743</link>
-            <guid>https://www.maxmovie.com/news/441743</guid>
-            <pubDate>Tue, 04 Mar 2025 03:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[2012년 tvN 드라마 '응답하라 1997' 커플 
-잭스키스 '커플' 리메이크 버전 함께 부른다]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740891356541SVjhg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 영화 '로비' 예매 부르는 명품 배우들 (맥스무비 ─ 포토)]]></title>
