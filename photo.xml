@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 02:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 03:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[맥스포토] 배우들이 말하는 감독 하정우는?]]></title>
+            <link>https://www.maxmovie.com/news/441760</link>
+            <guid>https://www.maxmovie.com/news/441760</guid>
+            <pubDate>Tue, 04 Mar 2025 03:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/441760"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1741056014178BSQ5u.png" alt=""></span><span class="textBox"><h4>[맥스포토] 배우들이 말하는 감독 하정우는?</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1741056014178BSQ5u.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[위클리 포토] 손예진의 이 미모는 '어쩔수가없다']]></title>
             <link>https://www.maxmovie.com/news/441733</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 03 Mar 2025 23:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/441528"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1739331603406yQUba.png" alt=""></span><span class="textBox"><h4>[맥스포토] 이준영, 작곡가 변신</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739331603406yQUba.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 전소니, 블랙시스루 자태]]></title>
-            <link>https://www.maxmovie.com/news/441527</link>
-            <guid>https://www.maxmovie.com/news/441527</guid>
-            <pubDate>Mon, 03 Mar 2025 23:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/441527"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17393312193372Iy9m.png" alt=""></span><span class="textBox"><h4>[맥스포토] 전소니, 블랙시스루 자태</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17393312193372Iy9m.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
