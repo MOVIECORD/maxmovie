@@ -4,9 +4,25 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 02:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 03:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[맥스포토] 아이유, 눈부시게 아름다운 자태]]></title>
+            <link>https://www.maxmovie.com/news/441783</link>
+            <guid>https://www.maxmovie.com/news/441783</guid>
+            <pubDate>Wed, 05 Mar 2025 03:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/441783"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1741144546935334df.png" alt=""></span><span class="textBox"><h4>[맥스포토] 아이유, 눈부시게 아름다운 자태</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1741144546935334df.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 박보검, 봄을 품고 온 미소]]></title>
+            <link>https://www.maxmovie.com/news/441782</link>
+            <guid>https://www.maxmovie.com/news/441782</guid>
+            <pubDate>Wed, 05 Mar 2025 03:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/441782"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1741144116818npr20.png" alt=""></span><span class="textBox"><h4>[맥스포토] 박보검, 봄을 품고 온 미소 </h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1741144116818npr20.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[맥스포토] 영화 '로비' 예매 부르는 명품 배우들]]></title>
             <link>https://www.maxmovie.com/news/441770</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 03 Mar 2025 23:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/441625"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1740021617979vmNXr.png" alt=""></span><span class="textBox"><h4>[맥스포토] 나오미 애키, 볼하트로 내한 인사</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740021617979vmNXr.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 다현·진영, 풋풋한 첫사랑 커플]]></title>
-            <link>https://www.maxmovie.com/news/441614</link>
-            <guid>https://www.maxmovie.com/news/441614</guid>
-            <pubDate>Mon, 03 Mar 2025 23:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/441614"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1739960857098odFiJ.png" alt=""></span><span class="textBox"><h4>[맥스포토] 다현·진영, 풋풋한 첫사랑 커플</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1739960857098odFiJ.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥스포토] 진영, 6년 만에 스크린 컴백]]></title>
-            <link>https://www.maxmovie.com/news/441613</link>
-            <guid>https://www.maxmovie.com/news/441613</guid>
-            <pubDate>Mon, 03 Mar 2025 23:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/441613"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/17399605508148wmWf.png" alt=""></span><span class="textBox"><h4>[맥스포토] 진영, 6년 만에 스크린 컴백</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17399605508148wmWf.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
