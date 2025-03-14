@@ -4,17 +4,9 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 07:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 08:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[맥스포토] 마츠시게 유타카, 한국에 뜬 고로상]]></title>
-            <link>https://www.maxmovie.com/news/441903</link>
-            <guid>https://www.maxmovie.com/news/441903</guid>
-            <pubDate>Thu, 13 Mar 2025 11:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/441903"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1741852395748UeNo7.png" alt=""></span><span class="textBox"><h4>[맥스포토] 마츠시게 유타카, 한국에 뜬 고로상</h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1741852395748UeNo7.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[맥스포토] 영화 '야당' 팀워크 돋보이는 포토타임]]></title>
             <link>https://www.maxmovie.com/news/441897</link>
@@ -246,6 +238,14 @@
             <pubDate>Fri, 07 Mar 2025 10:10:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/441703"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1740539712356Z9gGv.png" alt=""></span><span class="textBox"><h4>[맥스포토] 강하늘, 감독과 꿀 떨어지는 포토타임  </h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1740539712356Z9gGv.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스포토] 마츠시게 유타카, 한국에 뜬 고로상]]></title>
+            <link>https://www.maxmovie.com/news/441903</link>
+            <guid>https://www.maxmovie.com/news/441903</guid>
+            <pubDate>Thu, 13 Mar 2025 11:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/441903"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1741852395748UeNo7.png" alt=""></span><span class="textBox"><h4>[맥스포토] 마츠시게 유타카, 한국에 뜬 고로상</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1741852395748UeNo7.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
