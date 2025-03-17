@@ -4,80 +4,90 @@
         <title>맥스무비</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 04:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 05:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[0]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 17 Mar 2025 04:12:40 GMT</pubDate>
+            <pubDate>Mon, 17 Mar 2025 05:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 17 Mar 2025 04:12:40 GMT</pubDate>
+            <pubDate>Mon, 17 Mar 2025 05:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 17 Mar 2025 04:12:40 GMT</pubDate>
+            <pubDate>Mon, 17 Mar 2025 05:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 17 Mar 2025 04:12:40 GMT</pubDate>
+            <pubDate>Mon, 17 Mar 2025 05:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 17 Mar 2025 04:12:40 GMT</pubDate>
+            <pubDate>Mon, 17 Mar 2025 05:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 17 Mar 2025 04:12:40 GMT</pubDate>
+            <pubDate>Mon, 17 Mar 2025 05:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 17 Mar 2025 04:12:40 GMT</pubDate>
+            <pubDate>Mon, 17 Mar 2025 05:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 17 Mar 2025 04:12:40 GMT</pubDate>
+            <pubDate>Mon, 17 Mar 2025 05:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8]]></title>
             <link>https://www.maxmovie.com/</link>
             <guid>https://www.maxmovie.com/</guid>
-            <pubDate>Mon, 17 Mar 2025 04:12:40 GMT</pubDate>
+            <pubDate>Mon, 17 Mar 2025 05:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[봉준호의 '미키 17', 주말 박스오피스 1위...북미는 2위로 하락]]></title>
-            <link>https://www.maxmovie.com/news/441931</link>
-            <guid>https://www.maxmovie.com/news/441931</guid>
-            <pubDate>Mon, 17 Mar 2025 03:24:38 GMT</pubDate>
-            <content:encoded><![CDATA['미키 17' 누적 관객 수 260만명 달성
-북미는 '노보케인'에 1위 자리 내줘]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1742170969080IEAnC.png" length="0" type="image/png"/>
+            <title><![CDATA[강하늘, 주연작 '30일' 연출 남대중 감독과 다시 의기투합]]></title>
+            <link>https://www.maxmovie.com/news/441935</link>
+            <guid>https://www.maxmovie.com/news/441935</guid>
+            <pubDate>Mon, 17 Mar 2025 05:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[신작 영화 '퍼스트라이드'로 재회
+'오징어 게임2' 글로벌 명성 획득]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1742178764972TK2ny.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[움파룸파 이어 공포영화 악역, 휴 그랜트의 변신]]></title>
+            <link>https://www.maxmovie.com/news/441933</link>
+            <guid>https://www.maxmovie.com/news/441933</guid>
+            <pubDate>Mon, 17 Mar 2025 05:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[4월3일 개봉하는 영화 '헤레틱' 주연 
+두 소녀의 믿음 흔드는 의문의 집주인
+'그것'·'웡카' 등 정정훈 촬영 감독 참여]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1742180488758a1JtU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정주리 감독의 '다음 소희', 북미에서 5월 개봉]]></title>
@@ -89,13 +99,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/174217317737407h8w.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[오늘 뭘 볼까] 루소 형제 감독의 레트로 SF영화 '일렉트릭 스테이트']]></title>
-            <link>https://www.maxmovie.com/news/441932</link>
-            <guid>https://www.maxmovie.com/news/441932</guid>
-            <pubDate>Mon, 17 Mar 2025 00:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[평행 세계 존재하는 1990년대 배경
-'어벤져스' 시리즈 감독의 새 연출작]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1742170304426OllHm.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[봉준호의 '미키 17', 주말 박스오피스 1위...북미는 2위로 하락]]></title>
+            <link>https://www.maxmovie.com/news/441931</link>
+            <guid>https://www.maxmovie.com/news/441931</guid>
+            <pubDate>Mon, 17 Mar 2025 03:24:38 GMT</pubDate>
+            <content:encoded><![CDATA['미키 17' 누적 관객 수 260만명 달성
+북미는 '노보케인'에 1위 자리 내줘]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1742170969080IEAnC.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['파묘', 아시아필름어워즈 의상상 등 2관왕..장동건, 아시아영화액셀런스상]]></title>
@@ -105,6 +115,15 @@
             <content:encoded><![CDATA[16일 18회 시상식, 11개 부문 후보 아쉬움 
 '하얼빈' 홍경표 촬영감독은 촬영상 수상]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17421313778358m7CH.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[김새론 유족의 분노..명예훼손 혐의 유튜버 고소한다]]></title>
+            <link>https://www.maxmovie.com/news/441928</link>
+            <guid>https://www.maxmovie.com/news/441928</guid>
+            <pubDate>Mon, 17 Mar 2025 05:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[17일 기자 출신 유튜버 이모씨 경찰 고소
+"악의적 범죄행위 단죄 발판 마련한다"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1742121446698644KW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[15년 만에 재결합한 영국 밴드 오아시스의 영화 나온다]]></title>
@@ -125,15 +144,6 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17421053547046Ha2h.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["진짜 디즈니 공주 같다" 수지, '백설공주' OST 뮤직비디오 화제]]></title>
-            <link>https://www.maxmovie.com/news/441924</link>
-            <guid>https://www.maxmovie.com/news/441924</guid>
-            <pubDate>Mon, 17 Mar 2025 03:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[19일 개봉 영화 백설공주' 컬래버 작품
-"백설공주, 한국에?" 누리꾼 잇단 찬사]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1742100695496o8JgA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[칸 영화제 감독상 미겔 고메스의 '그랜드 투어',  26일 개봉]]></title>
             <link>https://www.maxmovie.com/news/441922</link>
             <guid>https://www.maxmovie.com/news/441922</guid>
@@ -141,6 +151,15 @@
             <content:encoded><![CDATA[1918년 버마 배경 결혼 둘러싼 남녀 이야기 
 감염병 확산에 원격 연출.."초현실적 방식"]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1742095153369MpLoX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["삶이 귤을 줄 때"..제주 방언 '폭싹 속았수다'  해외 번역, 제대로네!]]></title>
+            <link>https://www.maxmovie.com/news/441921</link>
+            <guid>https://www.maxmovie.com/news/441921</guid>
+            <pubDate>Mon, 17 Mar 2025 05:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[7일 공개 이후 글로벌 인기 속 호기심 ↑
+이야기와 걸맞은 해외 번역 감성 눈길]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1742091073746sbwxR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김수현, 잇단 광고모델 해지..최대 위기 직면]]></title>
@@ -161,22 +180,12 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1742086737615H66Uc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[오늘 뭘 볼까] 광기와 광기의 폭발, 영화 '위플래쉬']]></title>
-            <link>https://www.maxmovie.com/news/441913</link>
-            <guid>https://www.maxmovie.com/news/441913</guid>
-            <pubDate>Mon, 17 Mar 2025 02:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[2015년 개봉 160만 동원 흥행
-'라라랜드' 감독의 초기작 관심]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1741932332339l1OH8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["뵙고 싶다" 김수현 측에 김새론 모친 "공식 사과" 요구]]></title>
-            <link>https://www.maxmovie.com/news/441919</link>
-            <guid>https://www.maxmovie.com/news/441919</guid>
-            <pubDate>Mon, 17 Mar 2025 03:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[김수현 측 "어머니께 충분히 설명하고 싶다"
-김새론 측 "그동안 과정 인정하고 사과해야"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1742046615840JH5De.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[위클리 이슈 모음zip] 배우 김수현 '고 김새론' 관련 "성인된 뒤 교제",  유연석 세금 70억원 추징 외]]></title>
+            <link>https://www.maxmovie.com/news/441916</link>
+            <guid>https://www.maxmovie.com/news/441916</guid>
+            <pubDate>Mon, 17 Mar 2025 05:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[한 주간 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1741944844605XalvZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '고독한 미식가' 마츠시게 유타카 "먹고 사는 일 걱정할 때 만난 고로상"]]></title>
@@ -195,15 +204,6 @@
             <pubDate>Mon, 17 Mar 2025 02:19:55 GMT</pubDate>
             <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1741940669408CwLTN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[위클리 포토] '괴물 신인' 채원빈의 낯설 얼굴]]></title>
-            <link>https://www.maxmovie.com/news/441915</link>
-            <guid>https://www.maxmovie.com/news/441915</guid>
-            <pubDate>Mon, 17 Mar 2025 02:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 '이토록 친밀한 배신자' 주목 
-4월23일 개봉 영화 '야당' 주연 도약]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1741933977544UnPK5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '선의의 경쟁' 정수빈 "함께 하는 기쁨으로"]]></title>
