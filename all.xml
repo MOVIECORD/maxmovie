@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Mar 2025 04:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Mar 2025 05:09:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sun, 23 Mar 2025 04:10:51 GMT</pubDate>
+            <pubDate>Sun, 23 Mar 2025 05:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sun, 23 Mar 2025 04:10:51 GMT</pubDate>
+            <pubDate>Sun, 23 Mar 2025 05:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sun, 23 Mar 2025 04:10:51 GMT</pubDate>
+            <pubDate>Sun, 23 Mar 2025 05:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sun, 23 Mar 2025 04:10:51 GMT</pubDate>
+            <pubDate>Sun, 23 Mar 2025 05:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sun, 23 Mar 2025 04:10:51 GMT</pubDate>
+            <pubDate>Sun, 23 Mar 2025 05:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sun, 23 Mar 2025 04:10:51 GMT</pubDate>
+            <pubDate>Sun, 23 Mar 2025 05:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sun, 23 Mar 2025 04:10:51 GMT</pubDate>
+            <pubDate>Sun, 23 Mar 2025 05:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sun, 23 Mar 2025 04:10:51 GMT</pubDate>
+            <pubDate>Sun, 23 Mar 2025 05:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sun, 23 Mar 2025 04:10:51 GMT</pubDate>
+            <pubDate>Sun, 23 Mar 2025 05:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -226,6 +226,105 @@ SNS가 지배하는 10대들의 잔혹한 세상
             <content:encoded><![CDATA[애니 '퇴마록' 26일 인도네시아 개봉
 '파묘' 250만·'검은 수녀들' 100만 동원]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1742459934662CzHN2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
+            <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
+            <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
+            <pubDate>Sun, 23 Mar 2025 05:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
+            <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
+            <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
+            <pubDate>Sun, 23 Mar 2025 05:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
+            <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
+            <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
+            <pubDate>Sun, 23 Mar 2025 05:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
+            <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
+            <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
+            <pubDate>Sun, 23 Mar 2025 05:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
+            <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
+            <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
+            <pubDate>Sun, 23 Mar 2025 05:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
+            <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
+            <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
+            <pubDate>Sun, 23 Mar 2025 05:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
+            <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
+            <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
+            <pubDate>Sun, 23 Mar 2025 05:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
+            <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
+            <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
+            <pubDate>Sun, 23 Mar 2025 05:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (맥스무비 ─ OTT)]]></title>
+            <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
+            <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
+            <pubDate>Sun, 23 Mar 2025 05:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[#Shorts] 영화·연극 넘나드는 안소희 "용기를 내고 있다" (맥스무비 ─ OTT)]]></title>
+            <link>https://www.maxmovie.com/news/438631</link>
+            <guid>https://www.maxmovie.com/news/438631</guid>
+            <pubDate>Sun, 23 Mar 2025 05:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '대치동 스캔들'과 연극 '클로저' 활약
+맥스무비‧BIFAN 기획 '스트리트: 팬터뷰']]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1721097999335CEYbv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#Shorts] 강제규 감독 "블록버스터라는 용어 사라진다" 예측 이유는? (맥스무비 ─ OTT)]]></title>
+            <link>https://www.maxmovie.com/news/438630</link>
+            <guid>https://www.maxmovie.com/news/438630</guid>
+            <pubDate>Sun, 23 Mar 2025 05:09:41 GMT</pubDate>
+            <content:encoded><![CDATA['쉬리'로 블록버스터 시대 연 강제규 감독
+맥스무비‧BIFAN 기획 '스트리트: 팬터뷰']]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1721096821461ZEAx6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#Shorts] 강제규 감독 "블록버스터라는 용어 사라진다" 예측 이유는? (맥스무비 ─ OTT)]]></title>
+            <link>https://www.maxmovie.com/news/438630</link>
+            <guid>https://www.maxmovie.com/news/438630</guid>
+            <pubDate>Sun, 23 Mar 2025 05:09:41 GMT</pubDate>
+            <content:encoded><![CDATA['쉬리'로 블록버스터 시대 연 강제규 감독
+맥스무비‧BIFAN 기획 '스트리트: 팬터뷰']]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1721096821461ZEAx6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#Shorts] 강제규 감독 "블록버스터라는 용어 사라진다" 예측 이유는? (맥스무비 ─ OTT)]]></title>
+            <link>https://www.maxmovie.com/news/438630</link>
+            <guid>https://www.maxmovie.com/news/438630</guid>
+            <pubDate>Sun, 23 Mar 2025 05:09:41 GMT</pubDate>
+            <content:encoded><![CDATA['쉬리'로 블록버스터 시대 연 강제규 감독
+맥스무비‧BIFAN 기획 '스트리트: 팬터뷰']]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1721096821461ZEAx6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[위클리 포토] '빛날 빈 자매' 박은빈과 신현빈, 대체불가 매력 (맥스무비 ─ 포토)]]></title>
