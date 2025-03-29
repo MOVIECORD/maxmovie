@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Mar 2025 05:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Mar 2025 06:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 29 Mar 2025 05:08:55 GMT</pubDate>
+            <pubDate>Sat, 29 Mar 2025 06:11:59 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 29 Mar 2025 05:08:55 GMT</pubDate>
+            <pubDate>Sat, 29 Mar 2025 06:11:59 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 29 Mar 2025 05:08:55 GMT</pubDate>
+            <pubDate>Sat, 29 Mar 2025 06:11:59 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 29 Mar 2025 05:08:55 GMT</pubDate>
+            <pubDate>Sat, 29 Mar 2025 06:11:59 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 29 Mar 2025 05:08:55 GMT</pubDate>
+            <pubDate>Sat, 29 Mar 2025 06:11:59 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 29 Mar 2025 05:08:55 GMT</pubDate>
+            <pubDate>Sat, 29 Mar 2025 06:11:59 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 29 Mar 2025 05:08:55 GMT</pubDate>
+            <pubDate>Sat, 29 Mar 2025 06:11:59 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 29 Mar 2025 05:08:55 GMT</pubDate>
+            <pubDate>Sat, 29 Mar 2025 06:11:59 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 29 Mar 2025 05:08:55 GMT</pubDate>
+            <pubDate>Sat, 29 Mar 2025 06:11:59 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -91,6 +91,15 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17431402476238sYAo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[위클리 포토] 차주영의 스크린 데뷔 현장, 하트도 우아하게 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/442092</link>
+            <guid>https://www.maxmovie.com/news/442092</guid>
+            <pubDate>Sat, 29 Mar 2025 06:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[4월2일 개봉 '로비'로 첫 영화 데뷔
+"가장 풀어지고 흐트러진 캐릭터"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743152644204VqvZM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오늘 뭘 볼까] 베네딕트 컴버배치 제작, 영화 '끝 새로운 시작' (맥스무비)]]></title>
             <link>https://www.maxmovie.com/news/442091</link>
             <guid>https://www.maxmovie.com/news/442091</guid>
@@ -100,13 +109,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17431414661839BsPL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[육성재·김지연의 '귀궁'...이무기와 무녀의 로맨스 온다 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/442088</link>
-            <guid>https://www.maxmovie.com/news/442088</guid>
-            <pubDate>Sat, 29 Mar 2025 05:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[운명을 거부하는 이들의 판타지 사극
-1인2역 소화하는 육성재의 연기 도전]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17431404038257lMWW.png" length="0" type="image/png"/>
+            <title><![CDATA[['폭싹' 최애 커플 투표] 아이유와 박보검 VS 김선호 '4대 커플' 매력탐구 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/442082</link>
+            <guid>https://www.maxmovie.com/news/442082</guid>
+            <pubDate>Sat, 29 Mar 2025 06:12:00 GMT</pubDate>
+            <content:encoded><![CDATA['내 맘을 폭싹 빼앗은 최애 커플은?' 설문 
+25~27일 맥스무비 SNS 총 1198명 참여
+4색의 커플들이 그리는 사랑의 가치들]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743130875319zfcgL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[['폭싹' 최애 커플 투표]  1위 금명과 충섭, 아이유와 김선호 (맥스무비)]]></title>
@@ -137,13 +147,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743124928597notFY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주말 뭘 볼까, 인생의 고비 '승부' VS 일상의 공포 '라스트 마일' (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/442084</link>
-            <guid>https://www.maxmovie.com/news/442084</guid>
-            <pubDate>Sat, 29 Mar 2025 05:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[조훈현과 이창호의 사제 대결 실화
-'만약 내 집 앞에 폭탄이 배달된다면']]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743124770903UQS5z.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[리뷰: 포테이토 지수 75%] '뉴토피아', 박정민·지수의 아쉬운 좀비코미디 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/442073</link>
+            <guid>https://www.maxmovie.com/news/442073</guid>
+            <pubDate>Sat, 29 Mar 2025 06:12:00 GMT</pubDate>
+            <content:encoded><![CDATA['사냥의 시간' 윤성현 감독 연출 
+과장된 캐릭터들 변화 없이 지속]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743061020101KohWb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[데일리 핫이슈] 공유·세븐틴 산불 피해 기부, 추영우 '롱베케이션' 출연 외 (맥스무비)]]></title>
@@ -172,14 +182,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17430649440532cuiz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[논란이 현실로...'백설공주'가 또 드러낸 디즈니의 실사화 한계 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/442077</link>
-            <guid>https://www.maxmovie.com/news/442077</guid>
-            <pubDate>Sat, 29 Mar 2025 05:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 첫 주말 성적, 예상 수익에도 못 미쳐
-현대적인 해석, 억지스럽다는 평가 이어져
-"무의미하고 어색한 실사 리메이크로 전락"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743053394484P7Odq.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[전반부 지난 '하이퍼나이프', 강점과 약점 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/442066</link>
+            <guid>https://www.maxmovie.com/news/442066</guid>
+            <pubDate>Sat, 29 Mar 2025 06:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[장르 차별화, 박은빈과 설경구 연기
+높은 수위 표현, 비현질적인 캐릭터]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743044879724ki0CZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["왜 나를 킬러에?"…이혜영이 밝힌 '파과' 자신감 (맥스무비)]]></title>
@@ -220,16 +229,6 @@
 이병헌·유아인 연기에 주목
 극장 극심한 가뭄에 단비 기대]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743045813127nl7qp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전도연·배용준의 '스캔들'→손예진·지창욱의 '스캔들'로 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/442070</link>
-            <guid>https://www.maxmovie.com/news/442070</guid>
-            <pubDate>Sat, 29 Mar 2025 05:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '스캔들-조선남녀상열지사' 시리즈로 
-엄격한 유교 조선시대 배경 위태로운 사랑
-'어쩔수가없다' 잇는 손예진의 연기 변신]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743040221225yHgr8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 이수혁·하윤경, 스크린 첫 만남 (맥스무비 ─ 포토)]]></title>
