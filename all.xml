@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 06:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 07:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 04 Apr 2025 06:13:50 GMT</pubDate>
+            <pubDate>Fri, 04 Apr 2025 07:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 04 Apr 2025 06:13:50 GMT</pubDate>
+            <pubDate>Fri, 04 Apr 2025 07:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 04 Apr 2025 06:13:50 GMT</pubDate>
+            <pubDate>Fri, 04 Apr 2025 07:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 04 Apr 2025 06:13:50 GMT</pubDate>
+            <pubDate>Fri, 04 Apr 2025 07:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 04 Apr 2025 06:13:50 GMT</pubDate>
+            <pubDate>Fri, 04 Apr 2025 07:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 04 Apr 2025 06:13:50 GMT</pubDate>
+            <pubDate>Fri, 04 Apr 2025 07:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 04 Apr 2025 06:13:50 GMT</pubDate>
+            <pubDate>Fri, 04 Apr 2025 07:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 04 Apr 2025 06:13:50 GMT</pubDate>
+            <pubDate>Fri, 04 Apr 2025 07:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 04 Apr 2025 06:13:50 GMT</pubDate>
+            <pubDate>Fri, 04 Apr 2025 07:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -99,13 +99,22 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743727391186ifRK6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[전문] "피청구인 대통령 윤석열을 파면한다"..헌재 선고 요지 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/442188</link>
-            <guid>https://www.maxmovie.com/news/442188</guid>
-            <pubDate>Fri, 04 Apr 2025 03:25:24 GMT</pubDate>
-            <content:encoded><![CDATA[헌재, 4일 재판관 8명 전원일치 "尹 파면"
-"尹, 헌법 수호 관점에서 용납될 수 없다"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17437368441619aTq9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[탄핵 촉구 집회 선결제 "아이유, 헌법 숨결 지킨 문화적 주체" (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/442192</link>
+            <guid>https://www.maxmovie.com/news/442192</guid>
+            <pubDate>Fri, 04 Apr 2025 07:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[아이유 팬덤, 4일 헌재 "윤석열 파면" 선고 환영
+"집회 선결제 방식은  헌법 지켜낸 문화적 혜안"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743747578458kmr2w.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감성과 스케일...K스타일 '미스터 로봇' 애니 열풍 이어갈까 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/442181</link>
+            <guid>https://www.maxmovie.com/news/442181</guid>
+            <pubDate>Fri, 04 Apr 2025 07:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[로봇과 소녀의 특별한 우정과 모험 
+대규모 추격전 등 액션 스케일 갖춰]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743727021665xp7E4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['승부' 효과...유아인 주연 '하이파이브'도 6월 개봉 (맥스무비)]]></title>
@@ -134,13 +143,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743657990033a8iLG.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[영화 '해피엔드' 감독 네오 소라·배우 쿠리하라 하야토·히다카 유키토 내한 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/442176</link>
-            <guid>https://www.maxmovie.com/news/442176</guid>
-            <pubDate>Thu, 03 Apr 2025 13:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[오는 4월30일 개봉 맞춰, 24일~27일 내한 
-'류이치 사카모토: 오퍼스' 감독 네오 소라]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743669746886inQPJ.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[로코 장인은 어디에…휴 그랜트의 '두 얼굴' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/442177</link>
+            <guid>https://www.maxmovie.com/news/442177</guid>
+            <pubDate>Fri, 04 Apr 2025 07:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[광기에 사로잡힌 집주인
+미워할 수 없는 바람둥이]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17436679395278wmLO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이유가 밝힌, 박보검·이준영·김선호 그리고 최대훈에 대하여 (맥스무비)]]></title>
@@ -170,14 +179,14 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743658724715aylnC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스포일러 주의! 박해수· 신민아·이광수의 '악연' 3대 키워드 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/442167</link>
-            <guid>https://www.maxmovie.com/news/442167</guid>
-            <pubDate>Thu, 03 Apr 2025 09:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[4일 공개 넷플릭스 오리지널 시리즈 
-벗어날 수 없는 악연으로 얽힌 인물들
-이일형 감독 "실타래 풀 듯 알아가길"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17436456904019KFV8.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아이유부터 강유석까지, 벌써 그리운 '폭싹' 배우들 차기작 총정리 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/442169</link>
+            <guid>https://www.maxmovie.com/news/442169</guid>
+            <pubDate>Fri, 04 Apr 2025 07:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[작품의 성공 누릴 새 없이 주연작 참여 
+최대 발견 '학씨' 최대훈 또 빌런 예고
+염혜란 무려  5편의 영화 공개 대기 중]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743639995325lV4kY.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[김수현의 '리얼' 8년 만에 또 논란의 중심...괴작과 망작 사이 (맥스무비)]]></title>
@@ -215,14 +224,6 @@
             <content:encoded><![CDATA[새 소속사와 전속 계약, 영화 '열대야' 등 개봉
 2012년 데뷔 '태양의 후예' 'Mr. 플랑크톤' 활약]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743585273387HLdgH.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[데일리 핫이슈]  김수현 측 유튜브 채널 추가 고소, 동방신기 SM과 재계약 외 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/442163</link>
-            <guid>https://www.maxmovie.com/news/442163</guid>
-            <pubDate>Fri, 04 Apr 2025 00:43:37 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743589161955zsRHx.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 오컬트 액션 '거룩한 밤 : 데몬 헌터스' 주역들 (맥스무비 ─ 포토)]]></title>
