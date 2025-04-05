@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Apr 2025 21:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Apr 2025 22:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 05 Apr 2025 21:07:54 GMT</pubDate>
+            <pubDate>Sat, 05 Apr 2025 22:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 05 Apr 2025 21:07:54 GMT</pubDate>
+            <pubDate>Sat, 05 Apr 2025 22:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 05 Apr 2025 21:07:54 GMT</pubDate>
+            <pubDate>Sat, 05 Apr 2025 22:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 05 Apr 2025 21:07:54 GMT</pubDate>
+            <pubDate>Sat, 05 Apr 2025 22:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 05 Apr 2025 21:07:54 GMT</pubDate>
+            <pubDate>Sat, 05 Apr 2025 22:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 05 Apr 2025 21:07:54 GMT</pubDate>
+            <pubDate>Sat, 05 Apr 2025 22:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 05 Apr 2025 21:07:54 GMT</pubDate>
+            <pubDate>Sat, 05 Apr 2025 22:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 05 Apr 2025 21:07:54 GMT</pubDate>
+            <pubDate>Sat, 05 Apr 2025 22:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Sat, 05 Apr 2025 21:07:54 GMT</pubDate>
+            <pubDate>Sat, 05 Apr 2025 22:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -97,13 +97,22 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743729997277G4j0b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[칸을 놀라게 한 인도영화 '우리가 빛이라 상상하는 모든 것' 23일 개봉 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/442194</link>
-            <guid>https://www.maxmovie.com/news/442194</guid>
-            <pubDate>Sat, 05 Apr 2025 20:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[작년 칸 국제영화제 심사위원대상
-인도 뭄바이 배경 세 여성의 이야기]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743755491102PiSuL.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[오늘 뭘 볼까]  할리우드 흑인 배우들의 성공사, 다큐 '콜시트 넘버원' (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/442190</link>
+            <guid>https://www.maxmovie.com/news/442190</guid>
+            <pubDate>Sat, 05 Apr 2025 22:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[차별과 고정관념 넘어 어떻게 성공했나
+솔직한 인터뷰와 영화 속 활약상도 담아]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17437395696761jzR4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장기하, 영화 음악감독에서 주연배우까지 꿰차 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/442195</link>
+            <guid>https://www.maxmovie.com/news/442195</guid>
+            <pubDate>Sat, 05 Apr 2025 22:08:37 GMT</pubDate>
+            <content:encoded><![CDATA['바이러스' 배두나·김윤석과 호흡
+SNS서 "나옵니다" 직접 밝히기도]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743752383489fRJJO.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[탄핵 촉구 집회 선결제 "아이유, 헌법 숨결 지킨 문화적 주체" (맥스무비)]]></title>
@@ -133,13 +142,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/17437368441619aTq9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['폭주' 박형식 VS '냉철' 이제훈...주말 안방극장 달군다 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/442180</link>
-            <guid>https://www.maxmovie.com/news/442180</guid>
-            <pubDate>Sat, 05 Apr 2025 20:09:03 GMT</pubDate>
-            <content:encoded><![CDATA['보물섬' 충격적인 출생의 비밀 공개
-'협상의 기술' 후반부 진짜 싸움 시작]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743727391186ifRK6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[속보] 헌재 "대통령 윤석열 파면"..재판관 8명 전원일치 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/442185</link>
+            <guid>https://www.maxmovie.com/news/442185</guid>
+            <pubDate>Sat, 05 Apr 2025 22:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[4일 윤 대통령 탄핵심판 청구 사건 선고
+오전 11시22분 선고..尹 즉시 직위 박탈]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17437349158729ns9F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주말 극장서 뭘 볼까, 인간 신념과 맨얼굴 '로비' VS '헤레틱' (맥스무비)]]></title>
@@ -170,13 +179,12 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743727021665xp7E4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['승부' 효과...유아인 주연 '하이파이브'도 6월 개봉 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/442178</link>
-            <guid>https://www.maxmovie.com/news/442178</guid>
-            <pubDate>Sat, 05 Apr 2025 20:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[재판 등 리스크 뚫고 '승부' 100만 눈앞
-강형철 감독 연출, 초능력자들 이야기]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743724462124syDsc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[데일리 핫이슈] 서예지 악플러 고소, 베이비몬스터 유튜브 1억 뷰 달성 외 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/442174</link>
+            <guid>https://www.maxmovie.com/news/442174</guid>
+            <pubDate>Sat, 05 Apr 2025 22:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743664598368MkwWZ.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[영화 '해피엔드' 감독 네오 소라·배우 쿠리하라 하야토·히다카 유키토 내한 (맥스무비)]]></title>
@@ -213,15 +221,6 @@
             <content:encoded><![CDATA[기억 잃어버린 엄마 정순 역
 제주4·3 소재…정지영 연출]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743660670056KjlOY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헬스클럽에서 꽃 피는 이준영·정은지의 '로코' 만남 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/442172</link>
-            <guid>https://www.maxmovie.com/news/442172</guid>
-            <pubDate>Sat, 05 Apr 2025 20:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[KBS 2TV 드라마 '24시 헬스클럽' 주연
-운동하면서 키우는 유쾌한 사랑 이야기]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1743658724715aylnC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] 오컬트 액션 '거룩한 밤 : 데몬 헌터스' 주역들 (맥스무비 ─ 포토)]]></title>
