@@ -4,70 +4,70 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 06:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 07:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 11 Apr 2025 06:14:03 GMT</pubDate>
+            <pubDate>Fri, 11 Apr 2025 07:09:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 11 Apr 2025 06:14:03 GMT</pubDate>
+            <pubDate>Fri, 11 Apr 2025 07:09:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 11 Apr 2025 06:14:03 GMT</pubDate>
+            <pubDate>Fri, 11 Apr 2025 07:09:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 11 Apr 2025 06:14:03 GMT</pubDate>
+            <pubDate>Fri, 11 Apr 2025 07:09:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 11 Apr 2025 06:14:03 GMT</pubDate>
+            <pubDate>Fri, 11 Apr 2025 07:09:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 11 Apr 2025 06:14:03 GMT</pubDate>
+            <pubDate>Fri, 11 Apr 2025 07:09:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 11 Apr 2025 06:14:03 GMT</pubDate>
+            <pubDate>Fri, 11 Apr 2025 07:09:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 11 Apr 2025 06:14:03 GMT</pubDate>
+            <pubDate>Fri, 11 Apr 2025 07:09:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (맥스무비)]]></title>
             <link>https://MOVIECORD.github.io/maxmovie/all.xml</link>
             <guid>https://MOVIECORD.github.io/maxmovie/all.xml</guid>
-            <pubDate>Fri, 11 Apr 2025 06:14:03 GMT</pubDate>
+            <pubDate>Fri, 11 Apr 2025 07:09:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
         </item>
         <item>
@@ -99,12 +99,23 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744256019186ZE1Z1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[데일리 핫이슈] 지드래곤 음원 우주 송출, 전미도 소속사 이적 외 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/442270</link>
-            <guid>https://www.maxmovie.com/news/442270</guid>
-            <pubDate>Thu, 10 Apr 2025 22:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744277459618sSePv.png" length="0" type="image/png"/>
+            <title><![CDATA[김남길의 서늘한 존재감...'악연'의 마지막 퍼즐 한 조각 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/442280</link>
+            <guid>https://www.maxmovie.com/news/442280</guid>
+            <pubDate>Fri, 11 Apr 2025 07:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[극중 신민아 남자친구 정민 역으로 등장
+"김남길의 드라마틱한 표정에 도움 받아"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17443498778301Dujp.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[전공의 파업 속 '전공의생활' 내놓는 고윤정·강유석의 출사표 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/442263</link>
+            <guid>https://www.maxmovie.com/news/442263</guid>
+            <pubDate>Fri, 11 Apr 2025 07:09:52 GMT</pubDate>
+            <content:encoded><![CDATA["어떻게 볼지 시청자 판단에 달렸다"
+'슬의생' 시리즈 잇는 스핀오프 드라마 
+오는 12일 tvN 토일드라마로 첫 방송]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744271975021v3Zon.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이제훈 '협상의 기술'로 보여주는 '연기의 기술' (맥스무비)]]></title>
@@ -135,13 +146,13 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744252155503n8HZr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[육성재부터 고윤정·손석구까지, 몰려오는 사극·청춘·의학·휴먼 드라마 (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/442259</link>
-            <guid>https://www.maxmovie.com/news/442259</guid>
-            <pubDate>Thu, 10 Apr 2025 23:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[주말드라마 4편 동시기 공개 앞둬 
-판타지·의학·휴먼 등 장르도 다양]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744248166573pTJUw.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['선업튀' 방송 1주년…김혜윤 변우석 행보에 쏠리는 관심 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/442260</link>
+            <guid>https://www.maxmovie.com/news/442260</guid>
+            <pubDate>Fri, 11 Apr 2025 07:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[작품 활동에 시상식 출연까지 '바쁘다'
+'선재 업고 튀어' 1주년 자축 글도 화제]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744253120814rTt4Y.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[임영웅의 위로, 김혜자·나문희와 함께 숭고한 '삶'을 노래하다 (맥스무비)]]></title>
@@ -172,14 +183,12 @@
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744245283567xjNAi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] '악연' 신민아 "고민과 상처가 쉽게 표현될까봐 두려워" (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/442251</link>
-            <guid>https://www.maxmovie.com/news/442251</guid>
-            <pubDate>Thu, 10 Apr 2025 06:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[4일 공개 넷플릭스 '악연'의 주인공 
-과거 트라우마를 품은 의사 주연 역 
-"누가 가장 악한지 우열 구분 어려워"]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744242301247wzxX5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[데일리 핫이슈] 뉴진스의 안갯속 앞날, 임영웅 '천국보다 아름다운' OST 참여 외 (맥스무비)]]></title>
+            <link>https://www.maxmovie.com/news/442252</link>
+            <guid>https://www.maxmovie.com/news/442252</guid>
+            <pubDate>Fri, 11 Apr 2025 07:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[전날 일어난 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744181431319DM2at.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘 뭘 볼까] 로비 윌리엄스의 뮤지컬 영화, '베러맨' (맥스무비)]]></title>
@@ -217,16 +226,6 @@
             <content:encoded><![CDATA[로맨스 이어 공포 영화 '살목지' 검토
 저수지 괴담 바탕, '탈주' 제작사 작품]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744175782734HNJax.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 강하늘, 이번에는 고민시와 로맨스 '당신의 맛' (맥스무비)]]></title>
-            <link>https://www.maxmovie.com/news/442248</link>
-            <guid>https://www.maxmovie.com/news/442248</guid>
-            <pubDate>Thu, 10 Apr 2025 08:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[식품기업 2세와 셰프의 사랑 
-ENA 드라마 5월12일 첫 방송
-전주국제영화제서 1, 2회 공개]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744168771799ZV1RS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[맥스포토] '언젠가는 슬기로울 전공의생활' 풋풋한 주역들 (맥스무비 ─ 포토)]]></title>
