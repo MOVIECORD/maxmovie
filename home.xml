@@ -1,8 +1,228 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.maxmovie.com/</id>
-    <title>맥스무비</title>
-    <updated>2025-04-14T06:15:22.094Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.maxmovie.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>맥스무비</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 14 Apr 2025 07:11:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[0]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/movies" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/peoples" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">피플</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/series" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[3]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/moviereview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영화 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/seriesreview" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시리즈 리뷰</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/event" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">시사회·이벤트</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/eventResult" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">당첨자 발표</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/photo" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">포토</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[8]]></title>
+            <link>https://www.maxmovie.com/</link>
+            <guid>https://www.maxmovie.com/</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/youtube" style="color:#222" class="EachMenu__NavHref-sc-9yn4xi-6 dOAOeY">영상</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['재혼황후' 마침내 확정, 신민아·주지훈·이종석·이세영 '4색 로맨스']]></title>
+            <link>https://www.maxmovie.com/news/442300</link>
+            <guid>https://www.maxmovie.com/news/442300</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[가상의 동대제국 배경 판타지 로맨스 
+'너의 목소리가 들려' 조수원 PD 연출]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744597845310gzAut.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이 정도면 '찐'...톰 크루즈 또 한국 온다, 통산 12번째]]></title>
+            <link>https://www.maxmovie.com/news/442301</link>
+            <guid>https://www.maxmovie.com/news/442301</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA['미션 임파서블8' 개봉 맞춰 5월8일 내한
+칸 국제영화제 가기 전 한국부터 찾아와]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744596826973CqhFe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이병헌의 '승부' 180만명 돌파…어디까지 갈까]]></title>
+            <link>https://www.maxmovie.com/news/442295</link>
+            <guid>https://www.maxmovie.com/news/442295</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[19일 연속 1위…누적관객 180만명
+'야당' 예매율 1위로 지각변동 예고]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744584012717mKPmm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['폭싹' 제니 엄마 김금순의 신스틸러 행보는 계속]]></title>
+            <link>https://www.maxmovie.com/news/442296</link>
+            <guid>https://www.maxmovie.com/news/442296</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[16일 개봉 '야당'서 마약 유통업자 변신
+황병국 감독 "배역, 남성→여성 바꿔"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744585163966m172n.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이정재, '오징어 게임' 시즌3 앞두고 예능부터 챙기는 이유]]></title>
+            <link>https://www.maxmovie.com/news/442294</link>
+            <guid>https://www.maxmovie.com/news/442294</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[tvN 예능 '언니네 산지직송2' 참여  
+강원도 황태 덕장에서 일하는 모습
+소속사 동료 염정아‧임지연과 인연]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744548366643e74vF.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[임영웅, '천국보다 아름다운' OST 참여한 '이유' 밝혔다]]></title>
+            <link>https://www.maxmovie.com/news/442292</link>
+            <guid>https://www.maxmovie.com/news/442292</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA["드라마 여운과 감동, 음악으로 전하고 싶어"
+천국서 재회한 김혜자‧손석구의 사랑이야기
+OST 음원 14일 발표, 드라마는 19일 첫 방송]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744521282280yL70B.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[통쾌한 '야당'  극장 지각 변동 예고...시사회 호평에 예매율 1위]]></title>
+            <link>https://www.maxmovie.com/news/442291</link>
+            <guid>https://www.maxmovie.com/news/442291</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[16일 개봉 부당한 검찰 권력을 깨부수는 소재
+배신과 복수로 뭉친 유해진과 강하늘‧박해준]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744519160852owQeM.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['승부' 잇는 유아인의 새 영화 '하이파이브' 어떤 이야기?]]></title>
+            <link>https://www.maxmovie.com/news/442290</link>
+            <guid>https://www.maxmovie.com/news/442290</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[우연히 초능력 얻은 사람들의 활약 
+'써니' 등 강형철 감독 연출 6월 개봉]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744513707073VGKGn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마침내 베일 벗는 김선호의 '현혹', 서서히 드러나는 윤곽]]></title>
+            <link>https://www.maxmovie.com/news/442288</link>
+            <guid>https://www.maxmovie.com/news/442288</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[한재림 감독 연출하는 판타지 시대극
+미스터리한 여인과 화가의 사랑 그려]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17445048634139WT2Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박형식의 '보물섬' 열린 결말...쿠키영상에 담은 시즌2 예고]]></title>
+            <link>https://www.maxmovie.com/news/442287</link>
+            <guid>https://www.maxmovie.com/news/442287</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[12일 마지막 회 시청률 15.4% 기록
+'닫힌 결말' 대신 '해석의 여지' 남겨]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744501145139olhHk.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥스무비레터 #98번째 편지] 🚨'야당' 때문에 체포까지…제작 비하인드 공개]]></title>
+            <link>https://www.maxmovie.com/news/442284</link>
+            <guid>https://www.maxmovie.com/news/442284</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[[맥스무비가 구독자 여러분께 보내드리는 #맥스무비레터에 실린 기사입니다]]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744359792729cZFsX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[위클리 이슈 모음zip] 근황 전한 뉴진스·손담비 득녀·써니 이수만 품으로 외]]></title>
+            <link>https://www.maxmovie.com/news/442286</link>
+            <guid>https://www.maxmovie.com/news/442286</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[한 주간 엔터테인먼트 이슈를 소개합니다]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744389078098fIFXi.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[시즌1 신드롬 잇는 '약한영웅 클래스2', 그래서 수호는 돌아올까?]]></title>
+            <link>https://www.maxmovie.com/news/442282</link>
+            <guid>https://www.maxmovie.com/news/442282</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[25일 총 8부작 시리즈로 공개 예정
+최현욱·홍경 출연 할지 관심 집중돼
+려운·이준영 등 새로운 인물로 합류]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744354545886O3mHW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 김의성·이설, 영화계 빛낼 인재 찾는다]]></title>
+            <link>https://www.maxmovie.com/news/442283</link>
+            <guid>https://www.maxmovie.com/news/442283</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[심사위원으로 전주국제영화제 방문
+김의성은 국제·이설은 한국단편경쟁]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744357321015kpppP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김남길의 서늘한 존재감...'악연'의 마지막 퍼즐 한 조각]]></title>
+            <link>https://www.maxmovie.com/news/442280</link>
+            <guid>https://www.maxmovie.com/news/442280</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[극중 신민아 남자친구 정민 역으로 등장
+"김남길의 드라마틱한 표정에 도움 받아"]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/17443498778301Dujp.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['복수 앞둔' 박형식 VS 이제훈, 뜨겁게 타오르는 주말 안방극장]]></title>
+            <link>https://www.maxmovie.com/news/442276</link>
+            <guid>https://www.maxmovie.com/news/442276</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[종영 2회 남겨둔 '보물섬'·'협상의 기술'
+박형식·이제훈, 각자의 목적 달성할까]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/174433179241192fJE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주말 극장서 뭘 볼까, 도덕적 갈등 '아마추어' VS '파란']]></title>
+            <link>https://www.maxmovie.com/news/442275</link>
+            <guid>https://www.maxmovie.com/news/442275</guid>
+            <pubDate>Mon, 14 Apr 2025 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[아내의 복수에 나서는 '아마추어' 요원 
+가해자 아들과 피해자 딸, 두 개의 '파란']]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744335343785Rh5D1.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
