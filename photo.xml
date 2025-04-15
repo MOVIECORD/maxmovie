@@ -4,9 +4,17 @@
         <title>맥스무비 ─ 포토</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Apr 2025 03:32:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 04:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[맥스포토] 환상과 환장 사이 '대환장 기안장' 패밀리들!]]></title>
+            <link>https://www.maxmovie.com/news/442318</link>
+            <guid>https://www.maxmovie.com/news/442318</guid>
+            <pubDate>Tue, 15 Apr 2025 04:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/news/442318"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1744687495596Iqnys.png" alt=""></span><span class="textBox"><h4>[맥스포토] 환상과 환장 사이 '대환장 기안장' 패밀리들!</h4></span></a>]]></content:encoded>
+            <enclosure url="https://d3ihz389yobwks.cloudfront.net/1744687495596Iqnys.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[맥스포토] 기안84·지예은 '대환장 기안장'으로 만났어요!]]></title>
             <link>https://www.maxmovie.com/news/442317</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 13 Apr 2025 18:12:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/news/442037"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/1742803682958g7BPT.png" alt=""></span><span class="textBox"><h4>[맥스포토] '흔한 공포영화 아니에요!' 영화  '공포특급'의 주역들</h4></span></a>]]></content:encoded>
             <enclosure url="https://d3ihz389yobwks.cloudfront.net/1742803682958g7BPT.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[위클리 포토] '빛날 빈 자매' 박은빈과 신현빈, 대체불가 매력]]></title>
-            <link>https://www.maxmovie.com/news/442014</link>
-            <guid>https://www.maxmovie.com/news/442014</guid>
-            <pubDate>Sun, 13 Apr 2025 18:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/news/442014"><span class="imgBox"><img src="https://d3ihz389yobwks.cloudfront.net/174262151039051d1L.jpg" alt=""></span><span class="textBox"><h4>[위클리 포토] '빛날 빈 자매' 박은빈과 신현빈, 대체불가 매력 </h4></span></a>]]></content:encoded>
-            <enclosure url="https://d3ihz389yobwks.cloudfront.net/174262151039051d1L.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
